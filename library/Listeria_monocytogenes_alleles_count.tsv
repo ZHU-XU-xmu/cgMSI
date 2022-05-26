@@ -1,0 +1,1702 @@
+Locus	Gene	Start	Length	Product	Allele Count	Alleles
+lmo0001	dnaA	318	1356	chromosome replication initiator DnaA	507	lmo0001.fasta
+lmo0002	dnaN	1867	1146	DNA polymerase III subunit beta	630	lmo0002.fasta
+lmo0003		3121	1344	hypothetical protein	847	lmo0003.fasta
+lmo0004		4644	222	hypothetical protein	125	lmo0004.fasta
+lmo0005	recF	4869	1113	recombination protein F	591	lmo0005.fasta
+lmo0006	gyrB	6030	1941	DNA gyrase subunit B	834	lmo0006.fasta
+lmo0007	gyrA	8065	2529	DNA gyrase subunit A	947	lmo0007.fasta
+lmo0008		10728	1515	cardiolipin synthase	898	lmo0008.fasta
+lmo0009		12258	519	spermidine acetyltransferase	269	lmo0009.fasta
+lmo0012		14795	1080	mevalonate kinase	598	lmo0012.fasta
+lmo0013	qoxA	16219	1107	AA3-600 quinol oxidase subunit II	593	lmo0013.fasta
+lmo0014	qoxB	17344	1980	AA3-600 quinol oxidase subunit I	890	lmo0014.fasta
+lmo0016	qoxD	19924	333	quinol oxidase aa3-600 subunit IV	211	lmo0016.fasta
+lmo0018		21652	1434	beta-glucosidase	908	lmo0018.fasta
+lmo0020		24194	741	GntR family transcriptional regulator	415	lmo0020.fasta
+lmo0021		24950	402	PTS fructose transporter subunit IIA	360	lmo0021.fasta
+lmo0022		25351	489	PTS fructose transporter subunit IIB	390	lmo0022.fasta
+lmo0024		26640	828	PTS mannose transporter subunit IID	502	lmo0024.fasta
+lmo0025		27495	705	phosphoheptose isomerase	388	lmo0025.fasta
+lmo0026		28254	642	copper homeostasis protein CutC	497	lmo0026.fasta
+lmo0027		29100	1905	PTS beta-glucoside transporter subunit IIABC	1018	lmo0027.fasta
+lmo0029		32197	339	hypothetical protein	210	lmo0029.fasta
+lmo0030		32571	810	hypothetical protein	503	lmo0030.fasta
+lmo0031		33397	1056	LacI family transcription regulator	562	lmo0031.fasta
+lmo0033		35616	2403	endoglucanase	1154	lmo0033.fasta
+lmo0034		38031	1353	PTS cellbiose transporter subunit IIC	693	lmo0034.fasta
+lmo0035		39385	1086	glucosamine--fructose-6-phosphate aminotransferase	473	lmo0035.fasta
+lmo0042		47335	660	DedA protein	351	lmo0042.fasta
+lmo0044	rpsF	49585	294	30S ribosomal protein S6	85	lmo0044.fasta
+lmo0045	ssb	49934	537	single-strand binding protein	274	lmo0045.fasta
+lmo0046	rpsR	50514	240	30S ribosomal protein S18	85	lmo0046.fasta
+lmo0048		51775	615	sensor histidine kinase AgrB	302	lmo0048.fasta
+lmo0051		53944	729	response regulator	527	lmo0051.fasta
+lmo0052		54839	1974	hypothetical protein	838	lmo0052.fasta
+lmo0053	rplI	56815	447	50S ribosomal protein L9	262	lmo0053.fasta
+lmo0054	dnaC	57286	1353	replicative DNA helicase	712	lmo0054.fasta
+lmo0055	purA	58897	1293	adenylosuccinate synthetase	681	lmo0055.fasta
+lmo0056		60506	294	heat shock protein	122	lmo0056.fasta
+lmo0075		79047	774	carboxyphosphonoenolpyruvate phosphonomutase	706	lmo0075.fasta
+lmo0076		79817	1053	O6-methylguanine-DNA methyltransferase	714	lmo0076.fasta
+lmo0077		80892	639	hypothetical protein	581	lmo0077.fasta
+lmo0078		81661	957	phosphoglycerate dehydrogenase	688	lmo0078.fasta
+lmo0088		97127	243	ATP synthase subunit C	100	lmo0088.fasta
+lmo0096		104134	966	PTS mannose transporter subunit IIAB	591	lmo0096.fasta
+lmo0097		105123	807	PTS mannose transporter subunit IIC	335	lmo0097.fasta
+lmo0098		105951	912	PTS mannose transporter subunit IID	371	lmo0098.fasta
+lmo0099		106988	390	hypothetical protein	185	lmo0099.fasta
+lmo0102		108320	291	hypothetical protein	263	lmo0102.fasta
+lmo0103		108624	633	NADH oxidase	475	lmo0103.fasta
+lmo0105		110013	2271	chitinase B	1292	lmo0105.fasta
+lmo0107		113313	1782	ABC transporter ATP-binding protein	963	lmo0107.fasta
+lmo0109		116972	834	AraC family transcriptional regulator	562	lmo0109.fasta
+lmo0110		117841	1116	lipase	755	lmo0110.fasta
+lmo0111		119063	708	hypothetical protein	419	lmo0111.fasta
+lmo0113		120654	453	hypothetical protein	262	lmo0113.fasta
+lmo0114		121112	336	repressor C1	189	lmo0114.fasta
+lmo0115	lmaD	121664	429	hypothetical protein	290	lmo0115.fasta
+lmo0116	lmaC	122104	417	hypothetical protein	387	lmo0116.fasta
+lmo0131		133961	750	hypothetical protein	569	lmo0131.fasta
+lmo0132		134782	1509	inosine 5-monophosphate dehydrogenase	908	lmo0132.fasta
+lmo0133		136469	234	hypothetical protein	220	lmo0133.fasta
+lmo0134		136714	279	hypothetical protein	243	lmo0134.fasta
+lmo0135		137323	1575	peptide ABC transporter substrate-binding protein	995	lmo0135.fasta
+lmo0136		138999	951	peptide ABC transporter permease	695	lmo0136.fasta
+lmo0137		139960	894	peptide ABC transporter permease	755	lmo0137.fasta
+lmo0152		148354	1656	peptide ABC transporter substrate-binding protein	1144	lmo0152.fasta
+lmo0153		150232	942	zinc ABC transporter substrate-binding protein	682	lmo0153.fasta
+lmo0155		151839	807	zinc ABC transporter permease	540	lmo0155.fasta
+lmo0158		155993	813	hypothetical protein	522	lmo0158.fasta
+lmo0162		162467	993	DNA polymerase III subunit delta'	604	lmo0162.fasta
+lmo0163		163465	834	hypothetical protein	462	lmo0163.fasta
+lmo0164		164309	390	DNA replication intiation control protein YabA	166	lmo0164.fasta
+lmo0167		165761	882	hypothetical protein	534	lmo0167.fasta
+lmo0169		167086	858	glucose transporter	485	lmo0169.fasta
+lmo0176		174834	861	glucose transporter	521	lmo0176.fasta
+lmo0177	metS	175766	1995	methionyl-tRNA synthetase	898	lmo0177.fasta
+lmo0185		189625	774	hypothetical protein	582	lmo0185.fasta
+lmo0188	ksgA	192586	888	dimethyladenosine transferase	601	lmo0188.fasta
+lmo0189		193593	258	Veg protein	65	lmo0189.fasta
+lmo0190	ipk	193989	882	4-diphosphocytidyl-2-C-methyl-D-erythritol kinase	224	lmo0190.fasta
+lmo0191		194892	738	phospho-beta-glucosidase	432	lmo0191.fasta
+lmo0192		195793	819	PurR family transcriptional regulator	308	lmo0192.fasta
+lmo0193		196786	678	hypothetical protein	450	lmo0193.fasta
+lmo0194		197512	693	"ABC transporter, ATP-binding protein"	367	lmo0194.fasta
+lmo0195		198201	1209	ABC transporter permease	583	lmo0195.fasta
+lmo0198	glmU	201217	1374	bifunctional N-acetylglucosamine-1-phosphate uridyltransferase/glucosamine-1-phosphate acetyltransferase	659	lmo0198.fasta
+lmo0199	prs	202641	957	ribose-phosphate pyrophosphokinase	430	lmo0199.fasta
+lmo0201	plcA	204624	954	phosphatidylinositol-specific phospholipase c	672	lmo0201.fasta
+lmo0202	hly	205819	1590	listeriolysin O precursor	872	lmo0202.fasta
+lmo0203	mpl	207739	1533	Zinc metalloproteinase precursor	972	lmo0203.fasta
+lmo0205	plcB	211425	870	phospholipase C	528	lmo0205.fasta
+lmo0206		212366	324	hypothetical protein	279	lmo0206.fasta
+lmo0208		213336	333	hypothetical protein	233	lmo0208.fasta
+lmo0210	ldh	214486	942	L-lactate dehydrogenase	738	lmo0210.fasta
+lmo0211	ctc	215721	624	50S ribosomal protein L25	385	lmo0211.fasta
+lmo0212		216434	585	hypothetical protein	474	lmo0212.fasta
+lmo0213	pth	217125	561	peptidyl-tRNA hydrolase	332	lmo0213.fasta
+lmo0214	mfd	217800	3540	transcription-repair coupling factor	1382	lmo0214.fasta
+lmo0216		222983	279	hypothetical protein	160	lmo0216.fasta
+lmo0217		223490	387	DivIC protein	157	lmo0217.fasta
+lmo0218		224027	429	hypothetical protein	157	lmo0218.fasta
+lmo0219		224562	1947	hypothetical protein	822	lmo0219.fasta
+lmo0221		229045	780	pantothenate kinase	473	lmo0221.fasta
+lmo0222	hslO	229840	885	heat shock protein 33	517	lmo0222.fasta
+lmo0223	cysK	230840	927	cysteine synthase	575	lmo0223.fasta
+lmo0226	folK	233858	480	"7,8-dihydro-6-hydroxymethylpterin pyrophosphokinase"	433	lmo0226.fasta
+lmo0227		234414	996	hypothetical protein	629	lmo0227.fasta
+lmo0229		248555	459	CtsR family transcriptional regulator	168	lmo0229.fasta
+lmo0231		249541	1023	ATP:guanido phosphotransferase	629	lmo0231.fasta
+lmo0232	clpC	250592	2463	endopeptidase Clp ATP-binding chain C	929	lmo0232.fasta
+lmo0233		253200	1374	DNA repair protein RadA	597	lmo0233.fasta
+lmo0234		254707	1074	hypothetical protein	440	lmo0234.fasta
+lmo0235	ispD	255800	699	2-C-methyl-D-erythritol 4-phosphate cytidylyltransferase	447	lmo0235.fasta
+lmo0238	cysE	258856	615	serine O-acetyltransferase	395	lmo0238.fasta
+lmo0239	cysS	259477	1416	cysteinyl-tRNA synthetase	721	lmo0239.fasta
+lmo0240		260896	411	hypothetical protein	281	lmo0240.fasta
+lmo0241		261306	756	hypothetical protein	451	lmo0241.fasta
+lmo0242		262064	513	hypothetical protein	272	lmo0242.fasta
+lmo0243	sigH	262657	606	RNA polymerase factor sigma-70	339	lmo0243.fasta
+lmo0244	rpmG	263366	150	50S ribosomal protein L33 type II	56	lmo0244.fasta
+lmo0245	secE	263535	180	preprotein translocase subunit SecE	65	lmo0245.fasta
+lmo0246	nusG	263844	534	transcription antitermination protein NusG	297	lmo0246.fasta
+lmo0248	rplK	265029	426	50S ribosomal protein L11	77	lmo0248.fasta
+lmo0249	rplA	265494	690	50S ribosomal protein L1	228	lmo0249.fasta
+lmo0250	rplJ	266431	501	50S ribosomal protein L10	157	lmo0250.fasta
+lmo0251	rplL	267010	363	50S ribosomal protein L7/L12	151	lmo0251.fasta
+lmo0256		270372	606	hypothetical protein	550	lmo0256.fasta
+lmo0258	rpoB	273003	3555	DNA-directed RNA polymerase subunit beta	1175	lmo0258.fasta
+lmo0259	rpoC	276728	3606	DNA-directed RNA polymerase subunit beta'	1236	lmo0259.fasta
+lmo0261		281021	1461	phospho-beta-glucosidase	985	lmo0261.fasta
+lmo0266		289139	417	transcriptional regulator	374	lmo0266.fasta
+lmo0267		289562	960	hypothetical protein	776	lmo0267.fasta
+lmo0268		290593	636	phosphoglycerate mutase	516	lmo0268.fasta
+lmo0269		291312	1887	transporter	1295	lmo0269.fasta
+lmo0271		293845	1437	phospho-beta-glucosidase	968	lmo0271.fasta
+lmo0272		295401	813	hypothetical protein	696	lmo0272.fasta
+lmo0273		296349	504	hypothetical protein	400	lmo0273.fasta
+lmo0278		300617	1101	sugar ABC transporter ATP-binding protein	699	lmo0278.fasta
+lmo0281		304942	672	hypothetical protein	418	lmo0281.fasta
+lmo0282		305775	780	hypothetical protein	476	lmo0282.fasta
+lmo0283		306644	663	ABC transporter permease	469	lmo0283.fasta
+lmo0284		307303	1017	ABC transporter ATP-binding protein	729	lmo0284.fasta
+lmo0285		308334	822	lipoprotein	622	lmo0285.fasta
+lmo0286		309538	1182	aminotransferase	863	lmo0286.fasta
+lmo0287		310932	714	two-component response regulator	322	lmo0287.fasta
+lmo0288		311830	1833	two-component sensor histidine kinase	1086	lmo0288.fasta
+lmo0289		313659	1323	hypothetical protein	793	lmo0289.fasta
+lmo0290		314984	840	hypothetical protein	630	lmo0290.fasta
+lmo0291		315945	831	hypothetical protein	501	lmo0291.fasta
+lmo0292		316873	1503	heat-shock protein htrA serine protease	843	lmo0292.fasta
+lmo0293		319049	480	rRNA large subunit methyltransferase	603	lmo0293.fasta
+lmo0296		321490	639	hypothetical protein	779	lmo0296.fasta
+lmo0297		322134	1872	transcriptional antiterminator BglG	1211	lmo0297.fasta
+lmo0298		324104	1314	PTS beta-glucoside transporter subunit IIC	1013	lmo0298.fasta
+lmo0299		325422	291	PTS beta-glucoside transporter subunit IIB	307	lmo0299.fasta
+lmo0300		325729	1392	phospho-beta-galactosidase	1121	lmo0300.fasta
+lmo0314		339270	786	hypothetical protein	853	lmo0314.fasta
+lmo0316		340945	810	hydroxyethylthiazole kinase	780	lmo0316.fasta
+lmo0317		341751	804	phosphomethylpyrimidine kinase	738	lmo0317.fasta
+lmo0319		343221	1416	phospho-beta-glucosidase	1061	lmo0319.fasta
+lmo0342		371130	1998	transketolase	1172	lmo0342.fasta
+lmo0343		373129	657	translaldolase	463	lmo0343.fasta
+lmo0344		373832	765	short chain dehydrogenase	564	lmo0344.fasta
+lmo0345		374621	447	sugar-phosphate isomerase	346	lmo0345.fasta
+lmo0346		375074	765	triosephosphate isomerase	644	lmo0346.fasta
+lmo0347		375842	651	dihydroxyacetone kinase	431	lmo0347.fasta
+lmo0348		376514	996	dihydroxyacetone kinase	676	lmo0348.fasta
+lmo0349		377531	342	hypothetical protein	269	lmo0349.fasta
+lmo0350		377888	432	hypothetical protein	287	lmo0350.fasta
+lmo0351		378404	378	phosphotransferase mannnose-specific family component IIA	263	lmo0351.fasta
+lmo0352		378964	765	DeoR family transcriptional regulator	641	lmo0352.fasta
+lmo0354		380253	1527	fatty-acid--CoA ligase	928	lmo0354.fasta
+lmo0355		382016	1521	fumarate reductase subunit A	811	lmo0355.fasta
+lmo0356		383710	1017	oxidoreductase	691	lmo0356.fasta
+lmo0357		384926	447	PTS sugar transporter subunit IIA	385	lmo0357.fasta
+lmo0358		385386	1395	PTS fructose transporter subunit IIBC	718	lmo0358.fasta
+lmo0359		386780	861	"D-fructose-1,6-biphosphate aldolase"	429	lmo0359.fasta
+lmo0360		387697	771	DeoR family transcriptional regulator	386	lmo0360.fasta
+lmo0369		396208	720	hypothetical protein	455	lmo0369.fasta
+lmo0370		396964	336	hypothetical protein	311	lmo0370.fasta
+lmo0371		397340	714	GntR family transcriptional regulator	902	lmo0371.fasta
+lmo0372		398210	1443	beta-glucosidase	965	lmo0372.fasta
+lmo0374		400997	303	PTS beta-glucoside transporter subunit IIB	287	lmo0374.fasta
+lmo0375		401386	195	hypothetical protein	92	lmo0375.fasta
+lmo0376		401619	921	transcriptional regulator	779	lmo0376.fasta
+lmo0377		402641	420	hypothetical protein	555	lmo0377.fasta
+lmo0382		405680	762	transcriptional regulator	795	lmo0382.fasta
+lmo0383		406637	1467	methylmalonate-semialdehyde dehydrogenase	1096	lmo0383.fasta
+lmo0386		409944	1917	IolD protein	1267	lmo0386.fasta
+lmo0387		411992	372	hypothetical protein	368	lmo0387.fasta
+lmo0388		412457	369	hypothetical protein	195	lmo0388.fasta
+lmo0391		414928	300	hypothetical protein	158	lmo0391.fasta
+lmo0392		415224	945	hypothetical protein	520	lmo0392.fasta
+lmo0394		416796	684	P60 protein	447	lmo0394.fasta
+lmo0398		419544	459	PTS sugar transporter subunit IIA	409	lmo0398.fasta
+lmo0399		419999	333	PTS fructose transporter subunit IIB	359	lmo0399.fasta
+lmo0400		420335	1113	PTS fructose transporter subunit IIC	872	lmo0400.fasta
+lmo0401		421469	2628	alpha-mannosidase	1297	lmo0401.fasta
+lmo0405		427104	1008	phosphate transporter	656	lmo0405.fasta
+lmo0406		428127	381	hypothetical protein	355	lmo0406.fasta
+lmo0407		428576	393	hypothetical protein	224	lmo0407.fasta
+lmo0408		428981	423	hypothetical protein	281	lmo0408.fasta
+lmo0418		439677	300	hypothetical protein	228	lmo0418.fasta
+lmo0424		444031	858	glucose uptake protein	758	lmo0424.fasta
+lmo0426		447010	465	PTS fructose transporter subunit IIA	473	lmo0426.fasta
+lmo0427		447471	321	PTS fructose transporter subunit IIB	271	lmo0427.fasta
+lmo0428		447804	1107	PTS fructose transporter subunit IIC	841	lmo0428.fasta
+lmo0429		448926	2583	sugar hydrolase	1386	lmo0429.fasta
+lmo0433	inlA	454534	2403	internalin A	1208	lmo0433.fasta
+lmo0437		466517	846	hypothetical protein	709	lmo0437.fasta
+lmo0439		468169	1269	hypothetical protein	916	lmo0439.fasta
+lmo0441		470122	2037	D-alanyl-D-alanine carboxypeptidase	1201	lmo0441.fasta
+lmo0442		472330	315	hypothetical protein	256	lmo0442.fasta
+lmo0443		472781	930	LytR family transcriptional regulator	706	lmo0443.fasta
+lmo0449		483166	726	hypothetical protein	441	lmo0449.fasta
+lmo0450		483934	666	hypothetical protein	472	lmo0450.fasta
+lmo0451		484620	756	hypothetical protein	611	lmo0451.fasta
+lmo0453		487649	1149	hypothetical protein	758	lmo0453.fasta
+lmo0454		488802	948	hypothetical protein	597	lmo0454.fasta
+lmo0455		489905	1596	hypothetical protein	879	lmo0455.fasta
+lmo0458		494011	1551	hydantoinase	974	lmo0458.fasta
+lmo0480		516076	561	transcriptional regulator	611	lmo0480.fasta
+lmo0481		516746	1701	hypothetical protein	1045	lmo0481.fasta
+lmo0482		518597	1104	ribosomal RNA large subunit methyltransferase N	809	lmo0482.fasta
+lmo0483		519789	480	hypothetical protein	579	lmo0483.fasta
+lmo0484		520426	366	heme-degrading monooxygenase IsdG	342	lmo0484.fasta
+lmo0485		520961	576	hypothetical protein	593	lmo0485.fasta
+lmo0486	rpmF	521601	171	50S ribosomal protein L32	101	lmo0486.fasta
+lmo0487		521863	729	hypothetical protein	579	lmo0487.fasta
+lmo0488		522628	894	LysR family transcriptional regulator	742	lmo0488.fasta
+lmo0489		523719	1995	NADH:flavin oxidoreductase	1178	lmo0489.fasta
+lmo0490	aroE	525813	876	shikimate 5-dehydrogenase	750	lmo0490.fasta
+lmo0491	aroD	526754	759	3-dehydroquinate dehydratase	738	lmo0491.fasta
+lmo0494		530515	594	hypothetical protein	639	lmo0494.fasta
+lmo0495		531294	960	hypothetical protein	966	lmo0495.fasta
+lmo0496		532328	225	hypothetical protein	230	lmo0496.fasta
+lmo0509	prs	543202	936	phosphoribosyl pyrophosphate synthetase	547	lmo0509.fasta
+lmo0511		545609	681	hypothetical protein	515	lmo0511.fasta
+lmo0512		546314	360	hypothetical protein	317	lmo0512.fasta
+lmo0515		549438	432	hypothetical protein	291	lmo0515.fasta
+lmo0516		549916	1431	encapsulation protein CapA	849	lmo0516.fasta
+lmo0517		551467	816	phosphoglycerate mutase	486	lmo0517.fasta
+lmo0518		552563	369	hypothetical protein	636	lmo0518.fasta
+lmo0519		553078	1416	multidrug resistance protein	1050	lmo0519.fasta
+lmo0521		555660	1317	6-phospho-beta-glucosidase	955	lmo0521.fasta
+lmo0522		557178	753	transcriptional regulator	743	lmo0522.fasta
+lmo0523		558037	444	hypothetical protein	436	lmo0523.fasta
+lmo0524		558526	1662	sulfate transporter	933	lmo0524.fasta
+lmo0526		561819	741	transcriptional regulator	528	lmo0526.fasta
+lmo0529		565764	1251	glucosaminyltransferase	895	lmo0529.fasta
+lmo0530		567030	2052	hypothetical protein	1183	lmo0530.fasta
+lmo0531		569094	855	hypothetical protein	634	lmo0531.fasta
+lmo0532		570008	831	hypothetical protein	671	lmo0532.fasta
+lmo0533		570916	270	hypothetical protein	169	lmo0533.fasta
+lmo0534		571204	1356	hypothetical protein	841	lmo0534.fasta
+lmo0536		573740	1323	6-phospho-beta-glucosidase	843	lmo0536.fasta
+lmo0539		577632	1017	"tagatose 1,6-diphosphate aldolase"	626	lmo0539.fasta
+lmo0540		578886	1194	penicillin-binding protein	626	lmo0540.fasta
+lmo0541		580119	921	ABC transporter substrate-binding protein	578	lmo0541.fasta
+lmo0543		581519	987	PTS sorbitol transporter subunit IIBC	635	lmo0543.fasta
+lmo0544		582526	522	PTS sorbitol transporter subunit IIC	261	lmo0544.fasta
+lmo0545		583072	381	hypothetical protein	306	lmo0545.fasta
+lmo0546		583507	1251	NAD(P)-dependent oxidoreductase	864	lmo0546.fasta
+lmo0547		585015	948	DeoR family transcriptional regulator	487	lmo0547.fasta
+lmo0553		591412	636	hypothetical protein	373	lmo0553.fasta
+lmo0555		593528	1479	di-tripeptide transporter	754	lmo0555.fasta
+lmo0556		595135	708	phosphoglycerate mutase	597	lmo0556.fasta
+lmo0557		595843	696	phosphoglycerate mutase	406	lmo0557.fasta
+lmo0558		596580	1041	hypothetical protein	648	lmo0558.fasta
+lmo0559		598020	906	hypothetical protein	594	lmo0559.fasta
+lmo0560		598968	1377	glutamate dehydrogenase	754	lmo0560.fasta
+lmo0562	hisI	601149	318	phosphoribosyl-AMP cyclohydrolase	283	lmo0562.fasta
+lmo0566	hisB	603536	585	imidazoleglycerol-phosphate dehydratase	449	lmo0566.fasta
+lmo0567	hisD	604121	1284	histidinol dehydrogenase	829	lmo0567.fasta
+lmo0568	hisG	605401	642	ATP phosphoribosyltransferase	484	lmo0568.fasta
+lmo0569	hisZ	606039	1182	ATP phosphoribosyltransferase	758	lmo0569.fasta
+lmo0572		608557	1032	hypothetical protein	661	lmo0572.fasta
+lmo0573		609629	1296	hypothetical protein	780	lmo0573.fasta
+lmo0574		611240	1395	beta-glucosidase	925	lmo0574.fasta
+lmo0575		612678	729	GntR family transcriptional regulator	518	lmo0575.fasta
+lmo0578		615825	753	hypothetical protein	552	lmo0578.fasta
+lmo0579		616742	210	hypothetical protein	133	lmo0579.fasta
+lmo0583		620805	2331	preprotein translocase subunit SecA	958	lmo0583.fasta
+lmo0584		623251	1173	hypothetical protein	599	lmo0584.fasta
+lmo0585		624682	714	secreted protein	526	lmo0585.fasta
+lmo0586		625463	1026	hypothetical protein	766	lmo0586.fasta
+lmo0587		626506	2466	secreted protein	1337	lmo0587.fasta
+lmo0588		629088	1404	DNA photolyase	957	lmo0588.fasta
+lmo0589		630629	414	hypothetical protein	324	lmo0589.fasta
+lmo0590		631045	1767	hypothetical protein	1074	lmo0590.fasta
+lmo0591		632811	771	hypothetical protein	558	lmo0591.fasta
+lmo0592		633709	543	hypothetical protein	251	lmo0592.fasta
+lmo0593		634479	801	formate transporter	435	lmo0593.fasta
+lmo0594	metX	635317	1107	homoserine O-acetyltransferase	744	lmo0594.fasta
+lmo0595		636440	1278	O-acetylhomoserine sulfhydrylase	806	lmo0595.fasta
+lmo0596		638165	528	hypothetical protein	409	lmo0596.fasta
+lmo0602		642414	501	transcripitonal regulator	373	lmo0602.fasta
+lmo0603		642962	387	hypothetical protein	288	lmo0603.fasta
+lmo0604		643400	345	hypothetical protein	180	lmo0604.fasta
+lmo0605		643891	1341	hypothetical protein	809	lmo0605.fasta
+lmo0606		645397	462	MarR family transcriptional regulator	274	lmo0606.fasta
+lmo0607		645878	1713	ABC transporter ATP-binding protein	859	lmo0607.fasta
+lmo0608		647587	1818	ABC transporter ATP-binding protein	928	lmo0608.fasta
+lmo0611	acpD	651794	627	azoreductase	452	lmo0611.fasta
+lmo0612		652589	456	MarR family transcriptional evidence	341	lmo0612.fasta
+lmo0613		653041	942	oxidoreductase	634	lmo0613.fasta
+lmo0619		658572	456	hypothetical protein	280	lmo0619.fasta
+lmo0621		659572	741	hypothetical protein	507	lmo0621.fasta
+lmo0623		660692	267	hypothetical protein	160	lmo0623.fasta
+lmo0625		661470	702	hypothetical protein	377	lmo0625.fasta
+lmo0626		662257	1680	hypothetical protein	941	lmo0626.fasta
+lmo0628		669086	276	hypothetical protein	233	lmo0628.fasta
+lmo0629		669423	528	hypothetical protein	445	lmo0629.fasta
+lmo0636		676372	417	hypothetical protein	303	lmo0636.fasta
+lmo0637		676802	594	hypothetical protein	563	lmo0637.fasta
+lmo0639		679763	534	transcripitonal regulator	496	lmo0639.fasta
+lmo0640		680360	918	oxidoreductase	686	lmo0640.fasta
+lmo0642		683519	729	hypothetical protein	511	lmo0642.fasta
+lmo0643		684390	651	transaldolase	530	lmo0643.fasta
+lmo0644		685083	1821	hypothetical protein	851	lmo0644.fasta
+lmo0645		687138	1392	amino acid transporter	833	lmo0645.fasta
+lmo0648		689923	951	hypothetical protein	527	lmo0648.fasta
+lmo0649		690897	642	transcriptional regulator	384	lmo0649.fasta
+lmo0650		691581	2691	hypothetical protein	1281	lmo0650.fasta
+lmo0651		694317	648	transcriptional regulator	502	lmo0651.fasta
+lmo0654		696606	210	hypothetical protein	135	lmo0654.fasta
+lmo0655		696883	708	phosphoprotein phosphatase	455	lmo0655.fasta
+lmo0656		697634	564	hypothetical protein	336	lmo0656.fasta
+lmo0657		698317	417	hypothetical protein	251	lmo0657.fasta
+lmo0662	thiD	701247	816	phosphomethylpyrimidine kinase	618	lmo0662.fasta
+lmo0663		702088	867	hypothetical protein	590	lmo0663.fasta
+lmo0665		703688	264	hypothetical protein	233	lmo0665.fasta
+lmo0666		703961	378	hypothetical protein	363	lmo0666.fasta
+lmo0667		704452	936	ABC transporter ATP-binding protein	654	lmo0667.fasta
+lmo0673		709601	210	hypothetical protein	156	lmo0673.fasta
+lmo0674		709829	921	hypothetical protein	963	lmo0674.fasta
+lmo0676	fliP	711428	768	flagellar biosynthesis protein FliP	533	lmo0676.fasta
+lmo0677	fliQ	712208	273	flagellar biosynthesis protein FliQ	152	lmo0677.fasta
+lmo0678	fliR	712483	762	flagellar biosynthesis protein FliR	558	lmo0678.fasta
+lmo0679	flhB	713260	1047	flagellar biosynthesis protein FlhB	698	lmo0679.fasta
+lmo0680	flhA	714353	2076	flagellar biosynthesis protein FlhA	983	lmo0680.fasta
+lmo0681		716450	1224	flagellar biosynthesis regulator FlhF	640	lmo0681.fasta
+lmo0682	flgG	717670	780	flagellar basal body rod protein FlgG	524	lmo0682.fasta
+lmo0683		718478	789	chemotaxis protein CheR	492	lmo0683.fasta
+lmo0684		719291	336	hypothetical protein	198	lmo0684.fasta
+lmo0685		719653	852	flagellar motor protein MotA	471	lmo0685.fasta
+lmo0687		721301	501	hypothetical protein	303	lmo0687.fasta
+lmo0688		721824	1914	hypothetical protein	1149	lmo0688.fasta
+lmo0689		723750	909	chemotaxis protein CheV	592	lmo0689.fasta
+lmo0690	flaA	724896	864	flagellin	387	lmo0690.fasta
+lmo0691	cheY	726034	360	chemotaxis response regulator CheY	250	lmo0691.fasta
+lmo0692	cheA	726413	1857	two-component sensor histidine kinase CheA	1030	lmo0692.fasta
+lmo0693		728282	300	flagellar motor switch protein FliY	224	lmo0693.fasta
+lmo0694		728600	411	hypothetical protein	333	lmo0694.fasta
+lmo0695		729026	1047	hypothetical protein	766	lmo0695.fasta
+lmo0696	flgD	730074	423	flagellar basal body rod modification protein	342	lmo0696.fasta
+lmo0697	flgE	730516	1236	flagellar hook protein FlgE	823	lmo0697.fasta
+lmo0698		731765	237	flagellar motor switch protein	141	lmo0698.fasta
+lmo0699	fliM	732022	993	flagellar motor switch protein FliM	625	lmo0699.fasta
+lmo0700		733017	1548	flagellar motor switch protein FliY	910	lmo0700.fasta
+lmo0702		735996	1167	hypothetical protein	858	lmo0702.fasta
+lmo0703		737269	465	hypothetical protein	334	lmo0703.fasta
+lmo0704		737743	429	hypothetical protein	361	lmo0704.fasta
+lmo0705	flgK	738191	1521	flagellar hook-associated protein FlgK	946	lmo0705.fasta
+lmo0706	flgL	739723	876	flagellar hook-associated protein FlgL	609	lmo0706.fasta
+lmo0707	fliD	740610	1290	flagellar capping protein FliD	887	lmo0707.fasta
+lmo0708		741918	387	flagellar protein	329	lmo0708.fasta
+lmo0710	flgB	742578	402	flagellar basal-body rod protein FlgB	408	lmo0710.fasta
+lmo0711	flgC	742991	411	flagellar basal body rod protein FlgC	310	lmo0711.fasta
+lmo0712	fliE	743418	297	flagellar hook-basal body protein FliE	162	lmo0712.fasta
+lmo0713	fliF	743782	1653	flagellar MS-ring protein FliF	961	lmo0713.fasta
+lmo0714	fliG	745437	1107	flagellar motor switch protein FliG	670	lmo0714.fasta
+lmo0719		749985	327	hypothetical protein	211	lmo0719.fasta
+lmo0721		750680	648	fibronectin-binding protein	535	lmo0721.fasta
+lmo0722		751598	1731	pyruvate oxidase	1081	lmo0722.fasta
+lmo0723		753490	1806	metyl-accepting chemotaxis protein	932	lmo0723.fasta
+lmo0724		755308	729	hypothetical protein	530	lmo0724.fasta
+lmo0725		756079	213	peptidoglycan-binding protein	166	lmo0725.fasta
+lmo0726		756494	144	hypothetical protein	59	lmo0726.fasta
+lmo0728		758656	741	riboflavin kinase / FAD synthase	456	lmo0728.fasta
+lmo0729		759479	480	hypothetical protein	342	lmo0729.fasta
+lmo0730		759972	339	hypothetical protein	302	lmo0730.fasta
+lmo0742		772310	690	ABC transporter ATP-binding protein	526	lmo0742.fasta
+lmo0743		772996	705	hypothetical protein	544	lmo0743.fasta
+lmo0744		773715	2001	ABC transporter ATP-binding protein	1168	lmo0744.fasta
+lmo0745		775744	504	hypothetical protein	462	lmo0745.fasta
+lmo0757		782794	981	hypothetical protein	755	lmo0757.fasta
+lmo0759		784788	960	hypothetical protein	724	lmo0759.fasta
+lmo0761		786372	621	hypothetical protein	584	lmo0761.fasta
+lmo0762		787320	1257	ATP/GTP-binding protein	782	lmo0762.fasta
+lmo0763		788642	873	hypothetical protein	560	lmo0763.fasta
+lmo0764		789520	990	lipoate-protein ligase	713	lmo0764.fasta
+lmo0772		798141	648	transcriptional regulator	474	lmo0772.fasta
+lmo0774		799996	930	hypothetical protein	650	lmo0774.fasta
+lmo0775		800965	333	hypothetical protein	188	lmo0775.fasta
+lmo0776		801336	867	transcriptional regulator	671	lmo0776.fasta
+lmo0777		802356	384	hypothetical protein	178	lmo0777.fasta
+lmo0778		803201	348	hypothetical protein	176	lmo0778.fasta
+lmo0779		803745	468	hypothetical protein	323	lmo0779.fasta
+lmo0781		804887	879	PTS mannose transporter subunit IID	499	lmo0781.fasta
+lmo0782		805784	813	PTS mannose transporter subunit IIC	436	lmo0782.fasta
+lmo0783		806770	486	PTS mannose transporter subunit IIB	237	lmo0783.fasta
+lmo0784		807255	435	PTS mannose transporter subunit IIB	205	lmo0784.fasta
+lmo0785		807976	2817	transcriptional regulator	1266	lmo0785.fasta
+lmo0786		810985	636	ACP phosphodiesterase	604	lmo0786.fasta
+lmo0787		811813	1377	amino acid transporter	693	lmo0787.fasta
+lmo0788		813451	4428	hypothetical protein	1687	lmo0788.fasta
+lmo0790		818789	477	transcriptional regulator	435	lmo0790.fasta
+lmo0791		819389	651	hypothetical protein	424	lmo0791.fasta
+lmo0793		821070	702	hypothetical protein	678	lmo0793.fasta
+lmo0794		821886	642	hypothetical protein	555	lmo0794.fasta
+lmo0795		822611	921	hypothetical protein	649	lmo0795.fasta
+lmo0796		823638	531	hypothetical protein	450	lmo0796.fasta
+lmo0797		824423	462	hypothetical protein	357	lmo0797.fasta
+lmo0799		826752	762	hypothetical protein	477	lmo0799.fasta
+lmo0802		830259	639	hypothetical protein	495	lmo0802.fasta
+lmo0803		831025	2049	Na+/H+ antiporter	1079	lmo0803.fasta
+lmo0806		834287	543	transcriptional regulator	332	lmo0806.fasta
+lmo0807		834845	1095	spermidine/putrescine ABC transporter ATP-binding protein	707	lmo0807.fasta
+lmo0808		835939	810	spermidine/putrescine ABC transporter permease	698	lmo0808.fasta
+lmo0809		836745	807	spermidine/putrescine ABC transporter permease	621	lmo0809.fasta
+lmo0810		837548	1074	spermidine/putrescine ABC transporter substrate-binding protein	955	lmo0810.fasta
+lmo0811		838751	702	carbonic anhydrase	618	lmo0811.fasta
+lmo0812		839520	543	hypothetical protein	648	lmo0812.fasta
+lmo0813		840200	873	fructokinase	685	lmo0813.fasta
+lmo0814		841157	930	oxidoreductase	550	lmo0814.fasta
+lmo0817		843311	414	PhnB protein	369	lmo0817.fasta
+lmo0818		843949	2631	cation-transporting ATPase	1387	lmo0818.fasta
+lmo0820		847552	558	acetyltransferase	398	lmo0820.fasta
+lmo0821		848126	663	hypothetical protein	522	lmo0821.fasta
+lmo0822		848804	390	transcriptional regulator	315	lmo0822.fasta
+lmo0823		849314	825	oxidoreductase	593	lmo0823.fasta
+lmo0824		850216	969	hypothetical protein	782	lmo0824.fasta
+lmo0825		851225	1281	3-hydroxy-3-methylglutaryl-CoA reductase	815	lmo0825.fasta
+lmo0829	nifJ	855759	3648	pyruvate-flavodoxin oxidoreductase	1639	lmo0829.fasta
+lmo0836		866577	414	phosphate-starvation-inducible protein PsiE	245	lmo0836.fasta
+lmo0837		867163	1638	hypothetical protein	949	lmo0837.fasta
+lmo0838	uhpT	869095	1386	sugar:phosphate antiporter	896	lmo0838.fasta
+lmo0841		872616	2643	calcium-transporting ATPase	1237	lmo0841.fasta
+lmo0843		881992	258	hypothetical protein	230	lmo0843.fasta
+lmo0847		885440	1443	glutamine ABC transporter	779	lmo0847.fasta
+lmo0850		890069	147	hypothetical protein	95	lmo0850.fasta
+lmo0851		890439	759	hypothetical protein	576	lmo0851.fasta
+lmo0852		891277	555	TetR family transcriptional regulator	439	lmo0852.fasta
+lmo0853		891848	342	SugE protein	242	lmo0853.fasta
+lmo0854		892192	321	SugE protein	318	lmo0854.fasta
+lmo0855	ddl	892662	1113	D-alanyl-alanine synthetase A	672	lmo0855.fasta
+lmo0856	murF	893838	1374	"UDP-N-acetylmuramoylalanyl-D-glutamyl-2, 6-diamino pimelate-D-alanyl-D-alanyl ligase"	844	lmo0856.fasta
+lmo0857		895278	714	carboxylesterase	454	lmo0857.fasta
+lmo0858		896003	1026	LacI family transcriptional regulator	731	lmo0858.fasta
+lmo0859		897273	1320	sugar ABC transporter substrate-binding protein	907	lmo0859.fasta
+lmo0860		898589	879	sugar ABC transporter permease	647	lmo0860.fasta
+lmo0862		900303	1533	"oligo-1,6-glucosidase"	1088	lmo0862.fasta
+lmo0863		901837	915	hypothetical protein	747	lmo0863.fasta
+lmo0864		902773	1068	hypothetical protein	718	lmo0864.fasta
+lmo0866		905962	1563	ATP-dependent RNA helicase	460	lmo0866.fasta
+lmo0866a		907654	177	hypothetical protein	236	lmo0866a.fasta
+lmo0867		907979	489	hypothetical protein	358	lmo0867.fasta
+lmo0871		910517	354	hypothetical protein	379	lmo0871.fasta
+lmo0872		910998	1167	antibiotic resistance protein	909	lmo0872.fasta
+lmo0873		912372	2019	transcriptional regulator	1163	lmo0873.fasta
+lmo0874		914405	330	PTS sugar transporter subunit IIA	193	lmo0874.fasta
+lmo0875		914735	336	PTS beta-glucoside transporter subunit IIB	178	lmo0875.fasta
+lmo0877		916436	729	glucosamine-6-phosphate isomerase	614	lmo0877.fasta
+lmo0878		917164	954	oxidoreductase	688	lmo0878.fasta
+lmo0879		918135	768	hypothetical protein	568	lmo0879.fasta
+lmo0883		921537	1476	hypothetical protein	911	lmo0883.fasta
+lmo0884		923161	1380	protoporphyrinogen oxidase	821	lmo0884.fasta
+lmo0885	acpS	924542	357	4'-phosphopantetheinyl transferase	195	lmo0885.fasta
+lmo0886	dal	924917	1107	alanine racemase	664	lmo0886.fasta
+lmo0887		926229	279	hypothetical protein	122	lmo0887.fasta
+lmo0888		926511	348	hypothetical protein	206	lmo0888.fasta
+lmo0889	RsbR	927110	837	positive regulator of sigma-B activity	460	lmo0889.fasta
+lmo0890	rsbS	927952	357	negative regulation of sigma-B activity	196	lmo0890.fasta
+lmo0891	rsbT	928311	411	positive regulation of sigma-B activity	314	lmo0891.fasta
+lmo0892	rsbU	928738	1005	serine phosphatase	879	lmo0892.fasta
+lmo0895	sigB	930671	780	RNA polymerase sigma factor SigB	435	lmo0895.fasta
+lmo0896	rsbX	931451	600	indirect negative regulation of sigma B dependant gene expression (serine phosphatase)	373	lmo0896.fasta
+lmo0898		933959	2178	hypothetical protein	1076	lmo0898.fasta
+lmo0899		936136	468	hypothetical protein	380	lmo0899.fasta
+lmo0900		937202	393	hypothetical protein	367	lmo0900.fasta
+lmo0901		937739	1287	PTS cellbiose transporter subunit IIC	795	lmo0901.fasta
+lmo0902		939106	714	GntR family transcriptional regulator	503	lmo0902.fasta
+lmo0903		940316	381	hypothetical protein	411	lmo0903.fasta
+lmo0904		940810	675	hypothetical protein	564	lmo0904.fasta
+lmo0905		941615	498	hypothetical protein	290	lmo0905.fasta
+lmo0906		942148	1350	glutathione reductase	814	lmo0906.fasta
+lmo0907		943526	675	phosphoglycerate mutase	446	lmo0907.fasta
+lmo0908		944243	1137	hypothetical protein	576	lmo0908.fasta
+lmo0909		945520	393	GntR family transcriptional regulator	231	lmo0909.fasta
+lmo0910		945915	1104	hypothetical protein	621	lmo0910.fasta
+lmo0912		947718	813	formate transporter	577	lmo0912.fasta
+lmo0913		948754	1467	succinate semialdehyde dehydrogenase	877	lmo0913.fasta
+lmo0914		950363	306	PTS sugar transporter subunit IIB	160	lmo0914.fasta
+lmo0915		950673	1269	PTS sugar transporter subunit IIC	721	lmo0915.fasta
+lmo0916		951956	351	PTS sugar transporter subunit IIA	227	lmo0916.fasta
+lmo0917		952318	1452	beta-glucosidase	745	lmo0917.fasta
+lmo0918		953842	1899	transcription antiterminator BglG	805	lmo0918.fasta
+lmo0919		956031	1572	antibiotic ABC transporter ATP-binding protein	782	lmo0919.fasta
+lmo0921		958783	840	hypothetical protein	475	lmo0921.fasta
+lmo0922		959711	921	pantothenate kinase	451	lmo0922.fasta
+lmo0925		961469	1116	hypothetical protein	679	lmo0925.fasta
+lmo0926		962607	657	TetR family transcriptional regulator	337	lmo0926.fasta
+lmo0927		963294	1962	hypothetical protein	710	lmo0927.fasta
+lmo0929		966245	669	sortase	370	lmo0929.fasta
+lmo0930		967029	732	hypothetical protein	493	lmo0930.fasta
+lmo0931		967784	996	lipoate protein ligase A	619	lmo0931.fasta
+lmo0932		968819	606	hypothetical protein	338	lmo0932.fasta
+lmo0934		971037	1140	hypothetical protein	765	lmo0934.fasta
+lmo0935		972197	510	rRNA methylase	348	lmo0935.fasta
+lmo0936		972719	741	nitroflavin reductase	552	lmo0936.fasta
+lmo0937		973509	162	hypothetical protein	88	lmo0937.fasta
+lmo0943	fri	979059	471	non-heme iron-binding ferritin	295	lmo0943.fasta
+lmo0944		979762	303	hypothetical protein	145	lmo0944.fasta
+lmo0945		980177	1131	competence protein ComEC	691	lmo0945.fasta
+lmo0946		981317	228	hypothetical protein	145	lmo0946.fasta
+lmo0947		981743	1218	hypothetical protein	711	lmo0947.fasta
+lmo0951		985743	822	hypothetical protein	443	lmo0951.fasta
+lmo0953		987274	228	hypothetical protein	49	lmo0953.fasta
+lmo0954		987735	315	hypothetical protein	152	lmo0954.fasta
+lmo0955		988065	846	hypothetical protein	508	lmo0955.fasta
+lmo0956		989099	1134	N-acetylglucosamine-6P-phosphate deacetylase	683	lmo0956.fasta
+lmo0957		990248	705	glucosamine-6-phosphate isomerase	401	lmo0957.fasta
+lmo0958		990968	723	GntR family transcirptional regulator	353	lmo0958.fasta
+lmo0959		991810	1056	undacaprenyl-phosphate N-acetylglucosaminyltransferase	573	lmo0959.fasta
+lmo0960		992978	909	protease	555	lmo0960.fasta
+lmo0961		993900	1227	protease	687	lmo0961.fasta
+lmo0962	lemA	995210	558	LemA protein	243	lmo0962.fasta
+lmo0963		995790	915	heat shock protein HtpX	448	lmo0963.fasta
+lmo0964		996739	819	hypothetical protein	475	lmo0964.fasta
+lmo0966		998396	468	hypothetical protein	346	lmo0966.fasta
+lmo0967		999022	669	hypothetical protein	308	lmo0967.fasta
+lmo0968	ppnK	999722	795	inorganic polyphosphate/ATP-NAD kinase	333	lmo0968.fasta
+lmo0970		1001503	789	enoyl-ACP reductase	376	lmo0970.fasta
+lmo0972	dltC	1003593	237	D-alanine--poly(phosphoribitol) ligase subunit 2	139	lmo0972.fasta
+lmo0973	dltB	1003855	1185	DltB protein for D-alanine esterification of lipoteichoic acid and wall teichoic acid	536	lmo0973.fasta
+lmo0974	dltA	1005036	1533	D-alanine--poly(phosphoribitol) ligase subunit 1	693	lmo0974.fasta
+lmo0977		1008130	750	hypothetical protein	432	lmo0977.fasta
+lmo0978		1009098	1020	branched-chain amino acid aminotransferase	590	lmo0978.fasta
+lmo0979		1010313	765	daunorubicin resistance ATP-binding protein	600	lmo0979.fasta
+lmo0980		1011074	753	ABC transporter permease	588	lmo0980.fasta
+lmo0981		1011860	1476	transporter	837	lmo0981.fasta
+lmo0982		1013475	1053	peptidase	609	lmo0982.fasta
+lmo0983		1014540	480	glutathione peroxidase	280	lmo0983.fasta
+lmo0988	prfC	1017870	1569	peptide chain release factor 3	782	lmo0988.fasta
+lmo0989		1019545	426	MarR family transcriptional regulator	328	lmo0989.fasta
+lmo0990		1020022	1362	hypothetical protein	838	lmo0990.fasta
+lmo0991		1021665	768	hypothetical protein	482	lmo0991.fasta
+lmo0992		1022535	768	hypothetical protein	511	lmo0992.fasta
+lmo0993		1023346	1335	Na+-transporting ATP synthase subunit J	764	lmo0993.fasta
+lmo0994		1024761	369	hypothetical protein	172	lmo0994.fasta
+lmo0995		1025159	1032	hypothetical protein	779	lmo0995.fasta
+lmo0997	clpE	1026871	2175	ATP-dependent protease	1067	lmo0997.fasta
+lmo0998		1029208	612	hypothetical protein	374	lmo0998.fasta
+lmo0999		1029965	792	hypothetical protein	477	lmo0999.fasta
+lmo1002	ptsH	1032924	267	phosphocarrier protein HPr	84	lmo1002.fasta
+lmo1003		1033190	1719	phosphotransferase system enzyme I	781	lmo1003.fasta
+lmo1007		1038336	222	hypothetical protein	141	lmo1007.fasta
+lmo1008		1038863	234	hypothetical protein	92	lmo1008.fasta
+lmo1009		1039297	453	hypothetical protein	165	lmo1009.fasta
+lmo1010		1039746	879	LysR family transcriptional regulator	500	lmo1010.fasta
+lmo1011		1040672	711	tetrahydrodipicolinate succinylase	435	lmo1011.fasta
+lmo1012		1041446	1116	N-acyl-L-amino acid amidohydrolase	544	lmo1012.fasta
+lmo1013		1042605	846	hypothetical protein	491	lmo1013.fasta
+lmo1014	gbuA	1043821	1194	glycine/betaine ABC transporter ATP-binding protein	636	lmo1014.fasta
+lmo1016	gbuC	1045869	903	glycine/betaine ABC transporter substrate-binding protein	603	lmo1016.fasta
+lmo1017		1046886	492	PTS glucose transporter subunit IIA	295	lmo1017.fasta
+lmo1019		1048266	873	hypothetical protein	551	lmo1019.fasta
+lmo1020		1049273	714	hypothetical protein	366	lmo1020.fasta
+lmo1021		1049983	1059	two-component sensor histidine kinase	555	lmo1021.fasta
+lmo1022		1051038	639	two-component response regulator	272	lmo1022.fasta
+lmo1023		1051695	660	potassium transporter	314	lmo1023.fasta
+lmo1027		1055393	1668	hypothetical protein	765	lmo1027.fasta
+lmo1028		1057067	210	hypothetical protein	131	lmo1028.fasta
+lmo1029		1057761	771	hypothetical protein	542	lmo1029.fasta
+lmo1037		1067723	804	hypothetical protein	622	lmo1037.fasta
+lmo1039		1069156	663	ABC transporter ATP-binding protein	487	lmo1039.fasta
+lmo1040		1069821	672	molybdenum ABC transporter permease	460	lmo1040.fasta
+lmo1046	moaC	1073813	483	molybdenum cofactor biosynthesis protein MoaC	377	lmo1046.fasta
+lmo1047	moaA	1074324	1002	molybdenum cofactor biosynthesis protein A	587	lmo1047.fasta
+lmo1049		1075860	999	molybdopterin biosynthesis protein MoeB	676	lmo1049.fasta
+lmo1050		1076989	555	hypothetical protein	416	lmo1050.fasta
+lmo1051	def	1077592	552	peptide deformylase	329	lmo1051.fasta
+lmo1052	pdhA	1078977	1116	pyruvate dehydrogenase subunit E1 alpha	572	lmo1052.fasta
+lmo1053	PdhB	1080095	978	pyruvate dehydrogenase subunit E1 beta	536	lmo1053.fasta
+lmo1054	pdhC	1081183	1635	dihydrolipoamide acetyltransferase	945	lmo1054.fasta
+lmo1055	PdhD	1082822	1404	dihydrolipoamide dehydrogenase	841	lmo1055.fasta
+lmo1056		1084413	312	hypothetical protein	183	lmo1056.fasta
+lmo1058		1085806	273	hypothetical protein	158	lmo1058.fasta
+lmo1064		1091110	945	transporter	508	lmo1064.fasta
+lmo1067		1093965	1839	GTP-binding elongation factor	756	lmo1067.fasta
+lmo1070		1097322	282	hypothetical protein	132	lmo1070.fasta
+lmo1071		1097786	1203	cell division protein FtsW	632	lmo1071.fasta
+lmo1072	pycA	1099266	3441	pyruvate carboxylase	1163	lmo1072.fasta
+lmo1092		1126704	1491	nicotinate phosphoribosyltransferase	933	lmo1092.fasta
+lmo1093	nadE	1128206	825	NAD synthetase	706	lmo1093.fasta
+lmo1096	guaA	1129945	1557	GMP synthase	1079	lmo1096.fasta
+lmo1142		1174241	1365	PduS protein	846	lmo1142.fasta
+lmo1144		1176304	351	PduU protein	205	lmo1144.fasta
+lmo1145		1176660	432	PduV protein	231	lmo1145.fasta
+lmo1148		1178421	747	cobalamin (5'-phosphatase) synthetase	648	lmo1148.fasta
+lmo1150		1180152	885	transcriptional regulator PocR	498	lmo1150.fasta
+lmo1151		1181338	288	PduA protein	201	lmo1151.fasta
+lmo1152		1181720	702	PduB protein	431	lmo1152.fasta
+lmo1153		1182440	1665	propanediol dehydratase subunit alpha	854	lmo1153.fasta
+lmo1154		1184142	660	diol dehydratase subunit gamma	448	lmo1154.fasta
+lmo1155		1184818	513	diol dehydratase subunit gamma	312	lmo1155.fasta
+lmo1156		1185375	1821	diol dehydratase-reactivating factor large subunit	984	lmo1156.fasta
+lmo1157		1187192	348	diol dehydratase-reactivating factor small subunit	251	lmo1157.fasta
+lmo1158		1187552	438	PduK protein	346	lmo1158.fasta
+lmo1159		1188014	276	carboxysome structural protein	193	lmo1159.fasta
+lmo1160		1188293	636	PduL protein	491	lmo1160.fasta
+lmo1162		1189785	480	hypothetical protein	378	lmo1162.fasta
+lmo1163		1190269	264	carbon dioxide concentrating mechanism protein	144	lmo1163.fasta
+lmo1164		1190547	996	ATP:cob(I)alamin adenosyltransferase PduO	651	lmo1164.fasta
+lmo1165		1191549	1410	ethanolamine utilization protein EutE	853	lmo1165.fasta
+lmo1166		1192974	1119	NADPH-dependent butanol dehydrogenase	739	lmo1166.fasta
+lmo1167	glpF	1194120	705	glycerol uptake facilitator protein	432	lmo1167.fasta
+lmo1168	AckA2	1194890	1194	acetate kinase	761	lmo1168.fasta
+lmo1171	pduQ	1198637	1140	NADPH-dependent butanol dehydrogenase	624	lmo1171.fasta
+lmo1173		1200625	1458	two-component sensor histidine kinase	689	lmo1173.fasta
+lmo1174	eutA	1202171	1422	ethanolamine utilization protein EutA	812	lmo1174.fasta
+lmo1175	eutB	1203634	1365	ethanolamine ammonia-lyase large subunit	691	lmo1175.fasta
+lmo1176	eutC	1205018	882	ethanolamine ammonia-lyase small subunit	513	lmo1176.fasta
+lmo1177		1205922	654	carboxysome structural protein EutL	316	lmo1177.fasta
+lmo1178		1206590	522	carboxysome structural protein	289	lmo1178.fasta
+lmo1179		1207111	1461	alcohol dehydrogenase	759	lmo1179.fasta
+lmo1180		1208603	285	carboxysome structural protein	156	lmo1180.fasta
+lmo1181		1209053	756	cobalamin adenosyl transferase	533	lmo1181.fasta
+lmo1182		1209821	642	PduL protein	378	lmo1182.fasta
+lmo1183		1210459	573	hypothetical protein	393	lmo1183.fasta
+lmo1185		1211308	546	PduT protein	392	lmo1185.fasta
+lmo1186		1211869	1122	ethanolamine utilization protein EutH	613	lmo1186.fasta
+lmo1190		1215993	495	hypothetical protein	388	lmo1190.fasta
+lmo1191	cbiA	1216820	1359	"cobyrinic acid a,c-diamide synthase"	950	lmo1191.fasta
+lmo1192	cobD	1218175	948	cobalamin biosynthesis protein	668	lmo1192.fasta
+lmo1193	cbiC	1219135	633	cobalt-precorrin-8X methylmutase	405	lmo1193.fasta
+lmo1194	cbiD	1219783	1122	cobalt-precorrin-6A synthase	695	lmo1194.fasta
+lmo1198	cbiG	1222798	1032	cobalamin biosynthesis protein CbiG	746	lmo1198.fasta
+lmo1199	cbiH	1223826	726	precorrin-3B C17-methyltransferase	597	lmo1199.fasta
+lmo1200		1224548	753	cobalamin biosynthesis protein CbiJ	576	lmo1200.fasta
+lmo1202	cbiK	1226778	786	cobalt chelatase	562	lmo1202.fasta
+lmo1204		1228347	651	cobalamin biosynthesis protein CbiM	494	lmo1204.fasta
+lmo1206	cbiQ	1229277	678	cobalamin biosynthesis protein CbiQ	519	lmo1206.fasta
+lmo1208	cbiP	1230773	1536	cobyric acid synthase CbiP	888	lmo1208.fasta
+lmo1210		1232884	468	hypothetical protein	379	lmo1210.fasta
+lmo1211		1233366	450	hypothetical protein	378	lmo1211.fasta
+lmo1216		1236836	987	N-acetylmuramoyl-L-alanine amidase	541	lmo1216.fasta
+lmo1217		1237934	1080	"endo-1,4-beta-glucanase and to aminopeptidase"	709	lmo1217.fasta
+lmo1218		1239039	759	rRNA methylase	528	lmo1218.fasta
+lmo1219		1239842	360	hypothetical protein	310	lmo1219.fasta
+lmo1220		1240358	324	hypothetical protein	132	lmo1220.fasta
+lmo1221	pheS	1241048	1053	phenylalanyl-tRNA synthetase subunit alpha	643	lmo1221.fasta
+lmo1222	pheT	1242100	2409	phenylalanyl-tRNA synthetase subunit beta	1198	lmo1222.fasta
+lmo1223		1244669	702	ABC transporter ATP-binding proteins	432	lmo1223.fasta
+lmo1225		1248892	453	MarR family transcriptional regulator	235	lmo1225.fasta
+lmo1226		1249360	3201	transporter	1656	lmo1226.fasta
+lmo1227		1252667	675	uracil-DNA glycosylase	521	lmo1227.fasta
+lmo1228	rnhC	1253379	927	ribonuclease HIII	663	lmo1228.fasta
+lmo1229		1254459	264	hypothetical protein	145	lmo1229.fasta
+lmo1230		1254722	543	hypothetical protein	324	lmo1230.fasta
+lmo1231		1255357	1713	DNA polymerase beta	1028	lmo1231.fasta
+lmo1232		1257092	2358	recombination and DNA strand exchange inhibitor protein	1255	lmo1232.fasta
+lmo1233	trxA	1259530	312	thioredoxin	162	lmo1233.fasta
+lmo1234	uvrC	1259917	1812	excinuclease ABC subunit C	979	lmo1234.fasta
+lmo1235		1261917	1215	aspartate kinase	678	lmo1235.fasta
+lmo1236		1263187	495	hypothetical protein	247	lmo1236.fasta
+lmo1237	racE	1263829	801	glutamate racemase	411	lmo1237.fasta
+lmo1238	rph	1264642	747	ribonuclease PH	482	lmo1238.fasta
+lmo1239		1265392	612	nucleoside-triphosphatase	519	lmo1239.fasta
+lmo1240		1266040	525	hypothetical protein	362	lmo1240.fasta
+lmo1241		1267115	1359	hypothetical protein	856	lmo1241.fasta
+lmo1244		1269834	600	phosphoglycerate mutase	509	lmo1244.fasta
+lmo1245		1270465	261	hypothetical protein	234	lmo1245.fasta
+lmo1246		1270849	1413	ATP-dependent RNA helicase	838	lmo1246.fasta
+lmo1247		1272286	264	hypothetical protein	180	lmo1247.fasta
+lmo1249		1273231	246	hypothetical protein	149	lmo1249.fasta
+lmo1250		1273473	1206	antibiotic resistance protein	645	lmo1250.fasta
+lmo1251		1274883	660	Fnr/Crp family transcriptional regulator	478	lmo1251.fasta
+lmo1252		1275845	849	hypothetical protein	471	lmo1252.fasta
+lmo1253		1277312	714	GntR family transcriptional regulator	443	lmo1253.fasta
+lmo1254		1278056	1647	"alpha,alpha-phosphotrehalase"	785	lmo1254.fasta
+lmo1255		1279721	1485	PTS trehalose transporter subunit IIBC	881	lmo1255.fasta
+lmo1267	tig	1290241	1284	trigger factor	641	lmo1267.fasta
+lmo1268	clpX	1291710	1260	ATP-dependent protease ATP-binding subunit ClpX	584	lmo1268.fasta
+lmo1269		1293088	567	type I signal peptidase	370	lmo1269.fasta
+lmo1271		1294360	543	type I signal peptidase	226	lmo1271.fasta
+lmo1272	rbgA	1294912	864	ribosomal biogenesis GTPase	417	lmo1272.fasta
+lmo1275	topA	1297823	2079	DNA topoisomerase I	822	lmo1275.fasta
+lmo1277	codV	1301551	903	integrase/recombinase	484	lmo1277.fasta
+lmo1278	clpQ	1302474	540	ATP-dependent protease peptidase subunit	249	lmo1278.fasta
+lmo1279	hslU	1303027	1410	ATP-dependent protease ATP-binding subunit HslU	847	lmo1279.fasta
+lmo1280	codY	1304457	780	transcriptional repressor CodY	500	lmo1280.fasta
+lmo1281		1305390	369	hypothetical protein	225	lmo1281.fasta
+lmo1282		1305781	312	hypothetical protein	152	lmo1282.fasta
+lmo1283		1306095	873	LacX protein	546	lmo1283.fasta
+lmo1284		1307009	597	hypothetical protein	365	lmo1284.fasta
+lmo1285		1307763	408	hypothetical protein	205	lmo1285.fasta
+lmo1286	parE	1308351	1968	DNA topoisomerase IV subunit B	847	lmo1286.fasta
+lmo1287	parC	1310315	2460	DNA topoisomerase IV subunit A	882	lmo1287.fasta
+lmo1293	glpD	1320608	1677	glycerol-3-phosphate dehydrogenase	794	lmo1293.fasta
+lmo1295		1323450	234	host factor-1 protein	114	lmo1295.fasta
+lmo1298	glnR	1326440	369	glutamine synthetase repressor	184	lmo1298.fasta
+lmo1299	glnA	1326879	1335	glutamine synthetase	496	lmo1299.fasta
+lmo1302		1330247	615	LexA family transcriptional regulator	304	lmo1302.fasta
+lmo1305	tkt	1331813	1995	transketolase	884	lmo1305.fasta
+lmo1306		1334028	240	hypothetical protein	120	lmo1306.fasta
+lmo1313	pyrH	1339592	729	uridylate kinase	378	lmo1313.fasta
+lmo1314	frr	1340320	558	ribosome recycling factor	325	lmo1314.fasta
+lmo1315		1341107	759	UDP pyrophosphate synthase	369	lmo1315.fasta
+lmo1316	cdsA	1341879	789	phosphatidate cytidylyltransferase	411	lmo1316.fasta
+lmo1317		1342682	1143	1-deoxy-D-xylulose 5-phosphate reductoisomerase	672	lmo1317.fasta
+lmo1318		1343838	1263	hypothetical protein	687	lmo1318.fasta
+lmo1319	proS	1345140	1707	prolyl-tRNA synthetase	801	lmo1319.fasta
+lmo1320	polC	1346951	4335	DNA polymerase III PolC	1404	lmo1320.fasta
+lmo1321		1351467	468	hypothetical protein	240	lmo1321.fasta
+lmo1322	nusA	1351964	1119	transcription elongation factor NusA	603	lmo1322.fasta
+lmo1324		1353374	300	hypothetical protein	128	lmo1324.fasta
+lmo1326		1356032	279	hypothetical protein	174	lmo1326.fasta
+lmo1327	rbfA	1356327	345	ribosome-binding factor A	207	lmo1327.fasta
+lmo1330	rpsO	1358834	270	30S ribosomal protein S15	79	lmo1330.fasta
+lmo1331	pnpA	1359352	2172	polynucleotide phosphorylase	956	lmo1331.fasta
+lmo1333		1362765	480	hypothetical protein	233	lmo1333.fasta
+lmo1333a		1363272	468	hypothetical protein	182	lmo1333a.fasta
+lmo1335	rpmG	1363826	150	50S ribosomal protein L33	57	lmo1335.fasta
+lmo1337		1364669	1539	hypothetical protein	757	lmo1337.fasta
+lmo1338		1366220	213	hypothetical protein	147	lmo1338.fasta
+lmo1340		1367559	1092	hypothetical protein	597	lmo1340.fasta
+lmo1341		1368668	318	competence protein ComG	239	lmo1341.fasta
+lmo1342		1368982	468	competence protein ComGF	295	lmo1342.fasta
+lmo1344		1369683	429	competence protein ComGD	256	lmo1344.fasta
+lmo1345		1370108	324	competence protein ComGC	226	lmo1345.fasta
+lmo1346	comGB	1370445	1032	competence protein ComGB	625	lmo1346.fasta
+lmo1348	gcvT	1373015	1089	glycine cleavage system aminomethyltransferase T	635	lmo1348.fasta
+lmo1349		1374119	1347	glycine dehydrogenase subunit 1	662	lmo1349.fasta
+lmo1350		1375462	1467	glycine dehydrogenase subunit 2	730	lmo1350.fasta
+lmo1351		1376968	381	hypothetical protein	198	lmo1351.fasta
+lmo1353		1377695	966	hypothetical protein	622	lmo1353.fasta
+lmo1354		1378840	1062	aminopeptidase P	642	lmo1354.fasta
+lmo1355	efp	1380004	558	elongation factor P	384	lmo1355.fasta
+lmo1357		1381201	1365	acetyl-CoA carboxylase biotin carboxylase subunit	654	lmo1357.fasta
+lmo1358		1382569	408	hypothetical protein	175	lmo1358.fasta
+lmo1359	nusB	1383007	387	transcription antitermination protein NusB	194	lmo1359.fasta
+lmo1360	folD	1383489	855	"bifunctional 5,10-methylene-tetrahydrofolate dehydrogenase/ 5,10-methylene-tetrahydrofolate cyclohydrolase"	491	lmo1360.fasta
+lmo1361	xseA	1384362	1353	exodeoxyribonuclease VII large subunit	659	lmo1361.fasta
+lmo1363		1385934	882	geranyltranstransferase	588	lmo1363.fasta
+lmo1364	cspL	1387014	201	cold-shock protein	61	lmo1364.fasta
+lmo1367		1390222	450	arginine repressor ArgR	195	lmo1367.fasta
+lmo1368	recN	1390694	1692	DNA repair protein	813	lmo1368.fasta
+lmo1370		1393517	1068	butyrate kinase	633	lmo1370.fasta
+lmo1371		1394599	1428	dihydrolipoamide dehydrogenase	869	lmo1371.fasta
+lmo1372		1396051	996	branched-chain alpha-keto acid dehydrogenase subunit E1	554	lmo1372.fasta
+lmo1373		1397063	984	branched-chain alpha-keto acid dehydrogenase subunit E1	536	lmo1373.fasta
+lmo1374		1398077	1251	branched-chain alpha-keto acid dehydrogenase subunit E2	740	lmo1374.fasta
+lmo1376		1400941	1419	6-phosphogluconate dehydrogenase	705	lmo1376.fasta
+lmo1377	lisR	1402550	681	two-component response regulator	342	lmo1377.fasta
+lmo1378	lisK	1403227	1452	two-component sensor histidine kinase	740	lmo1378.fasta
+lmo1379		1404714	828	sporulation protein SpoJ	453	lmo1379.fasta
+lmo1380		1405578	282	hypothetical protein	144	lmo1380.fasta
+lmo1381		1405945	282	acylphosphatase	175	lmo1381.fasta
+lmo1383		1406742	1077	isopentenyl pyrophosphate isomerase	595	lmo1383.fasta
+lmo1384		1407859	960	hypothetical protein	629	lmo1384.fasta
+lmo1385		1409070	927	hypothetical protein	485	lmo1385.fasta
+lmo1386		1410148	2274	DNA translocase	994	lmo1386.fasta
+lmo1388	tcsA	1413646	1074	"CD4+ T cell-stimulating antigen, lipoprotein"	395	lmo1388.fasta
+lmo1389		1415152	1542	sugar ABC transporter ATP-binding protein	725	lmo1389.fasta
+lmo1391		1417735	951	sugar ABC transporter permease	493	lmo1391.fasta
+lmo1392		1418803	1293	peptidase	717	lmo1392.fasta
+lmo1394		1421454	732	3-ketoacyl-ACP reductase	421	lmo1394.fasta
+lmo1395		1422236	930	hypothetical protein	491	lmo1395.fasta
+lmo1396		1423255	579	phosphatidylglycerophosphate synthase	292	lmo1396.fasta
+lmo1397	cinA	1423902	1245	competence damage-inducible protein CinA	651	lmo1397.fasta
+lmo1398	recA	1425419	1047	recombinase A	359	lmo1398.fasta
+lmo1399		1426766	1563	phosphodiesterase	489	lmo1399.fasta
+lmo1400		1428442	498	N-acetyltransferase	355	lmo1400.fasta
+lmo1401		1428945	804	hypothetical protein	448	lmo1401.fasta
+lmo1402		1429765	363	hypothetical protein	228	lmo1402.fasta
+lmo1406	pflB	1435635	2232	pyruvate formate-lyase	916	lmo1406.fasta
+lmo1407	pflC	1437943	747	pyruvate-formate lyase activating enzyme	510	lmo1407.fasta
+lmo1408		1438724	531	hypothetical protein	370	lmo1408.fasta
+lmo1409		1439421	1194	multidrug transporter	779	lmo1409.fasta
+lmo1411		1441313	228	hypothetical protein	131	lmo1411.fasta
+lmo1412		1441581	534	modulates DNA topology	462	lmo1412.fasta
+lmo1415		1445192	1167	hydroxy-3-methylglutaryl-CoA synthase	678	lmo1415.fasta
+lmo1416		1446383	600	hypothetical protein	371	lmo1416.fasta
+lmo1417		1447052	1245	hypothetical protein	802	lmo1417.fasta
+lmo1419		1449647	1038	hypothetical protein	603	lmo1419.fasta
+lmo1420	murB	1450701	897	UDP-N-acetylenolpyruvoylglucosamine reductase	515	lmo1420.fasta
+lmo1421		1451813	987	glycine/betaine ABC transporter ATP-binding protein	517	lmo1421.fasta
+lmo1422		1452796	1515	glycine/betaine ABC transporter permease	770	lmo1422.fasta
+lmo1423		1454347	831	hypothetical protein	613	lmo1423.fasta
+lmo1424		1455316	1347	manganese transporter	646	lmo1424.fasta
+lmo1425	opuCD	1456775	672	glycine/betaine ABC transporter permease	389	lmo1425.fasta
+lmo1426	opuCC	1457461	927	glycine/betaine ABC transporter substrate-binding protein	548	lmo1426.fasta
+lmo1427	opuCB	1458389	657	glycine/betaine ABC transporter permease	426	lmo1427.fasta
+lmo1428	opuCA	1459049	1194	glycine/betaine ABC transporter ATP-binding protein	576	lmo1428.fasta
+lmo1431		1461866	1602	ABC transporter ATP-binding protein	837	lmo1431.fasta
+lmo1434		1465638	1668	hypothetical protein	786	lmo1434.fasta
+lmo1435	dapA	1467325	882	dihydrodipicolinate synthase	420	lmo1435.fasta
+lmo1437		1469444	1044	aspartate-semialdehyde dehydrogenase	544	lmo1437.fasta
+lmo1438		1470685	2166	penicillin-binding protein	847	lmo1438.fasta
+lmo1439	sod	1472980	609	superoxide dismutase	390	lmo1439.fasta
+lmo1440		1473889	801	hypothetical protein	461	lmo1440.fasta
+lmo1444		1477050	885	foldase	551	lmo1444.fasta
+lmo1446	zurM	1478477	879	"metal (zinc) transport protein (ABC transporter, permease)"	543	lmo1446.fasta
+lmo1448		1480246	927	manganese-dependent inorganic pyrophosphatase	554	lmo1448.fasta
+lmo1450		1482096	1308	DEAD/DEAH box helicase	691	lmo1450.fasta
+lmo1452		1484590	1122	hypothetical protein	593	lmo1452.fasta
+lmo1454	rpoD	1486480	1125	RNA polymerase sigma factor RpoD	548	lmo1454.fasta
+lmo1455	dnaG	1487699	1881	DNA primase	818	lmo1455.fasta
+lmo1456		1489599	441	hypothetical protein	311	lmo1456.fasta
+lmo1457		1490229	825	hypothetical protein	377	lmo1457.fasta
+lmo1462	era	1495899	906	GTP-binding protein Era	403	lmo1462.fasta
+lmo1463		1496801	396	cytidine deaminase	217	lmo1463.fasta
+lmo1465		1497594	486	metalloprotease	222	lmo1465.fasta
+lmo1466		1498096	2157	hypothetical protein	985	lmo1466.fasta
+lmo1467		1500268	960	phosphate starvation-induced protein PhoH	483	lmo1467.fasta
+lmo1468		1501415	447	hypothetical protein	202	lmo1468.fasta
+lmo1469	rpsU	1501881	174	30S ribosomal protein S21	31	lmo1469.fasta
+lmo1472	dnaJ	1504037	1134	molecular chaperone DnaJ	688	lmo1472.fasta
+lmo1473	dnaK	1505312	1842	molecular chaperone DnaK	938	lmo1473.fasta
+lmo1474	grpE	1507187	576	heat shock protein GrpE	404	lmo1474.fasta
+lmo1475	hrcA	1507804	1038	heat-inducible transcription repressor	563	lmo1475.fasta
+lmo1476	hemN	1508988	1158	coproporphyrinogen III oxidase	715	lmo1476.fasta
+lmo1479	lepA	1511858	1827	GTP-binding protein LepA	722	lmo1479.fasta
+lmo1480	rpsT	1513917	255	30S ribosomal protein S20	107	lmo1480.fasta
+lmo1481	holA	1514257	1032	DNA polymerase III subunit delta	541	lmo1481.fasta
+lmo1482	comEC	1515356	2223	competence protein ComEC	1151	lmo1482.fasta
+lmo1483	comEB	1517613	561	competence protein ComEB	305	lmo1483.fasta
+lmo1485		1518950	732	hypothetical protein	438	lmo1485.fasta
+lmo1486		1519736	357	hypothetical protein	246	lmo1486.fasta
+lmo1487		1520097	576	hypothetical protein	340	lmo1487.fasta
+lmo1489		1521243	291	hypothetical protein	159	lmo1489.fasta
+lmo1490		1521533	822	shikimate 5-dehydrogenase	475	lmo1490.fasta
+lmo1491		1522374	1101	GTP-binding protein	665	lmo1491.fasta
+lmo1492		1523471	522	hypothetical protein	261	lmo1492.fasta
+lmo1493		1524154	1809	oligopeptidase	959	lmo1493.fasta
+lmo1494		1525997	702	5'-methylthioadenosine/S-adenosylhomocysteine nucleosidase	473	lmo1494.fasta
+lmo1495		1526748	624	hypothetical protein	323	lmo1495.fasta
+lmo1496	greA	1527422	483	transcription elongation factor GreA	207	lmo1496.fasta
+lmo1497	udk	1528098	630	uridine kinase	388	lmo1497.fasta
+lmo1498		1528724	654	O-methyltransferase	431	lmo1498.fasta
+lmo1499		1529454	1071	hypothetical protein	902	lmo1499.fasta
+lmo1500		1530727	627	hypothetical protein	418	lmo1500.fasta
+lmo1502		1531716	417	Holliday junction resolvase	200	lmo1502.fasta
+lmo1503		1532129	273	hypothetical protein	107	lmo1503.fasta
+lmo1504	alaS	1532493	2640	alanyl-tRNA synthetase	1182	lmo1504.fasta
+lmo1507		1537815	687	response regulator	425	lmo1507.fasta
+lmo1509		1539979	2397	exodeoxyribonuclease V	1098	lmo1509.fasta
+lmo1510		1542403	639	hypothetical protein	399	lmo1510.fasta
+lmo1511		1543082	741	hypothetical protein	572	lmo1511.fasta
+lmo1512	mnmA	1543940	1116	tRNA-specific 2-thiouridylase	621	lmo1512.fasta
+lmo1518		1550435	381	hypothetical protein	149	lmo1518.fasta
+lmo1519	aspS	1550854	1776	aspartyl-tRNA synthetase	864	lmo1519.fasta
+lmo1520	hisS	1552632	1278	histidyl-tRNA synthetase	784	lmo1520.fasta
+lmo1521		1554360	1284	N-acetylmuramoyl-L-alanine amidase	621	lmo1521.fasta
+lmo1523	relA	1556148	2217	(p)ppGpp synthetase	894	lmo1523.fasta
+lmo1525		1559081	2352	recombination protein RecJ	1035	lmo1525.fasta
+lmo1526		1561538	345	hypothetical protein	200	lmo1526.fasta
+lmo1527		1561978	2265	preprotein translocase SecDF	889	lmo1527.fasta
+lmo1528		1564343	291	hypothetical protein	147	lmo1528.fasta
+lmo1529		1564776	330	hypothetical protein	116	lmo1529.fasta
+lmo1530	tgt	1565139	1140	queuine tRNA-ribosyltransferase	587	lmo1530.fasta
+lmo1531	queA	1566365	1029	S-adenosylmethionine:tRNA ribosyltransferase-isomerase	585	lmo1531.fasta
+lmo1532	ruvB	1567397	1008	Holliday junction DNA helicase RuvB	518	lmo1532.fasta
+lmo1533	ruvA	1568420	606	Holliday junction DNA helicase RuvA	330	lmo1533.fasta
+lmo1534		1569149	936	L-lactate dehydrogenase	586	lmo1534.fasta
+lmo1535		1570154	726	hypothetical protein	470	lmo1535.fasta
+lmo1536		1570990	849	prephenate dehydratase	495	lmo1536.fasta
+lmo1537	obgE	1571905	1290	GTPase ObgE	715	lmo1537.fasta
+lmo1538	glpK	1573354	1494	glycerol kinase	655	lmo1538.fasta
+lmo1539		1574922	819	glycerol transporter	478	lmo1539.fasta
+lmo1540	rpmA	1576107	291	50S ribosomal protein L27	137	lmo1540.fasta
+lmo1541		1576411	318	hypothetical protein	181	lmo1541.fasta
+lmo1542	rplU	1576747	309	50S ribosomal protein L21	109	lmo1542.fasta
+lmo1544	minD	1578625	801	septum formation inhibitor MinD	354	lmo1544.fasta
+lmo1545	minC	1579428	678	septum formation inhibitor MinC	341	lmo1545.fasta
+lmo1546	mreD	1580283	519	cell-shape determining protein MreD	337	lmo1546.fasta
+lmo1547	mreC	1580804	888	rod shape-determining protein MreC	415	lmo1547.fasta
+lmo1548	mreB	1581777	1014	rod shape-determining protein MreB	310	lmo1548.fasta
+lmo1557	hemA	1593100	1308	glutamyl-tRNA reductase	666	lmo1557.fasta
+lmo1558	engB	1594535	585	GTP-binding protein EngB	359	lmo1558.fasta
+lmo1559	thrS	1595227	1923	threonyl-tRNA synthetase	925	lmo1559.fasta
+lmo1560	dnaI	1597499	924	primosomal protein DnaI	529	lmo1560.fasta
+lmo1561	dnaB	1598432	1377	chromosome replication initiation / membrane attachment protein DnaB	741	lmo1561.fasta
+lmo1562	nrdR	1599814	465	transcriptional regulator NrdR	241	lmo1562.fasta
+lmo1563	coaE	1600356	603	dephospho-CoA kinase	412	lmo1563.fasta
+lmo1564	mutM	1600975	822	formamidopyrimidine-DNA glycosylase	599	lmo1564.fasta
+lmo1565	polA	1601820	2628	DNA polymerase I	1148	lmo1565.fasta
+lmo1566	citC	1604613	1263	isocitrate dehydrogenase	718	lmo1566.fasta
+lmo1567	citZ	1605895	1122	citrate synthase	503	lmo1567.fasta
+lmo1568		1607053	462	hypothetical protein	296	lmo1568.fasta
+lmo1569	fxsA	1607671	378	FxsA	300	lmo1569.fasta
+lmo1570	pykA	1608166	1758	pyruvate kinase	765	lmo1570.fasta
+lmo1571	pfkA	1610206	960	6-phosphofructokinase	419	lmo1571.fasta
+lmo1572	accA	1611449	957	acetyl-CoA carboxylase carboxyltransferase subunit alpha	504	lmo1572.fasta
+lmo1576		1617901	1314	hypothetical protein	705	lmo1576.fasta
+lmo1577		1619240	687	metal-dependent hydrolase	452	lmo1577.fasta
+lmo1578		1620091	1098	X-Pro dipeptidase	671	lmo1578.fasta
+lmo1579		1621230	1113	alanine dehydrogenase	691	lmo1579.fasta
+lmo1580		1622583	465	hypothetical protein	216	lmo1580.fasta
+lmo1581	ackA	1623099	1194	acetate kinase	599	lmo1581.fasta
+lmo1582		1624316	999	hypothetical protein	459	lmo1582.fasta
+lmo1583	tpx	1625505	498	thiol peroxidase	325	lmo1583.fasta
+lmo1585		1626620	1014	peptidase	562	lmo1585.fasta
+lmo1586	ppnK	1627812	804	inorganic polyphosphate/ATP-NAD kinase	450	lmo1586.fasta
+lmo1588	argD	1629594	1161	acetylornithine aminotransferase	673	lmo1588.fasta
+lmo1590	argJ	1631516	1197	bifunctional ornithine acetyltransferase/N-acetylglutamate synthase	747	lmo1590.fasta
+lmo1591	argC	1632728	1032	N-acetyl-gamma-glutamyl-phosphate reductase	679	lmo1591.fasta
+lmo1592		1633933	1212	thiamine biosynthesis protein ThiI	676	lmo1592.fasta
+lmo1593		1635146	1140	iron-sulfur cofactor synthesis protein NifS	621	lmo1593.fasta
+lmo1594		1636412	1716	septation ring formation regulator EzrA	795	lmo1594.fasta
+lmo1595		1638420	489	hypothetical protein	329	lmo1595.fasta
+lmo1596	rpsD	1639120	603	30S ribosomal protein S4	239	lmo1596.fasta
+lmo1598	tyrS	1641284	1260	tyrosyl-tRNA synthetase	696	lmo1598.fasta
+lmo1599	ccpA	1642865	1008	catabolite control protein A	459	lmo1599.fasta
+lmo1600	aroA	1644106	1086	bifunctional 3-deoxy-7-phosphoheptulonate synthase/chorismate mutase	533	lmo1600.fasta
+lmo1601		1645412	525	general stress protein	396	lmo1601.fasta
+lmo1602		1645958	456	hypothetical protein	185	lmo1602.fasta
+lmo1603		1646669	1113	aminopeptidase	679	lmo1603.fasta
+lmo1604		1647821	546	2-cys peroxiredoxin	301	lmo1604.fasta
+lmo1605	murC	1648511	1344	UDP-N-acetylmuramate--L-alanine ligase	669	lmo1605.fasta
+lmo1606		1650149	2352	DNA translocase	1080	lmo1606.fasta
+lmo1609		1654268	312	thioredoxin	237	lmo1609.fasta
+lmo1612		1656173	312	hypothetical protein	183	lmo1612.fasta
+lmo1615	trmB	1657815	645	tRNA (guanine-N(7)-)-methyltransferase	390	lmo1615.fasta
+lmo1616		1658466	783	hypothetical protein	445	lmo1616.fasta
+lmo1617		1659457	1470	multidrug transporter	762	lmo1617.fasta
+lmo1618		1660923	441	MarR family transcriptional regulator	234	lmo1618.fasta
+lmo1620		1662570	1413	dipeptidase PepV	749	lmo1620.fasta
+lmo1621		1664057	414	hypothetical protein	271	lmo1621.fasta
+lmo1624		1666107	1614	transporter	758	lmo1624.fasta
+lmo1625		1667831	1614	transporter	897	lmo1625.fasta
+lmo1626		1669529	438	hypothetical protein	230	lmo1626.fasta
+lmo1628	trpB	1670803	1203	tryptophan synthase subunit beta	643	lmo1628.fasta
+lmo1629	trpF	1672008	609	N-(5'-phosphoribosyl)anthranilate isomerase	419	lmo1629.fasta
+lmo1630	trpC	1672613	759	indole-3-glycerol phosphate synthase	521	lmo1630.fasta
+lmo1631	trpD	1673368	1020	anthranilate phosphoribosyltransferase	654	lmo1631.fasta
+lmo1634		1677409	2601	bifunctional acetaldehyde-CoA/alcohol dehydrogenase	955	lmo1634.fasta
+lmo1635		1680132	429	hypothetical protein	286	lmo1635.fasta
+lmo1636		1680644	921	ABC transporter ATP-binding protein	461	lmo1636.fasta
+lmo1637		1681561	1068	hypothetical protein	573	lmo1637.fasta
+lmo1638		1682664	975	hypothetical protein	724	lmo1638.fasta
+lmo1639		1683635	582	DNA-3-methyladenine glycosidase	399	lmo1639.fasta
+lmo1641	citB	1684563	2703	aconitate hydratase	1168	lmo1641.fasta
+lmo1643		1688248	423	hypothetical protein	242	lmo1643.fasta
+lmo1644		1688670	3219	helicase SNF2	1319	lmo1644.fasta
+lmo1646		1695040	1125	exonuclease SbcD	746	lmo1646.fasta
+lmo1647		1696280	609	1-acylglycerol-3-phosphate O-acyltransferase	526	lmo1647.fasta
+lmo1650		1698165	489	hypothetical protein	344	lmo1650.fasta
+lmo1651		1698734	1806	ABC transporter ATP-binding protein	929	lmo1651.fasta
+lmo1657	tsf	1706204	885	elongation factor Ts	509	lmo1657.fasta
+lmo1658	rpsB	1707168	750	30S ribosomal protein S2	237	lmo1658.fasta
+lmo1660	leuS	1708857	2412	leucyl-tRNA synthetase	1185	lmo1660.fasta
+lmo1661		1711672	966	hypothetical protein	727	lmo1661.fasta
+lmo1663	ansB	1713234	1866	asparagine synthetase	942	lmo1663.fasta
+lmo1665		1716858	303	hypothetical protein	165	lmo1665.fasta
+lmo1668		1723356	243	hypothetical protein	143	lmo1668.fasta
+lmo1673	menB	1727009	819	naphthoate synthase	498	lmo1673.fasta
+lmo1675	menD	1728653	1743	2-succinyl-5-enolpyruvyl-6-hydroxy-3- cyclohexene-1-carboxylate synthase	878	lmo1675.fasta
+lmo1676	menF	1730392	1389	menaquinone-specific isochorismate synthase	763	lmo1676.fasta
+lmo1677		1731955	939	"1,4-dihydroxy-2-naphthoate octaprenyltransferase"	547	lmo1677.fasta
+lmo1678		1732926	1854	"bifunctional homocysteine S-methyltransferase/5,10-methylenetetrahydrofolate reductase"	1029	lmo1678.fasta
+lmo1679		1734776	1173	cystathionine beta-lyase	817	lmo1679.fasta
+lmo1682		1739674	1176	transporter	791	lmo1682.fasta
+lmo1683		1748263	447	Fur family transcriptional regulator	199	lmo1683.fasta
+lmo1685	gsaB	1749878	1299	glutamate-1-semialdehyde aminotransferase	720	lmo1685.fasta
+lmo1686		1751283	1089	hypothetical protein	478	lmo1686.fasta
+lmo1687		1752413	528	hypothetical protein	218	lmo1687.fasta
+lmo1689		1753845	1098	A/G-specific adenine glycosylase	586	lmo1689.fasta
+lmo1690		1755143	981	hypothetical protein	456	lmo1690.fasta
+lmo1692		1756629	234	hypothetical protein	156	lmo1692.fasta
+lmo1694		1757771	903	CDP-abequose synthase	528	lmo1694.fasta
+lmo1695		1758694	2598	hypothetical protein	971	lmo1695.fasta
+lmo1696		1761318	675	hypothetical protein	346	lmo1696.fasta
+lmo1697		1762200	966	hypothetical protein	515	lmo1697.fasta
+lmo1698		1763209	543	ribosomal-protein-alanine N-acetyltransferase	352	lmo1698.fasta
+lmo1699		1763941	903	chemotaxis protein	514	lmo1699.fasta
+lmo1700		1764871	207	hypothetical protein	127	lmo1700.fasta
+lmo1702		1765499	402	glutathione transferase	278	lmo1702.fasta
+lmo1704		1767359	381	hypothetical protein	290	lmo1704.fasta
+lmo1705		1767846	645	deoxyguanosine kinase/deoxyadenosine kinase	439	lmo1705.fasta
+lmo1706		1768520	870	transporter	442	lmo1706.fasta
+lmo1707		1769479	222	hypothetical protein	106	lmo1707.fasta
+lmo1708		1769720	807	aminoglycoside N3'-acetyltransferase	533	lmo1708.fasta
+lmo1709		1770648	759	methionine aminopeptidase	445	lmo1709.fasta
+lmo1710		1771594	447	flavodoxin	256	lmo1710.fasta
+lmo1711		1772178	1233	aminopeptidase	741	lmo1711.fasta
+lmo1712		1773514	1260	multidrug resistance protein	744	lmo1712.fasta
+lmo1713		1774991	993	rod shape-determining protein MreB	617	lmo1713.fasta
+lmo1718		1779714	1089	hypothetical protein	705	lmo1718.fasta
+lmo1719		1780824	303	PTS lichenan transporter subunit IIA	174	lmo1719.fasta
+lmo1720		1781196	309	PTS lichenan transporter subunit IIB	161	lmo1720.fasta
+lmo1721		1781661	2679	transcriptional regulator	1143	lmo1721.fasta
+lmo1722		1784473	1326	ATP-dependent RNA helicase	759	lmo1722.fasta
+lmo1726		1787769	984	hypothetical protein	654	lmo1726.fasta
+lmo1727		1788812	966	LacI family transcriptional regulator	624	lmo1727.fasta
+lmo1730		1795681	1245	sugar ABC transporter substrate-binding protein	776	lmo1730.fasta
+lmo1731		1796987	894	sugar ABC transporter permease	546	lmo1731.fasta
+lmo1732		1797897	831	sugar ABC transporter permease	538	lmo1732.fasta
+lmo1733	gltD	1798772	1470	glutamate synthase subunit beta	851	lmo1733.fasta
+lmo1734		1800256	4593	glutamate synthase large subunit	1751	lmo1734.fasta
+lmo1735	gltC	1805041	888	transcription activator of glutamate synthase operon GltC	619	lmo1735.fasta
+lmo1736		1805925	519	hypothetical protein	417	lmo1736.fasta
+lmo1737		1806446	1107	glycerol dehydrogenase	704	lmo1737.fasta
+lmo1738		1807643	816	amino acid ABC transporter substrate-binding protein	560	lmo1738.fasta
+lmo1739		1808460	648	amino acid ABC transporter ATP-binding protein	522	lmo1739.fasta
+lmo1740		1809118	642	amino acid ABC transporter permease	525	lmo1740.fasta
+lmo1745		1814403	678	two-component response regulator	278	lmo1745.fasta
+lmo1749		1818740	474	shikimate kinase	235	lmo1749.fasta
+lmo1752		1821518	756	hypothetical protein	463	lmo1752.fasta
+lmo1753		1822421	933	lipid kinase	375	lmo1753.fasta
+lmo1754	gatB	1823494	1431	aspartyl/glutamyl-tRNA amidotransferase subunit B	638	lmo1754.fasta
+lmo1755	gatA	1824936	1452	aspartyl/glutamyl-tRNA amidotransferase subunit A	732	lmo1755.fasta
+lmo1756	gatC	1826411	294	aspartyl/glutamyl-tRNA amidotransferase subunit C	128	lmo1756.fasta
+lmo1757		1826829	1116	hypothetical protein	544	lmo1757.fasta
+lmo1758	ligA	1827941	2016	NAD-dependent DNA ligase LigA	952	lmo1758.fasta
+lmo1759	pcrA	1829982	2196	ATP-dependent DNA helicase	1056	lmo1759.fasta
+lmo1760		1832242	678	geranylgeranylglyceryl phosphate synthase-like protein	418	lmo1760.fasta
+lmo1761		1833125	1356	sodium-dependent transporter	821	lmo1761.fasta
+lmo1762		1834523	255	hypothetical protein	194	lmo1762.fasta
+lmo1763		1834795	297	hypothetical protein	125	lmo1763.fasta
+lmo1764	purD	1835229	1263	phosphoribosylamine--glycine ligase	782	lmo1764.fasta
+lmo1765	purH	1836516	1530	bifunctional phosphoribosylaminoimidazolecarboxamide formyltransferase/IMP cyclohydrolase	920	lmo1765.fasta
+lmo1766	purN	1838051	567	phosphoribosylglycinamide formyltransferase	424	lmo1766.fasta
+lmo1767	purM	1838614	1050	phosphoribosylaminoimidazole synthetase	675	lmo1767.fasta
+lmo1769	purQ	1841094	2220	phosphoribosylformylglycinamidine synthase II	1067	lmo1769.fasta
+lmo1771		1843993	246	phosphoribosylformylglycinamidine synthase subunit PurS	136	lmo1771.fasta
+lmo1772	purC	1844250	714	phosphoribosylaminoimidazole-succinocarboxamide synthase	505	lmo1772.fasta
+lmo1773	purB	1845044	1293	adenylosuccinate lyase	759	lmo1773.fasta
+lmo1774	purK	1846355	1125	phosphoribosylaminoimidazole carboxylase ATPase subunit	686	lmo1774.fasta
+lmo1776		1848166	525	hypothetical protein	245	lmo1776.fasta
+lmo1779		1855571	363	hypothetical protein	300	lmo1779.fasta
+lmo1780		1855952	1233	aminotripeptidase	735	lmo1780.fasta
+lmo1782		1857856	756	3'-exo-deoxyribonuclease	601	lmo1782.fasta
+lmo1783	rplT	1858651	360	50S ribosomal protein L20	126	lmo1783.fasta
+lmo1784	rpmI	1859050	201	50S ribosomal protein L35	61	lmo1784.fasta
+lmo1785	infC	1859272	516	translation initiation factor IF-3	132	lmo1785.fasta
+lmo1787	rplS	1861907	345	50S ribosomal protein L19	113	lmo1787.fasta
+lmo1788		1862459	435	transcriptional regulator	340	lmo1788.fasta
+lmo1791		1864248	390	hypothetical protein	312	lmo1791.fasta
+lmo1792	trmD	1864657	738	tRNA (guanine-N(1)-)-methyltransferase	407	lmo1792.fasta
+lmo1793	rimM	1865394	519	16S rRNA-processing protein RimM	410	lmo1793.fasta
+lmo1794		1865922	387	hypothetical protein	260	lmo1794.fasta
+lmo1795		1866336	735	hypothetical protein	609	lmo1795.fasta
+lmo1796		1867180	231	hypothetical protein	95	lmo1796.fasta
+lmo1797	rpsP	1867427	273	30S ribosomal protein S16	76	lmo1797.fasta
+lmo1801	ffh	1873764	1353	signal recognition particle protein Ffh	698	lmo1801.fasta
+lmo1802		1875129	333	DNA-binding protein	134	lmo1802.fasta
+lmo1803		1875574	987	cell division protein FtsY	625	lmo1803.fasta
+lmo1804	smc	1876575	3561	chromosome condensation protein Smc	1372	lmo1804.fasta
+lmo1805	rnc	1880158	690	ribonuclease III	433	lmo1805.fasta
+lmo1806	acpP	1881041	234	acyl carrier protein	58	lmo1806.fasta
+lmo1807	fabG	1881381	744	3-ketoacyl-ACP reductase	479	lmo1807.fasta
+lmo1809	plsX	1883062	1014	glycerol-3-phosphate acyltransferase PlsX	593	lmo1809.fasta
+lmo1810		1884096	570	fatty acid biosynthesis transcriptional regulator	258	lmo1810.fasta
+lmo1811		1884846	2049	ATP-dependent DNA helicase RecG	1041	lmo1811.fasta
+lmo1813		1887913	663	phosphoglycerate dehydrogenase	374	lmo1813.fasta
+lmo1815		1890288	366	hypothetical protein	176	lmo1815.fasta
+lmo1816	rpmB	1890951	189	50S ribosomal protein L28	45	lmo1816.fasta
+lmo1818		1891944	657	ribulose-phosphate 3-epimerase	342	lmo1818.fasta
+lmo1819		1892603	876	ribosome-associated GTPase	427	lmo1819.fasta
+lmo1820		1893497	1968	serine/threonine protein kinase	854	lmo1820.fasta
+lmo1821		1895461	759	phosphoprotein phosphatase	357	lmo1821.fasta
+lmo1822		1896242	1335	RNA-binding Sun protein	750	lmo1822.fasta
+lmo1823	fmt	1897577	939	methionyl-tRNA formyltransferase	754	lmo1823.fasta
+lmo1824	priA	1898529	2394	primosome assembly protein PriA	1158	lmo1824.fasta
+lmo1825		1900927	1200	pantothenate metabolism flavoprotein	770	lmo1825.fasta
+lmo1826	rpoZ	1902281	204	DNA-directed RNA polymerase subunit omega	122	lmo1826.fasta
+lmo1827	gmk	1902484	618	guanylate kinase	358	lmo1827.fasta
+lmo1828		1903120	876	hypothetical protein	602	lmo1828.fasta
+lmo1830		1905952	600	short-chain dehydrogenase	424	lmo1830.fasta
+lmo1833	pyrD	1907916	915	dihydroorotate dehydrogenase	657	lmo1833.fasta
+lmo1834	pyrDII	1908827	765	dihydroorotate dehydrogenase electron transfer subunit	547	lmo1834.fasta
+lmo1835	carB	1909614	3213	carbamoyl-phosphate synthetase	1335	lmo1835.fasta
+lmo1837	pyrC	1913907	1281	dihydroorotase	801	lmo1837.fasta
+lmo1839	pyrP	1916166	1287	uracil permease	810	lmo1839.fasta
+lmo1840	pyrR	1917581	552	bifunctional pyrimidine regulatory protein PyrR uracil phosphoribosyltransferase	288	lmo1840.fasta
+lmo1841		1918363	231	hypothetical protein	183	lmo1841.fasta
+lmo1844	lspA	1920436	465	lipoprotein signal peptidase	229	lmo1844.fasta
+lmo1845		1920982	1284	hypothetical protein	765	lmo1845.fasta
+lmo1848		1924754	843	metal ABC transporter permease	534	lmo1848.fasta
+lmo1850		1926482	417	MarR family transcriptional regulator	234	lmo1850.fasta
+lmo1851		1926935	1491	carboxy-terminal processing proteinase	801	lmo1851.fasta
+lmo1852		1928579	207	mercury-binding protein	139	lmo1852.fasta
+lmo1853		1928798	2214	heavy metal-transporting ATPase	1036	lmo1853.fasta
+lmo1854		1931026	294	hypothetical protein	172	lmo1854.fasta
+lmo1856	deoD	1932324	702	purine nucleoside phosphorylase	353	lmo1856.fasta
+lmo1857		1933037	234	hypothetical protein	104	lmo1857.fasta
+lmo1858		1933333	906	dehydrogenase	630	lmo1858.fasta
+lmo1859		1934321	438	methionine sulfoxide reductase B	295	lmo1859.fasta
+lmo1860		1934765	534	methionine sulfoxide reductase A	334	lmo1860.fasta
+lmo1861		1935334	615	hypothetical protein	429	lmo1861.fasta
+lmo1862		1935964	786	hypothetical protein	552	lmo1862.fasta
+lmo1863		1936764	840	hypothetical protein	514	lmo1863.fasta
+lmo1864		1937783	633	hemolysin	425	lmo1864.fasta
+lmo1866		1939168	813	hypothetical protein	481	lmo1866.fasta
+lmo1867		1939999	2640	pyruvate phosphate dikinase	1390	lmo1867.fasta
+lmo1868		1942687	378	hypothetical protein	379	lmo1868.fasta
+lmo1869		1943068	984	hypothetical protein	611	lmo1869.fasta
+lmo1870		1944145	624	alkaline phosphatase	454	lmo1870.fasta
+lmo1871		1944908	1512	phosphoglucomutase	912	lmo1871.fasta
+lmo1872		1946488	876	methyltransferase	607	lmo1872.fasta
+lmo1873		1947416	483	dihydrofolate reductase	311	lmo1873.fasta
+lmo1874	thyA	1947914	945	thymidylate synthase	615	lmo1874.fasta
+lmo1875		1948871	1893	ABC transporter ATP-binding protein	1037	lmo1875.fasta
+lmo1878		1952721	429	manganese transport transcriptional regulator	207	lmo1878.fasta
+lmo1879	cspD	1953513	201	cold-shock protein	107	lmo1879.fasta
+lmo1880		1953836	402	RNase HI	223	lmo1880.fasta
+lmo1881		1954255	873	5'-3' exonuclease	513	lmo1881.fasta
+lmo1882	rpsN	1955205	270	30S ribosomal protein S14	199	lmo1882.fasta
+lmo1883		1955598	1059	chitinase	613	lmo1883.fasta
+lmo1884		1956848	1308	xanthine permease	720	lmo1884.fasta
+lmo1885		1958162	579	xanthine phosphoribosyltransferase	396	lmo1885.fasta
+lmo1886		1958968	1509	carboxypeptidase	822	lmo1886.fasta
+lmo1887		1960496	1149	hypothetical protein	646	lmo1887.fasta
+lmo1888		1962225	342	hypothetical protein	155	lmo1888.fasta
+lmo1890		1963240	366	hypothetical protein	179	lmo1890.fasta
+lmo1891	recU	1963852	606	Holliday junction-specific endonuclease	209	lmo1891.fasta
+lmo1892	pbpA	1964489	2484	penicillin-binding protein 2A	1082	lmo1892.fasta
+lmo1894	nth	1967499	660	endonuclease III (DNA repair)	379	lmo1894.fasta
+lmo1895	dnaD	1968169	720	chromosome replication initiation protein	374	lmo1895.fasta
+lmo1896	asnC	1969037	1293	asparaginyl-tRNA synthetase	633	lmo1896.fasta
+lmo1897	aspB	1970343	1182	aspartate aminotransferase	574	lmo1897.fasta
+lmo1898		1971547	585	hypothetical protein	244	lmo1898.fasta
+lmo1899	dinG	1972176	2787	bifunctional ATP-dependent DNA helicase/DNA polymerase III subunit epsilon	1154	lmo1899.fasta
+lmo1900	panD	1975059	384	aspartate alpha-decarboxylase	206	lmo1900.fasta
+lmo1902	panB	1976307	834	3-methyl-2-oxobutanoate hydroxymethyltransferase	451	lmo1902.fasta
+lmo1903		1977307	474	thioredoxin	375	lmo1903.fasta
+lmo1907	dapB	1980511	792	dihydrodipicolinate reductase	537	lmo1907.fasta
+lmo1908		1981299	336	hypothetical protein	242	lmo1908.fasta
+lmo1911		1984056	1137	histidine kinase	729	lmo1911.fasta
+lmo1912		1985218	1128	histidine kinase	812	lmo1912.fasta
+lmo1915		1988159	1644	malate dehydrogenase	933	lmo1915.fasta
+lmo1916		1989805	1008	peptidase	589	lmo1916.fasta
+lmo1917	pflA	1991047	2280	pyruvate formate-lyase	945	lmo1917.fasta
+lmo1918		1993372	1266	hypothetical protein	728	lmo1918.fasta
+lmo1919		1994751	684	hypothetical protein	385	lmo1919.fasta
+lmo1920		1995520	597	hypothetical protein	395	lmo1920.fasta
+lmo1921		1996204	546	hypothetical protein	333	lmo1921.fasta
+lmo1922		1996784	1254	hypothetical protein	697	lmo1922.fasta
+lmo1924	tyrA	1999468	1104	prephenate dehydrogenase	676	lmo1924.fasta
+lmo1927	aroB	2002045	1098	3-dehydroquinate synthase	706	lmo1927.fasta
+lmo1928	aroF	2003145	1167	chorismate synthase	651	lmo1928.fasta
+lmo1929	ndk	2004515	444	nucleoside diphosphate kinase	311	lmo1929.fasta
+lmo1930		2004977	966	heptaprenyl diphosphate synthase subunit II	552	lmo1930.fasta
+lmo1931	ubiE	2005953	714	ubiquinone/menaquinone biosynthesis methyltransferase	449	lmo1931.fasta
+lmo1932		2006689	768	heptaprenyl diphosphate synthase subunit I	437	lmo1932.fasta
+lmo1933	folE	2007515	570	GTP cyclohydrolase I	260	lmo1933.fasta
+lmo1934	hup	2008319	276	DNA-binding protein HU	85	lmo1934.fasta
+lmo1935		2009006	981	protein-tyrosine/serine phosphatase	576	lmo1935.fasta
+lmo1936	gpsA	2010089	1017	NAD(P)H-dependent glycerol-3-phosphate dehydrogenase	525	lmo1936.fasta
+lmo1937	engA	2011128	1311	GTP-binding protein EngA	622	lmo1937.fasta
+lmo1938	rpsA	2012582	1146	30S ribosomal protein S1	490	lmo1938.fasta
+lmo1940		2014776	963	asparaginase	437	lmo1940.fasta
+lmo1941		2015819	720	hypothetical protein	404	lmo1941.fasta
+lmo1944		2019420	225	ferredoxin	171	lmo1944.fasta
+lmo1946		2020738	519	acyl-CoA hydrolase	264	lmo1946.fasta
+lmo1947	resE	2021272	1791	two-component sensor histidine kinas	1053	lmo1947.fasta
+lmo1948	resD	2023163	717	two-component response regulator ResD	464	lmo1948.fasta
+lmo1949		2024062	735	hypothetical protein	362	lmo1949.fasta
+lmo1950		2024799	597	hypothetical protein	309	lmo1950.fasta
+lmo1951	scpA	2025392	750	segregation and condensation protein A	330	lmo1951.fasta
+lmo1952	lysA	2026157	1311	diaminopimelate decarboxylase	687	lmo1952.fasta
+lmo1953	pnp	2027648	819	purine nucleoside phosphorylase	458	lmo1953.fasta
+lmo1954	drm	2028485	1185	phosphopentomutase	633	lmo1954.fasta
+lmo1955		2029698	894	integrase/recombinase	427	lmo1955.fasta
+lmo1956	fur	2030744	453	Fur family transcriptional regulator	226	lmo1956.fasta
+lmo1957	fhuG	2031438	1023	ferrichrome ABC transporter permease	635	lmo1957.fasta
+lmo1958	fhuB	2032460	1026	ferrichrome ABC transporter permease	772	lmo1958.fasta
+lmo1962		2036521	621	TetR family transcriptional regulator	479	lmo1962.fasta
+lmo1963		2037141	816	hypothetical protein	535	lmo1963.fasta
+lmo1964		2037953	888	ABC transporter ATP-binding protein	584	lmo1964.fasta
+lmo1965		2039441	558	hypothetical protein	410	lmo1965.fasta
+lmo1967		2040911	1200	toxic ion resistance protein	664	lmo1967.fasta
+lmo1978		2050639	1476	glucose-6-phosphate 1-dehydrogenase	773	lmo1978.fasta
+lmo1979		2052233	432	hypothetical protein	217	lmo1979.fasta
+lmo1982		2053274	528	hypothetical protein	416	lmo1982.fasta
+lmo1983	ilvD	2054493	1695	dihydroxy-acid dehydratase	834	lmo1983.fasta
+lmo1985	ilvH	2057927	492	acetolactate synthase small subunit	361	lmo1985.fasta
+lmo1986	ilvC	2058516	996	ketol-acid reductoisomerase	671	lmo1986.fasta
+lmo1987	leuA	2059669	1539	2-isopropylmalate synthase	808	lmo1987.fasta
+lmo1989	leuC	2062263	1389	isopropylmalate isomerase large subunit	784	lmo1989.fasta
+lmo1991	ilvA	2064238	1269	threonine dehydratase	710	lmo1991.fasta
+lmo1992		2065698	720	alpha-acetolactate decarboxylase	498	lmo1992.fasta
+lmo1993	pdp	2066455	1302	pyrimidine-nucleoside phosphorylase	809	lmo1993.fasta
+lmo1994		2067887	1011	LacI family transcriptional regulator	621	lmo1994.fasta
+lmo1995	dra	2068977	672	deoxyribose-phosphate aldolase	653	lmo1995.fasta
+lmo1996		2069710	948	DeoR family transcriptional regulator	753	lmo1996.fasta
+lmo1997		2070754	417	PTS mannose transporter subunit IIA	412	lmo1997.fasta
+lmo1998		2071187	996	opine catabolism protein	645	lmo1998.fasta
+lmo1999		2072205	1065	hypothetical protein	773	lmo1999.fasta
+lmo2000		2073282	822	PTS mannose transporter subunit IID	586	lmo2000.fasta
+lmo2002		2074925	468	PTS mannose transporter subunit IIB	344	lmo2002.fasta
+lmo2003		2075412	702	GntR family transcriptional regulator	527	lmo2003.fasta
+lmo2004		2076115	732	GntR family transcriptional regulator	575	lmo2004.fasta
+lmo2006	alsS	2078132	1698	acetolactate synthase	975	lmo2006.fasta
+lmo2007		2080027	1458	hypothetical protein	874	lmo2007.fasta
+lmo2008		2081505	972	ABC transporter permease	729	lmo2008.fasta
+lmo2009		2082495	930	sugar ABC transporter permease	579	lmo2009.fasta
+lmo2010		2083537	1485	two-component response regulator	929	lmo2010.fasta
+lmo2012		2086817	612	hypothetical protein	453	lmo2012.fasta
+lmo2013		2087489	1305	hypothetical protein	936	lmo2013.fasta
+lmo2014		2088797	2658	sugar hydrolase	1416	lmo2014.fasta
+lmo2015		2091698	3111	alpha-mannosidase	1574	lmo2015.fasta
+lmo2016	cspB	2094877	201	cold-shock protein	85	lmo2016.fasta
+lmo2017		2095366	696	hypothetical protein	584	lmo2017.fasta
+lmo2019	ileS	2097176	2766	isoleucyl-tRNA synthetase	1282	lmo2019.fasta
+lmo2020	divIVA	2100224	528	chemotaxis protein CheY	233	lmo2020.fasta
+lmo2028		2110009	777	hypothetical protein	577	lmo2028.fasta
+lmo2029		2110909	291	hypothetical protein	154	lmo2029.fasta
+lmo2030		2111222	459	hypothetical protein	222	lmo2030.fasta
+lmo2031		2111684	690	hypothetical protein	422	lmo2031.fasta
+lmo2034	divIB	2115381	813	cell division protein FtsQ	506	lmo2034.fasta
+lmo2035	murG	2116216	1092	UDP-diphospho-muramoylpentapeptide beta-N-acetylglucosaminyltransferase	698	lmo2035.fasta
+lmo2036	murD	2117304	1368	UDP-N-acetylmuramoyl-L-alanyl-D-glutamate synthetase	732	lmo2036.fasta
+lmo2037	mraY	2118812	975	phospho-N-acetylmuramoyl-pentapeptide- transferase	596	lmo2037.fasta
+lmo2040	ftsL	2123735	363	cell division protein FtsL	190	lmo2040.fasta
+lmo2041	mraW	2124114	939	S-adenosyl-methyltransferase MraW	577	lmo2041.fasta
+lmo2042		2125065	432	cell division protein MraZ	143	lmo2042.fasta
+lmo2047	rpmF	2130228	174	50S ribosomal protein L32	48	lmo2047.fasta
+lmo2048		2130492	537	hypothetical protein	320	lmo2048.fasta
+lmo2049		2131158	1173	hypothetical protein	785	lmo2049.fasta
+lmo2050		2132412	2241	excinuclease ABC subunit A	1197	lmo2050.fasta
+lmo2051		2134695	1041	hypothetical protein	715	lmo2051.fasta
+lmo2052	coaD	2135754	483	phosphopantetheine adenylyltransferase	333	lmo2052.fasta
+lmo2053		2136239	558	hypothetical protein	389	lmo2053.fasta
+lmo2054		2136893	282	hypothetical protein	115	lmo2054.fasta
+lmo2055		2137205	450	hypothetical protein	284	lmo2055.fasta
+lmo2056		2137702	1056	hypothetical protein	537	lmo2056.fasta
+lmo2057	ctaB	2138904	906	protoheme IX farnesyltransferase	548	lmo2057.fasta
+lmo2058	ctaA	2140046	918	heme O oxygenase	570	lmo2058.fasta
+lmo2059		2141071	744	potassium channel protein	467	lmo2059.fasta
+lmo2060		2141820	642	hypothetical protein	522	lmo2060.fasta
+lmo2061		2142480	618	hypothetical protein	515	lmo2061.fasta
+lmo2062		2143109	1626	copper transporter	1059	lmo2062.fasta
+lmo2063		2144874	192	hypothetical protein	120	lmo2063.fasta
+lmo2064	mscL	2145127	387	large-conductance mechanosensitive channel protein	179	lmo2064.fasta
+lmo2065		2145652	393	hypothetical protein	342	lmo2065.fasta
+lmo2066		2146089	210	hypothetical protein	191	lmo2066.fasta
+lmo2067		2146449	978	bile acid hydrolase	547	lmo2067.fasta
+lmo2068	groEL	2147684	1629	molecular chaperone GroEL	881	lmo2068.fasta
+lmo2069	groES	2149348	285	co-chaperonin GroES	149	lmo2069.fasta
+lmo2070		2149868	687	hypothetical protein	452	lmo2070.fasta
+lmo2071		2150556	204	hypothetical protein	60	lmo2071.fasta
+lmo2072		2150786	648	redox-sensing transcriptional repressor Rex	253	lmo2072.fasta
+lmo2075		2155223	1023	DNA-binding/iron metalloprotein/AP endonuclease	584	lmo2075.fasta
+lmo2076		2156242	456	alanine acetyltransferase	244	lmo2076.fasta
+lmo2083		2160538	627	hypothetical protein	550	lmo2083.fasta
+lmo2084		2161161	894	hypothetical protein	654	lmo2084.fasta
+lmo2088		2167353	591	transcriptional regulator	469	lmo2088.fasta
+lmo2089		2168054	1044	lipase	673	lmo2089.fasta
+lmo2090	argG	2169312	1215	argininosuccinate synthase	784	lmo2090.fasta
+lmo2091	argH	2170530	1371	argininosuccinate lyase	945	lmo2091.fasta
+lmo2092	betL	2172068	1524	glycine betaine transporter BetL	807	lmo2092.fasta
+lmo2093		2173635	198	hypothetical protein	132	lmo2093.fasta
+lmo2094		2173836	651	L-fuculose-phosphate aldolase	432	lmo2094.fasta
+lmo2095		2174488	933	phosphofructokinase	626	lmo2095.fasta
+lmo2096		2175438	1350	PTS galacticol transporter subunit IIC	776	lmo2096.fasta
+lmo2097		2176815	276	PTS galacticol transporter subunit IIB	211	lmo2097.fasta
+lmo2098		2177096	468	PTS galacticol transporter subunit IIA	233	lmo2098.fasta
+lmo2099		2177571	2007	transcriptional antiterminator	1029	lmo2099.fasta
+lmo2101		2181329	888	pyridoxal biosynthesis lyase PdxS	670	lmo2101.fasta
+lmo2103	eutD	2182823	978	phosphotransacetylase	725	lmo2103.fasta
+lmo2104		2184120	228	hypothetical protein	137	lmo2104.fasta
+lmo2111		2191525	732	nitroreductase	584	lmo2111.fasta
+lmo2112		2192379	231	hypothetical protein	120	lmo2112.fasta
+lmo2113		2192693	756	heme peroxidase	495	lmo2113.fasta
+lmo2118	glmM	2197763	1353	phosphoglucosamine mutase	592	lmo2118.fasta
+lmo2119		2199365	1359	hypothetical protein	664	lmo2119.fasta
+lmo2120		2200723	822	hypothetical protein	343	lmo2120.fasta
+lmo2122		2203996	834	maltodextrose utilization protein MalA	626	lmo2122.fasta
+lmo2123		2204857	852	sugar ABC transporter permease	563	lmo2123.fasta
+lmo2124		2205709	1308	sugar ABC transporter permease	772	lmo2124.fasta
+lmo2125		2207103	1260	sugar ABC transporter substrate-binding protein	834	lmo2125.fasta
+lmo2126		2208576	1776	maltogenic amylase	956	lmo2126.fasta
+lmo2130		2213218	1824	hypothetical protein	702	lmo2130.fasta
+lmo2141		2225471	474	hypothetical protein	316	lmo2141.fasta
+lmo2142		2226533	666	hypothetical protein	288	lmo2142.fasta
+lmo2145		2230042	1017	hypothetical protein	760	lmo2145.fasta
+lmo2152		2234982	327	thioredoxin	132	lmo2152.fasta
+lmo2153		2235305	438	flavodoxin	268	lmo2153.fasta
+lmo2154	nrdF	2235739	1050	ribonucleotide-diphosphate reductase subunit beta	581	lmo2154.fasta
+lmo2155		2236844	2292	ribonucleotide-diphosphate reductase subunit alpha	923	lmo2155.fasta
+lmo2156		2239672	342	hypothetical protein	248	lmo2156.fasta
+lmo2158		2242097	186	hypothetical protein	111	lmo2158.fasta
+lmo2159		2242376	1050	oxidoreductase	751	lmo2159.fasta
+lmo2160		2243448	969	hypothetical protein	624	lmo2160.fasta
+lmo2161		2244419	723	hypothetical protein	503	lmo2161.fasta
+lmo2162		2245143	741	hypothetical protein	520	lmo2162.fasta
+lmo2163		2245899	1077	oxidoreductase	693	lmo2163.fasta
+lmo2164		2247050	879	AraC family transcriptional regulator	475	lmo2164.fasta
+lmo2165		2247998	696	Crp/Fnr family transcriptional regulator	434	lmo2165.fasta
+lmo2166		2248946	672	hypothetical protein	376	lmo2166.fasta
+lmo2167		2249683	618	hypothetical protein	289	lmo2167.fasta
+lmo2168		2250431	390	glyoxalase	261	lmo2168.fasta
+lmo2170		2251050	930	hypothetical protein	621	lmo2170.fasta
+lmo2171		2252001	1224	MFS transporter	815	lmo2171.fasta
+lmo2172		2253221	1584	propionate CoA-transferase	965	lmo2172.fasta
+lmo2173		2255034	1368	sigma-54-dependent transcriptional regulator	840	lmo2173.fasta
+lmo2188		2275520	1806	oligoendopeptidase	791	lmo2188.fasta
+lmo2190	mecA	2278639	654	adaptor protein	297	lmo2190.fasta
+lmo2191	spxA	2279524	396	ArsC family transcriptional regulator	118	lmo2191.fasta
+lmo2192		2280238	969	peptide ABC transporter ATP-binding protein	378	lmo2192.fasta
+lmo2193		2281203	1077	peptide ABC transporter ATP-binding protein	394	lmo2193.fasta
+lmo2194		2282297	1035	peptide ABC transporter permease	415	lmo2194.fasta
+lmo2195		2283331	930	peptide ABC transporter permease	325	lmo2195.fasta
+lmo2196		2284539	1677	hypothetical protein	625	lmo2196.fasta
+lmo2198	trpS	2287518	996	tryptophanyl-tRNA synthetase	466	lmo2198.fasta
+lmo2200		2288971	453	MarR family transcriptional regulator	222	lmo2200.fasta
+lmo2201		2289545	1242	3-oxoacyl-ACP synthase	487	lmo2201.fasta
+lmo2202		2290989	939	3-oxoacyl-ACP synthase	367	lmo2202.fasta
+lmo2203		2292047	1128	N-acetylmuramoyl-L-alanine amidase	645	lmo2203.fasta
+lmo2204		2293497	189	hypothetical protein	61	lmo2204.fasta
+lmo2205		2293775	690	phosphoglyceromutase	361	lmo2205.fasta
+lmo2206	clpB	2294555	2601	Clp protease subunit B	1074	lmo2206.fasta
+lmo2207		2297304	678	hypothetical protein	419	lmo2207.fasta
+lmo2208		2298093	771	hypothetical protein	532	lmo2208.fasta
+lmo2210		2299833	345	hypothetical protein	203	lmo2210.fasta
+lmo2211	hemH	2300334	930	ferrochelatase	547	lmo2211.fasta
+lmo2212	hemE	2301260	1062	uroporphyrinogen decarboxylase	264	lmo2212.fasta
+lmo2213		2302518	504	hypothetical protein	414	lmo2213.fasta
+lmo2214		2303060	1224	ABC transporter permease	796	lmo2214.fasta
+lmo2216		2305180	423	histidine triad (HIT) protein	231	lmo2216.fasta
+lmo2217		2305632	363	hypothetical protein	215	lmo2217.fasta
+lmo2218		2306177	540	hypothetical protein	316	lmo2218.fasta
+lmo2219		2306833	882	foldase	435	lmo2219.fasta
+lmo2220		2307755	942	3'-5' exoribonuclease	438	lmo2220.fasta
+lmo2223		2312839	354	hypothetical protein	172	lmo2223.fasta
+lmo2225	fumC	2314511	1368	fumarate hydratase	686	lmo2225.fasta
+lmo2227		2316739	906	ABC transporter ATP-binding protein	604	lmo2227.fasta
+lmo2229		2317950	2145	penicillin-binding protein	988	lmo2229.fasta
+lmo2230		2320416	426	arsenate reductase	157	lmo2230.fasta
+lmo2232		2322031	1305	hypothetical protein	785	lmo2232.fasta
+lmo2233		2323375	879	LysR family transcriptional regulator	605	lmo2233.fasta
+lmo2234		2324554	855	hypothetical protein	542	lmo2234.fasta
+lmo2235		2325477	1926	NADH oxidase	965	lmo2235.fasta
+lmo2236		2327461	870	shikimate 5-dehydrogenase	597	lmo2236.fasta
+lmo2237		2328363	1209	MFS transporter permease	665	lmo2237.fasta
+lmo2238		2329731	1191	MFS transporter	663	lmo2238.fasta
+lmo2244		2334586	870	ribosomal large subunit pseudouridine synthase	558	lmo2244.fasta
+lmo2246		2335862	657	hypothetical protein	529	lmo2246.fasta
+lmo2247		2336515	885	oxidoreductase	572	lmo2247.fasta
+lmo2248		2337786	621	hypothetical protein	218	lmo2248.fasta
+lmo2249		2338420	999	low-affinity inorganic phosphate transporter	465	lmo2249.fasta
+lmo2250	arpJ	2339611	1461	amino acid ABC transporter permease	878	lmo2250.fasta
+lmo2252		2341865	1149	aspartate aminotransferase	664	lmo2252.fasta
+lmo2253		2343056	630	phosphoglucomutase	369	lmo2253.fasta
+lmo2254		2343858	1293	hypothetical protein	655	lmo2254.fasta
+lmo2255		2345260	267	hypothetical protein	211	lmo2255.fasta
+lmo2256		2345567	522	hypothetical protein	377	lmo2256.fasta
+lmo2257		2346252	345	hypothetical protein	168	lmo2257.fasta
+lmo2258		2346593	192	hypothetical protein	88	lmo2258.fasta
+lmo2261		2348231	309	hypothetical protein	122	lmo2261.fasta
+lmo2262		2348604	753	hypothetical protein	454	lmo2262.fasta
+lmo2263		2349475	846	hypothetical protein	474	lmo2263.fasta
+lmo2264		2350398	903	hypothetical protein	415	lmo2264.fasta
+lmo2265		2351384	363	hypothetical protein	213	lmo2265.fasta
+lmo2269		2359948	357	hypothetical protein	186	lmo2269.fasta
+lmo2334		2402888	348	transcriptional regulator	100	lmo2334.fasta
+lmo2336	fruB	2405241	924	fructose-1-phosphate kinase	429	lmo2336.fasta
+lmo2337		2406161	753	DeoR family transcriptional regulator	358	lmo2337.fasta
+lmo2338	pepC	2407128	1326	aminopeptidase	658	lmo2338.fasta
+lmo2340		2408967	912	hypothetical protein	503	lmo2340.fasta
+lmo2341		2409875	1119	sugar kinase	607	lmo2341.fasta
+lmo2345		2413478	996	hypothetical protein	695	lmo2345.fasta
+lmo2346		2414470	780	amino acid ABC transporter ATP-binding protein	552	lmo2346.fasta
+lmo2347		2415246	708	amino acid ABC transporter permease	566	lmo2347.fasta
+lmo2348		2415967	717	amino acid ABC transporter permease	528	lmo2348.fasta
+lmo2349		2416705	810	amino acid ABC transporter substrate-binding protein	535	lmo2349.fasta
+lmo2350		2417531	537	hypothetical protein	367	lmo2350.fasta
+lmo2351		2418083	546	FMN reductase	422	lmo2351.fasta
+lmo2352		2418871	900	LysR family transcriptional regulator	700	lmo2352.fasta
+lmo2353		2419797	1953	Na+/H+ antiporter	1069	lmo2353.fasta
+lmo2354		2421878	1599	hypothetical protein	966	lmo2354.fasta
+lmo2355		2423480	1242	multidrug resistance protein	720	lmo2355.fasta
+lmo2358		2426270	732	N-acetylglucosamine-6-phosphate isomerase	407	lmo2358.fasta
+lmo2360		2428010	2784	transmembrane protein	1264	lmo2360.fasta
+lmo2361		2430826	471	hypothetical protein	280	lmo2361.fasta
+lmo2362		2431688	1524	amino acid antiporter	1056	lmo2362.fasta
+lmo2363		2433224	1395	glutamate decarboxylase	919	lmo2363.fasta
+lmo2366		2443368	759	DeoR family transcriptional regulator	534	lmo2366.fasta
+lmo2367	pgi	2444231	1353	glucose-6-phosphate isomerase	759	lmo2367.fasta
+lmo2368		2445685	408	hypothetical protein	300	lmo2368.fasta
+lmo2369		2446240	354	general stress protein 13	199	lmo2369.fasta
+lmo2370		2446747	1167	aminotransferase	830	lmo2370.fasta
+lmo2371		2448052	1104	ABC transporter permease	731	lmo2371.fasta
+lmo2372		2449155	681	ABC transporter ATP-binding protein	563	lmo2372.fasta
+lmo2373		2449878	315	PTS beta-glucoside transporter subunit IIB	165	lmo2373.fasta
+lmo2374		2450437	1362	aspartate kinase	819	lmo2374.fasta
+lmo2376		2452322	585	peptidyl-prolyl cis-trans isomerase	493	lmo2376.fasta
+lmo2378		2454695	2409	monovalent cation/H+ antiporter subunit A	1179	lmo2378.fasta
+lmo2381		2457852	1485	monovalent cation/H+ antiporter subunit D	823	lmo2381.fasta
+lmo2382		2459343	480	monovalent cation/H+ antiporter subunit E	223	lmo2382.fasta
+lmo2384		2460090	594	monovalent cation/H+ antiporter subunit G	467	lmo2384.fasta
+lmo2386		2461219	474	hypothetical protein	289	lmo2386.fasta
+lmo2389		2463969	1212	NADH dehydrogenase	671	lmo2389.fasta
+lmo2390		2465630	996	hypothetical thioredoxine reductase	618	lmo2390.fasta
+lmo2391		2466713	630	hypothetical protein	528	lmo2391.fasta
+lmo2392		2467388	234	hypothetical protein	223	lmo2392.fasta
+lmo2393		2467643	327	hypothetical protein	242	lmo2393.fasta
+lmo2397		2472089	237	NifU protein	109	lmo2397.fasta
+lmo2398	ltrC	2472438	501	hypothetical protein	320	lmo2398.fasta
+lmo2399		2472963	1311	hypothetical protein	841	lmo2399.fasta
+lmo2401		2474801	768	hypothetical protein	566	lmo2401.fasta
+lmo2402		2475588	276	hypothetical protein	153	lmo2402.fasta
+lmo2404		2477385	840	hypothetical protein	705	lmo2404.fasta
+lmo2405		2478225	366	hypothetical protein	432	lmo2405.fasta
+lmo2406		2478623	843	hypothetical protein	845	lmo2406.fasta
+lmo2411		2481732	1395	hypothetical protein	851	lmo2411.fasta
+lmo2412		2483149	444	hypothetical protein	364	lmo2412.fasta
+lmo2413		2483589	1227	aminotransferase	851	lmo2413.fasta
+lmo2414		2484816	1302	aminotransferase	919	lmo2414.fasta
+lmo2415		2486136	786	ABC transporter ATP-binding protein	522	lmo2415.fasta
+lmo2417		2488379	831	ABC transporter substrate-binding protein	595	lmo2417.fasta
+lmo2418		2489274	675	ABC transporter permease	504	lmo2418.fasta
+lmo2419		2489945	1023	ABC transporter ATP-binding protein	606	lmo2419.fasta
+lmo2420		2491285	189	hypothetical protein	157	lmo2420.fasta
+lmo2421		2491552	1143	two-component sensor histidine kinase	640	lmo2421.fasta
+lmo2423		2493454	876	hypothetical protein	567	lmo2423.fasta
+lmo2425		2494891	378	glycine cleavage system protein H	194	lmo2425.fasta
+lmo2426		2495309	354	hypothetical protein	229	lmo2426.fasta
+lmo2427		2495818	1176	cell division protein FtsW	601	lmo2427.fasta
+lmo2428		2497069	1170	cell division protein FtsW	529	lmo2428.fasta
+lmo2429		2498381	792	ferrichrome ABC transporter ATP-binding protein	574	lmo2429.fasta
+lmo2430		2499169	1011	ferrichrome ABC transporter permease	649	lmo2430.fasta
+lmo2431		2500179	972	ferrichrome ABC transporter substrate-binding protein	694	lmo2431.fasta
+lmo2432		2501306	165	hypothetical protein	141	lmo2432.fasta
+lmo2433		2501603	759	acetylesterase	515	lmo2433.fasta
+lmo2434		2502401	1404	glutamate decarboxylase	699	lmo2434.fasta
+lmo2436		2504300	858	transcription antiterminator	437	lmo2436.fasta
+lmo2437		2505425	411	hypothetical protein	267	lmo2437.fasta
+lmo2441		2507306	897	transcriptional regulator	687	lmo2441.fasta
+lmo2448	smpB	2519935	465	SsrA-binding protein	231	lmo2448.fasta
+lmo2449		2520415	2382	exoribonuclease RNase-R	1284	lmo2449.fasta
+lmo2450		2522830	747	carboxylesterase	544	lmo2450.fasta
+lmo2451	secG	2523835	234	preprotein translocase subunit SecG	75	lmo2451.fasta
+lmo2452		2524168	744	carboxylesterase	472	lmo2452.fasta
+lmo2453		2525094	720	epoxide hydrolase	559	lmo2453.fasta
+lmo2454		2525946	174	hypothetical protein	132	lmo2454.fasta
+lmo2455	eno	2526222	1293	phosphopyruvate hydratase	474	lmo2455.fasta
+lmo2456	pgm	2527650	1533	phosphoglyceromutase	907	lmo2456.fasta
+lmo2457	tpiA	2529184	756	triosephosphate isomerase	453	lmo2457.fasta
+lmo2458	pgk	2529985	1191	phosphoglycerate kinase	634	lmo2458.fasta
+lmo2459	gap	2531310	1011	glyceraldehyde-3-phosphate dehydrogenase	348	lmo2459.fasta
+lmo2460		2532352	1047	transcriptional regulator	655	lmo2460.fasta
+lmo2462		2535342	927	dipeptidase	610	lmo2462.fasta
+lmo2465		2539213	399	hypothetical protein	297	lmo2465.fasta
+lmo2468	clpP	2542014	597	ATP-dependent Clp protease proteolytic subunit	287	lmo2468.fasta
+lmo2469		2542658	1392	amino acid transporter	673	lmo2469.fasta
+lmo2471		2545487	1017	NADPH dehydrogenase	681	lmo2471.fasta
+lmo2472		2546530	972	hypothetical protein	494	lmo2472.fasta
+lmo2473		2547509	969	hypothetical protein	467	lmo2473.fasta
+lmo2474		2548479	876	hypothetical protein	490	lmo2474.fasta
+lmo2475		2549462	1731	phosphoglucomutase	906	lmo2475.fasta
+lmo2477	galE	2552312	984	UDP-glucose 4-epimerase	543	lmo2477.fasta
+lmo2478	trxB	2553414	960	thioredoxin reductase	537	lmo2478.fasta
+lmo2479		2554452	1476	hypothetical protein	746	lmo2479.fasta
+lmo2480		2556013	498	acetyltransferase	394	lmo2480.fasta
+lmo2481		2556514	654	pyrophosphatase PpaX	352	lmo2481.fasta
+lmo2482	lgt	2557211	834	prolipoprotein diacylglyceryl transferase	450	lmo2482.fasta
+lmo2483		2558130	939	HPr kinase/phosphorylase	326	lmo2483.fasta
+lmo2484		2559255	354	hypothetical protein	196	lmo2484.fasta
+lmo2486		2559841	1212	hypothetical protein	623	lmo2486.fasta
+lmo2487		2561120	1263	hypothetical protein	593	lmo2487.fasta
+lmo2488	uvrA	2562591	2871	excinuclease ABC subunit A	1059	lmo2488.fasta
+lmo2489	uvrB	2565469	1977	excinuclease ABC subunit B	815	lmo2489.fasta
+lmo2490		2567696	240	CsbA protein	175	lmo2490.fasta
+lmo2491		2567956	648	hypothetical protein	310	lmo2491.fasta
+lmo2492		2568625	387	hypothetical protein	243	lmo2492.fasta
+lmo2493		2569117	306	ArsR family transcriptional regulator	178	lmo2493.fasta
+lmo2494		2569690	660	PhoU family transcriptional regulator	333	lmo2494.fasta
+lmo2496		2571156	816	phosphate ABC transporter ATP-binding protein	563	lmo2496.fasta
+lmo2497		2571999	885	phosphate ABC transporter permease	625	lmo2497.fasta
+lmo2498		2572880	924	phosphate ABC transporter permease	558	lmo2498.fasta
+lmo2499		2573897	909	phosphate ABC transporter substrate-binding protein	482	lmo2499.fasta
+lmo2501	phoP	2576836	711	two-component response phosphate regulator	346	lmo2501.fasta
+lmo2503		2578899	1449	cardiolipin synthase	697	lmo2503.fasta
+lmo2504		2580470	1311	cell wall-binding protein	764	lmo2504.fasta
+lmo2505	spl	2581900	1206	peptidoglycan lytic protein P45	349	lmo2505.fasta
+lmo2506	ftsX	2583181	885	cell division protein FtsX	347	lmo2506.fasta
+lmo2509	prfB	2586114	984	peptide chain release factor 2	534	lmo2509.fasta
+lmo2510	secA	2587300	2514	preprotein translocase subunit SecA	909	lmo2510.fasta
+lmo2511		2590044	564	hypothetical protein	296	lmo2511.fasta
+lmo2514		2592965	852	hypothetical protein	451	lmo2514.fasta
+lmo2515		2593837	687	two-component response regulator DegU	274	lmo2515.fasta
+lmo2516		2594908	636	hypothetical protein	383	lmo2516.fasta
+lmo2518		2596266	1059	LytR family transcriptional regulator	415	lmo2518.fasta
+lmo2524	fabZ	2602249	435	(3R)-hydroxymyristoyl-ACP dehydratase	134	lmo2524.fasta
+lmo2525	mbl	2602705	996	rod shape-determining protein MreB	374	lmo2525.fasta
+lmo2526	murA	2603863	1293	UDP-N-acetylglucosamine 1-carboxyvinyltransferase	460	lmo2526.fasta
+lmo2527		2605337	237	hypothetical protein	191	lmo2527.fasta
+lmo2528	atpC	2605697	405	ATP synthase F0F1 subunit epsilon	191	lmo2528.fasta
+lmo2529	atpD	2606123	1422	ATP synthase F0F1 subunit beta	531	lmo2529.fasta
+lmo2530	atpG	2607605	873	ATP synthase F0F1 subunit gamma	337	lmo2530.fasta
+lmo2531	atpA	2608515	1515	ATP synthase F0F1 subunit alpha	632	lmo2531.fasta
+lmo2532	atpH	2610056	540	ATP synthase F0F1 subunit delta	311	lmo2532.fasta
+lmo2533	atpF	2610592	513	ATP synthase F0F1 subunit B	169	lmo2533.fasta
+lmo2534	atpE	2611192	219	ATP synthase F0F1 subunit C	57	lmo2534.fasta
+lmo2535	atpB	2611482	717	ATP synthase F0F1 subunit A	285	lmo2535.fasta
+lmo2536	atpI	2612205	399	ATP synthase subunit I	175	lmo2536.fasta
+lmo2536a		2612797	171	hypothetical protein	102	lmo2536a.fasta
+lmo2537		2613435	1140	UDP-N-acetylglucosamine 2-epimerase	593	lmo2537.fasta
+lmo2538	upp	2614692	630	uracil phosphoribosyltransferase	261	lmo2538.fasta
+lmo2539	glyA	2615458	1242	serine hydroxymethyltransferase	678	lmo2539.fasta
+lmo2543	prfA	2619415	1077	peptide chain release factor 1	685	lmo2543.fasta
+lmo2544		2620514	576	thymidine kinase	362	lmo2544.fasta
+lmo2545	thrB	2621201	867	homoserine kinase	642	lmo2545.fasta
+lmo2546	thrC	2622067	1056	threonine synthase	676	lmo2546.fasta
+lmo2547	hom	2623125	1287	homoserine dehydrogenase	692	lmo2547.fasta
+lmo2548	rpmE2	2624633	246	50S ribosomal protein L31	79	lmo2548.fasta
+lmo2555		2631303	1284	N-acetylglucosaminyl-phosphatidylinositol biosynthesis protein	541	lmo2555.fasta
+lmo2556	fbaA	2632907	855	"fructose-1,6-bisphosphate aldolase"	269	lmo2556.fasta
+lmo2559	pyrG	2637964	1599	CTP synthetase	742	lmo2559.fasta
+lmo2560		2639930	537	DNA-directed RNA polymerase subunit delta	237	lmo2560.fasta
+lmo2561	argS	2640832	1671	arginyl-tRNA synthetase	685	lmo2561.fasta
+lmo2562		2642499	450	hypothetical protein	250	lmo2562.fasta
+lmo2564		2643753	186	4-oxalocrotonate isomerase	121	lmo2564.fasta
+lmo2566		2645310	837	hypothetical protein	507	lmo2566.fasta
+lmo2567		2646464	201	hypothetical protein	132	lmo2567.fasta
+lmo2568		2646686	324	hypothetical protein	187	lmo2568.fasta
+lmo2569		2647164	1662	peptide ABC transporter substrate-binding protein	1025	lmo2569.fasta
+lmo2570		2648960	615	hypothetical protein	459	lmo2570.fasta
+lmo2571		2649598	633	nicotinamidase	500	lmo2571.fasta
+lmo2572		2650231	525	dihydrofolate reductase subunit A	409	lmo2572.fasta
+lmo2574		2651853	273	hypothetical protein	218	lmo2574.fasta
+lmo2575		2652174	912	cation transporter	546	lmo2575.fasta
+lmo2581		2661076	1089	hypothetical protein	685	lmo2581.fasta
+lmo2582		2662243	1380	histidine kinase	841	lmo2582.fasta
+lmo2583		2663619	678	DNA-binding response regulator	498	lmo2583.fasta
+lmo2584		2664343	786	formate dehydrogenase accessory protein	677	lmo2584.fasta
+lmo2585		2665190	477	hypothetical protein	366	lmo2585.fasta
+lmo2586		2665666	2988	formate dehydrogenase subunit alpha	1386	lmo2586.fasta
+lmo2588		2670042	1482	multidrug transporter	999	lmo2588.fasta
+lmo2596	rpsI	2684251	393	30S ribosomal protein S9	137	lmo2596.fasta
+lmo2597	rplM	2684665	438	50S ribosomal protein L13	131	lmo2597.fasta
+lmo2598	truA	2685297	747	tRNA pseudouridine synthase A	588	lmo2598.fasta
+lmo2599		2686049	798	hypothetical protein	637	lmo2599.fasta
+lmo2600	cbiO	2686849	867	cobalt ABC transporter ATP-binding subunit	708	lmo2600.fasta
+lmo2605	rplQ	2691673	408	50S ribosomal protein L17	133	lmo2605.fasta
+lmo2606	rpoA	2692097	945	DNA-directed RNA polymerase subunit alpha	280	lmo2606.fasta
+lmo2607	rpsK	2693151	390	30S ribosomal protein S11	63	lmo2607.fasta
+lmo2608	rpsM	2693563	366	30S ribosomal protein S13	91	lmo2608.fasta
+lmo2609	rpmJ	2693947	114	50S ribosomal protein L36	33	lmo2609.fasta
+lmo2610	infA	2694164	219	translation initiation factor IF-1	50	lmo2610.fasta
+lmo2611	adk	2694769	648	adenylate kinase	267	lmo2611.fasta
+lmo2612	secY	2695476	1296	preprotein translocase subunit SecY	453	lmo2612.fasta
+lmo2613	rplO	2696771	441	50S ribosomal protein L15	161	lmo2613.fasta
+lmo2614	rpmD	2697267	180	50S ribosomal protein L30	56	lmo2614.fasta
+lmo2615	rpsE	2697463	504	30S ribosomal protein S5	114	lmo2615.fasta
+lmo2616	rplR	2697988	360	50S ribosomal protein L18	91	lmo2616.fasta
+lmo2617	rplF	2698387	537	50S ribosomal protein L6	161	lmo2617.fasta
+lmo2618	rpsH	2698954	399	30S ribosomal protein S8	107	lmo2618.fasta
+lmo2619	rpsN	2699383	186	30S ribosomal protein S14	40	lmo2619.fasta
+lmo2620	rplE	2699600	540	50S ribosomal protein L5	141	lmo2620.fasta
+lmo2621	rplX	2700166	312	50S ribosomal protein L24	122	lmo2621.fasta
+lmo2622	rplN	2700515	369	50S ribosomal protein L14	97	lmo2622.fasta
+lmo2623	rpsQ	2700963	264	30S ribosomal protein S17	70	lmo2623.fasta
+lmo2625	rplP	2701435	435	50S ribosomal protein L16	111	lmo2625.fasta
+lmo2626	rpsC	2701872	657	30S ribosomal protein S3	155	lmo2626.fasta
+lmo2627	rplV	2702532	357	50S ribosomal protein L22	107	lmo2627.fasta
+lmo2628	rpsS	2702909	279	30S ribosomal protein S19	54	lmo2628.fasta
+lmo2629	rplB	2703275	834	50S ribosomal protein L2	325	lmo2629.fasta
+lmo2630	rplW	2704149	285	50S ribosomal protein L23	91	lmo2630.fasta
+lmo2631	rplD	2704433	624	50S ribosomal protein L4	241	lmo2631.fasta
+lmo2632	rplC	2705082	630	50S ribosomal protein L3	251	lmo2632.fasta
+lmo2633	rpsJ	2705746	309	30S ribosomal protein S10	111	lmo2633.fasta
+lmo2634		2706415	801	hypothetical protein	571	lmo2634.fasta
+lmo2636		2708276	1083	hypothetical protein	587	lmo2636.fasta
+lmo2637		2709522	900	hypothetical protein	400	lmo2637.fasta
+lmo2638		2710869	1887	NADH dehydrogenase	785	lmo2638.fasta
+lmo2639		2712931	435	hypothetical protein	237	lmo2639.fasta
+lmo2640		2713398	543	hypothetical protein	326	lmo2640.fasta
+lmo2641		2713962	981	heptaprenyl diphosphate synthase subunit II	614	lmo2641.fasta
+lmo2642		2715032	1332	hypothetical protein	897	lmo2642.fasta
+lmo2643		2716408	987	hypothetical protein	728	lmo2643.fasta
+lmo2644a		2718312	744	hypothetical protein	609	lmo2644a.fasta
+lmo2648		2720497	993	phosphotriesterase	770	lmo2648.fasta
+lmo2649	ulaA	2721559	1299	PTS system ascorbate transporter subunit IIC	769	lmo2649.fasta
+lmo2650		2722884	273	MFS transporter	220	lmo2650.fasta
+lmo2651		2723159	435	PTS mannitol transporter subunit IIA	349	lmo2651.fasta
+lmo2653	tuf	2726008	1188	elongation factor Tu	266	lmo2653.fasta
+lmo2654	fus	2727304	2088	elongation factor G	451	lmo2654.fasta
+lmo2655	rpsG	2729457	471	30S ribosomal protein S7	111	lmo2655.fasta
+lmo2656	rpsL	2729958	414	30S ribosomal protein S12	84	lmo2656.fasta
+lmo2657		2730564	1398	deoxyguanosinetriphosphate triphosphohydrolase	813	lmo2657.fasta
+lmo2658		2731976	480	acyltransferase	487	lmo2658.fasta
+lmo2659		2732589	645	ribulose-phosphate 3-epimerase	587	lmo2659.fasta
+lmo2660		2733230	2016	transketolase	1075	lmo2660.fasta
+lmo2661		2735279	675	ribulose-5-phosphate 3-epimerase	552	lmo2661.fasta
+lmo2662		2735962	441	ribose 5-phosphate epimerase	360	lmo2662.fasta
+lmo2663		2736597	1032	polyol dehydrogenase	695	lmo2663.fasta
+lmo2664		2737630	1053	sorbitol dehydrogenase	696	lmo2664.fasta
+lmo2665		2738719	1272	PTS galacticol transporter subunit IIC	579	lmo2665.fasta
+lmo2666		2740052	282	PTS galacticol transporter subunit IIB	141	lmo2666.fasta
+lmo2667		2740390	465	PTS galacticol transporter subunit IIA	227	lmo2667.fasta
+lmo2668		2740888	2070	transcriptional antiterminator BglG	1048	lmo2668.fasta
+lmo2669		2743326	813	hypothetical protein	569	lmo2669.fasta
+lmo2670		2744212	363	hypothetical protein	377	lmo2670.fasta
+lmo2673		2745907	471	hypothetical protein	296	lmo2673.fasta
+lmo2674		2746423	456	ribose-5-phosphate isomerase B	319	lmo2674.fasta
+lmo2677		2748685	813	esterase	616	lmo2677.fasta
+lmo2678		2749538	696	XRE family transcriptional regulator	508	lmo2678.fasta
+lmo2680	kdpC	2752936	573	potassium-transporting ATPase subunit C	404	lmo2680.fasta
+lmo2681	kdpB	2753523	2046	potassium-transporting ATPase subunit B	1048	lmo2681.fasta
+lmo2682	kdpA	2755580	1686	potassium-transporting ATPase subunit A	1008	lmo2682.fasta
+lmo2683		2757606	306	PTS cellbiose transporter subunit IIB	109	lmo2683.fasta
+lmo2685		2759390	303	PTS cellbiose transporter subunit IIA	124	lmo2685.fasta
+lmo2689a		2765824	255	hypothetical protein	70	lmo2689a.fasta
+lmo2692		2768944	330	hypothetical protein	266	lmo2692.fasta
+lmo2693	tmk	2769381	627	thymidylate kinase	427	lmo2693.fasta
+lmo2694		2770060	1380	lysine decarboxylase	926	lmo2694.fasta
+lmo2695		2771623	990	dihydroxyacetone kinase subunit DhaK	763	lmo2695.fasta
+lmo2697		2773234	375	PTS mannose transporter subunit IIA	339	lmo2697.fasta
+lmo2698		2773714	852	RpiR family transcriptional regulator	726	lmo2698.fasta
+lmo2699		2774684	840	hypothetical protein	648	lmo2699.fasta
+lmo2700		2775644	843	aldo/keto reductase	600	lmo2700.fasta
+lmo2701		2776532	246	hypothetical protein	108	lmo2701.fasta
+lmo2702	recR	2776792	597	recombination protein RecR	268	lmo2702.fasta
+lmo2703		2777497	318	hypothetical protein	147	lmo2703.fasta
+lmo2704	dnaX	2777844	1740	DNA polymerase III subunit gamma/tau	958	lmo2704.fasta
+lmo2706		2780392	183	hypothetical protein	75	lmo2706.fasta
+lmo2707		2780577	222	hypothetical protein	114	lmo2707.fasta
+lmo2708		2780933	1365	PTS cellbiose transporter subunit IIC	624	lmo2708.fasta
+lmo2710		2783466	642	hypothetical protein	452	lmo2710.fasta
+lmo2711		2784354	321	hypothetical protein	62	lmo2711.fasta
+lmo2712		2784805	1515	gluconate kinase	794	lmo2712.fasta
+lmo2713		2786435	939	internalin	557	lmo2713.fasta
+lmo2716	cydC	2790243	1725	ABC transporter	984	lmo2716.fasta
+lmo2718	cydA	2792967	1407	cytochrome D ubiquinol oxidase subunit I	738	lmo2718.fasta
+lmo2719		2794755	471	hypothetical protein	332	lmo2719.fasta
+lmo2720		2795420	1578	acetate-CoA ligase	936	lmo2720.fasta
+lmo2721		2797039	720	6-phosphogluconolactonase	695	lmo2721.fasta
+lmo2722		2797838	735	MerR family transcripitonal regulator	706	lmo2722.fasta
+lmo2723		2798626	462	hypothetical protein	464	lmo2723.fasta
+lmo2724		2799108	444	hypothetical protein	454	lmo2724.fasta
+lmo2725		2799609	1353	hypothetical protein	921	lmo2725.fasta
+lmo2726		2800958	450	MarR family transcriptional regulator	281	lmo2726.fasta
+lmo2727		2801577	882	hypothetical protein	634	lmo2727.fasta
+lmo2730		2803445	612	phosphatase	420	lmo2730.fasta
+lmo2738		2813949	1335	hemolysin	750	lmo2738.fasta
+lmo2741		2816363	1209	multidrug transporter	821	lmo2741.fasta
+lmo2742		2817688	348	hypothetical protein	216	lmo2742.fasta
+lmo2743		2818054	645	translaldolase	406	lmo2743.fasta
+lmo2744		2818841	690	Crp/Fnr family transcriptional regulator	264	lmo2744.fasta
+lmo2745		2819860	1728	ABC transporter ATP-binding protein	904	lmo2745.fasta
+lmo2746		2821641	252	hypothetical protein	212	lmo2746.fasta
+lmo2747	serS	2821912	1284	seryl-tRNA synthetase	759	lmo2747.fasta
+lmo2751		2826515	1722	ABC transporter ATP-binding protein	889	lmo2751.fasta
+lmo2752		2828236	1773	ABC transporter ATP-binding protein	984	lmo2752.fasta
+lmo2754		2830542	1338	D-alanyl-D-alanine carboxypeptidase	796	lmo2754.fasta
+lmo2755		2832058	1668	CoA-transferase	879	lmo2755.fasta
+lmo2756	topB	2833834	2154	DNA topoisomerase III	992	lmo2756.fasta
+lmo2757		2836011	1773	ATP-dependent DNA helicase	881	lmo2757.fasta
+lmo2758	guaB	2837944	1467	inosine-monophosphate dehydrogenase	880	lmo2758.fasta
+lmo2759		2839698	531	hypothetical protein	418	lmo2759.fasta
+lmo2761		2842413	1455	beta-glucosidase	915	lmo2761.fasta
+lmo2762		2843914	303	PTS cellbiose transporter subunit IIB	230	lmo2762.fasta
+lmo2763		2844249	1353	PTS cellbiose transporter subunit IIC	849	lmo2763.fasta
+lmo2764		2845613	885	ROK family transcriptional regulator	760	lmo2764.fasta
+lmo2766		2846839	735	RpiR family transcriptional regulator	602	lmo2766.fasta
+lmo2767		2847673	663	hypothetical protein	368	lmo2767.fasta
+lmo2769		2849563	888	ABC transporter ATP-binding protein	593	lmo2769.fasta
+lmo2770		2850620	2331	bifunctional glutamate--cysteine ligase/glutathione synthetase	960	lmo2770.fasta
+lmo2779		2863561	1101	GTP-binding protein EngD	647	lmo2779.fasta
+lmo2785	kat	2871318	1467	catalase	780	lmo2785.fasta
+lmo2789		2876947	207	hypothetical protein	179	lmo2789.fasta
+lmo2790	parB	2877160	852	partition protein ParB homolg	434	lmo2790.fasta
+lmo2792		2878989	759	hypothetical protein	331	lmo2792.fasta
+lmo2793		2879906	300	hypothetical protein	225	lmo2793.fasta
+lmo2794		2880217	855	NA-binding protein Spo0J	455	lmo2794.fasta
+lmo2796		2882033	906	transcriptional regulator	647	lmo2796.fasta
+lmo2797		2882963	447	PTS mannitol transporter subunit IIA	366	lmo2797.fasta
+lmo2798		2883422	657	phosphatase	601	lmo2798.fasta
+lmo2799		2884141	1407	PTS mannitol transporter subunit IIBC	830	lmo2799.fasta
+lmo2800		2885581	1002	dehydrogenase	752	lmo2800.fasta
+lmo2801		2886584	714	N-acetylmannosamine-6-phosphate 2-epimerase	600	lmo2801.fasta
+lmo2802	gidB	2887499	717	16S rRNA methyltransferase GidB	648	lmo2802.fasta
+lmo2810	gidA	2892596	1890	tRNA uridine 5-carboxymethylaminomethyl modification enzyme GidA	961	lmo2810.fasta
+lmo2819		2903200	1203	carboxypeptidase	801	lmo2819.fasta
+lmo2822		2909753	324	hypothetical protein	347	lmo2822.fasta
+lmo2823		2910085	1242	sporulation protein SpoOJ	820	lmo2823.fasta
+lmo2824		2911415	1188	D-3-phosphoglycerate dehydrogenase	700	lmo2824.fasta
+lmo2826		2914057	1149	MFS transporter	744	lmo2826.fasta
+lmo2829		2916291	600	nitroreductase	348	lmo2829.fasta
+lmo2830		2916946	321	thioredoxin	194	lmo2830.fasta
+lmo2831		2917389	663	phosphoglucomutase	502	lmo2831.fasta
+lmo2832		2918048	1122	hypothetical protein	755	lmo2832.fasta
+lmo2833		2919166	2178	maltose phosphorylase	1063	lmo2833.fasta
+lmo2834		2921340	1032	oxidoreductase	659	lmo2834.fasta
+lmo2835		2922429	795	xylose isomerase	537	lmo2835.fasta
+lmo2836		2923236	1053	alcohol dehydrogenase	767	lmo2836.fasta
+lmo2838		2925145	882	sugar ABC transporter permease	473	lmo2838.fasta
+lmo2839		2926101	1293	sugar ABC transporter substrate-binding protein	678	lmo2839.fasta
+lmo2840		2927390	1242	sucrose phosphorylase	767	lmo2840.fasta
+lmo2842		2929315	1026	LacI family transcriptional regulator	582	lmo2842.fasta
+lmo2853		2941599	621	hypothetical protein	275	lmo2853.fasta
+lmo2854		2942216	864	sporulation protein SpoJ	422	lmo2854.fasta
+lmo2855	rnpA	2943120	360	ribonuclease P	217	lmo2855.fasta
+lmo2856	rpmH	2943569	135	50S ribosomal protein L34	48	lmo2856.fasta
+lmo2857		2943871	471	hypothetical protein	328	lmo2857.fasta

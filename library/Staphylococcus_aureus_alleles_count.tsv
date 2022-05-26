@@ -1,0 +1,1862 @@
+Locus	Gene	Start	Length	Product	Allele Count	Alleles
+SACOL0001	dnaA	544	1362	chromosomal replication initiation protein	950	SACOL0001.fasta
+SACOL0002	dnaN	2183	1134	DNA polymerase III subunit beta	1184	SACOL0002.fasta
+SACOL0003		3697	246	hypothetical protein	174	SACOL0003.fasta
+SACOL0004	recF	3939	1113	recombination protein F	842	SACOL0004.fasta
+SACOL0005	gyrB	5061	1935	DNA gyrase, B subunit	1366	SACOL0005.fasta
+SACOL0006	gyrA	7032	2664	DNA gyrase, A subunit	1930	SACOL0006.fasta
+SACOL0007		9782	702	hypothetical protein	612	SACOL0007.fasta
+SACOL0009	serS	12813	1287	seryl-tRNA synthetase	988	SACOL0009.fasta
+SACOL0010		14749	696	hypothetical protein	910	SACOL0010.fasta
+SACOL0011		15441	330	hypothetical protein	430	SACOL0011.fasta
+SACOL0012		16112	990	homoserine O-acetyltransferase	1195	SACOL0012.fasta
+SACOL0013		17407	924	hypothetical protein	940	SACOL0013.fasta
+SACOL0014		18345	1968	hypothetical protein	1699	SACOL0014.fasta
+SACOL0015	rplI	20309	447	50S ribosomal protein L9	438	SACOL0015.fasta
+SACOL0016	dnaB	20787	1401	replicative DNA helicase	1164	SACOL0016.fasta
+SACOL0018	purA	22465	1284	adenylosuccinate synthetase	892	SACOL0018.fasta
+SACOL0019	yycF	24952	702	DNA-binding response regulator YycF	453	SACOL0019.fasta
+SACOL0020	yycG	25666	1827	sensory box histidine kinase YycG	1708	SACOL0020.fasta
+SACOL0022	yycI	28820	789	hypothetical protein	795	SACOL0022.fasta
+SACOL0023	yycJ	29998	801	metallo-beta-lactamase YycJ	649	SACOL0023.fasta
+SACOL0024		31026	2319	5'-nucleotidase	2180	SACOL0024.fasta
+SACOL0025		33576	480	hypothetical protein	767	SACOL0025.fasta
+SACOL0077		87500	483	hypothetical protein	592	SACOL0077.fasta
+SACOL0078	plc	88187	987	1-phosphatidylinositol phosphodiesterase	1106	SACOL0078.fasta
+SACOL0084		92790	2199	AraC family transcriptional regulator	2174	SACOL0084.fasta
+SACOL0085		95139	1179	M20/M25/M40 family peptidase	1325	SACOL0085.fasta
+SACOL0086		96319	1389	drug transporter	1559	SACOL0086.fasta
+SACOL0088		98200	1662	Na/Pi cotransporter family protein	1468	SACOL0088.fasta
+SACOL0089		100187	1776	myosin-cross-reactive antigen	1802	SACOL0089.fasta
+SACOL0092		104708	474	hypothetical protein	491	SACOL0092.fasta
+SACOL0093		105443	1593	L-lactate permease	1395	SACOL0093.fasta
+SACOL0096	sarS	109311	753	accessory regulator S	691	SACOL0096.fasta
+SACOL0097	sirC	110432	999	iron compound ABC transporter permease SirC	875	SACOL0097.fasta
+SACOL0098	sirB	111427	996	iron compound ABC transporter permease SirB	1041	SACOL0098.fasta
+SACOL0099	sirA	112438	993	iron compound ABC transporter iron compound-binding protein SirA	848	SACOL0099.fasta
+SACOL0100		113694	948	cysteine synthase/cystathionine beta-synthase	743	SACOL0100.fasta
+SACOL0101		114650	999	ornithine cyclodeaminase	882	SACOL0101.fasta
+SACOL0102		115669	1755	IucC family siderophore biosynthesis protein	1493	SACOL0102.fasta
+SACOL0105		120379	1779	IucC family siderophore biosynthesis protein	1649	SACOL0105.fasta
+SACOL0107		122908	1203	pyridoxal-dependent decarboxylase	1053	SACOL0107.fasta
+SACOL0108		124114	765	hypothetical protein	692	SACOL0108.fasta
+SACOL0111		126369	777	acetoin reductase	894	SACOL0111.fasta
+SACOL0113		127490	972	NAD-dependent epimerase/dehydratase	973	SACOL0113.fasta
+SACOL0117		131701	1431	polysaccharide extrusion protein	1435	SACOL0117.fasta
+SACOL0118	sodA1	133399	600	superoxide dismutase	477	SACOL0118.fasta
+SACOL0120		135283	756	GntR family transcriptional regulator	634	SACOL0120.fasta
+SACOL0121	deoD1	136274	708	purine nucleoside phosphorylase	723	SACOL0121.fasta
+SACOL0122		136988	1353	tetracycline resistance protein	1240	SACOL0122.fasta
+SACOL0124	deoB	139111	1179	phosphopentomutase	895	SACOL0124.fasta
+SACOL0125		140420	816	phosphonate ABC transporter permease	935	SACOL0125.fasta
+SACOL0126		141232	801	phosphonate ABC transporter permease	894	SACOL0126.fasta
+SACOL0127		142034	774	phosphonate ABC transporter ATP-binding protein	877	SACOL0127.fasta
+SACOL0128		143021	957	phosphonate ABC transporter phosphonate-binding protein	1046	SACOL0128.fasta
+SACOL0130		145801	1536	5' nucleotidase	1745	SACOL0130.fasta
+SACOL0135		150451	2610	bifunctional acetaldehyde-CoA/alcohol dehydrogenase	2296	SACOL0135.fasta
+SACOL0136	cap5A	153405	669	capsular polysaccharide biosynthesis protein Cap5A	708	SACOL0136.fasta
+SACOL0137	cap5B	154089	687	capsular polysaccharide biosynthesis protein Cap5B	753	SACOL0137.fasta
+SACOL0138	cap5C	154778	765	capsular polysaccharide biosynthesis protein Cap5C	799	SACOL0138.fasta
+SACOL0139	cap5D	155562	1824	capsular polysaccharide biosynthesis protein Cap5D	2093	SACOL0139.fasta
+SACOL0141	cap5F	158416	1110	capsular polysaccharide biosynthesis protein Cap5F	1120	SACOL0141.fasta
+SACOL0142	cap5G	159529	1125	UDP-N-acetylglucosamine 2-epimerase Cap5G	951	SACOL0142.fasta
+SACOL0147	cap5L	164775	1206	capsular polysaccharide biosynthesis protein Cap5L	1319	SACOL0147.fasta
+SACOL0148	cap5M	165991	558	capsular polysaccharide biosynthesis galactosyltransferase Cap5M	514	SACOL0148.fasta
+SACOL0149	cap5N	166548	888	capsular polysaccharide biosynthesis protein Cap5N	998	SACOL0149.fasta
+SACOL0150	cap5O	167489	1263	capsular polysaccharide biosynthesis protein Cap5O	1229	SACOL0150.fasta
+SACOL0152		170038	327	heme-degrading monooxygenase IsdI	357	SACOL0152.fasta
+SACOL0153		170371	384	hypothetical protein	382	SACOL0153.fasta
+SACOL0154	aldA1	171181	1488	aldehyde dehydrogenase	1426	SACOL0154.fasta
+SACOL0155		173314	960	cation efflux family protein	1000	SACOL0155.fasta
+SACOL0156		174335	204	hypothetical protein	243	SACOL0156.fasta
+SACOL0157		174717	513	hypothetical protein	560	SACOL0157.fasta
+SACOL0159		177296	762	ABC transporter permease	923	SACOL0159.fasta
+SACOL0160		178070	1032	hypothetical protein	1193	SACOL0160.fasta
+SACOL0164		182958	7176	gramicidin S synthetase 2 related protein	6202	SACOL0164.fasta
+SACOL0165		190146	645	4'-phosphopantetheinyl transferase	649	SACOL0165.fasta
+SACOL0166		191118	495	hypothetical protein	494	SACOL0166.fasta
+SACOL0167	argB	191867	765	acetylglutamate kinase	771	SACOL0167.fasta
+SACOL0168	argJ	192647	1242	bifunctional ornithine acetyltransferase/N-acetylglutamate synthase	1413	SACOL0168.fasta
+SACOL0169	argC	193900	1032	N-acetyl-gamma-glutamyl-phosphate reductase	1109	SACOL0169.fasta
+SACOL0170	rocD1	194970	1185	ornithine aminotransferase	1508	SACOL0170.fasta
+SACOL0171	brnQ1	196407	1356	branched-chain amino acid transport system II carrier protein	1108	SACOL0171.fasta
+SACOL0172	entB	198038	498	isochorismatase	561	SACOL0172.fasta
+SACOL0173	ipdC	198662	1641	indole-3-pyruvate decarboxylase	1671	SACOL0173.fasta
+SACOL0175		200576	2046	PTS system, IIABC components	1592	SACOL0175.fasta
+SACOL0176		203207	1056	hypothetical protein	1164	SACOL0176.fasta
+SACOL0177	murQ	204259	900	N-acetylmuramic acid-6-phosphate etherase	1593	SACOL0177.fasta
+SACOL0178		205170	1455	PTS system, IIBC components	1531	SACOL0178.fasta
+SACOL0179		206627	876	RpiR family phosphosugar-binding transcriptional regulator	784	SACOL0179.fasta
+SACOL0180		208190	2790	type I restriction-modification enzyme, R subunit	2623	SACOL0180.fasta
+SACOL0184		214315	1593	peptide ABC transporter ATP-binding protein	1777	SACOL0184.fasta
+SACOL0185		216035	1308	peptide ABC transporter permease	1592	SACOL0185.fasta
+SACOL0186		217348	1164	peptide ABC transporter permease	1261	SACOL0186.fasta
+SACOL0187		218528	1776	RGD-containing lipoprotein	1923	SACOL0187.fasta
+SACOL0188	ggt	220341	2007	gamma-glutamyltranspeptidase	2211	SACOL0188.fasta
+SACOL0190	acpD	223608	627	azoreductase	827	SACOL0190.fasta
+SACOL0191		224443	579	M23/M37 peptidase domain-containing protein	677	SACOL0191.fasta
+SACOL0192		225404	1098	maltose ABC transporter ATP-binding protein	1057	SACOL0192.fasta
+SACOL0193		226514	1272	maltose ABC transporter maltose-binding protein	1270	SACOL0193.fasta
+SACOL0194		227788	1269	maltose ABC transporter permease	1348	SACOL0194.fasta
+SACOL0195		229058	840	maltose ABC transporter permease	831	SACOL0195.fasta
+SACOL0196		229971	1077	Gfo/Idh/MocA family oxidoreductase	1177	SACOL0196.fasta
+SACOL0197		231072	1041	Gfo/Idh/MocA family oxidoreductase	1079	SACOL0197.fasta
+SACOL0198		232167	969	hypothetical protein	961	SACOL0198.fasta
+SACOL0199		233496	573	hypothetical protein	513	SACOL0199.fasta
+SACOL0200	uhpT	234223	1380	sugar phosphate antiporter	1185	SACOL0200.fasta
+SACOL0202		236712	1557	sensor histidine kinase	1502	SACOL0202.fasta
+SACOL0203		238265	969	iron compound ABC transporter iron compound-binding protein	947	SACOL0203.fasta
+SACOL0204	pflB	239821	2250	formate acetyltransferase	1399	SACOL0204.fasta
+SACOL0205	pflA	242093	756	pyruvate formate-lyase-activating enzyme	638	SACOL0205.fasta
+SACOL0207		243184	1764	hypothetical protein	1637	SACOL0207.fasta
+SACOL0208		245111	345	hypothetical protein	410	SACOL0208.fasta
+SACOL0211		248158	1185	acetyl-CoA acetyltransferase	1463	SACOL0211.fasta
+SACOL0212		249372	2262	3-hydroxyacyl-CoA dehydrogenase	2521	SACOL0212.fasta
+SACOL0213		251819	1212	acyl-CoA dehydrogenase	1392	SACOL0213.fasta
+SACOL0214		253142	1506	long-chain-fatty-acid--CoA ligase	1627	SACOL0214.fasta
+SACOL0215		254673	1572	propionate CoA-transferase	1885	SACOL0215.fasta
+SACOL0216		256691	1143	hypothetical protein	1201	SACOL0216.fasta
+SACOL0219		260333	174	hypothetical protein	188	SACOL0219.fasta
+SACOL0220		260532	1146	flavohemoprotein	1132	SACOL0220.fasta
+SACOL0222	ldh1	262250	954	L-lactate dehydrogenase	891	SACOL0222.fasta
+SACOL0223		263371	126	hypothetical protein	164	SACOL0223.fasta
+SACOL0224		263523	1530	PTS system, IIBC components	1762	SACOL0224.fasta
+SACOL0225		265414	936	inosine-uridine preferring nucleoside hydrolase	1042	SACOL0225.fasta
+SACOL0228		266688	2097	BglG family transcriptional antiterminator	2267	SACOL0228.fasta
+SACOL0230		269259	279	PTS system, sorbitol-specific IIB component	259	SACOL0230.fasta
+SACOL0231		269602	135	hypothetical protein	192	SACOL0231.fasta
+SACOL0232		269764	1260	PTS system, sorbitol-specific IIC component	1599	SACOL0232.fasta
+SACOL0233	gutB	271041	1056	sorbitol dehydrogenase	1238	SACOL0233.fasta
+SACOL0234		272098	147	hypothetical protein	166	SACOL0234.fasta
+SACOL0235		272268	1044	hexitol dehydrogenase	1251	SACOL0235.fasta
+SACOL0237		274548	1026	alcohol dehydrogenase, zinc-containing	1194	SACOL0237.fasta
+SACOL0238		275595	1695	teichoic acid biosynthesis protein	1950	SACOL0238.fasta
+SACOL0239		277717	1170	TagF domain-containing protein	1127	SACOL0239.fasta
+SACOL0241		279871	1026	alcohol dehydrogenase, zinc-containing	641	SACOL0241.fasta
+SACOL0242		280918	1689	teichoic acid biosynthesis protein	1486	SACOL0242.fasta
+SACOL0244	scdA	284503	675	cell wall biosynthesis protein ScdA	671	SACOL0244.fasta
+SACOL0245	lytS	285424	1755	sensor histidine kinase LytS	1226	SACOL0245.fasta
+SACOL0246	lytR	287181	741	two-component response regulator	540	SACOL0246.fasta
+SACOL0248	lrgB	288470	702	antiholin-like protein LrgB	590	SACOL0248.fasta
+SACOL0249		289279	705	GntR family transcriptional regulator	668	SACOL0249.fasta
+SACOL0251	bglA	290939	1437	6-phospho-beta-glucosidase	1528	SACOL0251.fasta
+SACOL0252		292809	762	hypothetical protein	849	SACOL0252.fasta
+SACOL0253	rbsK	293821	915	ribokinase	935	SACOL0253.fasta
+SACOL0254		294763	405	D-ribose pyranase	437	SACOL0254.fasta
+SACOL0255		295182	882	hypothetical protein	974	SACOL0255.fasta
+SACOL0258		297444	180	hypothetical protein	212	SACOL0258.fasta
+SACOL0259		297673	393	hypothetical protein	371	SACOL0259.fasta
+SACOL0261		298738	1377	drug transporter	1671	SACOL0261.fasta
+SACOL0262		300348	993	choloylglycine hydrolase	1135	SACOL0262.fasta
+SACOL0263	lytM	301648	969	peptidoglycan hydrolase	1059	SACOL0263.fasta
+SACOL0264		302668	660	ABC transporter ATP-binding protein	712	SACOL0264.fasta
+SACOL0265		303341	921	hypothetical protein	936	SACOL0265.fasta
+SACOL0266		304258	1167	hypothetical protein	1230	SACOL0266.fasta
+SACOL0267		305492	1524	hypothetical protein	1758	SACOL0267.fasta
+SACOL0270		308703	894	staphyloxanthin biosynthesis protein	1034	SACOL0270.fasta
+SACOL0271		309844	294	hypothetical protein	240	SACOL0271.fasta
+SACOL0272		310221	3030	hypothetical protein	2929	SACOL0272.fasta
+SACOL0273		313250	459	hypothetical protein	432	SACOL0273.fasta
+SACOL0275		313935	1335	hypothetical protein	1432	SACOL0275.fasta
+SACOL0299		333640	375	hypothetical protein	407	SACOL0299.fasta
+SACOL0300		334167	399	hypothetical protein	450	SACOL0300.fasta
+SACOL0301		334781	846	formate/nitrite transporter family protein	1167	SACOL0301.fasta
+SACOL0302	brnQ2	335842	1308	branched-chain amino acid transport system II carrier protein	1331	SACOL0302.fasta
+SACOL0303		337733	891	5'-nucleotidase	885	SACOL0303.fasta
+SACOL0305		338872	1050	ABC transporter permease	1125	SACOL0305.fasta
+SACOL0306		339934	678	ABC transporter ATP-binding protein	688	SACOL0306.fasta
+SACOL0307	pfoR	340819	1032	perfringolysin O regulator protein	974	SACOL0307.fasta
+SACOL0308		342193	1119	carbohydrate kinase	1175	SACOL0308.fasta
+SACOL0310		344220	1221	nucleoside permease NupC	1317	SACOL0310.fasta
+SACOL0311		345545	1533	sodium:solute symporter family protein	1767	SACOL0311.fasta
+SACOL0312	nanA	347117	882	N-acetylneuraminate lyase	1015	SACOL0312.fasta
+SACOL0313		348156	861	ROK family protein	998	SACOL0313.fasta
+SACOL0314		349294	801	hypothetical protein	923	SACOL0314.fasta
+SACOL0315		350234	669	N-acetylmannosamine-6-phosphate 2-epimerase	633	SACOL0315.fasta
+SACOL0316		351029	1314	hypothetical protein	1539	SACOL0316.fasta
+SACOL0390		398286	123	lipase precursor, interruption-C	144	SACOL0390.fasta
+SACOL0391		398650	828	hypothetical protein	980	SACOL0391.fasta
+SACOL0392		399550	1200	Oye family NADH-dependent flavin oxidoreductase	1380	SACOL0392.fasta
+SACOL0394		401051	1002	hypothetical protein	1184	SACOL0394.fasta
+SACOL0395		402086	333	glycine cleavage system H protein	372	SACOL0395.fasta
+SACOL0398		404131	1023	lipoate-protein ligase A family protein	1302	SACOL0398.fasta
+SACOL0400	ulaA	406586	1347	PTS system ascorbate-specific transporter subunit IIC	1586	SACOL0400.fasta
+SACOL0401		407947	285	hypothetical protein	359	SACOL0401.fasta
+SACOL0402		408233	444	PTS system, IIA component	416	SACOL0402.fasta
+SACOL0403		408681	1956	BglG family transcriptional antiterminator	1833	SACOL0403.fasta
+SACOL0404		410848	420	MarR family transcriptional regulator	490	SACOL0404.fasta
+SACOL0405		411374	1356	MATE efflux family protein	1574	SACOL0405.fasta
+SACOL0407	glpT	413356	1359	glycerol-3-phosphate transporter	1328	SACOL0407.fasta
+SACOL0409		415962	1062	hypothetical protein	1286	SACOL0409.fasta
+SACOL0410		417037	567	FMN reductase-like protein	661	SACOL0410.fasta
+SACOL0411		417663	996	hypothetical protein	1050	SACOL0411.fasta
+SACOL0413		419132	546	ribosomal-protein-serine acetyltransferase	643	SACOL0413.fasta
+SACOL0416		422006	1713	hypothetical protein	1859	SACOL0416.fasta
+SACOL0418		424528	216	mttA/Hcf106 family protein	308	SACOL0418.fasta
+SACOL0419		424852	390	hypothetical protein	570	SACOL0419.fasta
+SACOL0420		425482	204	Cro/CI family transcriptional regulator	206	SACOL0420.fasta
+SACOL0421		425682	714	hypothetical protein	877	SACOL0421.fasta
+SACOL0422		426420	843	ABC transporter ATP-binding protein	982	SACOL0422.fasta
+SACOL0424		427262	630	hypothetical protein	743	SACOL0424.fasta
+SACOL0425		428258	1134	hypothetical protein	1360	SACOL0425.fasta
+SACOL0426		429930	1182	acetyl-CoA acetyltransferase	1081	SACOL0426.fasta
+SACOL0427		431194	753	hypothetical protein	946	SACOL0427.fasta
+SACOL0428	metE	431989	2229	5- methyltetrahydropteroyltriglutamate/homocysteine S-methyltransferase	2144	SACOL0428.fasta
+SACOL0429		434214	1842	bifunctional homocysteine S-methyltransferase/5,10-methylenetetrahydrofolate reductase	1946	SACOL0429.fasta
+SACOL0431		437181	1104	trans-sulfuration enzyme family protein	1378	SACOL0431.fasta
+SACOL0432		438948	846	spoOJ protein	806	SACOL0432.fasta
+SACOL0434		440861	204	hypothetical protein	151	SACOL0434.fasta
+SACOL0435		441076	1098	GTP-dependent nucleic acid-binding protein EngD	980	SACOL0435.fasta
+SACOL0437	rpsF	442694	297	30S ribosomal protein S6	261	SACOL0437.fasta
+SACOL0438	ssb2	443011	504	single-stranded DNA-binding protein	337	SACOL0438.fasta
+SACOL0439	rpsR	443566	243	30S ribosomal protein S18	191	SACOL0439.fasta
+SACOL0443		446938	369	hypothetical protein	461	SACOL0443.fasta
+SACOL0444		447487	573	hypothetical protein	549	SACOL0444.fasta
+SACOL0445		448197	264	hypothetical protein	265	SACOL0445.fasta
+SACOL0446		448760	252	hypothetical protein	224	SACOL0446.fasta
+SACOL0447		449437	582	phosphoglycerate mutase	649	SACOL0447.fasta
+SACOL0448		450084	384	hypothetical protein	507	SACOL0448.fasta
+SACOL0449		450722	627	hypothetical protein	609	SACOL0449.fasta
+SACOL0451	ahpF	451793	1524	alkyl hydroperoxide reductase subunit F	1654	SACOL0451.fasta
+SACOL0452	ahpC	453332	570	alkyl hydroperoxide reductase subunit C	437	SACOL0452.fasta
+SACOL0453		454393	756	NAD(P)H-flavin oxidoreductase	1081	SACOL0453.fasta
+SACOL0454		455229	1389	sodium:dicarboxylate symporter family protein	1779	SACOL0454.fasta
+SACOL0455		457594	957	hypothetical protein	978	SACOL0455.fasta
+SACOL0456		458668	663	hypothetical protein	823	SACOL0456.fasta
+SACOL0457		459473	408	hypothetical protein	514	SACOL0457.fasta
+SACOL0458	xpt	460392	579	xanthine phosphoribosyltransferase	675	SACOL0458.fasta
+SACOL0459	pbuX	460970	1269	xanthine permease	1427	SACOL0459.fasta
+SACOL0460	guaB	462276	1467	inosine-5'-monophosphate dehydrogenase	1302	SACOL0460.fasta
+SACOL0461	guaA	463767	1542	GMP synthase	1167	SACOL0461.fasta
+SACOL0465		467986	153	hypothetical protein	209	SACOL0465.fasta
+SACOL0466		468662	360	hypothetical protein	484	SACOL0466.fasta
+SACOL0467		469040	846	hypothetical protein	1091	SACOL0467.fasta
+SACOL0480		482503	309	hypothetical protein	443	SACOL0480.fasta
+SACOL0488		489723	324	hypothetical protein	363	SACOL0488.fasta
+SACOL0490		490669	261	hypothetical protein	364	SACOL0490.fasta
+SACOL0491		491048	1203	cobalamin synthesis protein	1530	SACOL0491.fasta
+SACOL0494	nuoF	493838	1485	NADH dehydrogenase subunit 5	1733	SACOL0494.fasta
+SACOL0495		495335	2706	hypothetical protein	2933	SACOL0495.fasta
+SACOL0496		498202	363	hypothetical protein	350	SACOL0496.fasta
+SACOL0497		498793	348	hypothetical protein	421	SACOL0497.fasta
+SACOL0498		499247	675	hypothetical protein	720	SACOL0498.fasta
+SACOL0499		499958	735	hypothetical protein	788	SACOL0499.fasta
+SACOL0501		501148	1338	sodium-dependent transporter	1244	SACOL0501.fasta
+SACOL0503		503600	1143	trans-sulfuration enzyme family protein	1304	SACOL0503.fasta
+SACOL0504		505036	1026	ABC transporter ATP-binding protein	1169	SACOL0504.fasta
+SACOL0505		506065	660	ABC transporter permease	844	SACOL0505.fasta
+SACOL0506		506761	843	ABC transporter substrate-binding protein	1009	SACOL0506.fasta
+SACOL0508		509124	270	hypothetical protein	262	SACOL0508.fasta
+SACOL0510		509927	486	acetyltransferase	659	SACOL0510.fasta
+SACOL0511		510581	783	hypothetical protein	687	SACOL0511.fasta
+SACOL0512		511360	1113	hypothetical protein	939	SACOL0512.fasta
+SACOL0513	gltC	512593	885	transcriptional regulatory protein GltC	927	SACOL0513.fasta
+SACOL0514	gltB	513658	4500	glutamate synthase	5103	SACOL0514.fasta
+SACOL0515	gltD	518175	1464	glutamate synthase	1850	SACOL0515.fasta
+SACOL0516		520470	1428	PTS system, IIBC components	1925	SACOL0516.fasta
+SACOL0517		521961	1641	alpha-amylase	1793	SACOL0517.fasta
+SACOL0518		523626	729	GntR family transcriptional regulator	774	SACOL0518.fasta
+SACOL0519		524993	525	acetyltransferase	567	SACOL0519.fasta
+SACOL0520	dnaX	525586	1698	DNA polymerase III subunits gamma and tau	1533	SACOL0520.fasta
+SACOL0521		527373	318	hypothetical protein	262	SACOL0521.fasta
+SACOL0522	recR	527697	597	recombination protein RecR	549	SACOL0522.fasta
+SACOL0523		535057	1338	Orn/Lys/Arg decarboxylase	1384	SACOL0523.fasta
+SACOL0524	tmk	536396	618	thymidylate kinase	513	SACOL0524.fasta
+SACOL0525		537041	330	hypothetical protein	328	SACOL0525.fasta
+SACOL0526		537584	927	DNA polymerase III subunit delta'	873	SACOL0526.fasta
+SACOL0527		538511	804	hypothetical protein	1141	SACOL0527.fasta
+SACOL0528		539331	348	DNA replication intiation control protein YabA	304	SACOL0528.fasta
+SACOL0529		539952	726	hypothetical protein	863	SACOL0529.fasta
+SACOL0531		540920	840	tetrapyrrole methylase	820	SACOL0531.fasta
+SACOL0532		541784	156	hypothetical protein	141	SACOL0532.fasta
+SACOL0533	metS	542044	1974	methionyl-tRNA synthetase	1738	SACOL0533.fasta
+SACOL0534		544048	774	TatD family deoxyribonuclease	872	SACOL0534.fasta
+SACOL0536	ksgA	545535	894	dimethyladenosine transferase	1063	SACOL0536.fasta
+SACOL0537		546528	264	hypothetical protein	180	SACOL0537.fasta
+SACOL0538	ipk	547101	849	4-diphosphocytidyl-2-C-methyl-D-erythritol kinase	950	SACOL0538.fasta
+SACOL0539	purR	547963	825	pur operon repressor	709	SACOL0539.fasta
+SACOL0540		548804	381	endoribonuclease L-PSP	560	SACOL0540.fasta
+SACOL0541	spoVG	549256	303	regulatory protein SpoVG	394	SACOL0541.fasta
+SACOL0542		549748	132	hypothetical protein	116	SACOL0542.fasta
+SACOL0543	glmU	549902	1353	bifunctional N-acetylglucosamine-1-phosphate uridyltransferase/glucosamine-1-phosphate acetyltransferase	1396	SACOL0543.fasta
+SACOL0544	prsA	551401	966	ribose-phosphate pyrophosphokinase	648	SACOL0544.fasta
+SACOL0545	rplY	552516	654	50S ribosomal protein L25/general stress protein Ctc	546	SACOL0545.fasta
+SACOL0546	pth	553480	573	peptidyl-tRNA hydrolase	556	SACOL0546.fasta
+SACOL0547	mfd	554052	3507	transcription-repair coupling factor	3507	SACOL0547.fasta
+SACOL0549		559074	1194	tetrapyrrole methylase	1520	SACOL0549.fasta
+SACOL0550		560264	264	S4 domain-containing protein	267	SACOL0550.fasta
+SACOL0551		560545	393	cell-division protein divIC	374	SACOL0551.fasta
+SACOL0552		561042	402	hypothetical protein	332	SACOL0552.fasta
+SACOL0553		561623	1296	hypothetical protein	1272	SACOL0553.fasta
+SACOL0554	hpt	562923	540	hypoxanthine phosphoribosyltransferase	447	SACOL0554.fasta
+SACOL0555		563719	2094	cell division protein FtsH	1764	SACOL0555.fasta
+SACOL0556	hslO	566041	882	Hsp33-like chaperonin	1078	SACOL0556.fasta
+SACOL0557	cysK	567101	933	cysteine synthase	1064	SACOL0557.fasta
+SACOL0558	folP	568249	804	dihydropteroate synthase	926	SACOL0558.fasta
+SACOL0560	folK	569392	477	2-amino-4-hydroxy-6- hydroxymethyldihydropteridine pyrophosphokinase	434	SACOL0560.fasta
+SACOL0561		570262	93	hypothetical protein	113	SACOL0561.fasta
+SACOL0562	lysS	570407	1488	lysyl-tRNA synthetase	1297	SACOL0562.fasta
+SACOL0563		583479	1383	GntR family transcriptional regulator	1332	SACOL0563.fasta
+SACOL0564		584965	888	pyridoxal biosynthesis lyase PdxS	765	SACOL0564.fasta
+SACOL0565		585856	561	glutamine amidotransferase subunit PdxT	478	SACOL0565.fasta
+SACOL0566	nupC	586624	1215	nucleoside permease NupC	918	SACOL0566.fasta
+SACOL0567	ctsR	587996	462	transcriptional regulator CtsR	390	SACOL0567.fasta
+SACOL0569		589032	1008	ATP:guanido phosphotransferase	1004	SACOL0569.fasta
+SACOL0572	radA	592995	1365	DNA repair protein RadA	1262	SACOL0572.fasta
+SACOL0573		594384	1074	PIN/TRAM domain-containing protein	1224	SACOL0573.fasta
+SACOL0574	gltX	596014	1455	glutamyl-tRNA synthetase	1474	SACOL0574.fasta
+SACOL0576	cysS	598522	1401	cysteinyl-tRNA synthetase	1498	SACOL0576.fasta
+SACOL0578		600327	747	RNA methyltransferase	858	SACOL0578.fasta
+SACOL0579		601073	525	hypothetical protein	570	SACOL0579.fasta
+SACOL0580		601678	570	hypothetical protein	801	SACOL0580.fasta
+SACOL0581	secE	602561	183	preprotein translocase subunit SecE	134	SACOL0581.fasta
+SACOL0582	nusG	602756	549	transcription antitermination protein	617	SACOL0582.fasta
+SACOL0583	rplK	603476	432	50S ribosomal protein L11	431	SACOL0583.fasta
+SACOL0584	rplA	604115	693	50S ribosomal protein L1	732	SACOL0584.fasta
+SACOL0585	rplJ	605079	501	50S ribosomal protein L10	583	SACOL0585.fasta
+SACOL0586	rplL	605622	369	50S ribosomal protein L7/L12	361	SACOL0586.fasta
+SACOL0587		606165	609	hypothetical protein	825	SACOL0587.fasta
+SACOL0588	rpoB	606988	3552	DNA-directed RNA polymerase subunit beta	3234	SACOL0588.fasta
+SACOL0589	rpoC	610676	3624	DNA-directed RNA polymerase subunit beta'	2760	SACOL0589.fasta
+SACOL0590		614436	255	ribosomal protein L7Ae-like	239	SACOL0590.fasta
+SACOL0591	rpsL	614788	414	30S ribosomal protein S12	284	SACOL0591.fasta
+SACOL0592	rpsG	615267	471	30S ribosomal protein S7	322	SACOL0592.fasta
+SACOL0593	fusA	615860	2082	elongation factor G	1946	SACOL0593.fasta
+SACOL0594	tuf	618158	1185	elongation factor Tu	672	SACOL0594.fasta
+SACOL0595		619624	1176	M20/M25/M40 family peptidase	1646	SACOL0595.fasta
+SACOL0596		620970	1188	2-amino-3-ketobutyrate coenzyme A ligase	1065	SACOL0596.fasta
+SACOL0597		622423	879	chaperone protein HchA	947	SACOL0597.fasta
+SACOL0598		623461	1638	ribulokinase	1743	SACOL0598.fasta
+SACOL0599		625312	966	hypothetical protein	891	SACOL0599.fasta
+SACOL0600	ilvE	626612	1077	branched-chain amino acid aminotransferase	905	SACOL0600.fasta
+SACOL0602		627938	684	HAD superfamily hydrolase	657	SACOL0602.fasta
+SACOL0603		628737	663	deoxynucleoside kinase	518	SACOL0603.fasta
+SACOL0606		630693	870	HAD superfamily hydrolase	885	SACOL0606.fasta
+SACOL0607		631583	567	hypothetical protein	437	SACOL0607.fasta
+SACOL0611		643947	1473	glycosyl transferase, group 1 family protein	1626	SACOL0611.fasta
+SACOL0612		645543	1491	glycosyl transferase, group 1 family protein	1606	SACOL0612.fasta
+SACOL0613		647315	879	GTP cyclohydrolase	657	SACOL0613.fasta
+SACOL0614		648206	666	hypothetical protein	692	SACOL0614.fasta
+SACOL0615		648885	363	hypothetical protein	401	SACOL0615.fasta
+SACOL0616	nagB	649523	759	glucosamine-6-phosphate isomerase	862	SACOL0616.fasta
+SACOL0617		650358	633	hexulose-6-phosphate synthase	659	SACOL0617.fasta
+SACOL0618		650992	549	SIS domain-containing protein	620	SACOL0618.fasta
+SACOL0619		651644	657	HAD superfamily hydrolase	850	SACOL0619.fasta
+SACOL0620	proP	652802	1401	osmoprotectant proline transporter	1526	SACOL0620.fasta
+SACOL0621		654746	1377	substrate--CoA ligase	1615	SACOL0621.fasta
+SACOL0622	atoB	656124	1140	acetyl-CoA acetyltransferase	1552	SACOL0622.fasta
+SACOL0624		657606	270	hypothetical protein	290	SACOL0624.fasta
+SACOL0625		658076	168	hypothetical protein	160	SACOL0625.fasta
+SACOL0626	thiD1	658750	831	phosphomethylpyrimidine kinase	1018	SACOL0626.fasta
+SACOL0627	ung	659764	657	uracil-DNA glycosylase	651	SACOL0627.fasta
+SACOL0628		660421	381	hypothetical protein	491	SACOL0628.fasta
+SACOL0629		660934	369	hypothetical protein	398	SACOL0629.fasta
+SACOL0630		661423	1485	amino acid permease	1311	SACOL0630.fasta
+SACOL0631		663049	453	hypothetical protein	508	SACOL0631.fasta
+SACOL0632		663514	765	hypothetical protein	807	SACOL0632.fasta
+SACOL0633		664827	753	heme peroxidase	725	SACOL0633.fasta
+SACOL0634	eutD	665747	987	phosphotransacetylase	930	SACOL0634.fasta
+SACOL0635		666736	837	lipoate-protein ligase A family protein	818	SACOL0635.fasta
+SACOL0636	mvk	668159	921	mevalonate kinase	815	SACOL0636.fasta
+SACOL0637	mvaD	669084	984	mevalonate diphosphate decarboxylase	988	SACOL0637.fasta
+SACOL0638		670080	1077	phosphomevalonate kinase	805	SACOL0638.fasta
+SACOL0639		671333	342	hypothetical protein	291	SACOL0639.fasta
+SACOL0642		673534	102	hypothetical protein	139	SACOL0642.fasta
+SACOL0655		684230	939	aldo/keto reductase oxidoreductase	1164	SACOL0655.fasta
+SACOL0658		686600	1296	HD domain-containing protein	1023	SACOL0658.fasta
+SACOL0659		687923	522	hypothetical protein	596	SACOL0659.fasta
+SACOL0660	adhP	688943	1011	alcohol dehydrogenase	1058	SACOL0660.fasta
+SACOL0661		690028	108	hypothetical protein	90	SACOL0661.fasta
+SACOL0662		690216	429	hypothetical protein	388	SACOL0662.fasta
+SACOL0663	argS	690641	1662	arginyl-tRNA synthetase	1365	SACOL0663.fasta
+SACOL0664		692691	636	endonuclease III	752	SACOL0664.fasta
+SACOL0665		693705	888	iron compound ABC transporter iron compound-binding protein	1031	SACOL0665.fasta
+SACOL0666		694740	951	iron compound ABC transporter permease	1040	SACOL0666.fasta
+SACOL0668		696448	801	alpha/beta fold family hydrolase	831	SACOL0668.fasta
+SACOL0669		697384	507	hypothetical protein	508	SACOL0669.fasta
+SACOL0670		698052	717	hypothetical protein	739	SACOL0670.fasta
+SACOL0671		698937	789	alpha/beta fold family hydrolase	898	SACOL0671.fasta
+SACOL0672	sarA	699976	375	accessory regulator A	220	SACOL0672.fasta
+SACOL0673		700498	120	hypothetical protein	216	SACOL0673.fasta
+SACOL0676		702422	225	hypothetical protein	228	SACOL0676.fasta
+SACOL0682		706749	1497	monovalent cation/H+ antiporter subunit D	1428	SACOL0682.fasta
+SACOL0684		708246	483	monovalent cation/H+ antiporter subunit E	416	SACOL0684.fasta
+SACOL0686		709002	438	monovalent cation/H+ antiporter subunit G	357	SACOL0686.fasta
+SACOL0687		709779	2043	Na+/H+ antiporter	1718	SACOL0687.fasta
+SACOL0688		712981	930	ABC transporter substrate-binding protein	728	SACOL0688.fasta
+SACOL0689		713907	837	ABC transporter permease	513	SACOL0689.fasta
+SACOL0691	sirR	715602	645	iron-dependent repressor	654	SACOL0691.fasta
+SACOL0692		716326	753	hypothetical protein	868	SACOL0692.fasta
+SACOL0693	tagA	717314	765	teichoic acid biosynthesis protein	797	SACOL0693.fasta
+SACOL0694		718139	795	teichoic acids export protein ATP-binding subunit	669	SACOL0694.fasta
+SACOL0695		719280	813	tagG protein, teichoic acid ABC transporter protein	604	SACOL0695.fasta
+SACOL0696	tagB	720191	1104	teichoic acid biosynthesis protein B	1172	SACOL0696.fasta
+SACOL0697	tagX	721291	1062	teichoic acid biosynthesis protein X	1284	SACOL0697.fasta
+SACOL0698	tagD	722415	399	glycerol-3-phosphate cytidylyltransferase	228	SACOL0698.fasta
+SACOL0699	pbp4	722930	1296	penicillin-binding protein 4	1346	SACOL0699.fasta
+SACOL0700	abcA	724646	1728	ABC transporter ATP-binding protein/permease	1435	SACOL0700.fasta
+SACOL0701		726732	1230	nucleoside permease NupC	1035	SACOL0701.fasta
+SACOL0702		728216	93	hypothetical protein	119	SACOL0702.fasta
+SACOL0703		728486	834	hypothetical protein	819	SACOL0703.fasta
+SACOL0704		729601	798	iron compound ABC transporter ATP-binding protein	600	SACOL0704.fasta
+SACOL0705		730434	1005	iron compound ABC transporter permease	1076	SACOL0705.fasta
+SACOL0706		731435	1017	iron compound ABC transporter permease	1126	SACOL0706.fasta
+SACOL0707		732688	966	dihydroxyacetone kinase subunit DhaK	1184	SACOL0707.fasta
+SACOL0708		733695	585	DAK2 domain-containing protein	697	SACOL0708.fasta
+SACOL0710		734750	498	hypothetical protein	331	SACOL0710.fasta
+SACOL0711		735703	1068	hypothetical protein	810	SACOL0711.fasta
+SACOL0712		736921	1044	lipase/esterase	1047	SACOL0712.fasta
+SACOL0713		738293	429	hypothetical protein	464	SACOL0713.fasta
+SACOL0714		738930	507	acetyltransferase	556	SACOL0714.fasta
+SACOL0715		739549	924	hypothetical protein	1046	SACOL0715.fasta
+SACOL0721		745704	618	hypothetical protein	332	SACOL0721.fasta
+SACOL0722		746337	1008	phosphate transporter family protein	705	SACOL0722.fasta
+SACOL0723		747932	798	LysM domain-containing protein	868	SACOL0723.fasta
+SACOL0724		749090	645	hypothetical protein	792	SACOL0724.fasta
+SACOL0726	sarX	752661	426	hypothetical protein	596	SACOL0726.fasta
+SACOL0727		753276	717	hypothetical protein	702	SACOL0727.fasta
+SACOL0728		753992	474	hypothetical protein	599	SACOL0728.fasta
+SACOL0730		754818	645	hypothetical protein	435	SACOL0730.fasta
+SACOL0731		755578	867	LysR family transcriptional regulator	713	SACOL0731.fasta
+SACOL0733		756783	1221	sugar efflux transporter	1239	SACOL0733.fasta
+SACOL0735		758587	690	hypothetical protein	723	SACOL0735.fasta
+SACOL0736		759403	444	acetyltransferase	557	SACOL0736.fasta
+SACOL0738		760446	300	hypothetical protein	356	SACOL0738.fasta
+SACOL0739		760825	543	acetyltransferase	639	SACOL0739.fasta
+SACOL0740		761463	567	hypothetical protein	617	SACOL0740.fasta
+SACOL0741		762031	459	hypothetical protein	532	SACOL0741.fasta
+SACOL0742		762492	684	hypothetical protein	753	SACOL0742.fasta
+SACOL0743	uppP	763347	876	UDP pyrophosphate phosphatase	835	SACOL0743.fasta
+SACOL0744		764441	1632	ABC transporter ATP-binding protein	1683	SACOL0744.fasta
+SACOL0745		766069	1674	ABC transporter ATP-binding protein	1844	SACOL0745.fasta
+SACOL0746	norR	767869	444	MarR family transcriptional regulator	435	SACOL0746.fasta
+SACOL0747		768539	927	cobalamin synthesis protein/P47K family protein	1124	SACOL0747.fasta
+SACOL0748		769568	909	aldo/keto reductase oxidoreductase	1117	SACOL0748.fasta
+SACOL0749		770511	288	hypothetical protein	326	SACOL0749.fasta
+SACOL0750		771081	1554	anion transporter family protein	1692	SACOL0750.fasta
+SACOL0753		775332	423	hypothetical protein	499	SACOL0753.fasta
+SACOL0754	norA	775963	1167	multi drug resistance protein (norA)	1210	SACOL0754.fasta
+SACOL0755		777422	453	hypothetical protein	461	SACOL0755.fasta
+SACOL0757		778780	765	DeoR family transcriptional regulator	710	SACOL0757.fasta
+SACOL0758	fruK	779541	921	1-phosphofructokinase	956	SACOL0758.fasta
+SACOL0761	nagA	782732	1182	N-acetylglucosamine-6-phosphate deacetylase	1030	SACOL0761.fasta
+SACOL0762		784134	1350	hemolysin	992	SACOL0762.fasta
+SACOL0763		785705	840	aldo/keto reductase oxidoreductase	896	SACOL0763.fasta
+SACOL0764		786676	984	glycosyl transferase, group 2 family protein	914	SACOL0764.fasta
+SACOL0765	saeS	787731	1056	sensor histidine kinase SaeS	1092	SACOL0765.fasta
+SACOL0766	saeR	788786	687	DNA-binding response regulator SaeR	506	SACOL0766.fasta
+SACOL0768		790262	441	hypothetical protein	468	SACOL0768.fasta
+SACOL0769		790982	585	hypothetical protein	569	SACOL0769.fasta
+SACOL0770		791665	714	radical activating enzyme family protein	691	SACOL0770.fasta
+SACOL0771		792382	420	6-pyruvoyl tetrahydrobiopterin synthase	450	SACOL0771.fasta
+SACOL0772		792803	669	exsB protein	598	SACOL0772.fasta
+SACOL0773	pabA	793822	594	para-aminobenzoate synthase, glutamine amidotransferase, component II	571	SACOL0773.fasta
+SACOL0777		797212	1005	hypothetical protein	1117	SACOL0777.fasta
+SACOL0778		798690	1941	sulfatase	1426	SACOL0778.fasta
+SACOL0779		800907	1878	ABC transporter ATP-binding protein	1866	SACOL0779.fasta
+SACOL0780	recQ1	802796	1782	ATP-dependent DNA helicase RecQ	1418	SACOL0780.fasta
+SACOL0783	opuBB	805769	1515	osmoprotectant ABC transporter permease	1178	SACOL0783.fasta
+SACOL0784	hisC	807523	1059	histidinol-phosphate aminotransferase	1189	SACOL0784.fasta
+SACOL0785		808932	543	hypothetical protein	503	SACOL0785.fasta
+SACOL0787		810154	918	hypothetical protein	937	SACOL0787.fasta
+SACOL0788		811341	1506	proton-dependent oligopeptide transporter family protein	1184	SACOL0788.fasta
+SACOL0789		813187	501	7-cyano-7-deazaguanine reductase	375	SACOL0789.fasta
+SACOL0790		813707	867	integral membrane domain-containing protein	829	SACOL0790.fasta
+SACOL07901		814958	267	ribonucleoside-diphosphate reductase 2, NrdH-redoxin	309	SACOL0790_1.fasta
+SACOL0792	nrdE	815735	2106	ribonucleotide-diphosphate reductase subunit alpha	1415	SACOL0792.fasta
+SACOL0793	nrdF	817958	972	ribonucleotide-diphosphate reductase subunit beta	468	SACOL0793.fasta
+SACOL0798		821548	762	iron compound ABC transporter ATP-binding protein	712	SACOL0798.fasta
+SACOL0800		823773	315	hypothetical protein	381	SACOL0800.fasta
+SACOL0801	murB	824105	924	UDP-N-acetylenolpyruvoylglucosamine reductase	781	SACOL0801.fasta
+SACOL0802		825155	519	hypothetical protein	540	SACOL0802.fasta
+SACOL0803		825793	879	hypothetical protein	871	SACOL0803.fasta
+SACOL0804		826825	321	hypothetical protein	278	SACOL0804.fasta
+SACOL0805		827570	1125	glycerate kinase	1103	SACOL0805.fasta
+SACOL0806	pepT	828883	1227	peptidase T	1335	SACOL0806.fasta
+SACOL0807		830123	495	hypothetical protein	334	SACOL0807.fasta
+SACOL0808		830635	762	hypothetical protein	590	SACOL0808.fasta
+SACOL0809		831592	1071	diguanylate cyclase	1014	SACOL0809.fasta
+SACOL0810		832980	1056	glycosyl transferase, group 4 family protein	773	SACOL0810.fasta
+SACOL0811		834205	642	hypothetical protein	694	SACOL0811.fasta
+SACOL0813		836220	1083	comf operon protein 1	1304	SACOL0813.fasta
+SACOL0815		838030	573	ribosomal subunit interface protein	483	SACOL0815.fasta
+SACOL0816	secA	839016	2532	preprotein translocase subunit SecA	2008	SACOL0816.fasta
+SACOL0817		841589	105	hypothetical protein	123	SACOL0817.fasta
+SACOL0821		844394	651	HD domain-containing protein	726	SACOL0821.fasta
+SACOL0822		845041	237	hypothetical protein	223	SACOL0822.fasta
+SACOL0824	uvrA	847539	2847	excinuclease ABC subunit A	2791	SACOL0824.fasta
+SACOL0825	hprK	850992	933	HPr kinase/phosphorylase	686	SACOL0825.fasta
+SACOL0826	lgt	851930	840	prolipoprotein diacylglyceryl transferase	894	SACOL0826.fasta
+SACOL0827		852777	486	acetyltransferase	632	SACOL0827.fasta
+SACOL0828		853270	1440	TPR domain-containing protein	1490	SACOL0828.fasta
+SACOL0829	trxB	854776	936	thioredoxin-disulfide reductase	849	SACOL0829.fasta
+SACOL0830		856421	912	hypothetical protein	898	SACOL0830.fasta
+SACOL0831		857329	996	hypothetical protein	793	SACOL0831.fasta
+SACOL0832		858434	945	hypothetical protein	691	SACOL0832.fasta
+SACOL0833	clpP	859951	588	ATP-dependent Clp protease proteolytic subunit	417	SACOL0833.fasta
+SACOL0834		860781	903	hypothetical protein	957	SACOL0834.fasta
+SACOL0835		862387	630	hypothetical protein	787	SACOL0835.fasta
+SACOL0837	gapR	863776	1014	glycolytic operon regulator	884	SACOL0837.fasta
+SACOL0838	gapA1	864842	1011	glyceraldehyde 3-phosphate dehydrogenase	748	SACOL0838.fasta
+SACOL0839	pgk	865991	1191	phosphoglycerate kinase	1222	SACOL0839.fasta
+SACOL0840	tpiA	867303	762	triosephosphate isomerase	768	SACOL0840.fasta
+SACOL0841	pgm	868067	1518	phosphoglyceromutase	1566	SACOL0841.fasta
+SACOL0842	eno	869714	1305	phosphopyruvate hydratase	1047	SACOL0842.fasta
+SACOL0843		871358	459	hypothetical protein	448	SACOL0843.fasta
+SACOL0844	secG	871883	234	preprotein translocase subunit SecG	164	SACOL0844.fasta
+SACOL0845	est	872232	741	carboxylesterase	780	SACOL0845.fasta
+SACOL0846		873006	2373	VacB/RNase II family exoribonuclease	2305	SACOL0846.fasta
+SACOL0847	smpB	875400	465	SsrA-binding protein	493	SACOL0847.fasta
+SACOL0854		879190	522	hypothetical protein	666	SACOL0854.fasta
+SACOL0855		879850	531	acetyltransferase	689	SACOL0855.fasta
+SACOL0860	nuc	887710	687	thermonuclease precursor	763	SACOL0860.fasta
+SACOL0861		888753	201	CSD family cold shock protein	215	SACOL0861.fasta
+SACOL0862		889449	219	hypothetical protein	380	SACOL0862.fasta
+SACOL0863		889729	285	hypothetical protein	340	SACOL0863.fasta
+SACOL0864		890101	570	hypothetical protein	747	SACOL0864.fasta
+SACOL0865		891075	261	hypothetical protein	306	SACOL0865.fasta
+SACOL0866		891640	105	hypothetical protein	135	SACOL0866.fasta
+SACOL0868		891876	237	hypothetical protein	232	SACOL0868.fasta
+SACOL0869		892328	591	phosphoglycerate mutase	777	SACOL0869.fasta
+SACOL0870		892991	618	LysE/YggA family protein	821	SACOL0870.fasta
+SACOL0871		893763	495	hypothetical protein	522	SACOL0871.fasta
+SACOL0872		894656	423	OsmC/Ohr family protein	576	SACOL0872.fasta
+SACOL0873	aroD	895226	717	3-dehydroquinate dehydratase	741	SACOL0873.fasta
+SACOL0874		896025	540	nitroreductase	533	SACOL0874.fasta
+SACOL0875		896714	321	thioredoxin	395	SACOL0875.fasta
+SACOL0876		897178	357	hypothetical protein	381	SACOL0876.fasta
+SACOL0877	gcvH	897692	381	glycine cleavage system protein H	342	SACOL0877.fasta
+SACOL0880		899871	387	TOPRIM domain-containing protein	414	SACOL0880.fasta
+SACOL0882		900796	1026	ABC transporter ATP-binding protein	1285	SACOL0882.fasta
+SACOL0884		902527	822	ABC transporter substrate-binding protein	1028	SACOL0884.fasta
+SACOL0912		919637	195	hypothetical protein	241	SACOL0912.fasta
+SACOL0913		920064	852	hypothetical protein	1029	SACOL0913.fasta
+SACOL0914		921243	762	FeS assembly ATPase SufC	930	SACOL0914.fasta
+SACOL0915	sufD	922102	1308	FeS assembly protein SufD	1584	SACOL0915.fasta
+SACOL0916		923524	1242	SufS subfamily cysteine desulfurase	1458	SACOL0916.fasta
+SACOL0918	sufB	925370	1398	FeS assembly protein SufB	1550	SACOL0918.fasta
+SACOL0919		926954	138	hypothetical protein	64	SACOL0919.fasta
+SACOL0920		927097	315	hypothetical protein	411	SACOL0920.fasta
+SACOL0921		927776	1041	hypothetical protein	1164	SACOL0921.fasta
+SACOL0922		928830	1068	hypothetical protein	1462	SACOL0922.fasta
+SACOL0924		930110	849	hypothetical protein	984	SACOL0924.fasta
+SACOL0925		930971	828	hypothetical protein	856	SACOL0925.fasta
+SACOL0926		931825	1320	5'-nucleotidase	1544	SACOL0926.fasta
+SACOL0927	lipA	933228	918	lipoyl synthase	673	SACOL0927.fasta
+SACOL0928		934266	393	hypothetical protein	327	SACOL0928.fasta
+SACOL0929		934737	258	hypothetical protein	249	SACOL0929.fasta
+SACOL0930		935101	435	hypothetical protein	441	SACOL0930.fasta
+SACOL0931		935535	780	HAD superfamily hydrolase	714	SACOL0931.fasta
+SACOL0932		936347	960	D-isomer specific 2-hydroxyacid dehydrogenase	1184	SACOL0932.fasta
+SACOL0933		937560	111	hypothetical protein	141	SACOL0933.fasta
+SACOL0934		937718	153	hypothetical protein	104	SACOL0934.fasta
+SACOL0935	dltA	937886	1458	D-alanine--poly(phosphoribitol) ligase subunit 1	1343	SACOL0935.fasta
+SACOL0936	dltB	939340	1215	DltB protein	1015	SACOL0936.fasta
+SACOL0937	dltC	940572	237	D-alanine--poly(phosphoribitol) ligase subunit 2	160	SACOL0937.fasta
+SACOL0938	dltD	940805	1176	DltD protein	1060	SACOL0938.fasta
+SACOL0939		942243	222	NifU domain-containing protein	191	SACOL0939.fasta
+SACOL0940		942586	324	hypothetical protein	331	SACOL0940.fasta
+SACOL0942		944349	237	hypothetical protein	208	SACOL0942.fasta
+SACOL0943		944598	360	hypothetical protein	465	SACOL0943.fasta
+SACOL0944		945411	1209	NADH dehydrogenase	1095	SACOL0944.fasta
+SACOL0945		946750	1476	cytosol aminopeptidase	1433	SACOL0945.fasta
+SACOL0946		948636	1317	Na+/H+ antiporter family protein	1151	SACOL0946.fasta
+SACOL0947		949971	375	hypothetical protein	355	SACOL0947.fasta
+SACOL0948		950401	1155	hypothetical protein	1174	SACOL0948.fasta
+SACOL0949	mnhG	951804	357	monovalent cation/H+ antiporter subunit G	333	SACOL0949.fasta
+SACOL0951	mnhE	952431	480	monovalent cation/H+ antiporter subunit E	460	SACOL0951.fasta
+SACOL0952	mnhD	952912	1497	monovalent cation/H+ antiporter subunit D	1566	SACOL0952.fasta
+SACOL0955	mnhA	955163	2406	monovalent cation/H+ antiporter subunit A	2093	SACOL0955.fasta
+SACOL0956	kapB	957699	384	hypothetical protein	472	SACOL0956.fasta
+SACOL0957		958146	594	cyclophilin type peptidyl-prolyl cis-trans isomerase	640	SACOL0957.fasta
+SACOL0958		959155	378	general stress protein 13	242	SACOL0958.fasta
+SACOL0959		959894	1128	Oye family NADH-dependent flavin oxidoreductase	1331	SACOL0959.fasta
+SACOL0960	rocD	961329	1191	ornithine--oxo-acid transaminase	1376	SACOL0960.fasta
+SACOL0961	gluD	962628	1245	glutamate dehydrogenase	948	SACOL0961.fasta
+SACOL0962		964375	930	glycerophosphoryl diester phosphodiesterase	992	SACOL0962.fasta
+SACOL0963	argH	965546	1380	argininosuccinate lyase	1391	SACOL0963.fasta
+SACOL0966	pgi	968471	1332	glucose-6-phosphate isomerase	1077	SACOL0966.fasta
+SACOL0967		970127	576	hypothetical protein	657	SACOL0967.fasta
+SACOL0968	spsA	970707	525	signal peptidase IA, inactive	615	SACOL0968.fasta
+SACOL0969	spsB	971238	585	signal peptidase IB	547	SACOL0969.fasta
+SACOL0970	rexB	971982	3477	exonuclease RexB	3189	SACOL0970.fasta
+SACOL0971	rexA	975459	3654	exonuclease RexA	3395	SACOL0971.fasta
+SACOL0973		979278	903	fumarylacetoacetate hydrolase	740	SACOL0973.fasta
+SACOL0974		980509	390	hypothetical protein	497	SACOL0974.fasta
+SACOL0975		981069	1317	coenzyme A disulfide reductase	1627	SACOL0975.fasta
+SACOL0976		982437	825	HAD superfamily hydrolase	745	SACOL0976.fasta
+SACOL0977		983375	309	hypothetical protein	248	SACOL0977.fasta
+SACOL0978		984230	1815	hypothetical protein	1911	SACOL0978.fasta
+SACOL0979	clpB	986247	2610	ATP-dependent Clp protease, ATP-binding subunit ClpB	2434	SACOL0979.fasta
+SACOL0980		988915	870	LysR family transcriptional regulator	1039	SACOL0980.fasta
+SACOL0986		994276	186	hypothetical protein	184	SACOL0986.fasta
+SACOL0987	fabH	994756	942	3-oxoacyl-ACP synthase	702	SACOL0987.fasta
+SACOL0988	fabF	995709	1245	3-oxoacyl-ACP synthase	1036	SACOL0988.fasta
+SACOL0989		997008	372	hypothetical protein	490	SACOL0989.fasta
+SACOL0990		997602	99	hypothetical protein	158	SACOL0990.fasta
+SACOL0991	oppB	997700	849	oligopeptide ABC transporter permease	980	SACOL0991.fasta
+SACOL0992	oppC	998548	1071	oligopeptide ABC transporter permease	1117	SACOL0992.fasta
+SACOL0993	oppD	999635	1083	oligopeptide ABC transporter ATP-binding protein	1351	SACOL0993.fasta
+SACOL0995		1001666	1656	oligopeptide ABC transporter oligopeptide-binding protein	1785	SACOL0995.fasta
+SACOL1001	trpS	1009158	990	tryptophanyl-tRNA synthetase	895	SACOL1001.fasta
+SACOL1002	spxA	1010442	396	transcriptional regulator Spx	266	SACOL1002.fasta
+SACOL1003		1011208	720	adaptor protein	755	SACOL1003.fasta
+SACOL1004		1012048	987	competence protein	1159	SACOL1004.fasta
+SACOL1005	pepF	1013082	1809	oligoendopeptidase F	1732	SACOL1005.fasta
+SACOL1006		1015350	807	hypothetical protein	860	SACOL1006.fasta
+SACOL1007		1016179	366	hypothetical protein	452	SACOL1007.fasta
+SACOL1008		1016648	594	hypothetical protein	599	SACOL1008.fasta
+SACOL1009		1017427	348	hypothetical protein	381	SACOL1009.fasta
+SACOL1010	relA1	1017791	636	GTP pyrophosphokinase	537	SACOL1010.fasta
+SACOL1011	ppnK	1018443	810	inorganic polyphosphate/ATP-NAD kinase	567	SACOL1011.fasta
+SACOL1012		1019249	855	ribosomal large subunit pseudouridine synthase D	914	SACOL1012.fasta
+SACOL1013	mgtE	1020124	1386	magnesium transporter	1209	SACOL1013.fasta
+SACOL1018		1026033	1569	sodium:alanine symporter family protein	1857	SACOL1018.fasta
+SACOL1019		1027743	759	hypothetical protein	841	SACOL1019.fasta
+SACOL1020		1028695	510	hypothetical protein	390	SACOL1020.fasta
+SACOL1021		1029317	1191	hypothetical protein	1068	SACOL1021.fasta
+SACOL1023	murE	1032093	1482	UDP-N-acetylmuramoylalanyl-D-glutamate--L-lysine ligase	1268	SACOL1023.fasta
+SACOL1026		1035682	804	hypothetical protein	778	SACOL1026.fasta
+SACOL1028	htrA	1036719	2310	serine protease	2287	SACOL1028.fasta
+SACOL1030		1039045	1359	sodium transport family protein	1024	SACOL1030.fasta
+SACOL1031		1040542	1512	5' nucleotidase	1559	SACOL1031.fasta
+SACOL1032		1042540	531	ComK family protein	683	SACOL1032.fasta
+SACOL1033		1043319	219	hypothetical protein	231	SACOL1033.fasta
+SACOL1034		1043618	987	lipoate-protein ligase A family protein	1079	SACOL1034.fasta
+SACOL1035		1044803	177	hypothetical protein	111	SACOL1035.fasta
+SACOL1036		1044994	603	protease	544	SACOL1036.fasta
+SACOL1038		1046941	1965	membrane protein	2229	SACOL1038.fasta
+SACOL1039		1048908	321	hypothetical protein	407	SACOL1039.fasta
+SACOL1041		1049954	291	hypothetical protein	351	SACOL1041.fasta
+SACOL1044		1052386	357	hypothetical protein	334	SACOL1044.fasta
+SACOL1045		1053219	960	iron compound ABC transporter iron compound-binding protein	1081	SACOL1045.fasta
+SACOL1046		1054224	132	hypothetical protein	163	SACOL1046.fasta
+SACOL1047		1054419	291	hypothetical protein	391	SACOL1047.fasta
+SACOL1048		1054853	498	acetyltransferase	559	SACOL1048.fasta
+SACOL1049	menA	1055402	939	1,4-dihydroxy-2-naphthoate octaprenyltransferase	870	SACOL1049.fasta
+SACOL1050		1056491	105	hypothetical protein	101	SACOL1050.fasta
+SACOL1052	menD	1057870	1674	2-succinyl-6-hydroxy-2, 4-cyclohexadiene-1-carboxylate synthase	1334	SACOL1052.fasta
+SACOL1054	menB	1060326	822	naphthoate synthase	635	SACOL1054.fasta
+SACOL1055	sspC	1061386	330	sspC protein	378	SACOL1055.fasta
+SACOL1056	sspB1	1061753	1182	cysteine protease precursor SspB	1373	SACOL1056.fasta
+SACOL1058		1064554	1155	aminotransferase, class I	1220	SACOL1058.fasta
+SACOL1059		1065904	1011	hypothetical protein	975	SACOL1059.fasta
+SACOL1060		1067067	420	MarR family transcriptional regulator	465	SACOL1060.fasta
+SACOL1063		1071691	435	acetyltransferase	550	SACOL1063.fasta
+SACOL1064		1072280	471	hypothetical protein	452	SACOL1064.fasta
+SACOL1065		1072798	1218	hypothetical protein	1061	SACOL1065.fasta
+SACOL1067	qoxD	1076196	279	quinol oxidase subunit IV	223	SACOL1067.fasta
+SACOL1069	qoxA	1077078	1989	quinol oxidase subunit I	1391	SACOL1069.fasta
+SACOL1070	qoxB	1079066	1101	quinol oxidase subunit II	872	SACOL1070.fasta
+SACOL1071		1080738	318	hypothetical protein	233	SACOL1071.fasta
+SACOL1072	folD	1081861	861	bifunctional 5,10-methylene-tetrahydrofolate dehydrogenase/ 5,10-methylene-tetrahydrofolate cyclohydrolase	887	SACOL1072.fasta
+SACOL1074	purK	1083391	1125	phosphoribosylaminoimidazole carboxylase ATPase subunit	1197	SACOL1074.fasta
+SACOL1075	purC	1084519	705	phosphoribosylaminoimidazole-succinocarboxamide synthase	682	SACOL1075.fasta
+SACOL1076	purS	1085223	264	phosphoribosylformylglycinamidine synthase, PurS protein	290	SACOL1076.fasta
+SACOL1078	purL	1086152	2190	phosphoribosylformylglycinamidine synthase II	2299	SACOL1078.fasta
+SACOL1080	purM	1089797	1029	phosphoribosylaminoimidazole synthetase	1070	SACOL1080.fasta
+SACOL1081	purN	1090828	567	phosphoribosylglycinamide formyltransferase	627	SACOL1081.fasta
+SACOL1082	purH	1091409	1479	bifunctional phosphoribosylaminoimidazolecarboxamide formyltransferase/IMP cyclohydrolase	1504	SACOL1082.fasta
+SACOL1083	purD	1092909	1248	phosphoribosylamine--glycine ligase	1464	SACOL1083.fasta
+SACOL1085		1095220	1401	ABC transporter ATP-binding protein	1498	SACOL1085.fasta
+SACOL1086		1096635	576	hypothetical protein	601	SACOL1086.fasta
+SACOL1087		1097857	135	hypothetical protein	161	SACOL1087.fasta
+SACOL1088		1098143	1296	hypothetical protein	1213	SACOL1088.fasta
+SACOL1089		1099863	1173	hypothetical protein	1355	SACOL1089.fasta
+SACOL1090		1101089	543	hypothetical protein	689	SACOL1090.fasta
+SACOL1091	ptsH	1101785	267	phosphocarrier protein HPr	204	SACOL1091.fasta
+SACOL1092	ptsI	1102054	1719	phosphoenolpyruvate-protein phosphotransferase	1628	SACOL1092.fasta
+SACOL1093		1104009	234	hypothetical protein	295	SACOL1093.fasta
+SACOL1094	cydA	1104440	1362	cytochrome d ubiquinol oxidase subunit I	1441	SACOL1094.fasta
+SACOL1095	cydB	1105798	1020	cytochrome d ubiquinol oxidase subunit II	1002	SACOL1095.fasta
+SACOL1096		1106950	663	TrkA potassium uptake family protein	495	SACOL1096.fasta
+SACOL1098		1107961	1698	hypothetical protein	1272	SACOL1098.fasta
+SACOL1099		1109658	219	hypothetical protein	177	SACOL1099.fasta
+SACOL1100	def	1110357	552	peptide deformylase	598	SACOL1100.fasta
+SACOL1101		1111273	627	hypothetical protein	802	SACOL1101.fasta
+SACOL1102	pdhA	1112070	1113	pyruvate dehydrogenase complex E1 component subunit alpha	957	SACOL1102.fasta
+SACOL1103	pdhB	1113186	978	pyruvate dehydrogenase complex E1 component subunit beta	823	SACOL1103.fasta
+SACOL1104	pdhC	1114254	1293	branched-chain alpha-keto acid dehydrogenase E2	1259	SACOL1104.fasta
+SACOL1105	pdhD	1115550	1407	dihydrolipoamide dehydrogenase	1147	SACOL1105.fasta
+SACOL1106		1117124	276	hypothetical protein	319	SACOL1106.fasta
+SACOL1107		1117543	540	Cro/CI family transcriptional regulator	437	SACOL1107.fasta
+SACOL1108		1118095	1095	spermidine/putrescine ABC transporter ATP-binding protein	848	SACOL1108.fasta
+SACOL1110		1119985	810	spermidine/putrescine ABC transporter permease	786	SACOL1110.fasta
+SACOL1111		1120794	1074	spermidine/putrescine ABC transporter substrate-binding protein	1172	SACOL1111.fasta
+SACOL1113		1123243	420	hypothetical protein	488	SACOL1113.fasta
+SACOL1114		1123744	1353	manganese transport protein MntH	1244	SACOL1114.fasta
+SACOL1115		1125280	615	hypothetical protein	665	SACOL1115.fasta
+SACOL1116		1126051	828	inositol monophosphatase	907	SACOL1116.fasta
+SACOL1117		1127032	192	hypothetical protein	189	SACOL1117.fasta
+SACOL1118	typA	1127325	1848	GTP-binding protein TypA	1541	SACOL1118.fasta
+SACOL1119		1129312	168	hypothetical protein	194	SACOL1119.fasta
+SACOL1120		1129481	483	hypothetical protein	528	SACOL1120.fasta
+SACOL1121		1130104	276	hypothetical protein	187	SACOL1121.fasta
+SACOL1122		1130693	1227	cell cycle protein FtsW	992	SACOL1122.fasta
+SACOL1123	pyc	1132473	3453	pyruvate carboxylase	3026	SACOL1123.fasta
+SACOL1124	ctaA	1136065	1071	cytochrome oxidase assembly protein	760	SACOL1124.fasta
+SACOL1125	ctaB	1137416	912	protoheme IX farnesyltransferase	855	SACOL1125.fasta
+SACOL1126		1138352	462	hypothetical protein	465	SACOL1126.fasta
+SACOL1127		1139025	204	hypothetical protein	209	SACOL1127.fasta
+SACOL1128		1139278	900	hypothetical protein	933	SACOL1128.fasta
+SACOL1129		1140193	435	hypothetical protein	592	SACOL1129.fasta
+SACOL1130		1140690	927	glycerophosphoryl diester phosphodiesterase	1137	SACOL1130.fasta
+SACOL1131		1141855	255	hypothetical protein	261	SACOL1131.fasta
+SACOL1132		1142112	390	hypothetical protein	484	SACOL1132.fasta
+SACOL1133		1142571	543	hypothetical protein	507	SACOL1133.fasta
+SACOL1134	coaD	1143115	483	phosphopantetheine adenylyltransferase	286	SACOL1134.fasta
+SACOL1135		1143659	1140	hypothetical protein	1043	SACOL1135.fasta
+SACOL1136		1144925	558	hypothetical protein	598	SACOL1136.fasta
+SACOL1137	rpmF	1145562	174	50S ribosomal protein L32	144	SACOL1137.fasta
+SACOL1140	isdA	1148029	1053	LPXTG cell wall surface anchor protein	837	SACOL1140.fasta
+SACOL1141	isdC	1149290	684	NPQTN cell wall surface anchor protein	775	SACOL1141.fasta
+SACOL1142	isdD	1149973	1077	hypothetical protein	1246	SACOL1142.fasta
+SACOL1143		1151046	879	iron compound ABC transporter iron compound-binding protein	933	SACOL1143.fasta
+SACOL1144		1151937	966	iron compound ABC transporter permease	1090	SACOL1144.fasta
+SACOL1145	srtB	1152964	735	sortase	789	SACOL1145.fasta
+SACOL1146		1153717	324	heme-degrading monooxygenase IsdG	364	SACOL1146.fasta
+SACOL1147		1154424	741	RNA methyltransferase	751	SACOL1147.fasta
+SACOL1148	pheS	1155545	1059	phenylalanyl-tRNA synthetase subunit alpha	1019	SACOL1148.fasta
+SACOL1149	pheT	1156603	2403	phenylalanyl-tRNA synthetase subunit beta	2538	SACOL1149.fasta
+SACOL1150	rnhC	1159176	939	ribonuclease HIII	1019	SACOL1150.fasta
+SACOL1151		1160484	267	hypothetical protein	244	SACOL1151.fasta
+SACOL1152		1160751	522	hypothetical protein	561	SACOL1152.fasta
+SACOL1153		1161345	1713	hypothetical protein	1765	SACOL1153.fasta
+SACOL1154		1163067	2349	recombination and DNA strand exchange inhibitor protein	2207	SACOL1154.fasta
+SACOL1155	trxA	1165588	315	thioredoxin	278	SACOL1155.fasta
+SACOL1156		1165965	96	hypothetical protein	118	SACOL1156.fasta
+SACOL1157	uvrC	1166226	1782	excinuclease ABC subunit C	1639	SACOL1157.fasta
+SACOL1158	sdhC	1168331	615	succinate dehydrogenase, cytochrome b558 subunit	548	SACOL1158.fasta
+SACOL1159	sdhA	1168997	1767	succinate dehydrogenase flavoprotein subunit	1457	SACOL1159.fasta
+SACOL1160	sdhB	1170763	816	succinate dehydrogenase iron-sulfur subunit	787	SACOL1160.fasta
+SACOL1161	murI	1171814	801	glutamate racemase	748	SACOL1161.fasta
+SACOL1162		1172626	588	nucleoside-triphosphatase	603	SACOL1162.fasta
+SACOL1164		1174198	330	fibrinogen binding-like protein	328	SACOL1164.fasta
+SACOL1167		1175969	507	hypothetical protein	596	SACOL1167.fasta
+SACOL1173	hlY	1180074	960	alpha-hemolysin precursor	1100	SACOL1173.fasta
+SACOL1181	arcB1	1185397	1002	ornithine carbamoyltransferase	1167	SACOL1181.fasta
+SACOL1182	arcC1	1186421	933	carbamate kinase	1010	SACOL1182.fasta
+SACOL1183		1187525	1557	hypothetical protein	1791	SACOL1183.fasta
+SACOL1184		1189921	948	exfoliative toxin	1142	SACOL1184.fasta
+SACOL1185		1191117	189	hypothetical protein	269	SACOL1185.fasta
+SACOL1186		1192217	135	anti protein (phenol soluble modulin)	195	SACOL1186.fasta
+SACOL1188		1192666	696	HAD superfamily hydrolase	936	SACOL1188.fasta
+SACOL1189		1193470	441	hypothetical protein	473	SACOL1189.fasta
+SACOL1190		1194105	1614	hypothetical protein	2364	SACOL1190.fasta
+SACOL1191	mraZ	1195862	432	cell division protein MraZ	323	SACOL1191.fasta
+SACOL1192	mraW	1196309	936	S-adenosyl-methyltransferase MraW	1151	SACOL1192.fasta
+SACOL1194	pbp1	1197640	2235	penicillin-binding protein 1	2578	SACOL1194.fasta
+SACOL1195	mraY	1200166	966	phospho-N-acetylmuramoyl-pentapeptide- transferase	1018	SACOL1195.fasta
+SACOL1196	murD	1201133	1350	UDP-N-acetylmuramoyl-L-alanyl-D-glutamate synthetase	1418	SACOL1196.fasta
+SACOL1197	divIB	1202498	1320	cell division protein	1579	SACOL1197.fasta
+SACOL1198	ftsA	1203923	1413	cell division protein FtsA	1329	SACOL1198.fasta
+SACOL1199	ftsZ	1205368	1173	cell division protein FtsZ	726	SACOL1199.fasta
+SACOL1200		1206800	792	hypothetical protein	969	SACOL1200.fasta
+SACOL1201		1207609	675	hypothetical protein	785	SACOL1201.fasta
+SACOL1202	ylmF	1208280	564	hypothetical protein	485	SACOL1202.fasta
+SACOL1203	ylmG	1208855	291	hypothetical protein	344	SACOL1203.fasta
+SACOL1204	ylmH	1209255	780	YlmH protein	896	SACOL1204.fasta
+SACOL1206	ileS	1210896	2754	isoleucyl-tRNA synthetase	2570	SACOL1206.fasta
+SACOL1207		1213939	798	glyoxalase	986	SACOL1207.fasta
+SACOL1208	lspA	1215560	492	lipoprotein signal peptidase	440	SACOL1208.fasta
+SACOL1209		1216051	918	ribosomal large subunit pseudouridine synthase D	821	SACOL1209.fasta
+SACOL1210	pyrR	1217368	528	bifunctional pyrimidine regulatory protein PyrR uracil phosphoribosyltransferase	450	SACOL1210.fasta
+SACOL1211	uraA	1218113	1308	uracil permease	1301	SACOL1211.fasta
+SACOL1212	pyrB	1219448	882	aspartate carbamoyltransferase catalytic subunit	832	SACOL1212.fasta
+SACOL1213	pyrC	1220347	1275	dihydroorotase	1314	SACOL1213.fasta
+SACOL1215	carB	1222716	3174	carbamoyl phosphate synthase large subunit	3007	SACOL1215.fasta
+SACOL1216	pyrF	1225999	693	orotidine 5'-phosphate decarboxylase	721	SACOL1216.fasta
+SACOL1217	pyrE	1226691	612	orotate phosphoribosyltransferase	643	SACOL1217.fasta
+SACOL1218		1227332	213	hypothetical protein	243	SACOL1218.fasta
+SACOL1219		1227981	402	hypothetical protein	481	SACOL1219.fasta
+SACOL1220		1228645	1698	fibronectin/fibrinogen binding-like protein	1695	SACOL1220.fasta
+SACOL1221	gmk	1230617	624	guanylate kinase	444	SACOL1221.fasta
+SACOL1222	rpoZ	1231240	219	DNA-directed RNA polymerase subunit omega	204	SACOL1222.fasta
+SACOL1223	coaBC	1231668	1206	phosphopantothenoylcysteine decarboxylase/phosphopantothenate--cysteine ligase	1020	SACOL1223.fasta
+SACOL1224	priA	1232873	2409	primosomal protein N`	2203	SACOL1224.fasta
+SACOL1226		1236903	279	hypothetical protein	342	SACOL1226.fasta
+SACOL1228	fmt	1237886	936	methionyl-tRNA formyltransferase	1022	SACOL1228.fasta
+SACOL1229	sun	1238818	1308	sun protein	1573	SACOL1229.fasta
+SACOL1230		1240128	1095	ribosomal RNA large subunit methyltransferase N	1211	SACOL1230.fasta
+SACOL1231		1241229	744	protein phosphatase 2C domain-containing protein	811	SACOL1231.fasta
+SACOL1234		1244191	876	hypothetical protein	850	SACOL1234.fasta
+SACOL1235	rpe	1245067	645	ribulose-phosphate 3-epimerase	634	SACOL1235.fasta
+SACOL1236		1245718	642	hypothetical protein	667	SACOL1236.fasta
+SACOL1238	rpmB	1246740	189	50S ribosomal protein L28	143	SACOL1238.fasta
+SACOL1239		1247371	375	hypothetical protein	302	SACOL1239.fasta
+SACOL1240		1247760	1647	DAK2 domain-containing protein	1710	SACOL1240.fasta
+SACOL1241	recG	1249596	2061	ATP-dependent DNA helicase RecG	2098	SACOL1241.fasta
+SACOL1242		1251859	573	fatty acid biosynthesis transcriptional regulator	568	SACOL1242.fasta
+SACOL1243	plsX	1252436	987	glycerol-3-phosphate acyltransferase PlsX	1039	SACOL1243.fasta
+SACOL1245	fabG1	1254334	735	3-oxoacyl-ACP reductase	735	SACOL1245.fasta
+SACOL1246		1255191	99	hypothetical protein	143	SACOL1246.fasta
+SACOL1247	acpP	1255311	234	acyl carrier protein	128	SACOL1247.fasta
+SACOL1248	rnc	1255660	732	ribonuclease III	632	SACOL1248.fasta
+SACOL1250		1256538	3567	chromosome segregation protein SMC	3318	SACOL1250.fasta
+SACOL1251		1260104	1251	cell division protein FtsY	1185	SACOL1251.fasta
+SACOL1253	ffh	1261699	1368	signal recognition particle protein	1282	SACOL1253.fasta
+SACOL1254	rpsP	1263501	276	30S ribosomal protein S16	195	SACOL1254.fasta
+SACOL1255	rimM	1263964	504	16S rRNA-processing protein RimM	522	SACOL1255.fasta
+SACOL1256	trmD	1264467	738	tRNA (guanine-N(1)-)-methyltransferase	704	SACOL1256.fasta
+SACOL1257	rplS	1265307	351	50S ribosomal protein L19	410	SACOL1257.fasta
+SACOL1259		1265901	2607	hypothetical protein	2652	SACOL1259.fasta
+SACOL1260	rbgA	1268908	885	ribosomal biogenesis GTPase	972	SACOL1260.fasta
+SACOL1262	sucC	1270652	1167	succinyl-CoA synthetase subunit beta	1203	SACOL1262.fasta
+SACOL1263	sucD	1271840	909	succinyl-CoA synthetase subunit alpha	1020	SACOL1263.fasta
+SACOL1267	topA	1276590	2070	DNA topoisomerase I	1847	SACOL1267.fasta
+SACOL1268	gid	1278815	1308	tRNA (uracil-5-)-methyltransferase Gid	1442	SACOL1268.fasta
+SACOL1269	xerC	1280539	897	tyrosine recombinase XerC	1119	SACOL1269.fasta
+SACOL1270	hslV	1281432	546	ATP-dependent protease peptidase subunit	676	SACOL1270.fasta
+SACOL1271	hslU	1282043	1404	ATP-dependent protease ATP-binding subunit HslU	1872	SACOL1271.fasta
+SACOL1272	codY	1283471	774	transcriptional repressor CodY	851	SACOL1272.fasta
+SACOL1275		1285396	114	hypothetical protein	119	SACOL1275.fasta
+SACOL1276	tsf	1285544	882	elongation factor Ts	978	SACOL1276.fasta
+SACOL1277	pyrH	1286562	723	uridylate kinase	573	SACOL1277.fasta
+SACOL1278	frr	1287303	555	ribosome recycling factor	561	SACOL1278.fasta
+SACOL1279	uppS	1288230	771	UDP pyrophosphate synthase	566	SACOL1279.fasta
+SACOL1280	cdsA	1289007	783	phosphatidate cytidylyltransferase	695	SACOL1280.fasta
+SACOL1281		1290026	1287	membrane-associated zinc metalloprotease	1338	SACOL1281.fasta
+SACOL1282	proS	1291332	1704	prolyl-tRNA synthetase	1874	SACOL1282.fasta
+SACOL1283	polC	1293299	4311	DNA polymerase III PolC	3755	SACOL1283.fasta
+SACOL1284		1297899	468	hypothetical protein	526	SACOL1284.fasta
+SACOL1285	nusA	1298387	1176	transcription elongation factor NusA	1219	SACOL1285.fasta
+SACOL1286		1299583	285	hypothetical protein	343	SACOL1286.fasta
+SACOL1287		1299864	318	50S ribosomal protein L7	392	SACOL1287.fasta
+SACOL1288	infB	1300186	2118	translation initiation factor IF-2	2139	SACOL1288.fasta
+SACOL1289	rbfA	1302689	351	ribosome-binding factor A	267	SACOL1289.fasta
+SACOL1290	truB	1303208	918	tRNA pseudouridine synthase B	1103	SACOL1290.fasta
+SACOL1291	ribF	1304140	972	riboflavin biosynthesis protein RibF	1019	SACOL1291.fasta
+SACOL1292	rpsO	1305226	270	30S ribosomal protein S15	194	SACOL1292.fasta
+SACOL1293	pnp	1305865	2097	polynucleotide phosphorylase/polyadenylase	2014	SACOL1293.fasta
+SACOL1294		1308299	1572	metallo-beta-lactamase	1529	SACOL1294.fasta
+SACOL1295		1310117	2379	FtsK/SpoIIIE family protein	2230	SACOL1295.fasta
+SACOL1296		1312500	714	GntR family transcriptional regulator	813	SACOL1296.fasta
+SACOL1297		1313244	1266	hypothetical protein	1436	SACOL1297.fasta
+SACOL1298		1314509	1287	M16 family peptidase	1602	SACOL1298.fasta
+SACOL1299		1315795	705	acetoacetyl-CoA reductase	639	SACOL1299.fasta
+SACOL1300		1316604	828	ACT domain-containing protein	656	SACOL1300.fasta
+SACOL1301		1317450	393	transcriptional regulator	362	SACOL1301.fasta
+SACOL1302	pgsA	1317876	579	CDP-diacylglycerol--glycerol-3-phosphate 3-phosphatidyltransferase	508	SACOL1302.fasta
+SACOL1303		1318681	1152	competence/damage-inducible protein CinA	1228	SACOL1303.fasta
+SACOL1304	recA	1319997	1044	recombinase A	685	SACOL1304.fasta
+SACOL1305		1321394	1560	phosphodiesterase	1349	SACOL1305.fasta
+SACOL1306		1323250	216	hypothetical protein	201	SACOL1306.fasta
+SACOL1307		1323639	798	hypothetical protein	616	SACOL1307.fasta
+SACOL1308		1324576	1761	pyruvate ferredoxin oxidoreductase subunit alpha	1651	SACOL1308.fasta
+SACOL1309		1326337	867	2-oxoglutarate ferredoxin oxidoreductase subunit beta	765	SACOL1309.fasta
+SACOL1310		1327297	294	hypothetical protein	366	SACOL1310.fasta
+SACOL1312	miaB	1327724	1545	(dimethylallyl)adenosine tRNA methylthiotransferase	1499	SACOL1312.fasta
+SACOL1313		1329269	366	hypothetical protein	445	SACOL1313.fasta
+SACOL1314		1329661	492	hypothetical protein	603	SACOL1314.fasta
+SACOL1316	mutL	1333086	2010	DNA mismatch repair protein	1964	SACOL1316.fasta
+SACOL1317	glpP	1335101	543	glycerol uptake operon antiterminator regulatory protein	482	SACOL1317.fasta
+SACOL1319	glpF	1336108	819	glycerol uptake facilitator protein	846	SACOL1319.fasta
+SACOL1320	glpK	1337055	1497	glycerol kinase	1375	SACOL1320.fasta
+SACOL1321	glpD	1338709	1674	aerobic glycerol-3-phosphate dehydrogenase	1562	SACOL1321.fasta
+SACOL1322		1340532	915	alpha/beta fold family hydrolase	1071	SACOL1322.fasta
+SACOL1323	miaA	1341464	936	tRNA delta(2)-isopentenylpyrophosphate transferase	1287	SACOL1323.fasta
+SACOL1324		1342414	234	hfq protein	280	SACOL1324.fasta
+SACOL1325	gpxA1	1342869	477	glutathione peroxidase	566	SACOL1325.fasta
+SACOL1326		1343457	1239	GTP-binding protein	1425	SACOL1326.fasta
+SACOL1327		1344714	1239	hypothetical protein	1316	SACOL1327.fasta
+SACOL1328	glnR	1346195	369	glutamine synthetase	292	SACOL1328.fasta
+SACOL1329	femC	1346582	1341	glutamine synthetase	1064	SACOL1329.fasta
+SACOL1331		1348415	198	hypothetical protein	282	SACOL1331.fasta
+SACOL1332		1349301	225	hypothetical protein	497	SACOL1332.fasta
+SACOL1333		1349819	207	hypothetical protein	214	SACOL1333.fasta
+SACOL1334		1350726	111	hypothetical protein	175	SACOL1334.fasta
+SACOL1335		1351264	186	hypothetical protein	201	SACOL1335.fasta
+SACOL1349		1356182	1026	hypothetical protein	1465	SACOL1349.fasta
+SACOL1351	cls1	1357732	1482	cardiolipin synthetase	1783	SACOL1351.fasta
+SACOL1356		1362963	108	hypothetical protein	123	SACOL1356.fasta
+SACOL1357		1363130	534	thermonuclease	580	SACOL1357.fasta
+SACOL1358		1363806	855	hypothetical protein	848	SACOL1358.fasta
+SACOL1359		1364976	591	hypothetical protein	591	SACOL1359.fasta
+SACOL1361		1367008	108	hypothetical protein	182	SACOL1361.fasta
+SACOL1362	hom	1367193	1281	homoserine dehydrogenase	1422	SACOL1362.fasta
+SACOL1363	thrC	1368479	1062	threonine synthase	1117	SACOL1363.fasta
+SACOL1364	thrB	1369542	915	homoserine kinase	1044	SACOL1364.fasta
+SACOL1365		1370514	804	HAD superfamily hydrolase	887	SACOL1365.fasta
+SACOL1366		1371610	315	hypothetical protein	385	SACOL1366.fasta
+SACOL1367		1372142	1455	amino acid permease	1223	SACOL1367.fasta
+SACOL1368	kataA	1373896	1422	catalase	1469	SACOL1368.fasta
+SACOL1369	rpmG	1375408	150	50S ribosomal protein L33	123	SACOL1369.fasta
+SACOL1370	rpsN	1376011	270	30S ribosomal protein S14	223	SACOL1370.fasta
+SACOL1371	guaC	1376437	978	guanosine 5'-monophosphate oxidoreductase	1137	SACOL1371.fasta
+SACOL1372		1377411	105	hypothetical protein	123	SACOL1372.fasta
+SACOL1373		1377589	864	hypothetical protein	1009	SACOL1373.fasta
+SACOL1374	lexA	1378832	624	LexA repressor	583	SACOL1374.fasta
+SACOL1375		1379598	234	hypothetical protein	496	SACOL1375.fasta
+SACOL1376		1379967	240	hypothetical protein	257	SACOL1376.fasta
+SACOL1377	tkt	1380327	1989	transketolase	1977	SACOL1377.fasta
+SACOL1378		1382593	243	hypothetical protein	183	SACOL1378.fasta
+SACOL1380		1383014	468	hypothetical protein	470	SACOL1380.fasta
+SACOL1381	sbcD	1383605	1122	exonuclease SbcD	1301	SACOL1381.fasta
+SACOL1382	sbcC	1384730	3030	exonuclease SbcC	2981	SACOL1382.fasta
+SACOL1383	mscL	1387830	363	large-conductance mechanosensitive channel	339	SACOL1383.fasta
+SACOL1384	opuD1	1388396	1647	BCCT family osmoprotectant transporter	1312	SACOL1384.fasta
+SACOL1385	acnA	1390934	2706	aconitate hydratase	2488	SACOL1385.fasta
+SACOL1386		1393819	468	hypothetical protein	504	SACOL1386.fasta
+SACOL1387		1394493	297	hypothetical protein	392	SACOL1387.fasta
+SACOL1388		1395165	609	hypothetical protein	513	SACOL1388.fasta
+SACOL1389	parE	1395973	1998	DNA topoisomerase IV subunit B	1911	SACOL1389.fasta
+SACOL1390	parC	1397970	2403	DNA topoisomerase IV subunit A	2423	SACOL1390.fasta
+SACOL1393		1402582	852	transcription antiterminator	672	SACOL1393.fasta
+SACOL1395		1403568	1209	hypothetical protein	882	SACOL1395.fasta
+SACOL1396	fmtC	1405257	2523	fmtC protein	2321	SACOL1396.fasta
+SACOL1397	msrA	1407982	510	methionine sulfoxide reductase A	575	SACOL1397.fasta
+SACOL1398		1408628	984	transcriptional regulator	975	SACOL1398.fasta
+SACOL1399	dmpI	1409699	186	4-oxalocrotonate tautomerase	184	SACOL1399.fasta
+SACOL1400		1410032	1263	ImpB/MucB/SamB family protein	1278	SACOL1400.fasta
+SACOL1401	tyrA	1411431	1092	prephenate dehydrogenase	1613	SACOL1401.fasta
+SACOL1402		1412687	1032	glutamyl aminopeptidase	1161	SACOL1402.fasta
+SACOL1403	trpE	1414210	1407	anthranilate synthase component I	1780	SACOL1403.fasta
+SACOL1408	trpB	1418592	1215	tryptophan synthase subunit beta	1714	SACOL1408.fasta
+SACOL1410	femA	1420810	1302	femA protein	1341	SACOL1410.fasta
+SACOL1411		1422130	1260	femB protein	1294	SACOL1411.fasta
+SACOL1418		1429051	345	hypothetical protein	455	SACOL1418.fasta
+SACOL1419		1429600	1815	oligoendopeptidase F	2100	SACOL1419.fasta
+SACOL1420		1431554	642	phosphate transport system protein PhoU	712	SACOL1420.fasta
+SACOL1421		1432202	852	phosphate transporter ATP-binding protein	1010	SACOL1421.fasta
+SACOL1422		1433100	918	phosphate ABC transporter permease	1168	SACOL1422.fasta
+SACOL1423		1434019	927	phosphate ABC transporter permease	1223	SACOL1423.fasta
+SACOL1424		1435136	984	phosphate ABC transporter substrate-binding protein	1222	SACOL1424.fasta
+SACOL1426		1437091	903	hypothetical protein	1143	SACOL1426.fasta
+SACOL1427		1438140	1602	ABC transporter ATP-binding protein	1573	SACOL1427.fasta
+SACOL1428	lysC	1440601	1206	aspartate kinase	1736	SACOL1428.fasta
+SACOL1429	asd	1441870	990	aspartate semialdehyde dehydrogenase	1171	SACOL1429.fasta
+SACOL1430	dapA	1442861	888	dihydrodipicolinate synthase	1204	SACOL1430.fasta
+SACOL1431	dapB	1443745	723	dihydrodipicolinate reductase	930	SACOL1431.fasta
+SACOL1432	dapD	1444494	720	2,3,4,5-tetrahydropyridine-2,6-dicarboxylate N-succinyltransferase	855	SACOL1432.fasta
+SACOL1433		1445356	1152	M20/M25/M40 family peptidase	1403	SACOL1433.fasta
+SACOL1437		1449690	201	CSD family cold shock protein	188	SACOL1437.fasta
+SACOL1438		1450061	309	hypothetical protein	326	SACOL1438.fasta
+SACOL1439		1450532	270	acylphosphatase	327	SACOL1439.fasta
+SACOL1440		1450820	630	hypothetical protein	775	SACOL1440.fasta
+SACOL1441		1451481	1137	tellurite resistance protein	1302	SACOL1441.fasta
+SACOL1443	brnQ3	1453630	1344	branched-chain amino acid transport system II carrier protein	1545	SACOL1443.fasta
+SACOL1444		1455198	1887	hypothetical protein	2256	SACOL1444.fasta
+SACOL1445		1457098	792	CbbQ/NirQ/NorQ/GpvN family protein	850	SACOL1445.fasta
+SACOL1446		1458070	204	hypothetical protein	239	SACOL1446.fasta
+SACOL1447		1458302	810	hypothetical protein	1129	SACOL1447.fasta
+SACOL1448	sucB	1459691	1269	dihydrolipoamide succinyltransferase	1381	SACOL1448.fasta
+SACOL1450	arlS	1464055	1356	sensor histidine kinase ArlS	1736	SACOL1450.fasta
+SACOL1452		1466854	615	hypothetical protein	869	SACOL1452.fasta
+SACOL1453	murG	1467485	1071	UDPdiphospho-muramoylpentapeptide beta-N- acetylglucosaminyltransferase	1010	SACOL1453.fasta
+SACOL1455		1469477	1491	carboxyl-terminal protease	1847	SACOL1455.fasta
+SACOL1456		1471159	222	hypothetical protein	299	SACOL1456.fasta
+SACOL1457		1471380	501	PTS system, IIA component	596	SACOL1457.fasta
+SACOL1460		1472932	840	hypothetical protein	904	SACOL1460.fasta
+SACOL1461	folA	1473786	480	dihydrofolate reductase	667	SACOL1461.fasta
+SACOL1462	thyA	1474465	957	thymidylate synthase	994	SACOL1462.fasta
+SACOL1464		1475845	438	hypothetical protein	552	SACOL1464.fasta
+SACOL1465		1476298	1125	hypothetical protein	1719	SACOL1465.fasta
+SACOL1466		1477460	252	hypothetical protein	387	SACOL1466.fasta
+SACOL1467		1477723	195	hypothetical protein	237	SACOL1467.fasta
+SACOL1468		1478162	705	hypothetical protein	936	SACOL1468.fasta
+SACOL1475		1511761	1392	drug transporter	1332	SACOL1475.fasta
+SACOL1479		1517390	879	5'-3' exonuclease	1065	SACOL1479.fasta
+SACOL1480		1518288	3441	hypothetical protein	3622	SACOL1480.fasta
+SACOL1481		1522032	1341	hypothetical protein	1808	SACOL1481.fasta
+SACOL1482		1523578	333	hypothetical protein	465	SACOL1482.fasta
+SACOL1483		1523994	1146	hypothetical protein	1328	SACOL1483.fasta
+SACOL1484		1525790	345	hypothetical protein	261	SACOL1484.fasta
+SACOL1485		1526148	564	hypothetical protein	714	SACOL1485.fasta
+SACOL1489	recU	1527594	627	Holliday junction-specific endonuclease	583	SACOL1489.fasta
+SACOL1490	pbp2	1528217	2184	penicillin-binding protein 2	2209	SACOL1490.fasta
+SACOL1491		1530966	342	hypothetical protein	383	SACOL1491.fasta
+SACOL1493		1531961	687	DNA replication protein DnaD	674	SACOL1493.fasta
+SACOL1494	asnC	1532975	1293	asparaginyl-tRNA synthetase	1193	SACOL1494.fasta
+SACOL1495		1534589	2694	DNA polymerase III subunit epsilon/ATP-dependent helicase DinG	2424	SACOL1495.fasta
+SACOL1497	papS	1538264	1203	tRNA CCA-pyrophosphorylase	1274	SACOL1497.fasta
+SACOL1498		1539471	1155	glycosyl transferase, group 1 family protein	1201	SACOL1498.fasta
+SACOL1499		1540854	318	hypothetical protein	297	SACOL1499.fasta
+SACOL1500		1541508	708	hypothetical protein	646	SACOL1500.fasta
+SACOL1501		1542260	588	hypothetical protein	820	SACOL1501.fasta
+SACOL1503		1543426	1245	hypothetical protein	1557	SACOL1503.fasta
+SACOL1504	aroA	1544677	1299	3-phosphoshikimate 1-carboxyvinyltransferase	1592	SACOL1504.fasta
+SACOL1509	ndk	1549036	450	nucleoside diphosphate kinase	589	SACOL1509.fasta
+SACOL1510		1549577	960	polyprenyl synthetase	984	SACOL1510.fasta
+SACOL1511	ubiE	1550538	726	ubiquinone/menaquinone biosynthesis methyltransferase	820	SACOL1511.fasta
+SACOL1512		1551266	573	hypothetical protein	623	SACOL1512.fasta
+SACOL1513	hup	1552269	273	DNA-binding protein HU	176	SACOL1513.fasta
+SACOL1514	gpsA	1552712	999	NAD(P)H-dependent glycerol-3-phosphate dehydrogenase	1208	SACOL1514.fasta
+SACOL1515	engA	1553727	1311	GTP-binding protein EngA	1397	SACOL1515.fasta
+SACOL1516	rpsA	1555259	1176	30S ribosomal protein S1	1526	SACOL1516.fasta
+SACOL1518	cmk	1557146	660	cytidylate kinase	592	SACOL1518.fasta
+SACOL1519	ansA	1557882	969	L-asparaginase	1315	SACOL1519.fasta
+SACOL1520		1558965	987	pyridine nucleotide-disulfide oxidoreductase	1092	SACOL1520.fasta
+SACOL1522		1560353	1461	elastin binding protein	1827	SACOL1522.fasta
+SACOL1523	recQ2	1561966	1380	ATP-dependent DNA helicase RecQ	1635	SACOL1523.fasta
+SACOL1525	fer	1564396	249	ferredoxin	207	SACOL1525.fasta
+SACOL1526		1564750	546	hypothetical protein	677	SACOL1526.fasta
+SACOL1534	srrB	1572353	1752	sensor histidine kinase SrrB	1664	SACOL1534.fasta
+SACOL1536	rluB	1574943	738	ribosomal large subunit pseudouridine synthase B	751	SACOL1536.fasta
+SACOL1538	scpA	1576208	732	hypothetical protein	757	SACOL1538.fasta
+SACOL1539		1577031	507	hypothetical protein	580	SACOL1539.fasta
+SACOL1540	xerD	1577615	888	tyrosine recombinase XerD	910	SACOL1540.fasta
+SACOL1541		1578551	450	FUR family transcriptional regulator	462	SACOL1541.fasta
+SACOL1542		1579105	543	MutT/nudix family protein	782	SACOL1542.fasta
+SACOL1543		1579729	909	aldo/keto reductase oxidoreductase	1176	SACOL1543.fasta
+SACOL1544		1580853	249	hypothetical protein	368	SACOL1544.fasta
+SACOL1545		1581117	756	short chain dehydrogenase/reductase oxidoreductase	1038	SACOL1545.fasta
+SACOL1546	proC	1582014	816	pyrroline-5-carboxylate reductase	992	SACOL1546.fasta
+SACOL1548		1582934	921	AtsA/ElaC family protein	805	SACOL1548.fasta
+SACOL1549	zwf	1584167	1485	glucose-6-phosphate 1-dehydrogenase	1204	SACOL1549.fasta
+SACOL1550		1585854	894	AraC family transcriptional regulator	922	SACOL1550.fasta
+SACOL1551	malA	1586830	1650	alpha-D-1,4-glucosidase	1851	SACOL1551.fasta
+SACOL1552	malR	1588495	1020	maltose operon transcriptional repressor	1263	SACOL1552.fasta
+SACOL1553		1589708	372	glyoxalase	544	SACOL1553.fasta
+SACOL1554	gnd	1590298	1407	6-phosphogluconate dehydrogenase	1133	SACOL1554.fasta
+SACOL1555		1591772	1134	M20/M25/M40 family peptidase	1526	SACOL1555.fasta
+SACOL1556		1593168	180	hypothetical protein	180	SACOL1556.fasta
+SACOL1557		1593474	981	hypothetical protein	863	SACOL1557.fasta
+SACOL1558		1594468	438	hypothetical protein	442	SACOL1558.fasta
+SACOL1559		1594978	99	hypothetical protein	138	SACOL1559.fasta
+SACOL1560		1595256	1275	2-oxoisovalerate dehydrogenase, E2 component, dihydrolipoamide acetyltransferase	1235	SACOL1560.fasta
+SACOL1561		1596543	984	2-oxoisovalerate dehydrogenase, E1 component subunit beta	923	SACOL1561.fasta
+SACOL1562		1597526	993	2-oxoisovalerate dehydrogenase, E1 component subunit alpha	926	SACOL1562.fasta
+SACOL1563	lpdA	1598534	1422	dihydrolipoamide dehydrogenase	1483	SACOL1563.fasta
+SACOL1564	recN	1600106	1680	DNA repair protein RecN	1573	SACOL1564.fasta
+SACOL1565	argR	1601801	453	arginine repressor	392	SACOL1565.fasta
+SACOL1566	ispA	1602685	882	geranyltranstransferase	939	SACOL1566.fasta
+SACOL1568	xseA	1603767	1338	exodeoxyribonuclease VII large subunit	1348	SACOL1568.fasta
+SACOL1569	nusB	1605121	390	transcription antitermination protein NusB	432	SACOL1569.fasta
+SACOL1570		1605570	363	hypothetical protein	278	SACOL1570.fasta
+SACOL1571	accC	1605947	1356	acetyl-CoA carboxylase biotin carboxylase subunit	1501	SACOL1571.fasta
+SACOL1572	accB	1607302	465	acetyl-CoA carboxylase, biotin carboxyl carrier protein	504	SACOL1572.fasta
+SACOL1587	efp	1621582	558	elongation factor P	458	SACOL1587.fasta
+SACOL1588		1622165	1062	proline dipeptidase	1123	SACOL1588.fasta
+SACOL1589		1623331	582	hypothetical protein	599	SACOL1589.fasta
+SACOL1590		1623926	219	hypothetical protein	257	SACOL1590.fasta
+SACOL1591		1624208	831	lipoate-protein ligase A family protein	872	SACOL1591.fasta
+SACOL1592		1625196	387	rhodanese-like domain-containing protein	367	SACOL1592.fasta
+SACOL1593		1625947	1473	glycine dehydrogenase subunit 2	1477	SACOL1593.fasta
+SACOL1595	gcvT	1628778	1092	glycine cleavage system aminomethyltransferase T	1138	SACOL1595.fasta
+SACOL1596	aroK	1630028	525	shikimate kinase	645	SACOL1596.fasta
+SACOL1597		1630785	498	hypothetical protein	700	SACOL1597.fasta
+SACOL1598		1631486	447	hypothetical protein	582	SACOL1598.fasta
+SACOL1600		1632235	1071	competence protein ComGB	1320	SACOL1600.fasta
+SACOL1602		1634303	624	metallo-beta-lactamase	769	SACOL1602.fasta
+SACOL1603		1634923	330	hypothetical protein	318	SACOL1603.fasta
+SACOL1604	glk	1635252	987	glucokinase	831	SACOL1604.fasta
+SACOL1606		1636419	1464	rhomboid family protein	1553	SACOL1606.fasta
+SACOL1607		1637894	540	5-formyltetrahydrofolate cyclo-ligase	561	SACOL1607.fasta
+SACOL1608	rpmG	1638642	150	50S ribosomal protein L33	141	SACOL1608.fasta
+SACOL1609	pbp3	1638904	2076	penicillin-binding protein 3	2135	SACOL1609.fasta
+SACOL1610	sodA2	1641100	600	superoxide dismutase	752	SACOL1610.fasta
+SACOL1612		1642372	864	ABC transporter permease	812	SACOL1612.fasta
+SACOL1613		1643277	786	ABC transporter ATP-binding protein	808	SACOL1613.fasta
+SACOL1614	nfo	1644188	891	endonuclease IV	901	SACOL1614.fasta
+SACOL1615		1645088	1347	DEAD/DEAH box helicase	1521	SACOL1615.fasta
+SACOL1616		1646548	1101	hypothetical protein	1148	SACOL1616.fasta
+SACOL1617		1647651	678	hypothetical protein	774	SACOL1617.fasta
+SACOL1618	rpoD	1648459	1107	RNA polymerase sigma factor RpoD	841	SACOL1618.fasta
+SACOL1620		1651649	819	hypothetical protein	783	SACOL1620.fasta
+SACOL1621		1652478	540	hypothetical protein	450	SACOL1621.fasta
+SACOL1622	glyS	1653436	1392	glycyl-tRNA synthetase	1146	SACOL1622.fasta
+SACOL1623		1654977	753	RecO family DNA repair protein	891	SACOL1623.fasta
+SACOL1624	era	1655751	900	GTP-binding protein Era	906	SACOL1624.fasta
+SACOL1625	cdd	1656651	405	cytidine deaminase	455	SACOL1625.fasta
+SACOL1626	dgkA	1657066	345	diacylglycerol kinase	351	SACOL1626.fasta
+SACOL1627		1657413	468	hypothetical protein	487	SACOL1627.fasta
+SACOL1628		1657881	921	PhoH family protein	824	SACOL1628.fasta
+SACOL1629		1659132	699	hypothetical protein	787	SACOL1629.fasta
+SACOL1630		1659847	990	hypothetical protein	742	SACOL1630.fasta
+SACOL1631		1660854	708	hypothetical protein	913	SACOL1631.fasta
+SACOL1632	rpsU	1661781	177	30S ribosomal protein S21	105	SACOL1632.fasta
+SACOL1633		1662250	1347	hypothetical protein	1299	SACOL1633.fasta
+SACOL1634		1663603	753	16S ribosomal RNA methyltransferase RsmE	801	SACOL1634.fasta
+SACOL1635	prmA	1664357	939	50S ribosomal protein L11 methyltransferase	1180	SACOL1635.fasta
+SACOL1636	dnaJ	1665299	1140	chaperone protein DnaJ	1388	SACOL1636.fasta
+SACOL1637	dnaK	1666574	1833	molecular chaperone DnaK	1750	SACOL1637.fasta
+SACOL1638	grpE	1668475	627	heat shock protein GrpE	669	SACOL1638.fasta
+SACOL1639	hrcA	1669133	978	heat-inducible transcription repressor HrcA	1011	SACOL1639.fasta
+SACOL1640		1670210	1158	coproporphyrinogen III oxidase	1303	SACOL1640.fasta
+SACOL1641	lepA	1671897	1824	GTP-binding protein LepA	1742	SACOL1641.fasta
+SACOL1642	rpsT	1674066	252	30S ribosomal protein S20	188	SACOL1642.fasta
+SACOL1643	holA	1674362	975	DNA polymerase III subunit delta	1045	SACOL1643.fasta
+SACOL1644		1675393	2148	competence protein ComEC/Rec2	2442	SACOL1644.fasta
+SACOL1645		1677599	432	comE operon protein 2	310	SACOL1645.fasta
+SACOL1646	comEA	1678152	687	comE operon protein 1-like protein	923	SACOL1646.fasta
+SACOL1647		1678878	717	hypothetical protein	732	SACOL1647.fasta
+SACOL1648		1679597	354	hypothetical protein	349	SACOL1648.fasta
+SACOL1649		1679951	585	hypothetical protein	568	SACOL1649.fasta
+SACOL1651		1681097	291	hypothetical protein	338	SACOL1651.fasta
+SACOL1652	aroE	1681391	807	shikimate 5-dehydrogenase	877	SACOL1652.fasta
+SACOL1653		1682211	1101	GTP-binding protein YqeH	1193	SACOL1653.fasta
+SACOL1654		1683312	528	HAD superfamily hydrolase	483	SACOL1654.fasta
+SACOL1655	mtn	1683859	687	5'-methylthioadenosine/S-adenosylhomocysteine nucleosidase	736	SACOL1655.fasta
+SACOL1656		1684859	270	hypothetical protein	359	SACOL1656.fasta
+SACOL1657		1685330	705	enterotoxin type A	713	SACOL1657.fasta
+SACOL1659		1688005	1230	hypothetical protein	1436	SACOL1659.fasta
+SACOL1660		1689247	753	LamB/YcsF family protein	890	SACOL1660.fasta
+SACOL1661		1689999	1362	acetyl-CoA carboxylase, biotin carboxylase	1757	SACOL1661.fasta
+SACOL1662		1691374	450	acetyl-CoA carboxylase, biotin carboxyl carrier protein	584	SACOL1662.fasta
+SACOL1663		1691825	1011	hypothetical protein	1256	SACOL1663.fasta
+SACOL1665	greA	1693885	477	transcription elongation factor GreA	295	SACOL1665.fasta
+SACOL1666	udk	1694389	624	uridine kinase	434	SACOL1666.fasta
+SACOL1667		1695012	1269	U32 family peptidase	1255	SACOL1667.fasta
+SACOL1668		1696292	924	U32 family peptidase	958	SACOL1668.fasta
+SACOL1669		1697218	639	O-methyltransferase	606	SACOL1669.fasta
+SACOL1670		1698141	309	hypothetical protein	251	SACOL1670.fasta
+SACOL1671		1698464	429	Holliday junction resolvase-like protein	271	SACOL1671.fasta
+SACOL1672		1698896	261	hypothetical protein	225	SACOL1672.fasta
+SACOL1673	alaS	1699219	2631	alanyl-tRNA synthetase	2295	SACOL1673.fasta
+SACOL1674		1702192	2478	recombinase D	2342	SACOL1674.fasta
+SACOL1675		1704671	669	TPR domain-containing protein	801	SACOL1675.fasta
+SACOL1676	mnmA	1705801	1119	tRNA-specific 2-thiouridylase MnmA	1080	SACOL1676.fasta
+SACOL1677		1706920	1143	class V aminotransferase	974	SACOL1677.fasta
+SACOL1678		1708374	1014	luciferase	1327	SACOL1678.fasta
+SACOL1679		1709624	147	hypothetical protein	183	SACOL1679.fasta
+SACOL1681		1710092	423	Rrf2 family protein	344	SACOL1681.fasta
+SACOL1682		1710599	1275	recombination factor protein RarA	1348	SACOL1682.fasta
+SACOL1683		1712034	774	hypothetical protein	754	SACOL1683.fasta
+SACOL1685	aspS	1713268	1767	aspartyl-tRNA synthetase	1606	SACOL1685.fasta
+SACOL1686	hisS	1715050	1263	histidyl-tRNA synthetase	1072	SACOL1686.fasta
+SACOL1687		1716773	876	N-acetylmuramoyl-L-alanine amidase	1067	SACOL1687.fasta
+SACOL1688		1717645	453	D-tyrosyl-tRNA(Tyr) deacylase	441	SACOL1688.fasta
+SACOL1689	relA2	1718109	2190	GTP pyrophosphokinase	1940	SACOL1689.fasta
+SACOL1690	apt	1720726	519	adenine phosphoribosyltransferase	476	SACOL1690.fasta
+SACOL1691	recJ	1721266	2274	single-stranded-DNA-specific exonuclease RecJ	2303	SACOL1691.fasta
+SACOL1692		1723742	2280	bifunctional preprotein translocase subunit SecD/SecF	2124	SACOL1692.fasta
+SACOL1693	yajC	1726296	261	preprotein translocase, YajC subunit	244	SACOL1693.fasta
+SACOL1694	tgt	1726575	1140	queuine tRNA-ribosyltransferase	1239	SACOL1694.fasta
+SACOL1695	queA	1727737	1026	S-adenosylmethionine:tRNA ribosyltransferase-isomerase	1058	SACOL1695.fasta
+SACOL1696	ruvB	1728764	1005	Holliday junction DNA helicase RuvB	885	SACOL1696.fasta
+SACOL1697	ruvA	1729800	603	Holliday junction DNA helicase RuvA	516	SACOL1697.fasta
+SACOL1698		1730416	459	hypothetical protein	548	SACOL1698.fasta
+SACOL1699	obgE	1730884	1293	GTPase ObgE	1396	SACOL1699.fasta
+SACOL1700	rpmA	1732531	285	50S ribosomal protein L27	180	SACOL1700.fasta
+SACOL1701		1732827	321	hypothetical protein	280	SACOL1701.fasta
+SACOL1702	rplU	1733153	309	50S ribosomal protein L21	341	SACOL1702.fasta
+SACOL1703		1733628	531	rod shape-determining protein MreD	710	SACOL1703.fasta
+SACOL1704	mreC	1734158	843	rod shape-determining protein MreC	946	SACOL1704.fasta
+SACOL1705		1735393	474	hypothetical protein	475	SACOL1705.fasta
+SACOL1706		1736340	285	hypothetical protein	380	SACOL1706.fasta
+SACOL1708		1737375	708	type III leader peptidase	964	SACOL1708.fasta
+SACOL1709	folC	1738352	1272	folylpolyglutamate synthase/dihydrofolate synthase	1187	SACOL1709.fasta
+SACOL1710	valS	1739636	2631	valyl-tRNA synthetase	2333	SACOL1710.fasta
+SACOL1711		1742669	561	DNA-3-methyladenine glycosylase	750	SACOL1711.fasta
+SACOL1712		1743452	1074	abrB protein	1196	SACOL1712.fasta
+SACOL1714	hemL1	1744721	1287	glutamate-1-semialdehyde aminotransferase	1234	SACOL1714.fasta
+SACOL1715	hemB	1746055	975	delta-aminolevulinic acid dehydratase	964	SACOL1715.fasta
+SACOL1716	hemD	1747032	669	uroporphyrinogen III synthase	684	SACOL1716.fasta
+SACOL1717	hemC	1747722	927	porphobilinogen deaminase	876	SACOL1717.fasta
+SACOL1718		1748690	816	hemX protein	812	SACOL1718.fasta
+SACOL1719	hemA	1749527	1347	glutamyl-tRNA reductase	1279	SACOL1719.fasta
+SACOL1720	engB	1751090	591	ribosome biogenesis GTP-binding protein YsxC	634	SACOL1720.fasta
+SACOL1721	clpX	1751834	1263	ATP-dependent protease ATP-binding subunit ClpX	1149	SACOL1721.fasta
+SACOL1722	tig	1753247	1302	trigger factor	1469	SACOL1722.fasta
+SACOL1723		1754711	930	hypothetical protein	1069	SACOL1723.fasta
+SACOL1724		1755659	609	MutT/nudix family protein	621	SACOL1724.fasta
+SACOL1725	rplT	1756409	357	50S ribosomal protein L20	345	SACOL1725.fasta
+SACOL1726	rpmI	1756812	201	50S ribosomal protein L35	185	SACOL1726.fasta
+SACOL1727	infC	1757041	528	translation initiation factor IF-3	486	SACOL1727.fasta
+SACOL1728		1757797	1494	amino acid permease	1517	SACOL1728.fasta
+SACOL1729	thrS	1759716	1938	threonyl-tRNA synthetase	1898	SACOL1729.fasta
+SACOL1731	dnaI	1762066	921	primosomal protein DnaI	928	SACOL1731.fasta
+SACOL1732		1762986	1401	replication initiation and membrane attachment protein	1416	SACOL1732.fasta
+SACOL1733	nrdR	1764387	471	transcriptional regulator NrdR	365	SACOL1733.fasta
+SACOL1734	gapA2	1765067	1026	glyceraldehyde 3-phosphate dehydrogenase 2	1029	SACOL1734.fasta
+SACOL1735	coaE	1766262	624	dephospho-CoA kinase	673	SACOL1735.fasta
+SACOL1736	fpg	1766901	873	formamidopyrimidine-DNA glycosylase	1260	SACOL1736.fasta
+SACOL1737	polA	1767789	2631	DNA polymerase I	2502	SACOL1737.fasta
+SACOL1738		1770713	1488	hypothetical protein	1721	SACOL1738.fasta
+SACOL1739		1772699	1665	sensory box histidine kinase PhoR	1615	SACOL1739.fasta
+SACOL1740	phoP	1774360	705	alkaline phosphatase synthesis transcriptional regulatory protein	648	SACOL1740.fasta
+SACOL1742	gltA	1776771	1122	citrate synthase	1176	SACOL1742.fasta
+SACOL1745	pyk	1781926	1758	pyruvate kinase	1368	SACOL1745.fasta
+SACOL1746	pfkA	1783705	969	6-phosphofructokinase	644	SACOL1746.fasta
+SACOL1747	accA	1784942	945	acetyl-CoA carboxylase carboxyltransferase subunit alpha	885	SACOL1747.fasta
+SACOL1748	accD	1785886	858	acetyl-CoA carboxylase subunit beta	666	SACOL1748.fasta
+SACOL1750	dnaE	1788617	3198	DNA polymerase III subunit alpha	2896	SACOL1750.fasta
+SACOL1751		1791835	942	hypothetical protein	804	SACOL1751.fasta
+SACOL1752		1793037	1299	hypothetical protein	1133	SACOL1752.fasta
+SACOL1753		1794540	414	universal stress protein	329	SACOL1753.fasta
+SACOL1756	pepQ	1796121	1056	proline dipeptidase	1120	SACOL1756.fasta
+SACOL1758	ald2	1797492	1119	alanine dehydrogenase	1348	SACOL1758.fasta
+SACOL1759		1798751	501	universal stress protein	342	SACOL1759.fasta
+SACOL1760	ackA	1799497	1203	acetate kinase	1201	SACOL1760.fasta
+SACOL1761		1800787	948	hypothetical protein	1098	SACOL1761.fasta
+SACOL1762	tpx	1801857	495	thiol peroxidase	555	SACOL1762.fasta
+SACOL1763		1802449	771	hypothetical protein	1044	SACOL1763.fasta
+SACOL1764	thiI	1803263	1224	thiamine biosynthesis protein ThiI	1247	SACOL1764.fasta
+SACOL1767		1805997	1695	septation ring formation regulator EzrA	1584	SACOL1767.fasta
+SACOL1768		1807828	465	GAF domain-containing protein	591	SACOL1768.fasta
+SACOL1769	rpsD	1808536	603	30S ribosomal protein S4	487	SACOL1769.fasta
+SACOL1770		1809354	744	glycerophosphoryl diester phosphodiesterase	927	SACOL1770.fasta
+SACOL1771		1810177	447	OsmC/Ohr family protein	544	SACOL1771.fasta
+SACOL1773	serA	1811884	1605	D-3-phosphoglycerate dehydrogenase	1963	SACOL1773.fasta
+SACOL1774		1813638	1131	HAD superfamily hydrolase	1215	SACOL1774.fasta
+SACOL1775		1814875	1467	PTS system, IIBC components	1597	SACOL1775.fasta
+SACOL1776		1816469	618	1-acyl-sn-glycerol-3-phosphate acyltransferase	530	SACOL1776.fasta
+SACOL1777		1817258	1275	serine protease HtrA	1116	SACOL1777.fasta
+SACOL1778	tyrS	1818626	1263	tyrosyl-tRNA synthetase	1065	SACOL1778.fasta
+SACOL1779		1820270	906	transglycosylase domain-containing protein	808	SACOL1779.fasta
+SACOL1781		1821378	2688	cell wall surface anchor family protein	1989	SACOL1781.fasta
+SACOL1782	fhs	1824399	1668	formate--tetrahydrofolate ligase	1689	SACOL1782.fasta
+SACOL1783	acs	1826506	1707	acetyl-CoA synthetase	1968	SACOL1783.fasta
+SACOL1784	acuA	1828381	633	acetoin utilization protein AcuA	958	SACOL1784.fasta
+SACOL1785	acuC	1829038	1170	acetoin utilization protein AcuC	1404	SACOL1785.fasta
+SACOL1786	ccpA	1830305	990	catabolite control protein A	734	SACOL1786.fasta
+SACOL1787		1831834	1092	bifunctional 3-deoxy-7-phosphoheptulonate synthase/chorismate mutase	897	SACOL1787.fasta
+SACOL1789		1835216	492	hypothetical protein	440	SACOL1789.fasta
+SACOL1790	murC	1835781	1314	UDP-N-acetylmuramate--L-alanine ligase	1059	SACOL1790.fasta
+SACOL1791		1837118	3825	FtsK/SpoIIIE family protein	3822	SACOL1791.fasta
+SACOL1793		1841588	858	hypothetical protein	877	SACOL1793.fasta
+SACOL1794		1842545	312	thioredoxin	311	SACOL1794.fasta
+SACOL1795	pepA1	1842921	1077	glutamyl aminopeptidase	1142	SACOL1795.fasta
+SACOL1796		1844084	312	hypothetical protein	311	SACOL1796.fasta
+SACOL1797		1844520	777	metallo-beta-lactamase	1017	SACOL1797.fasta
+SACOL1798	trmB	1845832	645	tRNA (guanine-N(7)-)-methyltransferase	735	SACOL1798.fasta
+SACOL1799		1846491	792	hypothetical protein	653	SACOL1799.fasta
+SACOL1800	dat	1847832	849	D-alanine aminotransferase	985	SACOL1800.fasta
+SACOL1801		1848684	1410	dipeptidase PepV	1335	SACOL1801.fasta
+SACOL1802		1851013	423	hypothetical protein	484	SACOL1802.fasta
+SACOL1803		1851452	696	pseudouridine synthase 1 protein	850	SACOL1803.fasta
+SACOL1804		1852144	1662	polysaccharide biosynthesis protein	1441	SACOL1804.fasta
+SACOL1807		1862483	312	rhodanese-like domain-containing protein	411	SACOL1807.fasta
+SACOL1808	leuS	1862816	2418	leucyl-tRNA synthetase	2268	SACOL1808.fasta
+SACOL1809		1865521	1182	drug transporter	1262	SACOL1809.fasta
+SACOL1810		1866812	954	hypothetical protein	1048	SACOL1810.fasta
+SACOL1811		1867762	564	hypothetical protein	599	SACOL1811.fasta
+SACOL1812	rot	1868445	501	repressor of toxins	547	SACOL1812.fasta
+SACOL1814		1870425	828	lysophospholipase	811	SACOL1814.fasta
+SACOL1815		1871255	120	hypothetical protein	119	SACOL1815.fasta
+SACOL1816	putA	1871486	1002	proline dehydrogenase	1208	SACOL1816.fasta
+SACOL1817	ribH	1872609	465	6,7-dimethyl-8-ribityllumazine synthase	449	SACOL1817.fasta
+SACOL1818	ribBA	1873086	1182	riboflavin biosynthesis protein	1127	SACOL1818.fasta
+SACOL1819	ribE	1874278	633	riboflavin synthase subunit alpha	702	SACOL1819.fasta
+SACOL1820	ribD	1874917	1044	riboflavin biosynthesis protein RibD	1125	SACOL1820.fasta
+SACOL1821		1876441	1503	hypothetical protein	1658	SACOL1821.fasta
+SACOL1822	arsR	1878466	315	arsenical resistance operon repressor	431	SACOL1822.fasta
+SACOL1823	arsB	1878780	1293	arsenical pump membrane protein	1546	SACOL1823.fasta
+SACOL1825		1880780	855	N-acetylmuramoyl-L-alanine amidase	679	SACOL1825.fasta
+SACOL1826		1881910	225	hypothetical protein	246	SACOL1826.fasta
+SACOL1831	tal	1885160	714	translaldolase	779	SACOL1831.fasta
+SACOL1832	crcB	1886613	444	camphor resistance protein CrcB	478	SACOL1832.fasta
+SACOL1833		1887053	354	crcB family protein	445	SACOL1833.fasta
+SACOL1835		1889489	834	aldo/keto reductase oxidoreductase	1041	SACOL1835.fasta
+SACOL1836		1890534	909	hypothetical protein	914	SACOL1836.fasta
+SACOL1837	metK	1891567	1194	S-adenosylmethionine synthetase	1076	SACOL1837.fasta
+SACOL1838	pckA	1893131	1593	phosphoenolpyruvate carboxykinase	1419	SACOL1838.fasta
+SACOL1840		1895719	771	hypothetical protein	987	SACOL1840.fasta
+SACOL1842		1897009	258	hypothetical protein	277	SACOL1842.fasta
+SACOL1844		1898269	1479	O-succinylbenzoic acid--CoA ligase	1730	SACOL1844.fasta
+SACOL1845		1899906	483	hypothetical protein	654	SACOL1845.fasta
+SACOL1847		1901395	996	hypothetical protein	1243	SACOL1847.fasta
+SACOL1885		1941188	555	hypothetical protein	558	SACOL1885.fasta
+SACOL1887	hemG	1942065	1401	protoporphyrinogen oxidase	1594	SACOL1887.fasta
+SACOL1888	hemH	1943489	924	ferrochelatase	983	SACOL1888.fasta
+SACOL1889	hemE	1944470	1038	uroporphyrinogen decarboxylase	1053	SACOL1889.fasta
+SACOL1892		1946397	1224	hypothetical protein	1309	SACOL1892.fasta
+SACOL1894		1948487	423	HIT family protein	446	SACOL1894.fasta
+SACOL1895		1949051	366	hypothetical protein	512	SACOL1895.fasta
+SACOL1896		1950149	558	hypothetical protein	617	SACOL1896.fasta
+SACOL1897		1950911	963	protein export protein PrsA	1077	SACOL1897.fasta
+SACOL1898	cbf1	1951994	942	3'-5' exoribonuclease YhaM	761	SACOL1898.fasta
+SACOL1899		1952932	2937	hypothetical protein	2555	SACOL1899.fasta
+SACOL1902		1957826	345	hypothetical protein	236	SACOL1902.fasta
+SACOL1903		1958239	1125	hypothetical protein	1246	SACOL1903.fasta
+SACOL1904		1959542	465	transcriptional regulator	327	SACOL1904.fasta
+SACOL1905		1960362	624	LuxR family DNA-binding response regulator	662	SACOL1905.fasta
+SACOL1906		1961007	1113	sensor histidine kinase	1035	SACOL1906.fasta
+SACOL1907		1962282	822	ribosomal large subunit pseudouridine synthase D	896	SACOL1907.fasta
+SACOL1908	fumC	1963566	1386	fumarate hydratase	1220	SACOL1908.fasta
+SACOL1909		1965147	396	hypothetical protein	436	SACOL1909.fasta
+SACOL1911		1966319	153	hypothetical protein	206	SACOL1911.fasta
+SACOL1912		1966496	600	hypothetical protein	593	SACOL1912.fasta
+SACOL1913		1967254	471	RNA methyltransferase	477	SACOL1913.fasta
+SACOL1914		1967729	1128	iron-sulfur cluster-binding protein	1377	SACOL1914.fasta
+SACOL1916		1969722	1458	amino acid ABC transporter permease/substrate-binding protein	1633	SACOL1916.fasta
+SACOL1917		1971437	1062	PTS system, IIC component	1235	SACOL1917.fasta
+SACOL1919		1982818	447	FUR family transcriptional regulator	322	SACOL1919.fasta
+SACOL1920		1983361	951	D-isomer specific 2-hydroxyacid dehydrogenase	1329	SACOL1920.fasta
+SACOL1921	bcp	1984317	456	bacterioferritin comigratory protein	580	SACOL1921.fasta
+SACOL1922	hemL2	1984853	1290	glutamate-1-semialdehyde aminotransferase	1243	SACOL1922.fasta
+SACOL1923		1986435	1095	hypothetical protein	841	SACOL1923.fasta
+SACOL1924		1987720	1737	toxin exporting ABC transporter permease/ATP-binding protein	1975	SACOL1924.fasta
+SACOL1925		1989747	543	hypothetical protein	375	SACOL1925.fasta
+SACOL1926	mutY	1990591	1038	A/G-specific adenine glycosylase	1005	SACOL1926.fasta
+SACOL1927		1991780	978	hypothetical protein	971	SACOL1927.fasta
+SACOL1928		1993018	837	hypothetical protein	934	SACOL1928.fasta
+SACOL1929		1993863	1518	ABC transporter ATP-binding protein	1609	SACOL1929.fasta
+SACOL1931	recX	1995687	819	recombination regulator RecX	985	SACOL1931.fasta
+SACOL1932		1996766	810	glycosyltransferase	751	SACOL1932.fasta
+SACOL1933		1997916	516	ThiJ/PfpI family protein	636	SACOL1933.fasta
+SACOL1934		1998562	162	hypothetical protein	152	SACOL1934.fasta
+SACOL1936		2000358	531	hypothetical protein	522	SACOL1936.fasta
+SACOL1937	pepS	2000978	1257	aminopeptidase PepS	1298	SACOL1937.fasta
+SACOL1938		2002237	207	hypothetical protein	196	SACOL1938.fasta
+SACOL1939		2002584	465	phosphotyrosine protein phosphatase	550	SACOL1939.fasta
+SACOL1940		2003055	276	hypothetical protein	294	SACOL1940.fasta
+SACOL1941		2003608	1218	ribonuclease BN	1156	SACOL1941.fasta
+SACOL1943	vraS	2005560	1044	sensor histidine kinase VraS	887	SACOL1943.fasta
+SACOL1944		2006600	702	hypothetical protein	730	SACOL1944.fasta
+SACOL1945		2007316	387	hypothetical protein	350	SACOL1945.fasta
+SACOL1946		2007919	759	methionine aminopeptidase	517	SACOL1946.fasta
+SACOL1947		2009205	987	hypothetical protein	983	SACOL1947.fasta
+SACOL1948		2010622	414	hypothetical protein	567	SACOL1948.fasta
+SACOL1949		2011064	111	hypothetical protein	117	SACOL1949.fasta
+SACOL1950		2011260	732	cobyric acid synthase	650	SACOL1950.fasta
+SACOL1951		2011993	1314	Mur ligase	1067	SACOL1951.fasta
+SACOL1952		2013598	501	ferritins family protein	402	SACOL1952.fasta
+SACOL1953		2014180	93	hypothetical protein	79	SACOL1953.fasta
+SACOL1954		2014487	555	exonuclease	494	SACOL1954.fasta
+SACOL1956		2016426	531	hypothetical protein	572	SACOL1956.fasta
+SACOL1957		2017126	1362	RNA methyltransferase	1313	SACOL1957.fasta
+SACOL1958		2018568	948	lipid kinase	684	SACOL1958.fasta
+SACOL1960	gatB	2020284	1428	aspartyl/glutamyl-tRNA amidotransferase subunit B	1021	SACOL1960.fasta
+SACOL1961	gatA	2021724	1458	aspartyl/glutamyl-tRNA amidotransferase subunit A	1178	SACOL1961.fasta
+SACOL1962	gatC	2023183	303	aspartyl/glutamyl-tRNA amidotransferase subunit C	212	SACOL1962.fasta
+SACOL1963		2023853	1539	high affinity proline permease	1597	SACOL1963.fasta
+SACOL1964	camS	2025480	1200	hypothetical protein	1175	SACOL1964.fasta
+SACOL1965	ligA	2026692	2004	DNA ligase, NAD-dependent	1660	SACOL1965.fasta
+SACOL1966	pcrA	2028699	2193	ATP-dependent DNA helicase PcrA	1823	SACOL1966.fasta
+SACOL1967		2030888	693	geranylgeranylglyceryl phosphate synthase	721	SACOL1967.fasta
+SACOL1968		2031752	303	hypothetical protein	170	SACOL1968.fasta
+SACOL1969	purB	2032163	1296	adenylosuccinate lyase	1066	SACOL1969.fasta
+SACOL1970	sspB2	2034319	1167	cysteine protease precursor SspB	1407	SACOL1970.fasta
+SACOL1971		2035516	327	hypothetical protein	349	SACOL1971.fasta
+SACOL1973		2036288	603	hypothetical protein	448	SACOL1973.fasta
+SACOL1975		2037975	1470	nicotinate phosphoribosyltransferase	1169	SACOL1975.fasta
+SACOL1976		2039628	1077	nitric-oxide synthase, oxygenase subunit	1068	SACOL1976.fasta
+SACOL1977	pheA	2040724	795	prephenate dehydratase	847	SACOL1977.fasta
+SACOL1979		2041708	1563	sodium-dependent transporter	1631	SACOL1979.fasta
+SACOL1980		2043475	1098	hypothetical protein	1120	SACOL1980.fasta
+SACOL1981		2044944	561	isochorismatase	375	SACOL1981.fasta
+SACOL1982	ppaC	2045557	930	manganese-dependent inorganic pyrophosphatase	662	SACOL1982.fasta
+SACOL1984	aldA2	2046906	1380	aldehyde dehydrogenase	1307	SACOL1984.fasta
+SACOL1985		2048405	1029	hypothetical protein	915	SACOL1985.fasta
+SACOL1987		2050677	174	hypothetical protein	188	SACOL1987.fasta
+SACOL1988		2051301	1041	hypothetical protein	986	SACOL1988.fasta
+SACOL1990		2053237	558	hypothetical protein	511	SACOL1990.fasta
+SACOL1991		2053854	525	hypothetical protein	518	SACOL1991.fasta
+SACOL1992		2054499	564	hypothetical protein	511	SACOL1992.fasta
+SACOL1993		2055128	741	hypothetical protein	596	SACOL1993.fasta
+SACOL1994		2055868	873	ABC transporter ATP-binding protein	694	SACOL1994.fasta
+SACOL1995		2056737	681	hypothetical protein	663	SACOL1995.fasta
+SACOL1996		2057418	897	ABC transporter ATP-binding protein	776	SACOL1996.fasta
+SACOL1997		2058311	381	GntR family transcriptional regulator	372	SACOL1997.fasta
+SACOL1998		2058955	177	hypothetical protein	174	SACOL1998.fasta
+SACOL1999		2059374	99	hypothetical protein	100	SACOL1999.fasta
+SACOL2000		2059672	1287	hypothetical protein	1119	SACOL2000.fasta
+SACOL2016	groEL	2076024	1617	chaperonin GroEL	1373	SACOL2016.fasta
+SACOL2017	groES	2077716	285	co-chaperonin GroES	306	SACOL2017.fasta
+SACOL2018		2078175	744	hypothetical protein	756	SACOL2018.fasta
+SACOL2020		2080399	627	hypothetical protein	754	SACOL2020.fasta
+SACOL2021		2081386	786	carbon-nitrogen family hydrolase	959	SACOL2021.fasta
+SACOL2022	hld	2082768	135	delta-hemolysin	123	SACOL2022.fasta
+SACOL2026	agrA	2085180	717	accessory gene regulator protein A	1621	SACOL2026.fasta
+SACOL2028		2086263	960	fructokinase	1114	SACOL2028.fasta
+SACOL2029	cscA	2087219	1485	sucrose-6-phosphate hydrolase	1497	SACOL2029.fasta
+SACOL2030	scrR	2088852	951	sucrose operon repressor	912	SACOL2030.fasta
+SACOL2031		2089985	1251	ammonium transporter family protein	1545	SACOL2031.fasta
+SACOL2033		2091442	225	hypothetical protein	266	SACOL2033.fasta
+SACOL2035		2093109	636	redox-sensing transcriptional repressor Rex	473	SACOL2035.fasta
+SACOL2036		2093997	1929	ABC transporter ATP-binding protein	1850	SACOL2036.fasta
+SACOL2037		2096287	1611	hypothetical protein	1660	SACOL2037.fasta
+SACOL2038		2097999	1026	DNA-binding/iron metalloprotein/AP endonuclease	859	SACOL2038.fasta
+SACOL2040		2099454	663	hypothetical protein	631	SACOL2040.fasta
+SACOL2042	ilvD	2101069	1689	dihydroxy-acid dehydratase	1812	SACOL2042.fasta
+SACOL2043	ilvB	2102785	1770	acetolactate synthase large subunit	1815	SACOL2043.fasta
+SACOL2044		2104554	255	acetolactate synthase 1 regulatory subunit	253	SACOL2044.fasta
+SACOL2045	ilvC	2104945	1005	ketol-acid reductoisomerase	1059	SACOL2045.fasta
+SACOL2046	leuA	2105979	1530	2-isopropylmalate synthase	1761	SACOL2046.fasta
+SACOL2047	leuB	2107511	1047	3-isopropylmalate dehydrogenase	1186	SACOL2047.fasta
+SACOL2048	leuC	2108571	1371	isopropylmalate isomerase large subunit	1780	SACOL2048.fasta
+SACOL2049	leuD	2109942	573	isopropylmalate isomerase small subunit	676	SACOL2049.fasta
+SACOL2050	ilvA2	2110529	1269	threonine dehydratase	1287	SACOL2050.fasta
+SACOL2053		2118608	2151	S1 RNA-binding domain-containing protein	2166	SACOL2053.fasta
+SACOL2054	rpoF	2121192	771	RNA polymerase sigma factor SigB	869	SACOL2054.fasta
+SACOL2056	rsbV	2122418	327	anti-anti-sigma factor RsbV	303	SACOL2056.fasta
+SACOL2057	rsbU	2122864	1002	sigma factor B regulator protein	1372	SACOL2057.fasta
+SACOL2058		2124215	363	PemK family protein	370	SACOL2058.fasta
+SACOL2059		2124574	171	hypothetical protein	94	SACOL2059.fasta
+SACOL2060	alr	2124829	1149	alanine racemase	1098	SACOL2060.fasta
+SACOL2061	acpS	2126043	360	4'-phosphopantetheinyl transferase	323	SACOL2061.fasta
+SACOL2063		2126884	1584	hypothetical protein	1640	SACOL2063.fasta
+SACOL2065		2129035	117	hypothetical protein	110	SACOL2065.fasta
+SACOL2066	kdpC	2129148	561	potassium-transporting ATPase subunit C	699	SACOL2066.fasta
+SACOL2067	kdpB	2129728	2028	potassium-transporting ATPase subunit B	2297	SACOL2067.fasta
+SACOL2068	kdpA	2131774	1677	potassium-transporting ATPase subunit A	1823	SACOL2068.fasta
+SACOL2069	kdpF	2133474	111	K+-transporting ATPase, F subunit	133	SACOL2069.fasta
+SACOL2070	kdpD	2133722	2658	sensor histidine kinase KdpD	2609	SACOL2070.fasta
+SACOL2071	kdpE	2136379	696	DNA-binding response regulator KdpE	680	SACOL2071.fasta
+SACOL2072		2137443	1521	DEAD/DEAH box helicase	1316	SACOL2072.fasta
+SACOL2073	murF	2139480	1359	UDP-N-acetylmuramoyl-tripeptide--D-alanyl-D- alanine ligase	1315	SACOL2073.fasta
+SACOL2074	ddl	2140853	1071	D-alanyl-alanine synthetase A	763	SACOL2074.fasta
+SACOL2075	ftsW	2142241	1203	cell cycle protein FtsW	1103	SACOL2075.fasta
+SACOL2076		2143707	138	hypothetical protein	97	SACOL2076.fasta
+SACOL2077		2143972	210	hypothetical protein	197	SACOL2077.fasta
+SACOL2078		2144193	294	hypothetical protein	246	SACOL2078.fasta
+SACOL2079	cls2	2144652	1485	cardiolipin synthetase	1399	SACOL2079.fasta
+SACOL2080		2146164	648	HD domain-containing protein	739	SACOL2080.fasta
+SACOL2082		2147624	873	hypothetical protein	635	SACOL2082.fasta
+SACOL2083	thiE	2148582	642	thiamine-phosphate pyrophosphorylase	753	SACOL2083.fasta
+SACOL2085	thiD2	2150000	831	phosphomethylpyrimidine kinase	864	SACOL2085.fasta
+SACOL2088		2151898	696	sceD protein	808	SACOL2088.fasta
+SACOL2089		2152982	396	ssDNA-binding protein	391	SACOL2089.fasta
+SACOL2090	ywpF	2153571	441	hypothetical protein	369	SACOL2090.fasta
+SACOL2091	fabZ	2154070	441	(3R)-hydroxymyristoyl-ACP dehydratase	366	SACOL2091.fasta
+SACOL2092	murAA	2154544	1266	UDP-N-acetylglucosamine 1-carboxyvinyltransferase	1020	SACOL2092.fasta
+SACOL2093		2155920	234	hypothetical protein	232	SACOL2093.fasta
+SACOL2094	atpC	2156715	405	F0F1 ATP synthase subunit epsilon	260	SACOL2094.fasta
+SACOL2095	atpD	2157139	1413	F0F1 ATP synthase subunit beta	963	SACOL2095.fasta
+SACOL2096	atpG	2158573	867	F0F1 ATP synthase subunit gamma	662	SACOL2096.fasta
+SACOL2097	atpA	2159470	1509	F0F1 ATP synthase subunit alpha	1149	SACOL2097.fasta
+SACOL2098	atpH	2161000	540	F0F1 ATP synthase subunit delta	550	SACOL2098.fasta
+SACOL2099	atpF	2161539	522	F0F1 ATP synthase subunit B	366	SACOL2099.fasta
+SACOL2100	atpE	2162258	213	F0F1 ATP synthase subunit C	74	SACOL2100.fasta
+SACOL2101	atpB	2162513	729	F0F1 ATP synthase subunit A	584	SACOL2101.fasta
+SACOL2102		2163262	354	hypothetical protein	450	SACOL2102.fasta
+SACOL2103		2163782	1128	UDP-GlcNAc 2-epimerase	1057	SACOL2103.fasta
+SACOL2104	upp	2164933	630	uracil phosphoribosyltransferase	541	SACOL2104.fasta
+SACOL2105	glyA	2165590	1239	serine hydroxymethyltransferase	1441	SACOL2105.fasta
+SACOL2106		2166855	525	hypothetical protein	670	SACOL2106.fasta
+SACOL2107		2167486	420	phosphotyrosine protein phosphatase	432	SACOL2107.fasta
+SACOL2108		2167902	1056	Sua5/YciO/YrdC/YwlC family protein	980	SACOL2108.fasta
+SACOL2110	prfA	2169855	1077	peptide chain release factor 1	819	SACOL2110.fasta
+SACOL2111	tdk	2170932	600	thymidine kinase	493	SACOL2111.fasta
+SACOL2112	rpmE2	2171878	255	50S ribosomal protein L31	131	SACOL2112.fasta
+SACOL2113	rho	2172250	1317	transcription termination factor Rho	1363	SACOL2113.fasta
+SACOL2114		2173813	1428	aldehyde dehydrogenase	1888	SACOL2114.fasta
+SACOL2115		2175478	336	hypothetical protein	316	SACOL2115.fasta
+SACOL2116	murAB	2175902	1260	UDP-N-acetylglucosamine 1-carboxyvinyltransferase	1419	SACOL2116.fasta
+SACOL2117	fbaA	2177627	861	fructose-bisphosphate aldolase	859	SACOL2117.fasta
+SACOL2118		2178705	522	hypothetical protein	563	SACOL2118.fasta
+SACOL2119	pyrG	2179335	1611	CTP synthetase	1433	SACOL2119.fasta
+SACOL2120	rpoE	2181281	531	DNA-directed RNA polymerase subunit delta	509	SACOL2120.fasta
+SACOL2121		2181923	861	acetyltransferase	935	SACOL2121.fasta
+SACOL2122		2183207	804	pantothenate kinase	1022	SACOL2122.fasta
+SACOL2123		2184140	672	hypothetical protein	677	SACOL2123.fasta
+SACOL2124		2185210	1194	hypothetical protein	1378	SACOL2124.fasta
+SACOL2125		2186403	1185	M20/M25/M40 family peptidase	1445	SACOL2125.fasta
+SACOL2126	luxS	2187898	471	S-ribosylhomocysteinase	487	SACOL2126.fasta
+SACOL2127		2188520	351	hypothetical protein	326	SACOL2127.fasta
+SACOL2128	pdp	2188884	1302	pyrimidine-nucleoside phosphorylase	1439	SACOL2128.fasta
+SACOL2130	deoD	2191441	711	purine nucleoside phosphorylase	695	SACOL2130.fasta
+SACOL2131		2192272	444	Dps family protein	410	SACOL2131.fasta
+SACOL2132		2192915	414	hypothetical protein	472	SACOL2132.fasta
+SACOL2133		2193786	1374	hypothetical protein	1265	SACOL2133.fasta
+SACOL2134		2195831	231	hypothetical protein	254	SACOL2134.fasta
+SACOL2135	manA1	2196092	939	mannose-6-phosphate isomerase, class I	955	SACOL2135.fasta
+SACOL2136		2197465	666	hypothetical protein	905	SACOL2136.fasta
+SACOL2137	czrA	2198282	321	transcriptional regulator CzrA	334	SACOL2137.fasta
+SACOL2138		2198604	981	cation efflux family protein	928	SACOL2138.fasta
+SACOL2139		2199794	108	hypothetical protein	120	SACOL2139.fasta
+SACOL2145	glmS	2206327	1806	glucosamine--fructose-6-phosphate aminotransferase	1280	SACOL2145.fasta
+SACOL2146		2208813	1539	PTS system, mannitol-specific IIBC components	1561	SACOL2146.fasta
+SACOL2147		2210386	2133	BglG family transcriptional antiterminator	2240	SACOL2147.fasta
+SACOL2148		2212530	435	PTS system, mannitol-specific IIA component	483	SACOL2148.fasta
+SACOL2149	mtlD	2212964	1107	mannitol-1-phosphate 5-dehydrogenase	1136	SACOL2149.fasta
+SACOL2151	glmM	2222102	1356	phosphoglucosamine mutase	1067	SACOL2151.fasta
+SACOL2152		2223484	933	hypothetical protein	766	SACOL2152.fasta
+SACOL2153		2224418	810	hypothetical protein	683	SACOL2153.fasta
+SACOL2156		2234163	1065	ATP-binding Mrp/Nbp35 family protein	1081	SACOL2156.fasta
+SACOL2157		2235375	1443	EmrB/QacA family drug resistance transporter	1560	SACOL2157.fasta
+SACOL2161		2239933	1188	UTP-glucose-1-phosphate uridylyltransferase	1093	SACOL2161.fasta
+SACOL2162		2241164	516	hypothetical protein	602	SACOL2162.fasta
+SACOL2163		2241857	261	hypothetical protein	231	SACOL2163.fasta
+SACOL2164		2242249	1371	hypothetical protein	1268	SACOL2164.fasta
+SACOL2166		2244820	1032	iron compound ABC transporter permease	978	SACOL2166.fasta
+SACOL2167		2245863	984	iron compound ABC transporter iron compound-binding protein	841	SACOL2167.fasta
+SACOL2168		2247238	1071	hypothetical protein	1036	SACOL2168.fasta
+SACOL2169		2248315	1758	aerobactin biosynthesis protein	1773	SACOL2169.fasta
+SACOL2171		2251354	1977	aerobactin biosynthesis protein	2133	SACOL2171.fasta
+SACOL2173		2255446	510	alkaline shock protein 23	404	SACOL2173.fasta
+SACOL2174		2256018	240	hypothetical protein	229	SACOL2174.fasta
+SACOL2175		2256270	549	hypothetical protein	537	SACOL2175.fasta
+SACOL2176	opuD2	2256981	1563	BCCT family osmoprotectant transporter	1809	SACOL2176.fasta
+SACOL2177		2258850	1002	alcohol dehydrogenase, zinc-containing	1250	SACOL2177.fasta
+SACOL2178		2260085	1002	alcohol dehydrogenase, zinc-containing	1172	SACOL2178.fasta
+SACOL2179		2261369	870	hypothetical protein	1039	SACOL2179.fasta
+SACOL2180	lacG	2262504	1413	6-phospho-beta-galactosidase	1717	SACOL2180.fasta
+SACOL2181	lacE	2263934	1719	PTS system, lactose-specific IIBC components	2094	SACOL2181.fasta
+SACOL2182	lacF	2265652	312	PTS system, lactose-specific IIA component	379	SACOL2182.fasta
+SACOL2183	lacD	2265985	981	tagatose 1,6-diphosphate aldolase	1190	SACOL2183.fasta
+SACOL2184	lacC	2266969	933	tagatose-6-phosphate kinase	1309	SACOL2184.fasta
+SACOL2185	lacB	2267914	516	galactose-6-phosphate isomerase subunit LacB	648	SACOL2185.fasta
+SACOL2186		2268445	429	galactose-6-phosphate isomerase subunit LacA	388	SACOL2186.fasta
+SACOL2187		2268888	117	hypothetical protein	287	SACOL2187.fasta
+SACOL2188	lacR	2269241	756	lactose phosphotransferase system repressor	724	SACOL2188.fasta
+SACOL2189		2270247	732	NAD-dependent deacetylase	957	SACOL2189.fasta
+SACOL2192		2272484	849	aldo/keto reductase oxidoreductase	942	SACOL2192.fasta
+SACOL2193		2273402	417	MerR family transcriptional regulator	570	SACOL2193.fasta
+SACOL2197		2278883	426	surface protein	552	SACOL2197.fasta
+SACOL2198	budA1	2279672	705	alpha-acetolactate decarboxylase	663	SACOL2198.fasta
+SACOL2199	budB	2280413	1665	acetolactate synthase	1997	SACOL2199.fasta
+SACOL2206	rpsI	2288674	399	30S ribosomal protein S9	306	SACOL2206.fasta
+SACOL2207	rplM	2289086	438	50S ribosomal protein L13	372	SACOL2207.fasta
+SACOL2208	truA	2289763	804	tRNA pseudouridine synthase A	733	SACOL2208.fasta
+SACOL2210	cbiO	2291367	861	cobalt transporter ATP-binding subunit	804	SACOL2210.fasta
+SACOL2211	cbiO	2292224	810	cobalt transporter ATP-binding subunit	859	SACOL2211.fasta
+SACOL2212	rplQ	2293571	369	50S ribosomal protein L17	258	SACOL2212.fasta
+SACOL2213	rpoA	2293956	945	DNA-directed RNA polymerase subunit alpha	632	SACOL2213.fasta
+SACOL2214	rpsK	2294975	390	30S ribosomal protein S11	220	SACOL2214.fasta
+SACOL2215	rpsM	2295388	366	30S ribosomal protein S13	215	SACOL2215.fasta
+SACOL2216	rpmJ	2295776	114	50S ribosomal protein L36	65	SACOL2216.fasta
+SACOL2217	infA	2295921	219	translation initiation factor IF-1	136	SACOL2217.fasta
+SACOL2218	adk	2296332	648	adenylate kinase	526	SACOL2218.fasta
+SACOL2219	secY	2296996	1293	preprotein translocase subunit SecY	1220	SACOL2219.fasta
+SACOL2220	rplO	2298288	441	50S ribosomal protein L15	440	SACOL2220.fasta
+SACOL2221	rpmD	2298745	180	50S ribosomal protein L30	167	SACOL2221.fasta
+SACOL2222	rpsE	2298941	501	30S ribosomal protein S5	355	SACOL2222.fasta
+SACOL2223	rplR	2299462	360	50S ribosomal protein L18	315	SACOL2223.fasta
+SACOL2224	rplF	2299852	537	50S ribosomal protein L6	484	SACOL2224.fasta
+SACOL2225	rpsH	2300413	399	30S ribosomal protein S8	283	SACOL2225.fasta
+SACOL2226	rpsN	2300843	186	30S ribosomal protein S14	107	SACOL2226.fasta
+SACOL2227	rplE	2301051	540	50S ribosomal protein L5	425	SACOL2227.fasta
+SACOL2228	rplX	2301617	318	50S ribosomal protein L24	350	SACOL2228.fasta
+SACOL2229	rplN	2301970	369	50S ribosomal protein L14	378	SACOL2229.fasta
+SACOL2230	rpsQ	2302370	264	30S ribosomal protein S17	208	SACOL2230.fasta
+SACOL2232	rplP	2302856	435	50S ribosomal protein L16	360	SACOL2232.fasta
+SACOL2233	rpsC	2303293	654	30S ribosomal protein S3	614	SACOL2233.fasta
+SACOL2234	rplV	2303970	354	50S ribosomal protein L22	316	SACOL2234.fasta
+SACOL2235	rpsS	2304352	279	30S ribosomal protein S19	195	SACOL2235.fasta
+SACOL2236	rplB	2304697	834	50S ribosomal protein L2	826	SACOL2236.fasta
+SACOL2237	rplW	2305563	276	50S ribosomal protein L23	338	SACOL2237.fasta
+SACOL2238	rplD	2305838	624	50S ribosomal protein L4	805	SACOL2238.fasta
+SACOL2239	rplC	2306488	663	50S ribosomal protein L3	886	SACOL2239.fasta
+SACOL2240	rpsJ	2307178	309	30S ribosomal protein S10	375	SACOL2240.fasta
+SACOL2241		2307843	390	hypothetical protein	561	SACOL2241.fasta
+SACOL2242		2308424	1335	xanthine/uracil permease	1448	SACOL2242.fasta
+SACOL2243	topB	2309871	2136	DNA topoisomerase III	2420	SACOL2243.fasta
+SACOL2245		2312193	888	acetyltransferase	971	SACOL2245.fasta
+SACOL2246		2313261	864	sugar transporter	789	SACOL2246.fasta
+SACOL2247		2314241	132	hypothetical protein	190	SACOL2247.fasta
+SACOL2248		2314543	909	hypothetical protein	1152	SACOL2248.fasta
+SACOL2250		2315584	165	hypothetical protein	200	SACOL2250.fasta
+SACOL2251		2315993	318	hypothetical protein	366	SACOL2251.fasta
+SACOL2252		2316497	3168	AcrB/AcrD/AcrF family protein	3502	SACOL2252.fasta
+SACOL2253	femX	2319781	1266	femX protein	1173	SACOL2253.fasta
+SACOL2255		2321678	765	hypothetical protein	903	SACOL2255.fasta
+SACOL2257		2323037	1212	drug transporter	1282	SACOL2257.fasta
+SACOL2258	sarV	2324350	351	hypothetical protein	358	SACOL2258.fasta
+SACOL2259		2324826	171	hypothetical protein	607	SACOL2259.fasta
+SACOL2261	moaA	2325391	1023	molybdenum cofactor biosynthesis protein A	832	SACOL2261.fasta
+SACOL2262	mobA	2326433	600	molybdopterin-guanine dinucleotide biosynthesis protein MobA	610	SACOL2262.fasta
+SACOL2263	moaD	2327039	234	molybdopterin converting factor subunit 1	207	SACOL2263.fasta
+SACOL2264	moaE	2327278	447	molybdenum cofactor biosynthesis protein E	393	SACOL2264.fasta
+SACOL2265	mobB	2327738	486	molybdopterin-guanine dinucleotide biosynthesis protein B	499	SACOL2265.fasta
+SACOL2266		2328220	1260	molybdopterin biosynthesis MoeA protein	1350	SACOL2266.fasta
+SACOL2267	moaC	2329542	495	molybdenum cofactor biosynthesis protein MoaC	454	SACOL2267.fasta
+SACOL2268	moaB	2330038	507	molybdenum cofactor biosynthesis protein B	481	SACOL2268.fasta
+SACOL2269		2330575	1005	molybdopterin biosynthesis MoeB protein	908	SACOL2269.fasta
+SACOL2270	modC	2331749	606	molybdenum ABC transporter ATP-binding protein ModC	504	SACOL2270.fasta
+SACOL2271	modB	2332355	672	molybdenum ABC transporter permease ModB	678	SACOL2271.fasta
+SACOL2272	modA	2333040	783	molybdenum ABC transporter molybdenum-binding protein ModA	792	SACOL2272.fasta
+SACOL2273	fdhD	2334112	798	formate dehydrogenase accessory protein	876	SACOL2273.fasta
+SACOL2274		2335081	771	acetyltransferase	852	SACOL2274.fasta
+SACOL2275		2335923	555	BioY family protein	583	SACOL2275.fasta
+SACOL2276		2336598	942	inosine-uridine preferring nucleoside hydrolase	1041	SACOL2276.fasta
+SACOL2277		2337938	909	iron compound ABC transporter iron compound-binding protein	1035	SACOL2277.fasta
+SACOL2278		2339060	1155	acyl-CoA dehydrogenase-like protein	1346	SACOL2278.fasta
+SACOL2279		2340431	906	transporter	1105	SACOL2279.fasta
+SACOL2280	ureA	2341596	303	urease subunit gamma	338	SACOL2280.fasta
+SACOL2281	ureB	2341912	411	urease subunit beta	497	SACOL2281.fasta
+SACOL2285	ureG	2345194	615	urease accessory protein UreG	606	SACOL2285.fasta
+SACOL2286	ureD	2345808	837	urease accessory protein UreD	807	SACOL2286.fasta
+SACOL2287	sarR	2346833	348	accessory regulator R	232	SACOL2287.fasta
+SACOL2288		2347608	327	hypothetical protein	345	SACOL2288.fasta
+SACOL2290		2348767	1956	AraC family transcriptional regulator	1972	SACOL2290.fasta
+SACOL2292	nhaC	2352568	1401	Na+/H+ antiporter NhaC	1661	SACOL2292.fasta
+SACOL2293		2354063	1083	NAD/NADP octopine/nopaline dehydrogenase	867	SACOL2293.fasta
+SACOL2294		2355393	423	hypothetical protein	549	SACOL2294.fasta
+SACOL2295		2356052	501	staphyloxanthin biosynthesis protein	573	SACOL2295.fasta
+SACOL2296		2356914	954	glycerate dehydrogenase	940	SACOL2296.fasta
+SACOL2297		2357959	1125	hypothetical protein	1164	SACOL2297.fasta
+SACOL2298		2359394	777	N-acetylmuramoyl-L-alanine amidase	738	SACOL2298.fasta
+SACOL2299		2360192	252	hypothetical protein	220	SACOL2299.fasta
+SACOL2300		2360653	474	hypothetical protein	483	SACOL2300.fasta
+SACOL2301		2361126	2955	formate dehydrogenase subunit alpha	2882	SACOL2301.fasta
+SACOL2302		2364682	954	transcriptional regulator	997	SACOL2302.fasta
+SACOL2303		2365762	798	inositol monophosphatase	864	SACOL2303.fasta
+SACOL2304		2366944	693	hypothetical protein	665	SACOL2304.fasta
+SACOL2306		2368283	738	hypothetical protein	653	SACOL2306.fasta
+SACOL2307		2369069	330	hypothetical protein	432	SACOL2307.fasta
+SACOL2308		2369843	873	RpiR family phosphosugar-binding transcriptional regulator	597	SACOL2308.fasta
+SACOL2309		2371102	1380	amino acid permease	996	SACOL2309.fasta
+SACOL2310		2372761	357	hypothetical protein	430	SACOL2310.fasta
+SACOL2311		2373114	186	hypothetical protein	164	SACOL2311.fasta
+SACOL2312		2373395	192	hypothetical protein	179	SACOL2312.fasta
+SACOL2313		2373597	636	HAD superfamily hydrolase	701	SACOL2313.fasta
+SACOL2314		2374307	918	sodium/bile acid symporter family protein	1044	SACOL2314.fasta
+SACOL2315		2375492	531	hypothetical protein	399	SACOL2315.fasta
+SACOL2316		2376088	1605	PTS system, IIBC components	1565	SACOL2316.fasta
+SACOL2317		2378022	765	phosphosugar-binding transcriptional regulator	730	SACOL2317.fasta
+SACOL2318		2378844	507	hypothetical protein	488	SACOL2318.fasta
+SACOL2319		2379517	1314	Na+/H+ antiporter family protein	963	SACOL2319.fasta
+SACOL2321		2382111	882	short chain dehydrogenase/reductase oxidoreductase	1065	SACOL2321.fasta
+SACOL2322		2383103	1122	M20/M25/M40 family peptidase	1387	SACOL2322.fasta
+SACOL2323	hutI	2384501	1239	imidazolonepropionase	1261	SACOL2323.fasta
+SACOL2324	hutU	2385739	1662	urocanate hydratase	1748	SACOL2324.fasta
+SACOL2325		2387560	885	LysR family transcriptional regulator	1006	SACOL2325.fasta
+SACOL2327	hutG	2389541	936	formimidoylglutamase	956	SACOL2327.fasta
+SACOL2328		2390766	1260	hypothetical protein	1213	SACOL2328.fasta
+SACOL2329	rpiA	2392091	687	ribose-5-phosphate isomerase A	563	SACOL2329.fasta
+SACOL2330		2392951	654	hypothetical protein	771	SACOL2330.fasta
+SACOL2332	galM	2393840	1020	aldose 1-epimerase	1103	SACOL2332.fasta
+SACOL2333		2394889	327	hypothetical protein	339	SACOL2333.fasta
+SACOL2334		2395433	1233	hypothetical protein	1368	SACOL2334.fasta
+SACOL2339		2398834	609	DNA-3-methyladenine glycosylase	831	SACOL2339.fasta
+SACOL2340	gltS	2399779	1209	sodium:glutamate symporter	1255	SACOL2340.fasta
+SACOL2341	fni	2401035	1050	isopentenyl pyrophosphate isomerase	888	SACOL2341.fasta
+SACOL2342		2402115	948	magnesium and cobalt transport protein CorA	889	SACOL2342.fasta
+SACOL2343		2403159	492	hypothetical protein	502	SACOL2343.fasta
+SACOL2344		2403647	420	hypothetical protein	418	SACOL2344.fasta
+SACOL2345		2404174	903	esterase	845	SACOL2345.fasta
+SACOL2346		2405302	639	hypothetical protein	702	SACOL2346.fasta
+SACOL2347		2406186	1932	EmrB/QacA family drug resistance transporter	1910	SACOL2347.fasta
+SACOL2348		2408130	648	hypothetical protein	714	SACOL2348.fasta
+SACOL2349		2408898	552	TetR family transcriptional regulator	501	SACOL2349.fasta
+SACOL2350	tcaB	2409679	1209	tcaB protein	1381	SACOL2350.fasta
+SACOL2351		2410997	129	hypothetical protein	101	SACOL2351.fasta
+SACOL2352	tcaA	2411156	1383	tcaA protein	1382	SACOL2352.fasta
+SACOL2353	tcaR	2412778	456	transcriptional regulator TcaR	472	SACOL2353.fasta
+SACOL2354		2413428	969	hypothetical protein	1150	SACOL2354.fasta
+SACOL2356		2415467	666	ABC transporter ATP-binding protein	719	SACOL2356.fasta
+SACOL2357		2416132	1056	ABC transporter permease	1094	SACOL2357.fasta
+SACOL2359		2417990	1374	sensor histidine kinase	1362	SACOL2359.fasta
+SACOL2360		2419526	444	hypothetical protein	447	SACOL2360.fasta
+SACOL2361		2419966	456	hypothetical protein	482	SACOL2361.fasta
+SACOL2362	mqo1	2420487	1479	malate:quinone oxidoreductase	1349	SACOL2362.fasta
+SACOL2363		2422346	1599	L-lactate permease	1299	SACOL2363.fasta
+SACOL2364		2424261	1674	hypothetical protein	1936	SACOL2364.fasta
+SACOL2366		2427030	516	acetyltransferase	668	SACOL2366.fasta
+SACOL2367		2427736	1005	alcohol dehydrogenase, zinc-containing	1189	SACOL2367.fasta
+SACOL2368		2428786	402	acetyltransferase	568	SACOL2368.fasta
+SACOL2369		2429223	1035	pyridine nucleotide-disulfide oxidoreductase	996	SACOL2369.fasta
+SACOL2371		2430489	432	hypothetical protein	360	SACOL2371.fasta
+SACOL2372		2430972	93	hypothetical protein	97	SACOL2372.fasta
+SACOL2374		2432565	624	TetR family transcriptional regulator	579	SACOL2374.fasta
+SACOL2375		2433234	945	CorA family protein	631	SACOL2375.fasta
+SACOL2376		2434264	1443	PTS system, sucrose-specific IIBC components	1438	SACOL2376.fasta
+SACOL2379		2439936	423	hypothetical protein	450	SACOL2379.fasta
+SACOL2383		2442842	366	hypothetical protein	352	SACOL2383.fasta
+SACOL2384	sarZ	2443605	447	accessory protein Z	957	SACOL2384.fasta
+SACOL2385		2444267	429	HSP20 family protein	459	SACOL2385.fasta
+SACOL2386		2444802	1170	nitrite extrusion protein	1140	SACOL2386.fasta
+SACOL2389		2448232	654	transcriptional regulatory protein DegU	486	SACOL2389.fasta
+SACOL2390		2448908	1035	sensory box histidine kinase	823	SACOL2390.fasta
+SACOL2391		2449966	453	hypothetical protein	391	SACOL2391.fasta
+SACOL2392	narI	2450438	678	respiratory nitrate reductase subunit gamma	592	SACOL2392.fasta
+SACOL2398	nirB	2458510	2406	nitrite reductase [NAD(P)H], large subunit	2201	SACOL2398.fasta
+SACOL2400		2461942	537	acetyltransferase	662	SACOL2400.fasta
+SACOL2402		2464018	468	hypothetical protein	593	SACOL2402.fasta
+SACOL2403		2464671	1551	ABC transporter substrate-binding protein	1733	SACOL2403.fasta
+SACOL2407		2467306	600	lipoprotein	643	SACOL2407.fasta
+SACOL2408		2467924	372	lipoprotein	350	SACOL2408.fasta
+SACOL2409	fmhA	2468541	1251	fmhA protein	1463	SACOL2409.fasta
+SACOL2410		2469888	732	amino acid ABC transporter ATP-binding protein	644	SACOL2410.fasta
+SACOL2412		2471316	780	amino acid ABC transporter amino acid-binding protein	761	SACOL2412.fasta
+SACOL2413		2472216	1398	EmrB/QacA family drug resistance transporter	1606	SACOL2413.fasta
+SACOL2414		2473830	105	hypothetical protein	95	SACOL2414.fasta
+SACOL2415	gpmA	2474088	687	phosphoglyceromutase	510	SACOL2415.fasta
+SACOL2416		2475100	867	cation efflux family protein	875	SACOL2416.fasta
+SACOL2419	hlgA	2478564	930	gamma-hemolysin, component A	1137	SACOL2419.fasta
+SACOL2421	hlgC	2480061	948	gamma hemolysin, component C	1281	SACOL2421.fasta
+SACOL2422	hlgB	2481010	978	gamma hemolysin, component B	902	SACOL2422.fasta
+SACOL2424	bioW	2482517	693	6-carboxyhexanoate--CoA ligase	801	SACOL2424.fasta
+SACOL2425		2483220	1116	8-amino-7-oxononanoate synthase	1130	SACOL2425.fasta
+SACOL2427	bioA	2485322	1359	adenosylmethionine-8-amino-7-oxononanoate aminotransferase	1385	SACOL2427.fasta
+SACOL2433		2491945	108	hypothetical protein	120	SACOL2433.fasta
+SACOL2434		2492187	387	hypothetical protein	394	SACOL2434.fasta
+SACOL2435		2492841	1143	glycerate kinase	1319	SACOL2435.fasta
+SACOL2436		2494043	660	hypothetical protein	704	SACOL2436.fasta
+SACOL2437	bcr	2494884	1212	bicyclomycin resistance protein	1199	SACOL2437.fasta
+SACOL2438		2496218	474	hypothetical protein	578	SACOL2438.fasta
+SACOL2439		2496804	657	hypothetical protein	688	SACOL2439.fasta
+SACOL2440		2497523	807	hypothetical protein	975	SACOL2440.fasta
+SACOL2442		2500162	2079	Na+/H+ antiporter	1948	SACOL2442.fasta
+SACOL2443		2502380	1830	hypothetical protein	1574	SACOL2443.fasta
+SACOL2445		2504441	1497	fmtA-like protein	1428	SACOL2445.fasta
+SACOL2448		2507202	936	2-dehydropantoate 2-reductase	983	SACOL2448.fasta
+SACOL2449		2508363	1401	drug transporter	1183	SACOL2449.fasta
+SACOL2450		2510057	696	amino acid ABC transporter permease	634	SACOL2450.fasta
+SACOL2451		2510752	942	amino acid ABC transporter amino acid-binding protein	940	SACOL2451.fasta
+SACOL2452		2511710	636	amino acid ABC transporter permease	649	SACOL2452.fasta
+SACOL2453		2512342	1227	amino acid ABC transporter ATP-binding protein	1242	SACOL2453.fasta
+SACOL2454		2513895	120	hypothetical protein	354	SACOL2454.fasta
+SACOL2456		2514238	600	hypothetical protein	621	SACOL2456.fasta
+SACOL2458		2515017	1638	amino acid permease	1808	SACOL2458.fasta
+SACOL2459	pnbA	2517262	1353	para-nitrobenzyl esterase	1478	SACOL2459.fasta
+SACOL2460		2518676	1188	drug transporter	1284	SACOL2460.fasta
+SACOL2461		2520259	777	hypothetical protein	885	SACOL2461.fasta
+SACOL2463	pepA2	2521938	1077	glutamyl-aminopeptidase	1126	SACOL2463.fasta
+SACOL2467		2524251	456	lipoprotein	460	SACOL2467.fasta
+SACOL2469		2524874	1578	glutamate synthase	1630	SACOL2469.fasta
+SACOL2470		2526646	750	hypothetical protein	905	SACOL2470.fasta
+SACOL2471		2527619	1194	transporter	949	SACOL2471.fasta
+SACOL2473		2529566	816	peptide ABC transporter ATP-binding protein	856	SACOL2473.fasta
+SACOL2474		2530378	870	peptide ABC transporter permease	765	SACOL2474.fasta
+SACOL2475		2531244	936	peptide ABC transporter permease	790	SACOL2475.fasta
+SACOL2476		2532192	1599	peptide ABC transporter peptide-binding protein	1574	SACOL2476.fasta
+SACOL2477		2533933	1215	hypothetical protein	1327	SACOL2477.fasta
+SACOL2478		2535227	819	hypothetical protein	893	SACOL2478.fasta
+SACOL2479		2536056	822	hypothetical protein	853	SACOL2479.fasta
+SACOL2483		2539299	1539	transporter	1737	SACOL2483.fasta
+SACOL2484		2540949	423	alkylhydroperoxidase	452	SACOL2484.fasta
+SACOL2488		2543619	696	short chain dehydrogenase/reductase oxidoreductase	848	SACOL2488.fasta
+SACOL2491		2545144	192	hypothetical protein	134	SACOL2491.fasta
+SACOL2502		2556603	267	hypothetical protein	301	SACOL2502.fasta
+SACOL2503		2557013	309	hypothetical protein	367	SACOL2503.fasta
+SACOL2508	galU	2564890	867	UTP-glucose-1-phosphate uridylyltransferase	740	SACOL2508.fasta
+SACOL2514	gntP	2572964	1359	gluconate transporter, permease	1563	SACOL2514.fasta
+SACOL2515	gntK	2574439	1554	gluconokinase	1638	SACOL2515.fasta
+SACOL2516	gntR	2576016	681	gluconate operon transcriptional repressor	724	SACOL2516.fasta
+SACOL2517		2576850	765	MerR family transcriptional regulator	877	SACOL2517.fasta
+SACOL2518		2577779	693	hypothetical protein	656	SACOL2518.fasta
+SACOL2519		2578702	489	hypothetical protein	868	SACOL2519.fasta
+SACOL2520		2579257	1893	hypothetical protein	1911	SACOL2520.fasta
+SACOL2521		2581558	1278	transporter	1068	SACOL2521.fasta
+SACOL2522		2583382	612	DedA family protein	721	SACOL2522.fasta
+SACOL2525		2586138	696	ABC transporter ATP-binding protein	800	SACOL2525.fasta
+SACOL2528		2590286	1080	hypothetical protein	1119	SACOL2528.fasta
+SACOL2529		2591470	594	phospholipase/carboxylesterase	751	SACOL2529.fasta
+SACOL2530		2592085	969	hypothetical protein	1105	SACOL2530.fasta
+SACOL2531		2593131	435	MarR family transcriptional regulator	462	SACOL2531.fasta
+SACOL2532		2593792	285	acetyltransferase	325	SACOL2532.fasta
+SACOL2533		2594247	807	glyoxalase	1007	SACOL2533.fasta
+SACOL2534	frp	2595173	672	NAD(P)H-flavin oxidoreductase	1055	SACOL2534.fasta
+SACOL2536		2597355	801	HAD superfamily hydrolase	697	SACOL2536.fasta
+SACOL2539	srtA	2600008	621	sortase	563	SACOL2539.fasta
+SACOL2541		2600822	492	acetyltransferase	587	SACOL2541.fasta
+SACOL2542		2601751	171	hypothetical protein	131	SACOL2542.fasta
+SACOL2544	sdaAA	2602100	900	L-serine dehydratase, iron-sulfur-dependent subunit alpha	816	SACOL2544.fasta
+SACOL2545	sdaAB	2603013	681	L-serine dehydratase, iron-sulfur-dependent subunit beta	588	SACOL2545.fasta
+SACOL2546		2603696	1044	perfringolysin O regulator protein	959	SACOL2546.fasta
+SACOL2548		2605650	963	hypothetical protein	1003	SACOL2548.fasta
+SACOL2549		2606694	969	hypothetical protein	1107	SACOL2549.fasta
+SACOL2550		2607795	345	hypothetical protein	359	SACOL2550.fasta
+SACOL2552		2608971	2067	PTS system, IIABC components	1808	SACOL2552.fasta
+SACOL2553		2611338	1740	pyruvate oxidase	1507	SACOL2553.fasta
+SACOL2554		2613124	690	hypothetical protein	573	SACOL2554.fasta
+SACOL2555		2614414	885	LysR family transcriptional regulator	697	SACOL2555.fasta
+SACOL2556		2615459	219	hypothetical protein	169	SACOL2556.fasta
+SACOL2557		2616066	432	hypothetical protein	457	SACOL2557.fasta
+SACOL2560		2618093	1278	hydroxymethylglutaryl-CoA reductase, degradative	1103	SACOL2560.fasta
+SACOL2561		2619624	1167	hydroxymethylglutaryl-CoA synthase	938	SACOL2561.fasta
+SACOL2562	ogt	2620960	522	methylated-DNA--protein-cysteine methyltransferase	616	SACOL2562.fasta
+SACOL2565		2626253	228	FeoA domain-containing protein	197	SACOL2565.fasta
+SACOL2566		2626696	2490	MmpL efflux pump	2387	SACOL2566.fasta
+SACOL2568		2629955	168	hypothetical protein	183	SACOL2568.fasta
+SACOL2569		2630234	1545	1-pyrroline-5-carboxylate dehydrogenase	1405	SACOL2569.fasta
+SACOL2571		2632806	192	hypothetical protein	247	SACOL2571.fasta
+SACOL2572		2633237	2409	copper-translocating P-type ATPase	2161	SACOL2572.fasta
+SACOL2573		2635936	207	copper ion binding protein	189	SACOL2573.fasta
+SACOL2574		2636232	999	D-lactate dehydrogenase	1202	SACOL2574.fasta
+SACOL2575		2637253	1155	aminotransferase, class I	1334	SACOL2575.fasta
+SACOL2576	crtN	2638834	1509	squalene synthase	1646	SACOL2576.fasta
+SACOL2578		2641254	1137	glycosyl transferase, group 2 family protein	1236	SACOL2578.fasta
+SACOL2579		2642387	1494	phytoene dehydrogenase	1592	SACOL2579.fasta
+SACOL2581		2644536	768	staphyloxanthin biosynthesis protein	761	SACOL2581.fasta
+SACOL2582		2645664	1812	hypothetical protein	1257	SACOL2582.fasta
+SACOL2584	isaA	2648751	702	immunodominant antigen A	813	SACOL2584.fasta
+SACOL2585		2650060	1056	hypothetical protein	1055	SACOL2585.fasta
+SACOL2587		2651492	603	hypothetical protein	641	SACOL2587.fasta
+SACOL2588		2652292	501	hypothetical protein	673	SACOL2588.fasta
+SACOL2589		2653012	231	hypothetical protein	231	SACOL2589.fasta
+SACOL2590		2653392	378	glyoxalase	426	SACOL2590.fasta
+SACOL2591		2653786	822	hypothetical protein	819	SACOL2591.fasta
+SACOL2592		2654627	300	hypothetical protein	379	SACOL2592.fasta
+SACOL2594		2655607	705	short chain dehydrogenase/reductase oxidoreductase	778	SACOL2594.fasta
+SACOL2598		2658416	891	cobalamin synthesis protein	859	SACOL2598.fasta
+SACOL2600		2660738	1107	hypothetical protein	1206	SACOL2600.fasta
+SACOL2602		2662462	369	hypothetical protein	466	SACOL2602.fasta
+SACOL2603		2662845	279	hypothetical protein	294	SACOL2603.fasta
+SACOL2605		2663465	810	hypothetical protein	896	SACOL2605.fasta
+SACOL2606	pyrD	2664549	1065	dihydroorotate dehydrogenase 2	998	SACOL2606.fasta
+SACOL2607		2665768	276	hypothetical protein	293	SACOL2607.fasta
+SACOL2608		2666229	723	hypothetical protein	604	SACOL2608.fasta
+SACOL2609		2667305	450	hypothetical protein	545	SACOL2609.fasta
+SACOL2610		2667835	588	TetR family transcriptional regulator	544	SACOL2610.fasta
+SACOL2612		2668555	1683	CocE/NonD family hydrolase	1824	SACOL2612.fasta
+SACOL2613	panD	2670366	384	aspartate alpha-decarboxylase	360	SACOL2613.fasta
+SACOL2614	panC	2670751	852	pantoate--beta-alanine ligase	770	SACOL2614.fasta
+SACOL2616		2672486	861	2-dehydropantoate 2-reductase	905	SACOL2616.fasta
+SACOL2617	budA2	2673432	705	alpha-acetolactate decarboxylase	783	SACOL2617.fasta
+SACOL2618	ldh2	2674414	960	L-lactate dehydrogenase	819	SACOL2618.fasta
+SACOL2619		2676060	1449	amino acid permease	1474	SACOL2619.fasta
+SACOL2621		2679184	417	hypothetical protein	516	SACOL2621.fasta
+SACOL2622	fdaB	2679723	891	fructose-1,6-bisphosphate aldolase	725	SACOL2622.fasta
+SACOL2623	mqo2	2680806	1497	malate:quinone oxidoreductase	1166	SACOL2623.fasta
+SACOL2624		2682987	1599	acetyl-CoA synthetase	1593	SACOL2624.fasta
+SACOL2625		2684779	444	hypothetical protein	483	SACOL2625.fasta
+SACOL2626		2685503	213	hypothetical protein	181	SACOL2626.fasta
+SACOL2627	betA	2685993	1710	choline dehydrogenase	1283	SACOL2627.fasta
+SACOL2628	betB	2687963	1491	betaine aldehyde dehydrogenase	1235	SACOL2628.fasta
+SACOL2629		2689522	96	hypothetical protein	117	SACOL2629.fasta
+SACOL2630		2689706	564	hypothetical protein	563	SACOL2630.fasta
+SACOL2632	cudT	2691407	1623	BCCT family osmoprotectant transporter	1183	SACOL2632.fasta
+SACOL2634	nrdG	2693548	537	anaerobic ribonucleoside-triphosphate reductase activating protein	349	SACOL2634.fasta
+SACOL2635	nrdD	2694081	1851	anaerobic ribonucleoside triphosphate reductase	1215	SACOL2635.fasta
+SACOL2636		2696178	1371	citrate transporter, permease	1345	SACOL2636.fasta
+SACOL2638		2698041	606	precorrin-2 dehydrogenase	580	SACOL2638.fasta
+SACOL2639	cysJ	2698709	1881	sulfite reductase (NADPH) flavoprotein alpha-component	1813	SACOL2639.fasta
+SACOL2640		2700784	93	hypothetical protein	86	SACOL2640.fasta
+SACOL2641	gpxA2	2700984	498	glutathione peroxidase	476	SACOL2641.fasta
+SACOL2642		2702176	114	hypothetical protein	281	SACOL2642.fasta
+SACOL2644		2704902	765	ABC transporter ATP-binding protein	834	SACOL2644.fasta
+SACOL2645	nsaS	2705765	888	nisin susceptibility-associated sensor histidine kinase	892	SACOL2645.fasta
+SACOL2646		2706663	666	DNA-binding response regulator	676	SACOL2646.fasta
+SACOL2647		2707354	201	hypothetical protein	194	SACOL2647.fasta
+SACOL2648		2707752	1425	alkaline phosphatase	1524	SACOL2648.fasta
+SACOL2649		2709236	102	hypothetical protein	73	SACOL2649.fasta
+SACOL2650		2709459	456	transcriptional regulator	368	SACOL2650.fasta
+SACOL2651		2710159	762	tributyrin esterase EstA	801	SACOL2651.fasta
+SACOL2653		2714127	687	Crp/FNR family transcriptional regulator	621	SACOL2653.fasta
+SACOL2654	arcC2	2714930	942	carbamate kinase	869	SACOL2654.fasta
+SACOL2655	arcD	2715888	1431	arginine/ornithine antiporter	1215	SACOL2655.fasta
+SACOL2656	arcB2	2717409	1011	ornithine carbamoyltransferase	863	SACOL2656.fasta
+SACOL2657	arcA	2718452	1236	arginine deiminase	932	SACOL2657.fasta
+SACOL2658		2720034	450	ArgR family transcriptional regulator	433	SACOL2658.fasta
+SACOL2662		2724286	1875	BglG family transcriptional antiterminator	1633	SACOL2662.fasta
+SACOL2663		2726237	1953	PTS system, fructose-specific IIABC components	1939	SACOL2663.fasta
+SACOL2664	manA2	2728203	939	mannose-6-phosphate isomerase	877	SACOL2664.fasta
+SACOL2666		2732445	1860	N-acetylmuramoyl-L-alanine amidase	1522	SACOL2666.fasta
+SACOL2667		2734571	561	isochorismatase	572	SACOL2667.fasta
+SACOL2670		2738799	1509	glycosyl transferase, group 1 family protein	1416	SACOL2670.fasta
+SACOL2671		2740325	2391	preprotein translocase subunit SecA	2312	SACOL2671.fasta
+SACOL2673		2743642	1569	hypothetical protein	1720	SACOL2673.fasta
+SACOL2675	secY	2746764	1212	preprotein translocase subunit SecY	1248	SACOL2675.fasta
+SACOL2678		2755435	693	hypothetical protein	823	SACOL2678.fasta
+SACOL2681		2757264	360	hypothetical protein	416	SACOL2681.fasta
+SACOL2682		2757708	612	hypothetical protein	694	SACOL2682.fasta
+SACOL2683		2758398	477	methionine sulfoxide reductase A	585	SACOL2683.fasta
+SACOL2684		2758877	501	acetyltransferase	563	SACOL2684.fasta
+SACOL2685	cap1C	2759612	768	capsular polysaccharide biosynthesis protein Cap1C	788	SACOL2685.fasta
+SACOL2686	cap1B	2760376	693	capsular polysaccharide biosynthesis protein Cap1B	822	SACOL2686.fasta
+SACOL2687	cap1A	2761085	663	capsular polysaccharide biosynthesis protein Cap1A	754	SACOL2687.fasta
+SACOL2688	icaR	2762596	561	intercellular adhesion regulator	609	SACOL2688.fasta
+SACOL2689	icaA	2763320	1239	N-glycosyltransferase	1331	SACOL2689.fasta
+SACOL2693		2767032	66	hypothetical protein	58	SACOL2693.fasta
+SACOL2694	geh	2767125	2043	lipase	2013	SACOL2694.fasta
+SACOL2696	hisI	2770260	633	bifunctional phosphoribosyl-AMP cyclohydrolase/phosphoribosyl-ATP	728	SACOL2696.fasta
+SACOL2697	hisF	2770889	759	imidazole glycerol phosphate synthase subunit HisF	943	SACOL2697.fasta
+SACOL2698	hisA	2771644	705	1-(5-phosphoribosyl)-5-[(5- phosphoribosylamino)methylideneamino] imidazole-4-carboxamide isomerase	820	SACOL2698.fasta
+SACOL2701		2773463	1014	histidinol-phosphate aminotransferase	1060	SACOL2701.fasta
+SACOL2702	hisD	2774492	1257	histidinol dehydrogenase	1300	SACOL2702.fasta
+SACOL2704	hisZ	2776367	819	ATP phosphoribosyltransferase regulatory subunit	815	SACOL2704.fasta
+SACOL2705		2777490	1125	hypothetical protein	1130	SACOL2705.fasta
+SACOL2711		2783682	516	hypothetical protein	555	SACOL2711.fasta
+SACOL2712	drp35	2784346	972	drP35 protein	1027	SACOL2712.fasta
+SACOL2713		2785561	957	hypothetical protein	993	SACOL2713.fasta
+SACOL2714	pcp	2786669	639	pyrrolidone-carboxylate peptidase	714	SACOL2714.fasta
+SACOL2717		2788688	465	hypothetical protein	536	SACOL2717.fasta
+SACOL2718		2789390	1419	anion transporter family protein	1285	SACOL2718.fasta
+SACOL2719	rarD	2791221	909	rarD protein	943	SACOL2719.fasta
+SACOL2721	nixA	2793058	1053	high-affinity nickel-transport protein	1069	SACOL2721.fasta
+SACOL2723		2795281	513	hypothetical protein	540	SACOL2723.fasta
+SACOL2725		2796824	1881	ABC transporter permease	1787	SACOL2725.fasta
+SACOL2731		2801135	201	CSD family cold shock protein	119	SACOL2731.fasta
+SACOL2732		2801462	570	transcriptional regulator	604	SACOL2732.fasta
+SACOL2733		2802291	381	hypothetical protein	374	SACOL2733.fasta
+SACOL2734		2802754	354	hypothetical protein	438	SACOL2734.fasta
+SACOL2735		2803561	840	ParB family chromosome partioning protein	677	SACOL2735.fasta
+SACOL2736	gidB	2804443	720	16S rRNA methyltransferase GidB	640	SACOL2736.fasta
+SACOL2737	gidA	2805162	1878	tRNA uridine 5-carboxymethylaminomethyl modification enzyme GidA	1270	SACOL2737.fasta
+SACOL2738	trmE	2807106	1380	tRNA modification GTPase TrmE	987	SACOL2738.fasta
+SACOL2739	rnpA	2808624	348	ribonuclease P	338	SACOL2739.fasta
+SACOL2740	rpmH	2809098	138	50S ribosomal protein L34	115	SACOL2740.fasta
