@@ -52,7 +52,8 @@ First of all, we should:
   ```
 #### LIB
 We need the database of strains, which can be downloaded from NCBI. Also you can add your own genomes to the folder. First you need to make sure that 
-genomes belonging to the same species are in one folder, different species are in different folders.  
+genomes belonging to the same species are in one folder, different species are in different folders.  The allele table  and specise alleles file were download from https://www.cgmlst.org/ncs . We download 7 specises' allele tables in ./library that can use directly.The target specise allele file you
+can download from the website and merge all loci into a fasta file.
 create a new library for a species:
 ```
 python cgMSI.py LIB -genomesDir genomeDIR -allelePath species_alleles.fasta -alleleTable speciesAlleleTable -species speciesName -t threadNumber 
@@ -63,7 +64,7 @@ Required arguments:
 
 -allelePath,              string                    alleles fasta file,can be download 
 
--alleleTable,             string                    full path of the target specise allele table 
+-alleleTable,             string                    path of the target specise allele table 
 
 -species,                 string                    species name with No whitespace(if Escherichia coli ,like Ec) for distinguish different species
 
@@ -84,7 +85,7 @@ Required arguments:
 
 -allelePath,              string                    alleles fasta file,can be download 
 
--alleleTable,             string                    full path of the target specise allele table 
+-alleleTable,             string                    path of the target specise allele table 
 
 -species,                 string                    species name with No whitespace(if Escherichia coli ,like Ec) for distinguish different species
 
@@ -94,7 +95,7 @@ Required arguments:
 
 Optional arguments:
 
--t,                       int                    Number of threads to use by aligner (bowtie2) if different from default (8)
+-t,                       int                       Number of threads to use by aligner (bowtie2) if different from default (8)
      
 ```
 
@@ -127,21 +128,6 @@ Required arguments:
 -outPutDir                string                    the dir of the predict result
 
 Optional arguments:
--t,                       int                    Number of threads to use by aligner (bowtie2) if different from default (8)
+-t,                       int                       Number of threads to use by aligner (bowtie2) if different from default (8)
 
 ```
-
-### Step-by-step example
-#### 1. [The SnipeMap module]
-```
-python ./snipe/snipe.py MAP -1 example/demo_R1.fastp35.fastq -2 example/demo_R2.fastp35.fastq -targetRefFiles ./refDB/target.fna -filterRefFiles ./refDB/filter.fna -indexDir ./refDB/ -outDir ./ -outAlign demo.sam -expTag demo -numThreads 44
-```
-#### 2. [The SnipeID module]
-```
-python ./snipe/snipe.py ID -alignFile ./demo.sam -fileType sam -outDir ./ -expTag demo
-```
-#### 3. [The SnipeRec module]
-```
-python ./snipe/snipe.py REC -ssrRef ./core/ -1 ./example/demo_R1.fastp35.fastq -2 ./example/demo_R2.fastp35.fastq -idReport demo-sam-report.tsv -dictTarget ./dict/dict_target -dictTemplate ./dict/dict_template -expTag demo -outDir ./ -numThreads 44
-```
-
