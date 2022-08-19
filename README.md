@@ -64,21 +64,39 @@ Required arguments:
 
 -allelePath,              string                    alleles fasta file,can be download 
 
--alleleTable,             string                    
+-alleleTable,             string                    full path of the target specise allele table 
 
--species,                 string                  species name with No whitespace(if Escherichia coli ,like Ec) for distinguish different species
+-species,                 string                    species name with No whitespace(if Escherichia coli ,like Ec) for distinguish different species
 
 
 Optional arguments:
 
--t,                       int                    Number of threads to use by aligner (bowtie2) if different from default (8)
+-t,                        int                      Number of threads to use by aligner (bowtie2) if different from default (8)
                     
 ```
 
 add a genome to a existed species library:
 ```
+python cgMSI.py LIB -addGenome -genomesDir genomeDIR -allelePath species_alleles.fasta -alleleTable speciesAlleleTable -species speciesName -genomeName addGenomeName -genomeFile addGenomeFastaFile -t threadNumber 
 
+Required arguments:
 
+-genomesDir,              string                    directory Full Path of target species Reference Genome  
+
+-allelePath,              string                    alleles fasta file,can be download 
+
+-alleleTable,             string                    full path of the target specise allele table 
+
+-species,                 string                    species name with No whitespace(if Escherichia coli ,like Ec) for distinguish different species
+
+-genomeName               string                    the name of the genome added into the library
+
+-genomeFile               string                    full path of the added genome fasta file
+
+Optional arguments:
+
+-t,                       int                    Number of threads to use by aligner (bowtie2) if different from default (8)
+     
 ```
 #### MAP
 First you need to make sure that the map module is finished. ID module will use file .sam generated previously with MAP module.
