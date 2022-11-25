@@ -3,21 +3,24 @@ import pysam
 import pandas as pd
 
 class LibOptions:
-
+    # 物种名
     species = "Ec"
-    genomesDir = "../genomes/562"
-    LocusDir = "../library"
+    # 基因组目录
+    genomesDir = "../"
+    # allelefile文件的位置
     allelePath = "../alleles/Ec_alleles.fasta"
-    alleleTable = "../library/Escherichia_coli_alleles_count.tsv"
-    minimapPath = ""
-    threads = 12
-    genomeName = ""
-    genomeFile = ""
+    # alleleTable
+    alleleTablePath = "../library/Escherichia_coli_alleles_count.tsv"
+    #基因组的分型结果文件
     genomeLocusPath = ""
-
-
-
-
+    #minimap2比对线程数
+    threads = 12
+    #addGenome时，加入基因的名字
+    genomeName = ""
+    #addGenome时，加入基因的fna文件
+    genomeFile = ""
+    # library目录
+    LocusDir = "../library"
 
 
 def loadLocus(path):
@@ -52,7 +55,7 @@ def genomesLocusDistance(path,species):
         LocusDistance[targetGenomeName] = targetList
     LocusDistance.to_csv('%s/%s.tsv'%(outPutDir,outPutName),sep='\t',index=False)
 
-    return  LocusDistance
+    return '%s/%s.tsv'%(outPutDir,outPutName)
 def genomeLocusAnalyze(samfile,alleleTable):
     # 统计基因组wgMLST 分型结果
     # 输入：等位基因集与样本reads 比对sam文件
@@ -77,15 +80,8 @@ def genomeLocusAnalyze(samfile,alleleTable):
                 # print(query_locus,query_alleles)
                 total_length +=r.query_length
 
-                # print(r.get_tag("NM"),r.is_supplementary,r.infer_read_length(),r.infer_query_length(),r.query_alignment_length,r.query_name,r.query_length,r.reference_name,r.reference_length,r.flag)
-
     bf.close()
-
-    # print(dict_locus)
     return dict_locus
-
-
-
 
 def addGenome(LibOption):
     # 在基因组分型表中加入一个基因组
@@ -96,7 +92,7 @@ def addGenome(LibOption):
     LocusDir = LibOption.LocusDir
     species = LibOption.species
     allelePath = LibOption.allelePath
-    alleleTable = LibOption.alleleTable
+    alleleTable = LibOption.alleleTablePath
     minimapPath = LibOption.minimapPath
     genomeName = LibOption.genomeName
     genomeFile = LibOption.genomeFile
@@ -119,8 +115,27 @@ def addGenome(LibOption):
     os.remove(samFile)
 
 
+def getGCF2NC(genomeDir,species):
 
+    genomes = os.listdir(genomeDir)
+    if os.path.exists("../library/%s_GCF_NC.tsv"%species):
+        os.remove("../library/%s_GCF_NC.tsv"%species)
+    with open("../library/%s_GCF_NC.tsv"%species, "a+") as file:
+        file.write("GCF NAME\n")
+        for genome in genomes:
+            absPath = os.path.join(genomeDir, genome)
+            cmd = "seqkit seq -n %s >./temp.txt" % absPath
+            os.system(cmd)
+            genomeName = genome.split(".")[0]
+            file.write(genomeName)
 
+            with open("../library/temp.txt") as f:
+                for line in f:
+                    file.write("\t")
+                    file.write(line.split(" ")[0].split("\n")[0])
+            file.write("\n")
+        os.remove("../library/temp.txt")
+    return "../library/%s_test.tsv"%species
 
 def speciesGenomeLocusAnalyze(LibOption):
     # 计算物种文件夹下所有基因组wgMLST分型
@@ -131,14 +146,10 @@ def speciesGenomeLocusAnalyze(LibOption):
     LocusDir = LibOption.LocusDir
     species = LibOption.species
     allelePath = LibOption.allelePath
-    alleleTable = LibOption.alleleTable
-    minimapPath = LibOption.minimapPath
-    if LibOption.minimapPath != "":
-        minimap = minimapPath + "/" + "minimap2"
-    else:
-        minimap = "minimap2"
+    alleleTable = LibOption.alleleTablePath
 
-
+    # GCF2NC_Path = getGCF2NC(genomesDir,species)
+    # print("Generate GCF to NC file !")
     genomeFile = os.listdir(genomesDir)
     i = 1
     # Locus = pd.DataFrame()
@@ -154,14 +165,13 @@ def speciesGenomeLocusAnalyze(LibOption):
             #调试用，控制计算基因组的数量
             break
         else:
-
             i = i +1
             # 取基因组GCF名
             fileName = file.split('.')[0]
             if fileName not in Locus.columns.values.tolist():
                 samFile = "../alleles_to_%s.sam"%fileName
                 if os.path.isfile(samFile)==False:
-                    cmd = "%s -ax map-ont -t %d -c -K 2G --sam-hit-only  --secondary=no  %s/%s  %s -o %s"%(minimap,LibOption.threads,genomesDir,file,allelePath, samFile)
+                    cmd = "minimap2 -ax map-ont -t %d -c -K 2G --sam-hit-only  --secondary=no  %s/%s  %s -o %s"%(LibOption.threads,genomesDir,file,allelePath, samFile)
                     print(cmd)
                     os.system(cmd)
                 genomeLocus = genomeLocusAnalyze(samFile,alleleTable)
@@ -171,129 +181,9 @@ def speciesGenomeLocusAnalyze(LibOption):
                 print(fileName)
 
         Locus.to_csv('%s/%s.tsv'%(LocusDir,species),sep='\t',index=False)
-
+    return '%s/%s.tsv' % (LocusDir, species)
 
 if __name__ == '__main__':
     print("start")
-    '''
-    libOptions =LibOptions()
-    libOptions.minimapPath = "/home/zhuxu/miniconda3/bin"
-    speciesGenomeLocusAnalyze(libOptions)
 
-    
-
-    libOptions.minimapPath = "/home/zhuxu/miniconda3/bin"
-    libOptions.species = "Ef"
-    libOptions.genomesDir = "../genomes/1351"
-    libOptions.LocusDir = "../library"
-    libOptions.allelePath = "../alleles/Ef_alleles.fasta"
-    libOptions.alleleTable = "../library/Enterococcus_faecalis_alleles_count.tsv"
-    speciesGenomeLocusAnalyze(libOptions)
-
-    libOptions.minimapPath = "/home/zhuxu/miniconda3/bin"
-    libOptions.species = "Lm"
-    libOptions.genomesDir = "../genomes/1639"
-    libOptions.LocusDir = "../library"
-    libOptions.allelePath = "../alleles/Lm_alleles.fasta"
-    libOptions.alleleTable = "../library/Listeria_monocytogenes_alleles_count.tsv"
-    speciesGenomeLocusAnalyze(libOptions)
-
-    libOptions =LibOptions()
-    libOptions.minimapPath = "/home/zhuxu/miniconda3/bin"
-    libOptions.species = "Sa"
-    libOptions.genomesDir = "../genomes/1280"
-    libOptions.LocusDir = "../library"
-    libOptions.allelePath = "../alleles/Sa_alleles.fasta"
-    libOptions.alleleTable = "../library/Staphylococcus_aureus_alleles_count.tsv"
-    speciesGenomeLocusAnalyze(libOptions)
-
-    libOptions.minimapPath = "/home/zhuxu/miniconda3/bin"
-    libOptions.species = "Se"
-    libOptions.genomesDir = "../genomes/28901"
-    libOptions.LocusDir = "../library"
-    libOptions.allelePath = "../alleles/Se_alleles.fasta"
-    libOptions.alleleTable = "../library/Salmonella_enterica_alleles_count.tsv"
-    speciesGenomeLocusAnalyze(libOptions)
-
-    libOptions.minimapPath = "/home/zhuxu/miniconda3/bin"
-    libOptions.species = "Pa"
-    libOptions.genomesDir = "../genomes/287"
-    libOptions.LocusDir = "../library"
-    libOptions.allelePath = "../alleles/Pa_alleles.fasta"
-    libOptions.alleleTable = "../library/Pseudomonas_aeruginosa_alleles_count.tsv"
-    speciesGenomeLocusAnalyze(libOptions)
-
-    libOptions = LibOptions()
-    libOptions.minimapPath = "/home/zhuxu/miniconda3/bin"
-    libOptions.species = "Se"
-    libOptions.genomesDir = "../genomes/28901"
-    libOptions.LocusDir = "../library"
-    libOptions.allelePath = "../alleles/Se_alleles.fasta"
-    libOptions.alleleTable = "../library/Salmonella_enterica_alleles_count.tsv"
-    libOptions.genomeLocusPath = "Se.tsv"
-    libOptions.genomeName = "B4242"
-    libOptions.genomeFile = "B4242.fna"
-    addGenome(libOptions)
-
-    libOptions = LibOptions()
-    libOptions.minimapPath = "/home/zhuxu/miniconda3/bin"
-    libOptions.species = "Se"
-    libOptions.genomesDir = "../genomes/28901"
-    libOptions.LocusDir = "../library"
-    libOptions.allelePath = "../alleles/Se_alleles.fasta"
-    libOptions.alleleTable = "../library/Salmonella_enterica_alleles_count.tsv"
-    libOptions.genomeLocusPath = "../library/Se.tsv"
-
-
-data = genomesLocusDistance(libOptions.genomeLocusPath,libOptions.species)
-        '''
-
-
-    libOptions = LibOptions()
-    libOptions.minimapPath = "/home/zhuxu/miniconda3/bin"
-    libOptions.species = "Ef"
-    libOptions.genomesDir = "../genomes/1351"
-    libOptions.LocusDir = "../library"
-    libOptions.allelePath = "../alleles/Ef_alleles.fasta"
-    libOptions.alleleTable = "../library/Enterococcus_faecalis_alleles_count.tsv"
-    libOptions.genomeLocusPath = "../library/Ef.tsv"
-    libOptions.genomeName = "B537"
-    libOptions.genomeFile = "B537.fna"
-    addGenome(libOptions)
-
-    libOptions = LibOptions()
-    libOptions.minimapPath = "/home/zhuxu/miniconda3/bin"
-    libOptions.species = "Lm"
-    libOptions.genomesDir = "../genomes/1639"
-    libOptions.LocusDir = "../library"
-    libOptions.allelePath = "../alleles/Lm_alleles.fasta"
-    libOptions.alleleTable = "../library/Listeria_monocytogenes_alleles_count.tsv"
-    libOptions.genomeLocusPath = "../library/Lm.tsv"
-    libOptions.genomeName = "B33116"
-    libOptions.genomeFile = "B33116.fna"
-    addGenome(libOptions)
-
-    libOptions = LibOptions()
-    libOptions.minimapPath = "/home/zhuxu/miniconda3/bin"
-    libOptions.species = "Sa"
-    libOptions.genomesDir = "../genomes/1280"
-    libOptions.LocusDir = "../library"
-    libOptions.allelePath = "../alleles/Sa_alleles.fasta"
-    libOptions.alleleTable = "../library/Staphylococcus_aureus_alleles_count.tsv"
-    libOptions.genomeLocusPath = "../library/Sa.tsv"
-    libOptions.genomeName = "B41012"
-    libOptions.genomeFile = "B41012.fna"
-    addGenome(libOptions)
-
-    libOptions = LibOptions()
-    libOptions.minimapPath = "/home/zhuxu/miniconda3/bin"
-    libOptions.species = "Pa"
-    libOptions.genomesDir = "../genomes/287"
-    libOptions.LocusDir = "../library"
-    libOptions.allelePath = "../alleles/Pa_alleles.fasta"
-    libOptions.alleleTable = "../library/Pseudomonas_aeruginosa_alleles_count.tsv"
-    libOptions.genomeLocusPath = "../library/Pa.tsv"
-    libOptions.genomeName = "B3509"
-    libOptions.genomeFile = "B3509.fna"
-    addGenome(libOptions)
 
