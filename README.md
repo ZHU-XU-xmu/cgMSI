@@ -85,10 +85,11 @@ Required arguments:
 
 -species,                 string                    species name with No whitespace(if Escherichia coli ,like Ec) for distinguish different species
 
+-outPutDir                string                    the dir of the library (default at ./cgMSI/library/)
 
 Optional arguments:
 
--t,                        int                      Number of threads to use by aligner (bowtie2) if different from default (8)
+-t,                        int                      Number of threads to use by aligner (bowtie2) if different from default (12)
                     
 ```
 
@@ -109,6 +110,8 @@ Required arguments:
 -genomeName               string                    the name of the genome added into the library
 
 -genomeFile               string                    full path of the added genome fasta file
+
+-outPutDir                string                    the dir of the library (default at ./cgMSI/library/)
 
 Optional arguments:
 
