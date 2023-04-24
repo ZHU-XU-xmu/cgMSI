@@ -70,45 +70,6 @@ def readsCount(sampleFile,GenomeLength,alleleTable):
     print(successNum/countT)
     return successNum/countT
 
-'''
-sampleFile = "/data2/zhuxu_data/Zymo/Ec/Ec_5X_1.fasta"
-species = "Ec"
-GenomeLength = "4875000"
-alleleTable = "/data2/zhuxu_data/cgMSI/library/Escherichia_coli_alleles_count.tsv"
-readsLengthCount(sampleFile,GenomeLength,alleleTable)
-
-sampleFile = "/data2/zhuxu_data/Zymo/Ef/Ef_5X_1.fasta"
-species = "Ef"
-GenomeLength = "2845000"
-alleleTable = "/data2/zhuxu_data/cgMSI/library/Enterococcus_faecalis_alleles_count.tsv"
-readsLengthCount(sampleFile,GenomeLength,alleleTable)
-
-
-sampleFile = "/data2/zhuxu_data/Zymo/Lm/Lm_5X_1.fasta"
-species = "Lm"
-GenomeLength = "2992000"
-alleleTable = "/data2/zhuxu_data/cgMSI/library/Listeria_monocytogenes_alleles_count.tsv"
-readsLengthCount(sampleFile,GenomeLength,alleleTable)
-
-
-sampleFile = "/data2/zhuxu_data/Zymo/Sa/Sa_5X_1.fasta"
-species = "Sa"
-GenomeLength = "2730000"
-alleleTable = "/data2/zhuxu_data/cgMSI/library/Staphylococcus_aureus_alleles_count.tsv"
-readsLengthCount(sampleFile,GenomeLength,alleleTable)
-
-sampleFile = "/data2/zhuxu_data/Zymo/Se/Se_5X_1.fasta"
-species = "Se"
-GenomeLength = "4760000"
-alleleTable = "/data2/zhuxu_data/cgMSI/library/Salmonella_enterica_alleles_count.tsv"
-readsLengthCount(sampleFile,GenomeLength,alleleTable)
-
-sampleFile = "/data2/zhuxu_data/Zymo/Pa/Pa_5X_1.fasta"
-species = "Pa"
-GenomeLength = "6792000"
-alleleTable = "/data2/zhuxu_data/cgMSI/library/Pseudomonas_aeruginosa_alleles_count.tsv"
-readsLengthCount(sampleFile,GenomeLength,alleleTable)
-'''
 
 
 
