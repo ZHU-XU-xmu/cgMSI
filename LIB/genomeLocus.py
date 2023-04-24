@@ -25,18 +25,13 @@ class LibOptions:
 
 
 def loadLocus(path):
-    # 得到每个位点的名称，返回一个list
     Locus = pd.read_csv(path,sep='\t')
     speciesLocus = Locus["Locus"].tolist()
     return speciesLocus
 
 def genomeLocusAnalyze(samfile,alleleTable):
-    # 统计基因组wgMLST 分型结果
-    # 输入：等位基因集与样本reads 比对sam文件
-    # 输出：基因组的分型结果，字典
 
     speciesLocus= loadLocus(alleleTable)
-    # 存放一个基因组的cgMlst的分型结果
     dict_locus = {}
     total_length = 0
     for i in speciesLocus:
@@ -61,10 +56,6 @@ def genomeLocusAnalyze(samfile,alleleTable):
     return dict_locus
 
 def addGenome(LibOption):
-    # 在基因组分型表中加入一个基因组
-    # 参数：genomeName:基因名称
-    #      genome: 基因组序列
-    # path = "/data1/zhuxu_data/MLST_nanopore/Kl.tsv"
     genomesDir = LibOption.genomesDir
     LocusDir = LibOption.outPutDir
     species = LibOption.species
