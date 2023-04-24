@@ -34,7 +34,7 @@ conda activate python37
             conda install -c conda-forge numpy
        • pandas (v0.24.2)
             conda install -c conda-forge pandas
-       • minimap2 (v2.24)
+       • minimap2 (v2.22)
             conda install -c bioconda minimap2
        • pysam (v0.15.3)
             conda install -c bioconda pysam 
