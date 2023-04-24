@@ -1,0 +1,2 @@
+NZ_CP041213.1 Listeria monocytogenes strain LMP18-H8393 chromosome, complete genome
+NZ_CP041214.1 Listeria monocytogenes strain LMP18-H8393 plasmid pCFSAN074382, complete sequence
