@@ -40,6 +40,9 @@ conda activate python37
             conda install -c bioconda pysam 
        • seqkit (v2.0.0)
             conda install -c bioconda seqkit 
+       • scipy (v22.11.1)
+            conda install -c conda-forge scipy
+
 ### Manual
 First of all, we should:
 - change directory (cd) to cgMSI folder
@@ -59,7 +62,7 @@ Firstly, generate related library by cgMSI LIB module.
   ```
  Next, detection pathogen strain by cgMSI MAP module.
    ```
-  python cgMSI.py MAP -species Kp -t 12  -genomesDir ./test/testRef/ -allelePath ./test/Kp_alleles.fasta -sampleFile ./test/test_01X.fna -alleleTablePath ./library/Klebsiella_pneumoniae_cgMLST_count.tsv  -genomeAlleleMatrix ./library/Kp.tsv -outPutDir ./test
+  python cgMSI.py MAP -species Kp -t 12  -genomesDir ./test/testRef/ -allelePath ./test/Kp_alleles.fasta -sampleFile ./test/test_01X.fna -alleleTablePath ./library/Klebsiella_pneumoniae_cgMLST_count.tsv  -genomeAlleleMatrix ./test/library/Kp.tsv -outPutDir ./test
   ```
   The result can be found at dir ./test.
  
