@@ -40,9 +40,16 @@ conda activate python37
             conda install -c bioconda pysam 
        • seqkit (v2.0.0)
             conda install -c bioconda seqkit 
-            
+### Manual
+First of all, we should:
+- change directory (cd) to cgMSI folder
+- cd into cgMSI directory 
+  ```
+  cd ../cgMSI
+  python cgMSI.py -h
+  ```           
 ### Test
-We have downloaded Klebsiella pneumoniae core gene and some reference genome in dir ./test and  added an example to show how to use cgMSI.
+We have downloaded Klebsiella pneumoniae core gene and some reference genome in dir ./test and  added an example to show how to use cgMSI.Detailed parameter information follows this section.
 Firstly, generate related library by cgMSI LIB module.
 
   ```
@@ -55,15 +62,8 @@ Firstly, generate related library by cgMSI LIB module.
   python cgMSI.py MAP -species Kp -t 12  -genomesDir ./test/testRef/ -allelePath ./test/Kp_alleles.fasta -sampleFile ./test/test_01X.fna -alleleTablePath ./library/Klebsiella_pneumoniae_cgMLST_count.tsv  -genomeAlleleMatrix ./library/Kp.tsv -outPutDir ./test
   ```
   The result can be found at dir ./test.
-  
-### Manual
-First of all, we should:
-- change directory (cd) to cgMSI folder
-- cd into cgMSI directory 
-  ```
-  cd ../cgMSI
-  python cgMSI.py -h
-  ```
+ 
+
 #### LIB
 We need the database of strains, which can be downloaded from NCBI. Also you can add your own genomes to the folder. First you need to make sure that 
 genomes belonging to the same species are in one folder, different species are in different folders.  The allele table  and specise alleles file were download from https://www.cgmlst.org/ncs . We download 7 specises' allele tables in ./library that can use directly.The target specise allele file you
