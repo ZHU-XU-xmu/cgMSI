@@ -1,0 +1,2359 @@
+Locus	Gene	Start	Length	Product	Allele Count	File
+KP1_RS00005		280	441	FMN-binding protein MioC	329	KP1_RS00005.fasta
+KP1_RS00010		820	459	transcriptional regulator AsnC	234	KP1_RS00010.fasta
+KP1_RS00015		1430	993	asparagine synthetase A	561	KP1_RS00015.fasta
+KP1_RS00020		2426	1449	protoheme IX farnesyltransferase	943	KP1_RS00020.fasta
+KP1_RS00025		3871	1500	ATPase RavA	897	KP1_RS00025.fasta
+KP1_RS00035		7642	420	D-ribose pyranase	246	KP1_RS00035.fasta
+KP1_RS00040		8072	1506	ribose ABC transporter ATP-binding protein RbsA	898	KP1_RS00040.fasta
+KP1_RS00045		9583	966	ribose ABC transporter permease	501	KP1_RS00045.fasta
+KP1_RS00050		10576	891	D-ribose ABC transporter substrate-binding protein	423	KP1_RS00050.fasta
+KP1_RS00055		11570	930	ribokinase	623	KP1_RS00055.fasta
+KP1_RS00060		12512	984	transcriptional regulator RbsR	497	KP1_RS00060.fasta
+KP1_RS00065		13492	1398	MFS transporter	771	KP1_RS00065.fasta
+KP1_RS00070		14902	702	GntR family transcriptional regulator	358	KP1_RS00070.fasta
+KP1_RS00105		22526	270	hypothetical protein	138	KP1_RS00105.fasta
+KP1_RS00115		23687	624	thiol-disulfide isomerase	239	KP1_RS00115.fasta
+KP1_RS00120		24358	900	acyltransferase	488	KP1_RS00120.fasta
+KP1_RS00125		25654	2793	DNA polymerase I	1304	KP1_RS00125.fasta
+KP1_RS00135		30010	507	GTPase-activating protein	244	KP1_RS00135.fasta
+KP1_RS00140		30705	1374	oxygen-independent coproporphyrinogen III oxidase	796	KP1_RS00140.fasta
+KP1_RS00145		32335	1410	nitrogen regulation protein NR(I)	776	KP1_RS00145.fasta
+KP1_RS00150		33753	1050	two-component system sensor histidine kinase NtrB	514	KP1_RS00150.fasta
+KP1_RS00155		34991	1410	glutamine synthetase	592	KP1_RS00155.fasta
+KP1_RS00160		36457	162	hypothetical protein	159	KP1_RS00160.fasta
+KP1_RS00165		36779	1824	GTP-binding protein	948	KP1_RS00165.fasta
+KP1_RS00175		39331	861	membrane protein	477	KP1_RS00175.fasta
+KP1_RS00180		40188	438	D-aminoacyl-tRNA deacylase	239	KP1_RS00180.fasta
+KP1_RS00185		40670	942	GNAT family N-acetyltransferase	529	KP1_RS00185.fasta
+KP1_RS00205		43546	930	formate dehydrogenase accessory protein FdhE	562	KP1_RS00205.fasta
+KP1_RS00210		44472	636	formate dehydrogenase cytochrome b556 subunit	322	KP1_RS00210.fasta
+KP1_RS00215		45104	903	formate dehydrogenase subunit beta	515	KP1_RS00215.fasta
+KP1_RS00220		46019	2415	formate dehydrogenase-N subunit alpha	1267	KP1_RS00220.fasta
+KP1_RS00225		48482	588	sulfate ABC transporter substrate-binding protein	228	KP1_RS00225.fasta
+KP1_RS00235		50191	213	hypothetical protein	193	KP1_RS00235.fasta
+KP1_RS00275		55663	324	branched-chain amino acid transport	286	KP1_RS00275.fasta
+KP1_RS00285		56745	549	DNA-binding protein	356	KP1_RS00285.fasta
+KP1_RS00300	lacY	60657	1266	MFS transporter	915	KP1_RS00300.fasta
+KP1_RS00310		62271	1149	lactaldehyde reductase	956	KP1_RS00310.fasta
+KP1_RS00320		64510	1005	branched-chain amino acid ABC transporter permease	899	KP1_RS00320.fasta
+KP1_RS00325		65514	1512	sugar ABC transporter	1160	KP1_RS00325.fasta
+KP1_RS00330		67171	987	rhamnose ABC transporter substrate-binding protein	696	KP1_RS00330.fasta
+KP1_RS00340		69219	1260	L-rhamnose isomerase	951	KP1_RS00340.fasta
+KP1_RS00345		70475	1467	rhamnulokinase	1006	KP1_RS00345.fasta
+KP1_RS00350		72252	837	transcriptional activator RhaS	636	KP1_RS00350.fasta
+KP1_RS00355		73162	846	HTH-type transcriptional activator RhaR	586	KP1_RS00355.fasta
+KP1_RS00360		74040	1035	sugar:proton symporter	681	KP1_RS00360.fasta
+KP1_RS00365		75364	621	superoxide dismutase	417	KP1_RS00365.fasta
+KP1_RS00370		76057	675	6-N-hydroxylaminopurine resistance protein	571	KP1_RS00370.fasta
+KP1_RS00375		76799	1374	two-component system sensor histidine kinase CpxA	1067	KP1_RS00375.fasta
+KP1_RS00380		78169	699	DNA-binding response regulator	320	KP1_RS00380.fasta
+KP1_RS00385	cpxP	79017	504	repressor CpxP	292	KP1_RS00385.fasta
+KP1_RS00390		79679	903	cation-efflux pump FieF	451	KP1_RS00390.fasta
+KP1_RS00395		80778	963	ATP-dependent 6-phosphofructokinase	478	KP1_RS00395.fasta
+KP1_RS00400		81802	486	ribonuclease E activity regulator RraA	193	KP1_RS00400.fasta
+KP1_RS00405		82380	921	"1,4-dihydroxy-2-naphthoate polyprenyltransferase"	598	KP1_RS00405.fasta
+KP1_RS00410		83370	1335	ATP-dependent protease ATP-binding subunit HslU	796	KP1_RS00410.fasta
+KP1_RS00415		84714	531	HslU--HslV peptidase proteolytic subunit	200	KP1_RS00415.fasta
+KP1_RS00425		86398	1029	DNA-binding transcriptional regulator CytR	541	KP1_RS00425.fasta
+KP1_RS00435		87577	2196	primosomal protein N'	1142	KP1_RS00435.fasta
+KP1_RS00440		90025	213	50S ribosomal protein L31	47	KP1_RS00440.fasta
+KP1_RS00445		90339	318	met repressor	157	KP1_RS00445.fasta
+KP1_RS00450		90924	1161	cystathionine gamma-synthase	531	KP1_RS00450.fasta
+KP1_RS00455		92087	2433	bifunctional aspartokinase II/homoserine dehydrogenase II	1221	KP1_RS00455.fasta
+KP1_RS00470		97363	372	4-carboxymuconolactone decarboxylase	266	KP1_RS00470.fasta
+KP1_RS00480		98963	888	"5,10-methylenetetrahydrofolate reductase"	420	KP1_RS00480.fasta
+KP1_RS00490	gldA	100940	1104	glycerol dehydrogenase	785	KP1_RS00490.fasta
+KP1_RS00495		102098	663	fructose-6-phosphate aldolase	474	KP1_RS00495.fasta
+KP1_RS00500		102966	864	AraC family transcriptional regulator	668	KP1_RS00500.fasta
+KP1_RS00505		103977	651	metal-binding protein ZinT	438	KP1_RS00505.fasta
+KP1_RS00515		107581	1152	acetylornithine deacetylase	745	KP1_RS00515.fasta
+KP1_RS00520		108846	1005	N-acetyl-gamma-glutamyl-phosphate reductase	517	KP1_RS00520.fasta
+KP1_RS00525		109860	774	acetylglutamate kinase	527	KP1_RS00525.fasta
+KP1_RS00530		110733	1374	argininosuccinate lyase	860	KP1_RS00530.fasta
+KP1_RS00540		113265	1401	soluble pyridine nucleotide transhydrogenase	660	KP1_RS00540.fasta
+KP1_RS00545		114862	636	DNA-binding transcriptional regulator FabR	235	KP1_RS00545.fasta
+KP1_RS00550		115513	360	membrane protein	159	KP1_RS00550.fasta
+KP1_RS00555		115924	1101	tRNA (uridine(54)-C5)-methyltransferase TrmA	684	KP1_RS00555.fasta
+KP1_RS00610		126825	339	hypothetical protein	123	KP1_RS00610.fasta
+KP1_RS00620		128911	132	hypothetical protein	109	KP1_RS00620.fasta
+KP1_RS00625		129302	1647	acetolactate synthase 2 catalytic subunit	861	KP1_RS00625.fasta
+KP1_RS00630	ilvM	130945	258	acetolactate synthase	107	KP1_RS00630.fasta
+KP1_RS00635		131219	930	branched chain amino acid aminotransferase	477	KP1_RS00635.fasta
+KP1_RS00640		132209	1851	dihydroxy-acid dehydratase	1012	KP1_RS00640.fasta
+KP1_RS00645		134062	1545	PLP-dependent threonine dehydratase	996	KP1_RS00645.fasta
+KP1_RS00650		135603	891	transcriptional regulator IlvY	498	KP1_RS00650.fasta
+KP1_RS00670		139052	2022	ATP-dependent DNA helicase Rep	1105	KP1_RS00670.fasta
+KP1_RS00695		145565	1266	ATP-dependent RNA helicase RhlB	728	KP1_RS00695.fasta
+KP1_RS00700		147172	330	thiol reductase thioredoxin	166	KP1_RS00700.fasta
+KP1_RS00705		147832	1260	transcription termination factor Rho	629	KP1_RS00705.fasta
+KP1_RS00710		149332	1104	undecaprenyl-phosphate alpha-N-acetylglucosaminyl 1-phosphate transferase	462	KP1_RS00710.fasta
+KP1_RS00715		150449	1047	polysaccharide chain length modulation protein	457	KP1_RS00715.fasta
+KP1_RS00720		151597	1086	UDP-N-acetyl glucosamine 2-epimerase	513	KP1_RS00720.fasta
+KP1_RS00725	wecC	152679	1263	UDP-N-acetyl-D-mannosamine dehydrogenase	786	KP1_RS00725.fasta
+KP1_RS00745		156563	1131	"dTDP-4-amino-4,6-dideoxy-D-glucose transaminase"	585	KP1_RS00745.fasta
+KP1_RS00755		158942	1077	4-alpha-L-fucosyltransferase	791	KP1_RS00755.fasta
+KP1_RS00760		160015	1347	enterobacterial common antigen polymerase	755	KP1_RS00760.fasta
+KP1_RS00765		161373	741	lipopolysaccharide N-acetylmannosaminouronosyltransferase	509	KP1_RS00765.fasta
+KP1_RS00770		162319	1386	amino acid permease	784	KP1_RS00770.fasta
+KP1_RS00795		164525	174	hypothetical protein	104	KP1_RS00795.fasta
+KP1_RS00800		164705	1197	protoheme IX biogenesis protein HemY	767	KP1_RS00800.fasta
+KP1_RS00810		167108	741	uroporphyrinogen-III synthase	406	KP1_RS00810.fasta
+KP1_RS00815		167845	942	hydroxymethylbilane synthase	543	KP1_RS00815.fasta
+KP1_RS00820		169011	120	hypothetical protein	49	KP1_RS00820.fasta
+KP1_RS00825		169144	2553	adenylate cyclase	1352	KP1_RS00825.fasta
+KP1_RS00830		171745	321	iron donor protein CyaY	213	KP1_RS00830.fasta
+KP1_RS00835		172212	204	membrane protein	130	KP1_RS00835.fasta
+KP1_RS00840		172451	825	diaminopimelate epimerase	393	KP1_RS00840.fasta
+KP1_RS00845		173272	708	DUF484 family protein	441	KP1_RS00845.fasta
+KP1_RS00855		174878	717	flavin mononucleotide phosphatase	487	KP1_RS00855.fasta
+KP1_RS00860		175658	2163	DNA-dependent helicase II	1179	KP1_RS00860.fasta
+KP1_RS00870		178176	951	magnesium transporter CorA	546	KP1_RS00870.fasta
+KP1_RS00875		179170	894	chloramphenicol resistance permease RarD	491	KP1_RS00875.fasta
+KP1_RS00885		180729	861	phospholipase A	441	KP1_RS00885.fasta
+KP1_RS00890		181657	1827	ATP-dependent DNA helicase RecQ	951	KP1_RS00890.fasta
+KP1_RS00895		183545	621	threonine export protein RhtC	385	KP1_RS00895.fasta
+KP1_RS00905	rhtB	185281	621	homoserine/homoserine lactone efflux protein	440	KP1_RS00905.fasta
+KP1_RS00910		186011	993	lysophospholipase L2	556	KP1_RS00910.fasta
+KP1_RS00915		187048	801	sugar/pyridoxal phosphate phosphatase YigL	469	KP1_RS00915.fasta
+KP1_RS00925		188724	954	transcriptional regulator	504	KP1_RS00925.fasta
+KP1_RS00930		189925	2265	5-methyltetrahydropteroyltriglutamate-- homocysteine S-methyltransferase	1058	KP1_RS00930.fasta
+KP1_RS00935		192248	813	carboxymethylenebutenolidase	540	KP1_RS00935.fasta
+KP1_RS00940		193333	762	uridine phosphorylase	586	KP1_RS00940.fasta
+KP1_RS00945		194230	1449	DNA recombination protein RmuC	841	KP1_RS00945.fasta
+KP1_RS00950		195749	756	ubiquinone/menaquinone biosynthesis C-methyltransferase UbiE	343	KP1_RS00950.fasta
+KP1_RS00955		196518	606	SCP2 domain-containing protein	401	KP1_RS00955.fasta
+KP1_RS00960	ubiB	197120	1641	ubiquinone biosynthesis protein UbiB	790	KP1_RS00960.fasta
+KP1_RS00965		198890	252	protein translocase TatA	76	KP1_RS00965.fasta
+KP1_RS00970		199145	537	sec-independent translocase	218	KP1_RS00970.fasta
+KP1_RS00975		199684	780	preprotein translocase subunit TatC	375	KP1_RS00975.fasta
+KP1_RS00980		200508	792	DNase TatD	658	KP1_RS00980.fasta
+KP1_RS00985		201296	489	transcriptional activator RfaH	300	KP1_RS00985.fasta
+KP1_RS00990		201824	120	hypothetical protein	44	KP1_RS00990.fasta
+KP1_RS00995		201963	1476	3-octaprenyl-4-hydroxybenzoate decarboxylase	794	KP1_RS00995.fasta
+KP1_RS01000		203488	702	NAD(P)H-flavin reductase	371	KP1_RS01000.fasta
+KP1_RS01005	fadA	204296	1164	3-ketoacyl-CoA thiolase	693	KP1_RS01005.fasta
+KP1_RS01010		205469	2190	multifunctional fatty acid oxidation complex subunit alpha	1271	KP1_RS01010.fasta
+KP1_RS01015		207850	1332	Xaa-Pro dipeptidase	737	KP1_RS01015.fasta
+KP1_RS01020		209181	615	YigZ family protein	391	KP1_RS01020.fasta
+KP1_RS01025		209834	1452	potassium transporter	643	KP1_RS01025.fasta
+KP1_RS01030	hemG	211297	534	protoporphyrinogen oxidase	253	KP1_RS01030.fasta
+KP1_RS01060		217887	1029	UDP-N-acetylenolpyruvoylglucosamine reductase	605	KP1_RS01060.fasta
+KP1_RS01065		218912	963	bifunctional biotin--[acetyl-CoA-carboxylase] synthetase/biotin operon repressor	555	KP1_RS01065.fasta
+KP1_RS01070		219900	951	type I pantothenate kinase	377	KP1_RS01070.fasta
+KP1_RS01120		225994	498	50S ribosomal protein L10	164	KP1_RS01120.fasta
+KP1_RS01125		226558	366	50S ribosomal protein L7/L12	145	KP1_RS01125.fasta
+KP1_RS01130		227248	4029	DNA-directed RNA polymerase subunit beta	1912	KP1_RS01130.fasta
+KP1_RS01135		231353	4224	DNA-directed RNA polymerase subunit beta'	1770	KP1_RS01135.fasta
+KP1_RS01150		237681	306	PTS sugar transporter subunit IIB	146	KP1_RS01150.fasta
+KP1_RS01155		238159	1533	sensor domain-containing diguanylate cyclase	1076	KP1_RS01155.fasta
+KP1_RS01165		240008	1134	thiamine biosynthesis protein ThiH	799	KP1_RS01165.fasta
+KP1_RS01170		241138	771	thiazole synthase	544	KP1_RS01170.fasta
+KP1_RS01180		242094	756	molybdopterin biosynthesis protein MoeB	517	KP1_RS01180.fasta
+KP1_RS01190		243477	1896	phosphomethylpyrimidine synthase ThiC	1174	KP1_RS01190.fasta
+KP1_RS01195		245635	498	sigma D regulator	188	KP1_RS01195.fasta
+KP1_RS01200	nudC	246226	774	NADH pyrophosphatase	453	KP1_RS01200.fasta
+KP1_RS01205		247040	1065	uroporphyrinogen decarboxylase	717	KP1_RS01205.fasta
+KP1_RS01210		248117	672	endonuclease V	385	KP1_RS01210.fasta
+KP1_RS01215		248831	591	hypothetical protein	262	KP1_RS01215.fasta
+KP1_RS01220		249608	273	transcriptional regulator	83	KP1_RS01220.fasta
+KP1_RS01225		249893	696	membrane protein	409	KP1_RS01225.fasta
+KP1_RS01230	zraP	250592	438	zinc resistance protein	323	KP1_RS01230.fasta
+KP1_RS01250		253991	1296	phosphoribosylamine--glycine ligase	917	KP1_RS01250.fasta
+KP1_RS01255		255302	1590	bifunctional phosphoribosylaminoimidazolecarboxamide formyltransferase/inosine monophosphate cyclohydrolase	949	KP1_RS01255.fasta
+KP1_RS01290		263395	930	homoserine O-succinyltransferase	494	KP1_RS01290.fasta
+KP1_RS01300		266266	1305	isocitrate lyase	755	KP1_RS01300.fasta
+KP1_RS01310		269508	831	IclR family transcriptional regulator	488	KP1_RS01310.fasta
+KP1_RS01320		274346	1632	membrane protein	984	KP1_RS01320.fasta
+KP1_RS01330		276978	876	23S rRNA pseudouridine synthase F	696	KP1_RS01330.fasta
+KP1_RS01335		277850	273	hypothetical protein	183	KP1_RS01335.fasta
+KP1_RS01350		281421	1650	glucose-6-phosphate isomerase	852	KP1_RS01350.fasta
+KP1_RS01390	malG	287989	891	maltose transporter permease	627	KP1_RS01390.fasta
+KP1_RS01395	malF	288894	1545	maltose transporter membrane protein	812	KP1_RS01395.fasta
+KP1_RS01400		290556	1191	maltose ABC transporter substrate-binding protein MalE	704	KP1_RS01400.fasta
+KP1_RS01405		292117	1110	sugar ABC transporter ATP-binding protein	398	KP1_RS01405.fasta
+KP1_RS01410	lamB	293310	1290	maltoporin	608	KP1_RS01410.fasta
+KP1_RS01420		295825	498	chorismate--pyruvate lyase	268	KP1_RS01420.fasta
+KP1_RS01425		296335	867	4-hydroxybenzoate octaprenyltransferase	516	KP1_RS01425.fasta
+KP1_RS01430		297250	2424	glycerol-3-phosphate 1-O-acyltransferase	1241	KP1_RS01430.fasta
+KP1_RS01435		299802	369	diacylglycerol kinase	201	KP1_RS01435.fasta
+KP1_RS01440		300293	609	LexA repressor	283	KP1_RS01440.fasta
+KP1_RS01455		302522	210	CsbD family protein	66	KP1_RS01455.fasta
+KP1_RS01460		302826	516	transcriptional repressor	289	KP1_RS01460.fasta
+KP1_RS01470		303591	489	hemolysin	301	KP1_RS01470.fasta
+KP1_RS01480		305318	243	phage shock protein G	192	KP1_RS01480.fasta
+KP1_RS01485		305743	984	quinone oxidoreductase	611	KP1_RS01485.fasta
+KP1_RS01490		306896	1416	replicative DNA helicase	751	KP1_RS01490.fasta
+KP1_RS01495		308343	1080	alanine racemase	800	KP1_RS01495.fasta
+KP1_RS01500		309599	1194	aromatic amino acid aminotransferase	893	KP1_RS01500.fasta
+KP1_RS01510		311827	417	thiamin phosphate synthase	257	KP1_RS01510.fasta
+KP1_RS01515		312247	357	hypothetical protein	190	KP1_RS01515.fasta
+KP1_RS01520		312604	2826	excinuclease ABC subunit A	1328	KP1_RS01520.fasta
+KP1_RS01615		334672	1605	cyclic diguanylate phosphodiesterase	935	KP1_RS01615.fasta
+KP1_RS01625		336675	459	transcriptional regulator	282	KP1_RS01625.fasta
+KP1_RS01635		338450	1350	permease	773	KP1_RS01635.fasta
+KP1_RS01640		339947	1647	Na+/H+ antiporter	869	KP1_RS01640.fasta
+KP1_RS01645		341756	882	LysR family transcriptional regulator	627	KP1_RS01645.fasta
+KP1_RS01690		349938	1653	cation acetate symporter	968	KP1_RS01690.fasta
+KP1_RS01695		351590	312	membrane protein	151	KP1_RS01695.fasta
+KP1_RS01705		352085	1959	acetyl-coenzyme A synthetase	1075	KP1_RS01705.fasta
+KP1_RS01715		354456	1314	glutamate/aspartate:proton symporter GltP	658	KP1_RS01715.fasta
+KP1_RS01720		355806	687	hypothetical protein	450	KP1_RS01720.fasta
+KP1_RS01725		356722	1680	formate dehydrogenase subunit alpha	1264	KP1_RS01725.fasta
+KP1_RS01730		358450	420	spermidine/putrescine ABC transporter substrate-binding protein	264	KP1_RS01730.fasta
+KP1_RS01750		360994	942	ribose ABC transporter ATP-binding protein	683	KP1_RS01750.fasta
+KP1_RS01755		361966	999	ribose ABC transporter permease	644	KP1_RS01755.fasta
+KP1_RS01775		367392	759	phosphonate metabolism protein PhnP	632	KP1_RS01775.fasta
+KP1_RS01780		368166	564	"ribose 1,5-bisphosphokinase"	381	KP1_RS01780.fasta
+KP1_RS01785		368729	1137	phosphonate metabolism protein PhnM	886	KP1_RS01785.fasta
+KP1_RS01805		372246	1065	carbon-phosphorus lyase complex subunit PhnI	762	KP1_RS01805.fasta
+KP1_RS01825		375226	435	VOC family protein	344	KP1_RS01825.fasta
+KP1_RS01830		375889	336	hypothetical protein	244	KP1_RS01830.fasta
+KP1_RS01840		376769	1503	proline/betaine transporter	836	KP1_RS01840.fasta
+KP1_RS01845		378321	939	transcriptional regulator MelR	806	KP1_RS01845.fasta
+KP1_RS01850		379499	1353	alpha-glucosidase/alpha-galactosidase	1142	KP1_RS01850.fasta
+KP1_RS01855		380945	1416	melibiose/sodium symporter	1100	KP1_RS01855.fasta
+KP1_RS01865		382636	957	recombinase	700	KP1_RS01865.fasta
+KP1_RS01875		384968	306	chaperone-modulator protein CbpM	235	KP1_RS01875.fasta
+KP1_RS01880		385273	918	curved DNA-binding protein	632	KP1_RS01880.fasta
+KP1_RS01900		387245	786	DSBA oxidoreductase	572	KP1_RS01900.fasta
+KP1_RS01915	pgaB	389846	2016	"poly-beta-1,6-N-acetyl-D-glucosamine N-deacetylase PgaB"	1417	KP1_RS01915.fasta
+KP1_RS01935		395830	291	PerC transcriptional activator	232	KP1_RS01935.fasta
+KP1_RS01955		397267	2088	hypothetical protein	1338	KP1_RS01955.fasta
+KP1_RS01960		399422	576	transcriptional regulator	324	KP1_RS01960.fasta
+KP1_RS01975		402253	1302	C4-dicarboxylate ABC transporter	790	KP1_RS01975.fasta
+KP1_RS01980		403670	1437	aspartate ammonia-lyase	829	KP1_RS01980.fasta
+KP1_RS01985		405131	159	peptidase	69	KP1_RS01985.fasta
+KP1_RS01990		405444	477	membrane protein FxsA	358	KP1_RS01990.fasta
+KP1_RS01995		405971	1251	L-methionine/branched-chain amino acid transporter	969	KP1_RS01995.fasta
+KP1_RS02005	groES	407454	294	molecular chaperone GroES	133	KP1_RS02005.fasta
+KP1_RS02010		407785	1647	molecular chaperone GroEL	1239	KP1_RS02010.fasta
+KP1_RS02065		421345	1029	EF-P beta-lysylation protein EpmB	837	KP1_RS02065.fasta
+KP1_RS02070		422415	567	elongation factor P	347	KP1_RS02070.fasta
+KP1_RS02075		423055	132	entericidin A	116	KP1_RS02075.fasta
+KP1_RS02080		423346	147	entericidin B	46	KP1_RS02080.fasta
+KP1_RS02085		423636	318	multidrug transporter	197	KP1_RS02085.fasta
+KP1_RS02090		423950	534	hypothetical protein	442	KP1_RS02090.fasta
+KP1_RS02095		424597	360	fumarate reductase subunit D	259	KP1_RS02095.fasta
+KP1_RS02100		424967	396	fumarate reductase subunit C	274	KP1_RS02100.fasta
+KP1_RS02110		426100	1791	fumarate reductase flavoprotein subunit	1101	KP1_RS02110.fasta
+KP1_RS02115		428166	978	elongation factor P--(R)-beta-lysine ligase	513	KP1_RS02115.fasta
+KP1_RS02125		430867	3330	miniconductance mechanosensitive channel MscM	1588	KP1_RS02125.fasta
+KP1_RS02130		434220	963	phosphatidylserine decarboxylase proenzyme	616	KP1_RS02130.fasta
+KP1_RS02135		435343	1062	ribosome small subunit-dependent GTPase	542	KP1_RS02135.fasta
+KP1_RS02140		436499	546	oligoribonuclease	306	KP1_RS02140.fasta
+KP1_RS02145		437088	732	arginine ABC transporter substrate-binding protein	459	KP1_RS02145.fasta
+KP1_RS02150		437844	201	hypothetical protein	154	KP1_RS02150.fasta
+KP1_RS02170		438752	1140	tRNA epoxyqueuosine(34) reductase QueG	786	KP1_RS02170.fasta
+KP1_RS02175		439890	1527	bifunctional ADP-dependent (S)-NAD(P)H-hydrate dehydratase/NAD(P)H-hydrate epimerase	1198	KP1_RS02175.fasta
+KP1_RS02200		446148	309	RNA-binding protein Hfq	109	KP1_RS02200.fasta
+KP1_RS02205		446532	1281	GTPase HflX	604	KP1_RS02205.fasta
+KP1_RS02210		447878	1263	protease modulator HflK	599	KP1_RS02210.fasta
+KP1_RS02215		449143	1005	protease modulator HflC	487	KP1_RS02215.fasta
+KP1_RS02220		450230	291	hypothetical protein	251	KP1_RS02220.fasta
+KP1_RS02235		451043	1299	adenylosuccinate synthetase	891	KP1_RS02235.fasta
+KP1_RS02240		452492	426	transcriptional regulator	189	KP1_RS02240.fasta
+KP1_RS02245		452954	2433	exoribonuclease R	1269	KP1_RS02245.fasta
+KP1_RS02250		455468	732	23S rRNA (guanosine(2251)-2'-O)-methyltransferase	393	KP1_RS02250.fasta
+KP1_RS02320		467702	276	membrane protein	182	KP1_RS02320.fasta
+KP1_RS02325		468318	396	30S ribosomal protein S6	131	KP1_RS02325.fasta
+KP1_RS02330		468719	315	primosomal replication protein N	179	KP1_RS02330.fasta
+KP1_RS02335		469038	228	30S ribosomal protein S18	54	KP1_RS02335.fasta
+KP1_RS02340		469307	450	50S ribosomal protein L9	194	KP1_RS02340.fasta
+KP1_RS02345		469865	675	hypothetical protein	566	KP1_RS02345.fasta
+KP1_RS02350		470758	621	peptidylprolyl isomerase	439	KP1_RS02350.fasta
+KP1_RS02355		471683	1404	D-serine/D-alanine/glycine transporter	843	KP1_RS02355.fasta
+KP1_RS02360		473229	663	iron-sulfur cluster repair protein YtfE	567	KP1_RS02360.fasta
+KP1_RS02365		473974	972	membrane protein	786	KP1_RS02365.fasta
+KP1_RS02370		475021	825	AraC family transcriptional regulator	741	KP1_RS02370.fasta
+KP1_RS02380		476861	372	HxlR family transcriptional regulator	267	KP1_RS02380.fasta
+KP1_RS02385		477287	1944	3'-nucleotidase	1436	KP1_RS02385.fasta
+KP1_RS02390		479422	744	"3'(2'),5'-bisphosphate nucleotidase CysQ"	568	KP1_RS02390.fasta
+KP1_RS02400		481036	207	hypothetical protein	95	KP1_RS02400.fasta
+KP1_RS02410		481505	1338	membrane protein	755	KP1_RS02410.fasta
+KP1_RS02415		483023	639	peptide-methionine (S)-S-oxide reductase	480	KP1_RS02415.fasta
+KP1_RS02420		483870	1734	outer membrane protein assembly factor	1175	KP1_RS02420.fasta
+KP1_RS02425		485600	3777	translocation/assembly module TamB	1930	KP1_RS02425.fasta
+KP1_RS02430		489379	345	gamma-glutamylcyclotransferase	102	KP1_RS02430.fasta
+KP1_RS02440		490103	531	inorganic pyrophosphatase	338	KP1_RS02440.fasta
+KP1_RS02445		491037	957	sugar ABC transporter substrate-binding protein	614	KP1_RS02445.fasta
+KP1_RS02455		492117	1503	sugar ABC transporter ATP-binding protein	1183	KP1_RS02455.fasta
+KP1_RS02460		493630	1026	sugar ABC transporter permease	756	KP1_RS02460.fasta
+KP1_RS02470		495683	999	"fructose 1,6-bisphosphatase"	489	KP1_RS02470.fasta
+KP1_RS02475		496857	1374	UDP-N-acetylmuramate:L-alanyl-gamma-D-glutamyl- meso-diaminopimelate ligase	900	KP1_RS02475.fasta
+KP1_RS02485		498870	1209	DUF4432 domain-containing protein	1127	KP1_RS02485.fasta
+KP1_RS02495		501219	552	hypothetical protein	332	KP1_RS02495.fasta
+KP1_RS02500		501866	1353	metalloprotease PmbA	968	KP1_RS02500.fasta
+KP1_RS02505		503255	387	cytochrome B562	249	KP1_RS02505.fasta
+KP1_RS02515		503949	321	glycine dehydrogenase	179	KP1_RS02515.fasta
+KP1_RS02520		504280	363	hypothetical protein	230	KP1_RS02520.fasta
+KP1_RS02525		504645	300	hypothetical protein	171	KP1_RS02525.fasta
+KP1_RS02530		504966	777	membrane protein	662	KP1_RS02530.fasta
+KP1_RS02535		505756	645	membrane protein	494	KP1_RS02535.fasta
+KP1_RS02540		506506	1134	dihydroorotase	963	KP1_RS02540.fasta
+KP1_RS02550		508738	741	2-dehydro-3-deoxyphosphooctonate aldolase	765	KP1_RS02550.fasta
+KP1_RS02555		509545	1155	6-phosphogluconolactonase	1049	KP1_RS02555.fasta
+KP1_RS02560		510722	1911	transcription antiterminator BglG	1440	KP1_RS02560.fasta
+KP1_RS02575		513230	465	anaerobic ribonucleotide reductase-activating protein	596	KP1_RS02575.fasta
+KP1_RS02580		514023	2139	anaerobic ribonucleoside triphosphate reductase	1387	KP1_RS02580.fasta
+KP1_RS02615		520663	1656	glucohydrolase	1214	KP1_RS02615.fasta
+KP1_RS02620		522370	1419	PTS trehalose transporter subunit IIBC	1097	KP1_RS02620.fasta
+KP1_RS02625		523919	948	trehalose operon repressor	766	KP1_RS02625.fasta
+KP1_RS02630		525246	2709	magnesium-translocating P-type ATPase	1662	KP1_RS02630.fasta
+KP1_RS02640		528567	462	aspartate carbamoyltransferase regulatory subunit	355	KP1_RS02640.fasta
+KP1_RS02645		529042	936	aspartate carbamoyltransferase	620	KP1_RS02645.fasta
+KP1_RS02650		530313	453	hypothetical protein	590	KP1_RS02650.fasta
+KP1_RS02655		530827	1005	ornithine carbamoyltransferase subunit F	659	KP1_RS02655.fasta
+KP1_RS02660		531995	423	RNase E inhibitor protein	207	KP1_RS02660.fasta
+KP1_RS02665		532476	765	tRNA-(ms[2]io[6]A)-hydroxylase	723	KP1_RS02665.fasta
+KP1_RS02675		533934	2856	valine--tRNA ligase	1851	KP1_RS02675.fasta
+KP1_RS02680		536789	444	DNA polymerase III subunit chi	276	KP1_RS02680.fasta
+KP1_RS02685		537352	1512	cytosol aminopeptidase	1128	KP1_RS02685.fasta
+KP1_RS02690		539253	1098	LPS export ABC transporter permease LptF	732	KP1_RS02690.fasta
+KP1_RS02695		540350	1083	LPS export ABC transporter permease LptG	738	KP1_RS02695.fasta
+KP1_RS02700		541481	1503	hypothetical protein	1227	KP1_RS02700.fasta
+KP1_RS02705		543082	822	hypothetical protein	828	KP1_RS02705.fasta
+KP1_RS02715		544256	1506	methylmalonate-semialdehyde dehydrogenase (acylating)	1196	KP1_RS02715.fasta
+KP1_RS02720		545780	810	5-deoxy-glucuronate isomerase	965	KP1_RS02720.fasta
+KP1_RS02740		548417	858	(Fe-S)-cluster assembly protein	897	KP1_RS02740.fasta
+KP1_RS02750		551599	162	hypothetical protein	246	KP1_RS02750.fasta
+KP1_RS02760		553832	1014	inositol 2-dehydrogenase	967	KP1_RS02760.fasta
+KP1_RS02770		555795	900	myo-inosose-2 dehydratase	998	KP1_RS02770.fasta
+KP1_RS02775		556838	1311	ABC transporter substrate-binding protein	1358	KP1_RS02775.fasta
+KP1_RS02785		559364	825	phosphodiesterase	1066	KP1_RS02785.fasta
+KP1_RS02790		560199	888	ABC transporter permease	1210	KP1_RS02790.fasta
+KP1_RS02800		562091	1020	alcohol dehydrogenase	1340	KP1_RS02800.fasta
+KP1_RS02805		563222	1470	sulfate transporter	1545	KP1_RS02805.fasta
+KP1_RS03210		655694	1455	Na+/xyloside symporter related transporter	1223	KP1_RS03210.fasta
+KP1_RS03250		663344	1221	cyclopropane-fatty-acyl-phospholipid synthase	1255	KP1_RS03250.fasta
+KP1_RS03255		664561	723	hypothetical protein	862	KP1_RS03255.fasta
+KP1_RS03265		666541	720	oxidoreductase	850	KP1_RS03265.fasta
+KP1_RS03270		667257	435	transcriptional regulator	530	KP1_RS03270.fasta
+KP1_RS03280		668769	534	membrane protein	603	KP1_RS03280.fasta
+KP1_RS03285		669312	348	cyanate transport	405	KP1_RS03285.fasta
+KP1_RS03290		669732	3150	cation transporter	2037	KP1_RS03290.fasta
+KP1_RS03295		672893	1263	metal RND transporter	1293	KP1_RS03295.fasta
+KP1_RS03300		674201	345	copper-binding protein	553	KP1_RS03300.fasta
+KP1_RS03305		674563	1386	cation transporter	1299	KP1_RS03305.fasta
+KP1_RS03320		676793	1434	two-component sensor histidine kinase	1270	KP1_RS03320.fasta
+KP1_RS03335		679187	1122	50S ribosomal protein L16 arginine hydroxylase	878	KP1_RS03335.fasta
+KP1_RS03365		686505	318	hypothetical protein	227	KP1_RS03365.fasta
+KP1_RS03380		690728	1068	membrane protein	939	KP1_RS03380.fasta
+KP1_RS03385		692102	1008	tryptophan--tRNA ligase	961	KP1_RS03385.fasta
+KP1_RS03425		700348	1413	GntR family transcriptional regulator	1090	KP1_RS03425.fasta
+KP1_RS03430		701938	165	DUF1127 domain-containing protein	171	KP1_RS03430.fasta
+KP1_RS03435		702267	465	MarR family transcriptional regulator	330	KP1_RS03435.fasta
+KP1_RS03440		702738	1068	hemolysin secretion protein D	824	KP1_RS03440.fasta
+KP1_RS03455		705107	768	hypothetical protein	711	KP1_RS03455.fasta
+KP1_RS03460		705884	1152	hypothetical protein	891	KP1_RS03460.fasta
+KP1_RS03465		707133	240	hypothetical protein	203	KP1_RS03465.fasta
+KP1_RS03475		708693	1281	membrane protein	823	KP1_RS03475.fasta
+KP1_RS03495		712816	1371	succinate-semialdehyde dehydrogenase	1000	KP1_RS03495.fasta
+KP1_RS03500		714284	546	porin	323	KP1_RS03500.fasta
+KP1_RS03505		715221	957	GTPase	643	KP1_RS03505.fasta
+KP1_RS03510		716189	204	hypothetical protein	128	KP1_RS03510.fasta
+KP1_RS03530		720573	513	4-hydroxyphenylacetate 3-monooxygenase	595	KP1_RS03530.fasta
+KP1_RS03535		721105	1563	"4-hydroxyphenylacetate 3-monooxygenase, oxygenase component"	1235	KP1_RS03535.fasta
+KP1_RS03540		722893	891	4-hydroxyphenylacetate catabolism regulatory protein HpaA	746	KP1_RS03540.fasta
+KP1_RS03555		725981	804	"2-oxo-hepta-3-ene-1,7-dioic acid hydratase"	395	KP1_RS03555.fasta
+KP1_RS03560		726893	381	5-carboxymethyl-2-hydroxymuconate isomerase	356	KP1_RS03560.fasta
+KP1_RS03565		727283	858	"3,4-dihydroxyphenylacetate 2,3-dioxygenase"	749	KP1_RS03565.fasta
+KP1_RS03570		728142	1467	5-carboxymethyl-2-hydroxymuconate semialdehyde dehydrogenase	1238	KP1_RS03570.fasta
+KP1_RS03575		729605	765	"2-hydroxyhepta-2,4-diene-1,7-dioate isomerase"	762	KP1_RS03575.fasta
+KP1_RS03580		730366	633	"2-hydroxyhepta-2,4-diene-1,7-dioate isomerase"	605	KP1_RS03580.fasta
+KP1_RS03605		732293	1017	oxidoreductase	802	KP1_RS03605.fasta
+KP1_RS03650		740679	534	N-acetyltransferase GCN5	328	KP1_RS03650.fasta
+KP1_RS03700		750809	2292	phosphoglycerol transferase I	1282	KP1_RS03700.fasta
+KP1_RS03705		753357	492	hypothetical protein	314	KP1_RS03705.fasta
+KP1_RS03710		753914	738	DNA replication protein DnaC	284	KP1_RS03710.fasta
+KP1_RS03715		754654	540	primosomal protein 1	343	KP1_RS03715.fasta
+KP1_RS03725		755760	777	membrane protein	493	KP1_RS03725.fasta
+KP1_RS03760		761323	1344	PTS cellobiose transporter subunit IIC	879	KP1_RS03760.fasta
+KP1_RS03770		763611	1047	GGDEF domain-containing protein	621	KP1_RS03770.fasta
+KP1_RS03800		765674	1029	16S rRNA methyltransferase	725	KP1_RS03800.fasta
+KP1_RS03815		767648	678	dUMP phosphatase	379	KP1_RS03815.fasta
+KP1_RS03820		768416	1590	peptide chain release factor 3	780	KP1_RS03820.fasta
+KP1_RS03825		770225	621	molecular chaperone OsmY	324	KP1_RS03825.fasta
+KP1_RS03830		770975	162	membrane protein	73	KP1_RS03830.fasta
+KP1_RS03850		774979	780	2-deoxyribose-5-phosphate aldolase	552	KP1_RS03850.fasta
+KP1_RS03855		775872	1323	thymidine phosphorylase	800	KP1_RS03855.fasta
+KP1_RS03860		777247	1224	phosphopentomutase	744	KP1_RS03860.fasta
+KP1_RS03865		778573	720	purine-nucleoside phosphorylase	476	KP1_RS03865.fasta
+KP1_RS03875		780389	648	membrane protein	385	KP1_RS03875.fasta
+KP1_RS03880		781141	972	phosphoserine phosphatase	657	KP1_RS03880.fasta
+KP1_RS03885		782122	1383	DNA repair protein RadA	798	KP1_RS03885.fasta
+KP1_RS03890		783526	1233	trifunctional nicotinamide-nucleotide adenylyltransferase/ribosylnicotinamide kinase/transcriptional regulator NadR	726	KP1_RS03890.fasta
+KP1_RS03895		784852	1668	energy-dependent translational throttle protein EttA	1064	KP1_RS03895.fasta
+KP1_RS03900		786748	1938	murein transglycosylase	1163	KP1_RS03900.fasta
+KP1_RS03910		789090	516	non-canonical purine NTP phosphatase	343	KP1_RS03910.fasta
+KP1_RS03915		789719	648	phosphoglycerate mutase	360	KP1_RS03915.fasta
+KP1_RS03920		790363	870	right oriC-binding transcriptional activator	514	KP1_RS03920.fasta
+KP1_RS03925		791441	474	hypothetical protein	316	KP1_RS03925.fasta
+KP1_RS03930		791927	690	DNA-binding response regulator	538	KP1_RS03930.fasta
+KP1_RS03935		792616	1425	two-component sensor histidine kinase	956	KP1_RS03935.fasta
+KP1_RS03945		795522	717	DNA-binding response regulator	366	KP1_RS03945.fasta
+KP1_RS03965		800384	930	homoserine kinase	464	KP1_RS03965.fasta
+KP1_RS03970		801317	1281	threonine synthase	768	KP1_RS03970.fasta
+KP1_RS03990		805842	954	transaldolase	564	KP1_RS03990.fasta
+KP1_RS03995		806895	588	molybdopterin adenylyltransferase	378	KP1_RS03995.fasta
+KP1_RS04000		807602	1305	MFS transporter	859	KP1_RS04000.fasta
+KP1_RS04005		808969	567	hypothetical protein	380	KP1_RS04005.fasta
+KP1_RS04025		813195	1134	molecular chaperone DnaJ	704	KP1_RS04025.fasta
+KP1_RS04030	nhaA	814506	1176	Na+/H+ antiporter NhaA	912	KP1_RS04030.fasta
+KP1_RS04035		815736	897	transcriptional activator NhaR	626	KP1_RS04035.fasta
+KP1_RS04045		816752	264	30S ribosomal protein S20	115	KP1_RS04045.fasta
+KP1_RS04050		817345	939	bifunctional riboflavin kinase/FMN adenylyltransferase	494	KP1_RS04050.fasta
+KP1_RS04055		818327	2817	isoleucine--tRNA ligase	1488	KP1_RS04055.fasta
+KP1_RS04060		821143	501	lipoprotein signal peptidase	228	KP1_RS04060.fasta
+KP1_RS04065		821759	450	peptidyl-prolyl cis-trans isomerase	218	KP1_RS04065.fasta
+KP1_RS04070		822210	951	4-hydroxy-3-methylbut-2-enyl diphosphate reductase	587	KP1_RS04070.fasta
+KP1_RS04085		824485	930	transcriptional regulator	839	KP1_RS04085.fasta
+KP1_RS04105		827489	156	hypothetical protein	156	KP1_RS04105.fasta
+KP1_RS04110		827710	1149	carbamoyl-phosphate synthase small subunit	815	KP1_RS04110.fasta
+KP1_RS04115		828876	3225	carbamoyl phosphate synthase large subunit	1757	KP1_RS04115.fasta
+KP1_RS04120		832270	234	hypothetical protein	146	KP1_RS04120.fasta
+KP1_RS04130		833161	1866	glutathione-regulated potassium-efflux system protein KefC	1253	KP1_RS04130.fasta
+KP1_RS04135	folA	835200	480	dihydrofolate reductase	232	KP1_RS04135.fasta
+KP1_RS04140		836106	849	bis(5'-nucleosyl)-tetraphosphatase (symmetrical)	481	KP1_RS04140.fasta
+KP1_RS04145		836959	378	Co2+/Mg2+ efflux protein ApaG	135	KP1_RS04145.fasta
+KP1_RS04150	ksgA	837339	822	ribosomal RNA small subunit methyltransferase A	438	KP1_RS04150.fasta
+KP1_RS04155		838157	990	4-hydroxythreonine-4-phosphate dehydrogenase PdxA	615	KP1_RS04155.fasta
+KP1_RS04160		839152	1287	peptidyl-prolyl cis-trans isomerase	681	KP1_RS04160.fasta
+KP1_RS04165		840493	2349	LPS assembly protein LptD	1279	KP1_RS04165.fasta
+KP1_RS04170		843085	828	molecular chaperone DjlA	468	KP1_RS04170.fasta
+KP1_RS04180		844633	1626	histidine kinase	1185	KP1_RS04180.fasta
+KP1_RS04185		846583	1365	citrate/acetate antiporter	920	KP1_RS04185.fasta
+KP1_RS04195		848127	540	phosphoribosyl-dephospho-CoA transferase	299	KP1_RS04195.fasta
+KP1_RS04200		848741	660	bifunctional tRNA pseudouridine(32) synthase/ribosomal large subunit pseudouridine synthase RluA	453	KP1_RS04200.fasta
+KP1_RS04205		849413	2907	RNA polymerase-associated protein RapA	1668	KP1_RS04205.fasta
+KP1_RS04210		852507	2358	DNA polymerase II	1547	KP1_RS04210.fasta
+KP1_RS04215		855040	696	L-ribulose-5-phosphate 4-epimerase	586	KP1_RS04215.fasta
+KP1_RS04220		855873	1503	L-arabinose isomerase	1061	KP1_RS04220.fasta
+KP1_RS04225		857386	1710	ribulokinase	1208	KP1_RS04225.fasta
+KP1_RS04240		860407	768	membrane protein	463	KP1_RS04240.fasta
+KP1_RS04250	thiP	861846	1611	thiamine/thiamine pyrophosphate ABC transporter permease ThiP	1166	KP1_RS04250.fasta
+KP1_RS04260		864705	1656	transcriptional regulator SgrR	1100	KP1_RS04260.fasta
+KP1_RS04265		866448	153	hypothetical protein	100	KP1_RS04265.fasta
+KP1_RS04290		870562	756	3-dehydroquinase	517	KP1_RS04290.fasta
+KP1_RS04295		871348	1215	MFS transporter	872	KP1_RS04295.fasta
+KP1_RS04300		872573	864	shikimate dehydrogenase	579	KP1_RS04300.fasta
+KP1_RS04305		873448	2034	"2,4-dienoyl-CoA reductase"	1283	KP1_RS04305.fasta
+KP1_RS04310		875877	606	3-isopropylmalate dehydratase small subunit	381	KP1_RS04310.fasta
+KP1_RS04315		876493	1401	3-isopropylmalate dehydratase large subunit	691	KP1_RS04315.fasta
+KP1_RS04320		877896	1092	3-isopropylmalate dehydrogenase	582	KP1_RS04320.fasta
+KP1_RS04325		878987	1572	2-isopropylmalate synthase	804	KP1_RS04325.fasta
+KP1_RS04340		882717	1725	acetolactate synthase 3 large subunit	840	KP1_RS04340.fasta
+KP1_RS04345		884444	492	acetolactate synthase small subunit	232	KP1_RS04345.fasta
+KP1_RS04350		885115	1005	DNA-binding transcriptional regulator FruR	572	KP1_RS04350.fasta
+KP1_RS04355		886760	459	division/cell wall cluster transcriptional repressor MraZ	235	KP1_RS04355.fasta
+KP1_RS04360		887221	942	ribosomal RNA small subunit methyltransferase H	515	KP1_RS04360.fasta
+KP1_RS04365		888159	366	cell division protein FtsL	212	KP1_RS04365.fasta
+KP1_RS04370		888540	1767	peptidoglycan glycosyltransferase FtsI	1269	KP1_RS04370.fasta
+KP1_RS04380		891777	1359	UDP-N-acetylmuramoyl-tripeptide--D-alanyl-D- alanine ligase	905	KP1_RS04380.fasta
+KP1_RS04390	murD	894214	1317	UDP-N-acetylmuramoyl-L-alanine--D-glutamate ligase	925	KP1_RS04390.fasta
+KP1_RS04395		895530	1275	cell division protein FtsW	746	KP1_RS04395.fasta
+KP1_RS04400		896801	1071	UDP-N-acetylglucosamine--N-acetylmuramyl- (pentapeptide) pyrophosphoryl-undecaprenol N-acetylglucosamine transferase	655	KP1_RS04400.fasta
+KP1_RS04405		897919	1476	UDP-N-acetylmuramate--L-alanine ligase	876	KP1_RS04405.fasta
+KP1_RS04415		900309	831	cell division protein FtsQ	393	KP1_RS04415.fasta
+KP1_RS04420		901136	1263	cell division protein FtsA	549	KP1_RS04420.fasta
+KP1_RS04425		902461	1152	cell division protein FtsZ	659	KP1_RS04425.fasta
+KP1_RS04430		903713	918	UDP-3-O-[3-hydroxymyristoyl] N-acetylglucosamine deacetylase	523	KP1_RS04430.fasta
+KP1_RS04435		904947	504	SecA regulator SecM	361	KP1_RS04435.fasta
+KP1_RS04440		905513	2706	protein translocase subunit SecA	1214	KP1_RS04440.fasta
+KP1_RS04455		908926	744	cell division protein ZapD	406	KP1_RS04455.fasta
+KP1_RS04460		909669	621	dephospho-CoA kinase	429	KP1_RS04460.fasta
+KP1_RS04465		910445	132	hypothetical protein	103	KP1_RS04465.fasta
+KP1_RS04470		910633	1044	guanosine monophosphate reductase	659	KP1_RS04470.fasta
+KP1_RS04485		914304	432	prepilin peptidase-dependent pilin	312	KP1_RS04485.fasta
+KP1_RS04490		914917	894	nicotinate-nucleotide diphosphorylase	508	KP1_RS04490.fasta
+KP1_RS04495		915944	564	N-acetyl-anhydromuramyl-L-alanine amidase	295	KP1_RS04495.fasta
+KP1_RS04500		916504	855	beta-lactamase regulator AmpE	556	KP1_RS04500.fasta
+KP1_RS04505		917594	951	alpha-N-arabinofuranosidase	738	KP1_RS04505.fasta
+KP1_RS04510		918544	1407	MFS transporter	791	KP1_RS04510.fasta
+KP1_RS04515		920135	1371	aromatic amino acid transporter AroP	740	KP1_RS04515.fasta
+KP1_RS04520		921518	114	hypothetical protein	86	KP1_RS04520.fasta
+KP1_RS04525		922149	780	transcriptional regulator PdhR	326	KP1_RS04525.fasta
+KP1_RS04530		923065	2664	"pyruvate dehydrogenase (acetyl-transferring), homodimeric type"	1266	KP1_RS04530.fasta
+KP1_RS04540		927848	1425	dihydrolipoyl dehydrogenase	927	KP1_RS04540.fasta
+KP1_RS04565		932625	2598	aconitate hydratase B	1358	KP1_RS04565.fasta
+KP1_RS04570		935409	363	hypothetical protein	193	KP1_RS04570.fasta
+KP1_RS04580		936663	861	spermidine synthase	516	KP1_RS04580.fasta
+KP1_RS04595		940355	348	hypothetical protein	165	KP1_RS04595.fasta
+KP1_RS04605		942530	2391	glucose dehydrogenase	1368	KP1_RS04605.fasta
+KP1_RS04610		945001	120	hypothetical protein	72	KP1_RS04610.fasta
+KP1_RS04615		945125	537	hypoxanthine phosphoribosyltransferase	294	KP1_RS04615.fasta
+KP1_RS04620		945721	663	carbonate dehydratase	334	KP1_RS04620.fasta
+KP1_RS04625		946568	927	ATPase	528	KP1_RS04625.fasta
+KP1_RS04630		947491	771	ABC transporter permease	469	KP1_RS04630.fasta
+KP1_RS04635		948384	441	PTS sugar transporter subunit IIA	299	KP1_RS04635.fasta
+KP1_RS04645		950172	381	aspartate 1-decarboxylase	190	KP1_RS04645.fasta
+KP1_RS04650		950645	855	pantoate--beta-alanine ligase	582	KP1_RS04650.fasta
+KP1_RS04655		951511	792	3-methyl-2-oxobutanoate hydroxymethyltransferase	382	KP1_RS04655.fasta
+KP1_RS04660		952423	480	2-amino-4-hydroxy-6- hydroxymethyldihydropteridine diphosphokinase	399	KP1_RS04660.fasta
+KP1_RS04670		954356	882	tRNA glutamyl-Q(34) synthetase GluQRS	580	KP1_RS04670.fasta
+KP1_RS04675		955297	456	transcriptional regulator	253	KP1_RS04675.fasta
+KP1_RS04680		955915	717	sugar fermentation stimulation protein SfsA	425	KP1_RS04680.fasta
+KP1_RS04720		963891	597	type II secretion system protein GspJ	686	KP1_RS04720.fasta
+KP1_RS04725		964484	366	type II secretion system protein GspI	316	KP1_RS04725.fasta
+KP1_RS04735		965361	423	type II secretion system protein GspG	331	KP1_RS04735.fasta
+KP1_RS04750		968510	1974	type II secretion system protein GspD	1291	KP1_RS04750.fasta
+KP1_RS04785		977251	375	pullulanase	330	KP1_RS04785.fasta
+KP1_RS04795		977855	165	hypothetical protein	104	KP1_RS04795.fasta
+KP1_RS04825		987056	1281	"glutamate-1-semialdehyde 2,1-aminomutase"	940	KP1_RS04825.fasta
+KP1_RS04830		988475	1461	ClC family H(+)/Cl(-) exchange transporter	882	KP1_RS04830.fasta
+KP1_RS04835		990017	345	iron-sulfur cluster insertion protein ErpA	174	KP1_RS04835.fasta
+KP1_RS04845		991093	801	cobalamin-binding protein	572	KP1_RS04845.fasta
+KP1_RS04855		992668	1515	deoxyguanosinetriphosphate triphosphohydrolase	887	KP1_RS04855.fasta
+KP1_RS04860		994317	1434	serine endoprotease DegQ	869	KP1_RS04860.fasta
+KP1_RS04865		995917	1158	CdaR family transcriptional regulator	759	KP1_RS04865.fasta
+KP1_RS04870		997193	387	hypothetical protein	182	KP1_RS04870.fasta
+KP1_RS04875		997687	825	"2,3,4,5-tetrahydropyridine-2,6-dicarboxylate N-succinyltransferase"	416	KP1_RS04875.fasta
+KP1_RS04880		998542	2664	bifunctional uridylyltransferase/uridylyl-removing protein	1401	KP1_RS04880.fasta
+KP1_RS04885		1001263	795	type I methionyl aminopeptidase	590	KP1_RS04885.fasta
+KP1_RS04890		1002380	726	30S ribosomal protein S2	254	KP1_RS04890.fasta
+KP1_RS04895		1003225	852	elongation factor Ts	440	KP1_RS04895.fasta
+KP1_RS04900		1004227	726	UMP kinase	338	KP1_RS04900.fasta
+KP1_RS04905		1005103	558	ribosome-recycling factor	236	KP1_RS04905.fasta
+KP1_RS04915		1007329	759	"(2E,6E)-farnesyl- diphosphate-specific ditrans,polycis-undecaprenyl-diphosphate synthase"	232	KP1_RS04915.fasta
+KP1_RS04920	cdsA	1008100	858	CDP-diglyceride synthase	532	KP1_RS04920.fasta
+KP1_RS04925		1008969	1353	zinc metallopeptidase RseP	622	KP1_RS04925.fasta
+KP1_RS04930		1010353	2430	outer membrane protein assembly factor BamA	1221	KP1_RS04930.fasta
+KP1_RS04935		1012904	486	chaperone	203	KP1_RS04935.fasta
+KP1_RS04940		1013393	1026	UDP-3-O-(3-hydroxymyristoyl)glucosamine N-acyltransferase	631	KP1_RS04940.fasta
+KP1_RS04945		1014524	456	beta-hydroxyacyl-ACP dehydratase	195	KP1_RS04945.fasta
+KP1_RS04950		1014983	789	acyl-[acyl-carrier-protein]--UDP-N- acetylglucosamine O-acyltransferase	403	KP1_RS04950.fasta
+KP1_RS04955		1015771	1152	lipid-A-disaccharide synthase	759	KP1_RS04955.fasta
+KP1_RS04960		1016919	600	ribonuclease HII	341	KP1_RS04960.fasta
+KP1_RS04965		1017536	3483	DNA polymerase III subunit alpha	1517	KP1_RS04965.fasta
+KP1_RS04970		1021031	960	acetyl-CoA carboxylase carboxyltransferase subunit alpha	557	KP1_RS04970.fasta
+KP1_RS04975		1022104	2154	lysine decarboxylase CadA	1196	KP1_RS04975.fasta
+KP1_RS04980		1024304	390	hypothetical protein	235	KP1_RS04980.fasta
+KP1_RS04990		1026074	261	Rho-binding antiterminator	112	KP1_RS04990.fasta
+KP1_RS05000		1026718	546	hypothetical protein	368	KP1_RS05000.fasta
+KP1_RS05005		1027260	414	aminoacyl-tRNA hydrolase	312	KP1_RS05005.fasta
+KP1_RS05010		1027695	720	copper homeostasis/adhesion lipoprotein NlpE	528	KP1_RS05010.fasta
+KP1_RS05020		1029448	1719	proline--tRNA ligase	899	KP1_RS05020.fasta
+KP1_RS05030	rcsF	1031983	408	hypothetical protein	172	KP1_RS05030.fasta
+KP1_RS05035	metQ	1032498	816	methionine ABC transporter substrate-binding protein	496	KP1_RS05035.fasta
+KP1_RS05045		1034003	1032	"D-methionine ABC transporter, ATP-binding protein"	554	KP1_RS05045.fasta
+KP1_RS05050		1035223	567	"D-glycero-beta-D-manno-heptose 1,7-bisphosphate 7-phosphatase"	386	KP1_RS05050.fasta
+KP1_RS05100		1044675	807	hypothetical protein	508	KP1_RS05100.fasta
+KP1_RS05105		1045573	771	S-adenosyl-L-methionine (SAM)-dependent methyltransferase PhcB	621	KP1_RS05105.fasta
+KP1_RS05110		1046401	1368	lytic transglycosylase	649	KP1_RS05110.fasta
+KP1_RS05115		1047840	756	hydroxyacylglutathione hydrolase	637	KP1_RS05115.fasta
+KP1_RS05120		1048628	723	hypothetical protein	418	KP1_RS05120.fasta
+KP1_RS05125		1049347	468	ribonuclease H	236	KP1_RS05125.fasta
+KP1_RS05130		1049879	732	DNA polymerase III subunit epsilon	451	KP1_RS05130.fasta
+KP1_RS05150		1052486	771	amidohydrolase	511	KP1_RS05150.fasta
+KP1_RS05155	fadE	1053435	2445	acyl-CoA dehydrogenase	1325	KP1_RS05155.fasta
+KP1_RS05160		1056119	582	phosphoheptose isomerase	274	KP1_RS05160.fasta
+KP1_RS05165		1056775	768	class II glutamine amidotransferase	366	KP1_RS05165.fasta
+KP1_RS05180		1058665	1344	NADH:ubiquinone reductase (Na(+)-transporting) subunit A	911	KP1_RS05180.fasta
+KP1_RS05185		1060012	1239	NADH:ubiquinone reductase (Na(+)-transporting) subunit B	946	KP1_RS05185.fasta
+KP1_RS05195		1062030	639	NADH:ubiquinone reductase (Na(+)-transporting) subunit D	455	KP1_RS05195.fasta
+KP1_RS05200		1062675	597	NADH:ubiquinone reductase (Na(+)-transporting) subunit E	383	KP1_RS05200.fasta
+KP1_RS05205		1063284	1224	NADH:ubiquinone reductase (Na(+)-transporting) subunit F	890	KP1_RS05205.fasta
+KP1_RS05210		1064510	216	hypothetical protein	194	KP1_RS05210.fasta
+KP1_RS05220		1065968	1056	DNA polymerase IV	805	KP1_RS05220.fasta
+KP1_RS05230		1067521	1458	cytosol nonspecific dipeptidase	1028	KP1_RS05230.fasta
+KP1_RS05235		1069236	459	xanthine phosphoribosyltransferase	269	KP1_RS05235.fasta
+KP1_RS05240	frsA	1069800	1245	fermentation/respiration switch protein	680	KP1_RS05240.fasta
+KP1_RS05245		1071102	399	sigma factor-binding protein Crl	405	KP1_RS05245.fasta
+KP1_RS05390		1103620	1104	glutamate 5-kinase	756	KP1_RS05390.fasta
+KP1_RS05395		1104878	123	hypothetical protein	88	KP1_RS05395.fasta
+KP1_RS05400		1105013	1053	phosphoporin PhoE	689	KP1_RS05400.fasta
+KP1_RS05405		1106110	567	lipoprotein	465	KP1_RS05405.fasta
+KP1_RS05415		1108053	666	haloacid dehalogenase	629	KP1_RS05415.fasta
+KP1_RS05425		1109457	885	"phosphonate ABC transporter, permease protein PhnE"	952	KP1_RS05425.fasta
+KP1_RS05430		1110338	870	"phosphonate ABC transporter, permease protein PhnE"	955	KP1_RS05430.fasta
+KP1_RS05435		1111274	939	phosphonate ABC transporter substrate-binding protein	803	KP1_RS05435.fasta
+KP1_RS05440		1112235	843	phosphonate ABC transporter ATP-binding protein	732	KP1_RS05440.fasta
+KP1_RS05535		1130284	1389	ethanolamine ammonia lyase large subunit	1116	KP1_RS05535.fasta
+KP1_RS05545		1133151	102	hypothetical protein	101	KP1_RS05545.fasta
+KP1_RS05635		1151423	261	anti-adapter protein IraP	141	KP1_RS05635.fasta
+KP1_RS05640		1151774	1431	alkaline phosphatase	1042	KP1_RS05640.fasta
+KP1_RS05645		1153296	318	phosphate starvation-inducible protein PsiF	177	KP1_RS05645.fasta
+KP1_RS05650		1153681	810	pyrroline-5-carboxylate reductase	482	KP1_RS05650.fasta
+KP1_RS05655		1154607	459	hypothetical protein	320	KP1_RS05655.fasta
+KP1_RS05665		1156101	534	shikimate kinase II	309	KP1_RS05665.fasta
+KP1_RS05670		1156706	192	hypothetical protein	98	KP1_RS05670.fasta
+KP1_RS05680		1157906	285	hypothetical protein	170	KP1_RS05680.fasta
+KP1_RS05685		1158262	912	recombination-associated protein RdgC	535	KP1_RS05685.fasta
+KP1_RS05690		1159265	915	fructokinase	775	KP1_RS05690.fasta
+KP1_RS05700		1163387	1206	exonuclease sbcCD subunit D	925	KP1_RS05700.fasta
+KP1_RS05705		1164775	690	DNA-binding response regulator	346	KP1_RS05705.fasta
+KP1_RS05710	phoR	1165486	1296	PAS domain-containing sensor histidine kinase	903	KP1_RS05710.fasta
+KP1_RS05715		1167195	1320	branched-chain amino acid transporter 2 carrier protein BrnQ	749	KP1_RS05715.fasta
+KP1_RS05725		1170126	1818	maltodextrin glucosidase	1260	KP1_RS05725.fasta
+KP1_RS05730		1171940	903	LysR family transcriptional regulator	737	KP1_RS05730.fasta
+KP1_RS05735		1173109	642	hydrolase	497	KP1_RS05735.fasta
+KP1_RS05740		1173937	546	antibiotic biosynthesis monooxygenase	387	KP1_RS05740.fasta
+KP1_RS05750		1176434	861	"fructose-1,6-bisphosphate aldolase, class II"	703	KP1_RS05750.fasta
+KP1_RS05755		1177324	963	kinase	732	KP1_RS05755.fasta
+KP1_RS05765		1179764	288	PTS mannose transporter subunit IIA	230	KP1_RS05765.fasta
+KP1_RS05770		1180057	444	PTS sugar transporter subunit IIA	382	KP1_RS05770.fasta
+KP1_RS05780		1180847	603	peroxiredoxin	377	KP1_RS05780.fasta
+KP1_RS05785		1181577	582	ACP phosphodiesterase	483	KP1_RS05785.fasta
+KP1_RS05795		1182414	1065	tRNA preQ1(34) S-adenosylmethionine ribosyltransferase-isomerase QueA	640	KP1_RS05795.fasta
+KP1_RS05800		1183587	1128	tRNA guanosine(34) transglycosylase Tgt	636	KP1_RS05800.fasta
+KP1_RS05805		1184737	333	preprotein translocase subunit YajC	183	KP1_RS05805.fasta
+KP1_RS05810		1185096	1848	preprotein translocase subunit SecD	939	KP1_RS05810.fasta
+KP1_RS05815		1186954	972	preprotein translocase subunit SecF	579	KP1_RS05815.fasta
+KP1_RS05820		1188062	366	glyoxalase	300	KP1_RS05820.fasta
+KP1_RS05830		1189201	885	nucleoside-specific channel-forming protein Tsx	473	KP1_RS05830.fasta
+KP1_RS05835		1190384	540	hypothetical protein	401	KP1_RS05835.fasta
+KP1_RS05840		1191071	450	NrdR family transcriptional regulator	177	KP1_RS05840.fasta
+KP1_RS05850		1192715	471	"6,7-dimethyl-8-ribityllumazine synthase"	252	KP1_RS05850.fasta
+KP1_RS05855	nusB	1193205	420	N utilization substance protein B	180	KP1_RS05855.fasta
+KP1_RS05860		1193696	972	thiamine-monophosphate kinase	737	KP1_RS05860.fasta
+KP1_RS05865		1194696	468	phosphatidylglycerophosphatase A	323	KP1_RS05865.fasta
+KP1_RS05870		1195209	975	oxidoreductase	808	KP1_RS05870.fasta
+KP1_RS05875		1196244	1863	1-deoxy-D-xylulose-5-phosphate synthase	1081	KP1_RS05875.fasta
+KP1_RS05880		1198125	900	"(2E,6E)-farnesyl diphosphate synthase"	402	KP1_RS05880.fasta
+KP1_RS05885		1199025	243	exodeoxyribonuclease 7 small subunit	87	KP1_RS05885.fasta
+KP1_RS05890		1199449	1449	tRNA 4-thiouridine(8) synthase ThiI	1008	KP1_RS05890.fasta
+KP1_RS05905		1202047	912	2-dehydropantoate 2-reductase	606	KP1_RS05905.fasta
+KP1_RS05910		1203150	492	nucleotide-binding protein	294	KP1_RS05910.fasta
+KP1_RS05915		1203685	1365	MFS transporter	813	KP1_RS05915.fasta
+KP1_RS05920		1205209	1179	oxidoreductase	874	KP1_RS05920.fasta
+KP1_RS05930		1208094	819	xylose isomerase	624	KP1_RS05930.fasta
+KP1_RS05940		1210678	321	NIPSNAP family protein	209	KP1_RS05940.fasta
+KP1_RS05955		1213659	759	IclR family transcriptional regulator	615	KP1_RS05955.fasta
+KP1_RS05965		1215038	888	protoheme IX farnesyltransferase	422	KP1_RS05965.fasta
+KP1_RS05970		1215937	330	cytochrome o ubiquinol oxidase subunit IV	125	KP1_RS05970.fasta
+KP1_RS05980		1216867	1992	cytochrome ubiquinol oxidase subunit I	904	KP1_RS05980.fasta
+KP1_RS05985		1218878	945	cytochrome ubiquinol oxidase subunit II	332	KP1_RS05985.fasta
+KP1_RS05990		1220302	1476	AmpG family muropeptide MFS transporter	1070	KP1_RS05990.fasta
+KP1_RS05995		1221821	579	hypothetical protein	275	KP1_RS05995.fasta
+KP1_RS06005		1223366	1299	trigger factor	782	KP1_RS06005.fasta
+KP1_RS06010		1224974	624	ATP-dependent Clp protease proteolytic subunit	274	KP1_RS06010.fasta
+KP1_RS06015		1225848	1275	ATP-dependent Clp protease ATP-binding subunit ClpX	677	KP1_RS06015.fasta
+KP1_RS06020		1227306	2355	endopeptidase La	1390	KP1_RS06020.fasta
+KP1_RS06025		1229870	273	DNA-binding protein HU-beta	105	KP1_RS06025.fasta
+KP1_RS06030		1230357	1875	peptidylprolyl isomerase	1167	KP1_RS06030.fasta
+KP1_RS06040		1232860	402	thioesterase	323	KP1_RS06040.fasta
+KP1_RS06045		1233373	702	7-cyano-7-deazaguanine synthase QueC	458	KP1_RS06045.fasta
+KP1_RS06050		1234141	1701	hypothetical protein	1198	KP1_RS06050.fasta
+KP1_RS06060		1236832	1053	cysteine synthase	812	KP1_RS06060.fasta
+KP1_RS06065		1238000	459	transcriptional regulator	323	KP1_RS06065.fasta
+KP1_RS06075		1240267	1779	multidrug ABC transporter permease/ATP-binding protein	1097	KP1_RS06075.fasta
+KP1_RS06080		1242289	339	nitrogen regulatory protein P-II 2	110	KP1_RS06080.fasta
+KP1_RS06085		1242661	1287	ammonium transporter	724	KP1_RS06085.fasta
+KP1_RS06090		1244002	864	acyl-CoA thioesterase II	564	KP1_RS06090.fasta
+KP1_RS06100		1245611	312	methylated-DNA--protein-cysteine methyltransferase	229	KP1_RS06100.fasta
+KP1_RS06110		1247044	258	hypothetical protein	180	KP1_RS06110.fasta
+KP1_RS06115		1247298	216	hypothetical protein	91	KP1_RS06115.fasta
+KP1_RS06125		1249164	615	membrane protein	595	KP1_RS06125.fasta
+KP1_RS06135		1250815	273	hypothetical protein	131	KP1_RS06135.fasta
+KP1_RS06140		1251122	1560	cyclic diguanylate phosphodiesterase	1378	KP1_RS06140.fasta
+KP1_RS06160		1255676	1308	arabinogalactan ABC transporter permease	816	KP1_RS06160.fasta
+KP1_RS06170		1257850	1203	galactosidase	1042	KP1_RS06170.fasta
+KP1_RS06175		1259084	2058	beta-galactosidase	1343	KP1_RS06175.fasta
+KP1_RS06190	lacI	1263199	1071	lac repressor	829	KP1_RS06190.fasta
+KP1_RS06200		1264648	141	50S ribosomal protein L36	100	KP1_RS06200.fasta
+KP1_RS06230		1268344	219	transcriptional regulator	99	KP1_RS06230.fasta
+KP1_RS06235		1268589	375	Hha toxicity attenuator	165	KP1_RS06235.fasta
+KP1_RS06240		1269449	3147	multidrug efflux RND transporter permease subunit	1480	KP1_RS06240.fasta
+KP1_RS06245		1272618	1194	MexE family multidrug efflux RND transporter periplasmic adaptor subunit	720	KP1_RS06245.fasta
+KP1_RS06250		1273954	651	DNA-binding transcriptional repressor AcrR	507	KP1_RS06250.fasta
+KP1_RS06255		1274734	3348	hypothetical protein	1545	KP1_RS06255.fasta
+KP1_RS06260		1278117	912	hypothetical protein	356	KP1_RS06260.fasta
+KP1_RS06265		1279096	174	DUF2496 domain-containing protein	110	KP1_RS06265.fasta
+KP1_RS06275		1279879	378	hypothetical protein	247	KP1_RS06275.fasta
+KP1_RS06280		1280407	552	adenine phosphoribosyltransferase	296	KP1_RS06280.fasta
+KP1_RS06290		1283016	333	nucleoid-associated protein	155	KP1_RS06290.fasta
+KP1_RS06295		1283348	606	recombination protein RecR	384	KP1_RS06295.fasta
+KP1_RS06300		1284065	1875	molecular chaperone HtpG	1184	KP1_RS06300.fasta
+KP1_RS06305		1286162	645	adenylate kinase	391	KP1_RS06305.fasta
+KP1_RS06310		1286935	963	ferrochelatase	630	KP1_RS06310.fasta
+KP1_RS06315		1287961	1305	inosine/guanosine kinase	790	KP1_RS06315.fasta
+KP1_RS06335		1291203	1221	MFS transporter	1029	KP1_RS06335.fasta
+KP1_RS06340	ushA	1292693	1653	bifunctional UDP-sugar hydrolase/5'-nucleotidase	1144	KP1_RS06340.fasta
+KP1_RS06345		1294451	480	aminoacyl-tRNA deacylase	301	KP1_RS06345.fasta
+KP1_RS06350		1295133	795	hypothetical protein	561	KP1_RS06350.fasta
+KP1_RS06355	copA	1296058	2502	Cu+ exporting ATPase	1605	KP1_RS06355.fasta
+KP1_RS06360		1298666	411	transcriptional regulator	325	KP1_RS06360.fasta
+KP1_RS06370		1299528	918	protease	520	KP1_RS06370.fasta
+KP1_RS06380		1301250	783	iron export ABC transporter permease subunit FetB	524	KP1_RS06380.fasta
+KP1_RS06385		1302140	855	co-chaperone YbbN	626	KP1_RS06385.fasta
+KP1_RS06390		1303053	771	short-chain dehydrogenase/reductase	549	KP1_RS06390.fasta
+KP1_RS06400		1304446	687	ABC transporter ATP-binding protein	470	KP1_RS06400.fasta
+KP1_RS06415		1307725	1146	membrane protein	858	KP1_RS06415.fasta
+KP1_RS06515		1331755	1068	5-(carboxyamino)imidazole ribonucleotide synthase	854	KP1_RS06515.fasta
+KP1_RS06520		1332819	510	5-(carboxyamino)imidazole ribonucleotide mutase	395	KP1_RS06520.fasta
+KP1_RS06530		1333871	723	"UDP-2,3-diacylglucosamine diphosphatase"	658	KP1_RS06530.fasta
+KP1_RS06535		1334597	495	peptidyl-prolyl cis-trans isomerase	318	KP1_RS06535.fasta
+KP1_RS06540		1335267	1386	cysteine--tRNA ligase	1019	KP1_RS06540.fasta
+KP1_RS06565		1338834	867	bifunctional methylenetetrahydrofolate dehydrogenase/methenyltetrahydrofolate cyclohydrolase	432	KP1_RS06565.fasta
+KP1_RS06580		1341268	402	5-hydroxyisourate hydrolase	293	KP1_RS06580.fasta
+KP1_RS06590		1342243	141	hypothetical protein	130	KP1_RS06590.fasta
+KP1_RS06630		1350012	867	GNAT family acetyltransferase	569	KP1_RS06630.fasta
+KP1_RS06650	cadB	1354909	1335	arginine:agmatine antiporter	962	KP1_RS06650.fasta
+KP1_RS06655		1356326	2148	lysine decarboxylase CadA	1320	KP1_RS06655.fasta
+KP1_RS06660		1358533	1476	MFS transporter	1077	KP1_RS06660.fasta
+KP1_RS06670		1361934	426	hypothetical protein	478	KP1_RS06670.fasta
+KP1_RS06680		1363847	1173	oxidoreductase	1035	KP1_RS06680.fasta
+KP1_RS06685		1365029	1032	oxidoreductase	1066	KP1_RS06685.fasta
+KP1_RS06695		1367690	1020	transcriptional regulator	814	KP1_RS06695.fasta
+KP1_RS06700		1369139	924	LacI family transcriptional regulator	700	KP1_RS06700.fasta
+KP1_RS06705		1370095	1485	D-ribose transporter ATP-binding protein	1077	KP1_RS06705.fasta
+KP1_RS06735		1375896	1371	PTS sucrose EIIBC component	817	KP1_RS06735.fasta
+KP1_RS06740		1377371	1518	carbohydrate porin	975	KP1_RS06740.fasta
+KP1_RS06755		1380089	768	Crp/Fnr family transcriptional regulator	638	KP1_RS06755.fasta
+KP1_RS06760		1380992	345	GTPase	249	KP1_RS06760.fasta
+KP1_RS06765		1381336	1143	MFP transporter	1041	KP1_RS06765.fasta
+KP1_RS06770		1382519	798	iron ABC transporter ATP-binding protein	698	KP1_RS06770.fasta
+KP1_RS06775		1383313	1083	iron-siderophore ABC transporter permease	908	KP1_RS06775.fasta
+KP1_RS06780		1384402	1119	ABC transporter substrate-binding protein	976	KP1_RS06780.fasta
+KP1_RS06785		1385612	120	hypothetical protein	76	KP1_RS06785.fasta
+KP1_RS06790		1385792	390	hypothetical protein	262	KP1_RS06790.fasta
+KP1_RS06795		1386361	456	membrane protein	362	KP1_RS06795.fasta
+KP1_RS06815		1388520	777	ABC transporter substrate-binding protein	480	KP1_RS06815.fasta
+KP1_RS06825		1391579	792	molybdenum cofactor biosynthesis protein F	906	KP1_RS06825.fasta
+KP1_RS06845		1396651	684	helix-turn-helix transcriptional regulator	453	KP1_RS06845.fasta
+KP1_RS06865		1400260	1500	APC family amino acid permease	1177	KP1_RS06865.fasta
+KP1_RS06870		1402132	366	hypothetical protein	332	KP1_RS06870.fasta
+KP1_RS06875		1402511	1302	FAD-dependent oxidoreductase	972	KP1_RS06875.fasta
+KP1_RS06895		1409299	1377	phenylalanine transporter	1036	KP1_RS06895.fasta
+KP1_RS06900		1410827	1242	MFS transporter	930	KP1_RS06900.fasta
+KP1_RS06905		1412085	1023	AP endonuclease	926	KP1_RS06905.fasta
+KP1_RS06910		1413109	1152	dehydrogenase	1046	KP1_RS06910.fasta
+KP1_RS06915		1414280	417	hypothetical protein	399	KP1_RS06915.fasta
+KP1_RS06920		1414945	981	LacI family transcriptional regulator	727	KP1_RS06920.fasta
+KP1_RS06925		1415929	1245	miniconductance mechanosensitive channel	963	KP1_RS06925.fasta
+KP1_RS06930		1417244	1428	MFS transporter	1198	KP1_RS06930.fasta
+KP1_RS06980		1429118	654	NAD(P)H nitroreductase	841	KP1_RS06980.fasta
+KP1_RS06985		1429891	369	hypothetical protein	311	KP1_RS06985.fasta
+KP1_RS06995		1431035	1101	MBL fold metallo-hydrolase	900	KP1_RS06995.fasta
+KP1_RS07000		1432166	342	DNA-binding transcriptional regulator RamA	533	KP1_RS07000.fasta
+KP1_RS07005		1432525	249	membrane protein	161	KP1_RS07005.fasta
+KP1_RS07035		1441353	1116	glutamate--cysteine ligase	1013	KP1_RS07035.fasta
+KP1_RS07070		1449841	909	transporter	1059	KP1_RS07070.fasta
+KP1_RS07075		1450874	1335	GntR family transcriptional regulator	1238	KP1_RS07075.fasta
+KP1_RS07085		1453910	852	amino acid ABC transporter substrate-binding protein	736	KP1_RS07085.fasta
+KP1_RS07090		1454809	642	ABC transporter permease	532	KP1_RS07090.fasta
+KP1_RS07100		1456123	762	glutamate ABC transporter ATP-binding protein	676	KP1_RS07100.fasta
+KP1_RS07105		1456938	765	oxidoreductase	659	KP1_RS07105.fasta
+KP1_RS07110		1457883	1338	aspartate aminotransferase family protein	1243	KP1_RS07110.fasta
+KP1_RS07180		1473369	447	hypothetical protein	374	KP1_RS07180.fasta
+KP1_RS07185		1474040	1257	membrane protein	1036	KP1_RS07185.fasta
+KP1_RS07195		1476441	606	S-transferase	764	KP1_RS07195.fasta
+KP1_RS07470		1541356	690	enolase-phosphatase E1	573	KP1_RS07470.fasta
+KP1_RS07475		1542172	1161	aminotransferase	1087	KP1_RS07475.fasta
+KP1_RS07500		1547552	564	alkyl hydroperoxide reductase subunit C	351	KP1_RS07500.fasta
+KP1_RS07505		1548303	1566	alkyl hydroperoxide reductase subunit F	1010	KP1_RS07505.fasta
+KP1_RS07510		1549945	429	universal stress protein G	246	KP1_RS07510.fasta
+KP1_RS07515		1550560	411	nucleoside diphosphate kinase regulator	234	KP1_RS07515.fasta
+KP1_RS07520		1551149	798	ribonuclease I	586	KP1_RS07520.fasta
+KP1_RS07525		1552039	1374	anaerobic C4-dicarboxylate transporter DcuC	991	KP1_RS07525.fasta
+KP1_RS07530		1553700	570	phospholipid:lipid A palmitoyltransferase	342	KP1_RS07530.fasta
+KP1_RS07535		1554464	210	cold-shock protein CspE	94	KP1_RS07535.fasta
+KP1_RS07540		1554741	384	fluoride ion transporter CrcB	234	KP1_RS07540.fasta
+KP1_RS07550	tatE	1556245	204	preprotein translocase subunit TatE	105	KP1_RS07550.fasta
+KP1_RS07555		1556639	966	lipoyl synthase	407	KP1_RS07555.fasta
+KP1_RS07570		1559624	264	hypothetical protein	105	KP1_RS07570.fasta
+KP1_RS07575		1560000	1200	serine-type D-Ala-D-Ala carboxypeptidase	619	KP1_RS07575.fasta
+KP1_RS07585		1562498	1113	cell wall shape-determining protein	707	KP1_RS07585.fasta
+KP1_RS07595		1565539	468	23S rRNA (pseudouridine(1915)-N(3))-methyltransferase RlmH	224	KP1_RS07595.fasta
+KP1_RS07600		1566010	318	ribosome silencing factor RsfS	203	KP1_RS07600.fasta
+KP1_RS07615		1567895	1032	DNA polymerase III subunit delta	785	KP1_RS07615.fasta
+KP1_RS07620		1568926	591	LPS assembly lipoprotein LptE	290	KP1_RS07620.fasta
+KP1_RS07625		1569531	2583	leucine--tRNA ligase	1332	KP1_RS07625.fasta
+KP1_RS07650	artP	1576771	726	glutamate/aspartate ABC transporter ATP-binding protein	493	KP1_RS07650.fasta
+KP1_RS07655		1577496	675	glutamate/aspartate transporter permease GltK	419	KP1_RS07655.fasta
+KP1_RS07660		1578170	741	glutamate/aspartate ABC transporter permease	421	KP1_RS07660.fasta
+KP1_RS07665		1579075	912	glutamate/aspartate ABC transporter substrate-binding protein	551	KP1_RS07665.fasta
+KP1_RS07670		1580341	1539	apolipoprotein N-acyltransferase	1071	KP1_RS07670.fasta
+KP1_RS07675		1582005	879	cobalt transporter	414	KP1_RS07675.fasta
+KP1_RS07680		1583031	474	endoribonuclease YbeY	262	KP1_RS07680.fasta
+KP1_RS07685		1583501	1047	nucleoside triphosphate hydrolase	622	KP1_RS07685.fasta
+KP1_RS07690		1584701	1425	tRNA (N6-isopentenyl adenosine(37)-C2)-methylthiotransferase MiaB	792	KP1_RS07690.fasta
+KP1_RS07735	asnB	1588588	1665	asparagine synthase B	939	KP1_RS07735.fasta
+KP1_RS07740		1590531	753	UMP phosphatase	497	KP1_RS07740.fasta
+KP1_RS07745		1591400	1221	transcriptional regulator	679	KP1_RS07745.fasta
+KP1_RS07750		1592629	1149	N-acetylglucosamine-6-phosphate deacetylase	560	KP1_RS07750.fasta
+KP1_RS07755		1593891	801	glucosamine-6-phosphate deaminase	454	KP1_RS07755.fasta
+KP1_RS07765		1597140	1668	glutamine--tRNA ligase	1035	KP1_RS07765.fasta
+KP1_RS07770		1598861	309	methionine synthase	372	KP1_RS07770.fasta
+KP1_RS07790		1601642	453	transcriptional repressor	148	KP1_RS07790.fasta
+KP1_RS07795		1602386	531	flavodoxin	249	KP1_RS07795.fasta
+KP1_RS07800		1603068	294	LexA regulated protein	110	KP1_RS07800.fasta
+KP1_RS07805		1603495	774	acyl-CoA esterase	571	KP1_RS07805.fasta
+KP1_RS07815		1604452	549	replication initiation regulator SeqA	230	KP1_RS07815.fasta
+KP1_RS07820		1605033	1641	"phosphoglucomutase, alpha-D-glucose phosphate-specific"	1058	KP1_RS07820.fasta
+KP1_RS07845		1611095	2049	potassium-transporting ATPase B chain	1317	KP1_RS07845.fasta
+KP1_RS07850		1613164	1680	potassium-transporting ATPase subunit KdpA	1278	KP1_RS07850.fasta
+KP1_RS07855		1615242	207	hypothetical protein	141	KP1_RS07855.fasta
+KP1_RS07870		1618792	744	Nif3-like dinuclear metal center hexameric protein	501	KP1_RS07870.fasta
+KP1_RS07915		1625214	1284	citrate (Si)-synthase	631	KP1_RS07915.fasta
+KP1_RS07920		1627138	405	succinate dehydrogenase cytochrome b556 large membrane subunit	225	KP1_RS07920.fasta
+KP1_RS07930		1627883	1767	succinate dehydrogenase flavoprotein subunit	1026	KP1_RS07930.fasta
+KP1_RS07940		1630763	2808	2-oxoglutarate dehydrogenase subunit E1	1451	KP1_RS07940.fasta
+KP1_RS07950		1634915	1167	succinyl-CoA ligase subunit beta	1027	KP1_RS07950.fasta
+KP1_RS07955		1636081	870	succinate--CoA ligase subunit alpha	713	KP1_RS07955.fasta
+KP1_RS07965		1637776	1569	cytochrome bd-I ubiquinol oxidase subunit I	824	KP1_RS07965.fasta
+KP1_RS07970		1639360	1140	cytochrome bd oxidase subunit II	799	KP1_RS07970.fasta
+KP1_RS07985		1641071	405	acyl-CoA thioesterase	159	KP1_RS07985.fasta
+KP1_RS07990		1641481	684	Tol-Pal system subunit TolQ	325	KP1_RS07990.fasta
+KP1_RS07995		1642168	429	colicin transporter	184	KP1_RS07995.fasta
+KP1_RS08015		1646012	795	cell division protein CpoB	451	KP1_RS08015.fasta
+KP1_RS08060		1648607	1044	quinolinate synthetase	823	KP1_RS08060.fasta
+KP1_RS08065		1649686	720	nicotinamide riboside transporter PnuC	549	KP1_RS08065.fasta
+KP1_RS08070		1650402	945	zinc transporter ZitB	786	KP1_RS08070.fasta
+KP1_RS08080		1652144	1053	3-deoxy-7-phosphoheptulonate synthase	708	KP1_RS08080.fasta
+KP1_RS08085	gpmA	1653270	753	"2,3-bisphosphoglycerate-dependent phosphoglycerate mutase"	558	KP1_RS08085.fasta
+KP1_RS08095		1655351	1149	galactokinase	943	KP1_RS08095.fasta
+KP1_RS08100		1656502	1047	galactose-1-phosphate uridylyltransferase	755	KP1_RS08100.fasta
+KP1_RS08105		1657558	1017	UDP-glucose 4-epimerase	637	KP1_RS08105.fasta
+KP1_RS08115		1658784	1473	molybdate ABC transporter ATP-binding protein ModF	1271	KP1_RS08115.fasta
+KP1_RS08120		1660324	789	molybdenum-dependent transcriptional regulator	616	KP1_RS08120.fasta
+KP1_RS08125		1661265	150	membrane protein	75	KP1_RS08125.fasta
+KP1_RS08130		1661557	774	molybdate ABC transporter substrate-binding protein	649	KP1_RS08130.fasta
+KP1_RS08140		1663022	1059	molybdenum ABC transporter ATP-binding protein	914	KP1_RS08140.fasta
+KP1_RS08145		1664081	819	pyridoxal phosphatase	628	KP1_RS08145.fasta
+KP1_RS08150		1665128	996	6-phosphogluconolactonase	694	KP1_RS08150.fasta
+KP1_RS08155		1666234	267	two-component-system connector protein AriR	192	KP1_RS08155.fasta
+KP1_RS08175		1668926	735	helix-turn-helix-type transcriptional regulator	563	KP1_RS08175.fasta
+KP1_RS08180		1669702	555	LuxR family transcriptional regulator	289	KP1_RS08180.fasta
+KP1_RS08185		1670338	213	hypothetical protein	121	KP1_RS08185.fasta
+KP1_RS08225		1680901	1284	acyl-CoA thioesterase	838	KP1_RS08225.fasta
+KP1_RS08245		1685541	1689	urocanate hydratase	1235	KP1_RS08245.fasta
+KP1_RS08260		1691011	477	kinase inhibitor	415	KP1_RS08260.fasta
+KP1_RS08265		1691558	1290	adenosylmethionine--8-amino-7-oxononanoate aminotransferase BioA	1080	KP1_RS08265.fasta
+KP1_RS08290		1696651	723	branched-chain amino acid ABC transporter ATP-binding protein	516	KP1_RS08290.fasta
+KP1_RS08300		1698084	2022	excinuclease ABC subunit B	1213	KP1_RS08300.fasta
+KP1_RS08305		1700354	1098	two-component sensor histidine kinase	916	KP1_RS08305.fasta
+KP1_RS08310		1701455	672	DNA-binding response regulator	463	KP1_RS08310.fasta
+KP1_RS08320		1703871	906	hypothetical protein	806	KP1_RS08320.fasta
+KP1_RS08325	moaA	1705111	990	cyclic pyranopterin monophosphate synthase	722	KP1_RS08325.fasta
+KP1_RS08330		1706124	513	molybdenum cofactor biosynthesis protein	418	KP1_RS08330.fasta
+KP1_RS08335		1706640	489	cyclic pyranopterin monophosphate synthase accessory protein	467	KP1_RS08335.fasta
+KP1_RS08345	moaE	1707371	453	molybdopterin guanine dinucleotide biosynthesis protein MoaE	347	KP1_RS08345.fasta
+KP1_RS08350		1707869	705	membrane protein	582	KP1_RS08350.fasta
+KP1_RS08355		1708992	966	membrane protein	769	KP1_RS08355.fasta
+KP1_RS08360		1709954	1245	cardiolipin synthase B	969	KP1_RS08360.fasta
+KP1_RS08365		1711195	762	EEP domain-containing protein	473	KP1_RS08365.fasta
+KP1_RS08375		1712586	1107	membrane protein	695	KP1_RS08375.fasta
+KP1_RS08385		1714945	1740	multidrug ABC transporter ATP-binding protein	1269	KP1_RS08385.fasta
+KP1_RS08395		1717672	660	transcriptional regulator	541	KP1_RS08395.fasta
+KP1_RS08400		1718405	924	LysR family transcriptional regulator	590	KP1_RS08400.fasta
+KP1_RS08415		1721127	750	short-chain dehydrogenase	625	KP1_RS08415.fasta
+KP1_RS08420		1721890	846	transketolase	659	KP1_RS08420.fasta
+KP1_RS08425		1722735	993	transketolase	775	KP1_RS08425.fasta
+KP1_RS08440		1727671	969	DNA-binding protein YbiB	756	KP1_RS08440.fasta
+KP1_RS08445		1728749	261	hypothetical protein	167	KP1_RS08445.fasta
+KP1_RS08450		1729295	267	hypothetical protein	376	KP1_RS08450.fasta
+KP1_RS08460		1729982	615	Asp/Glu/hydantoin racemase	623	KP1_RS08460.fasta
+KP1_RS08470		1731610	2196	mechanosensitive channel protein	1379	KP1_RS08470.fasta
+KP1_RS08475	glnQ	1733917	723	glutamine ABC transporter ATP-binding protein	405	KP1_RS08475.fasta
+KP1_RS08480		1734636	660	glutamine ABC transporter permease GlnP	406	KP1_RS08480.fasta
+KP1_RS08485		1735421	747	glutamine ABC transporter substrate-binding protein GlnH	409	KP1_RS08485.fasta
+KP1_RS08490		1736576	504	DNA starvation/stationary phase protection protein	243	KP1_RS08490.fasta
+KP1_RS08505	ompX	1738556	513	outer membrane protein X	240	KP1_RS08505.fasta
+KP1_RS08510		1739159	1581	phosphoethanolamine transferase	1019	KP1_RS08510.fasta
+KP1_RS08515		1741008	126	hypothetical protein	95	KP1_RS08515.fasta
+KP1_RS08520		1741319	474	transcriptional regulator MntR	261	KP1_RS08520.fasta
+KP1_RS08535		1744516	717	GntR family transcriptional regulator	509	KP1_RS08535.fasta
+KP1_RS08540		1745377	915	transpeptidase	363	KP1_RS08540.fasta
+KP1_RS08550		1747456	1593	ABC-F family ATPase	972	KP1_RS08550.fasta
+KP1_RS08570		1754232	1266	hypothetical protein	1029	KP1_RS08570.fasta
+KP1_RS08580		1756629	2433	glycyl radical enzyme	1561	KP1_RS08580.fasta
+KP1_RS08590		1760120	756	molybdopterin-synthase adenylyltransferase MoeB	622	KP1_RS08590.fasta
+KP1_RS08595		1760875	1236	molybdopterin molybdenumtransferase MoeA	1050	KP1_RS08595.fasta
+KP1_RS08600		1762346	942	beta-aspartyl-peptidase	690	KP1_RS08600.fasta
+KP1_RS08610		1765197	1542	glutathione ABC transporter substrate-binding protein GsiB	1103	KP1_RS08610.fasta
+KP1_RS08620		1767707	912	glutathione ABC transporter permease GsiD	673	KP1_RS08620.fasta
+KP1_RS08625	rimO	1769022	1326	ribosomal protein S12 methylthiotransferase RimO	952	KP1_RS08625.fasta
+KP1_RS08630		1770580	1242	MFS transporter	942	KP1_RS08630.fasta
+KP1_RS08635	bssR	1772200	384	biofilm formation regulatory protein BssR	223	KP1_RS08635.fasta
+KP1_RS08645		1773811	627	glutathione S-transferase	571	KP1_RS08645.fasta
+KP1_RS08655		1776751	1203	serine-type D-Ala-D-Ala carboxypeptidase	755	KP1_RS08655.fasta
+KP1_RS08660		1777992	759	DNA-binding transcriptional repressor DeoR	519	KP1_RS08660.fasta
+KP1_RS08665		1778852	594	undecaprenyl-diphosphatase	483	KP1_RS08665.fasta
+KP1_RS08670		1779773	1233	multidrug transporter MdfA	892	KP1_RS08670.fasta
+KP1_RS08675		1781043	813	sugar phosphatase SupH	578	KP1_RS08675.fasta
+KP1_RS08680		1781855	1203	MFS transporter	907	KP1_RS08680.fasta
+KP1_RS08685		1783140	564	DNA-binding transcriptional regulator	512	KP1_RS08685.fasta
+KP1_RS08700		1785833	384	membrane protein	224	KP1_RS08700.fasta
+KP1_RS08705		1786223	264	"glutaredoxin, GrxA family"	137	KP1_RS08705.fasta
+KP1_RS08715		1786960	723	NADPH-dependent oxidoreductase	735	KP1_RS08715.fasta
+KP1_RS08720		1787797	903	ribosomal protein S6 modification protein	523	KP1_RS08720.fasta
+KP1_RS08725		1788788	480	hypothetical protein	296	KP1_RS08725.fasta
+KP1_RS08730		1789616	1113	spermidine/putrescine ABC transporter substrate-binding protein PotF	618	KP1_RS08730.fasta
+KP1_RS08740		1792036	954	putrescine ABC transporter permease	635	KP1_RS08740.fasta
+KP1_RS08745		1792986	846	putrescine ABC transporter permease PotI	585	KP1_RS08745.fasta
+KP1_RS08750		1793889	489	membrane protein	343	KP1_RS08750.fasta
+KP1_RS08755		1794419	1128	23S rRNA (uracil(747)-C(5))-methyltransferase	941	KP1_RS08755.fasta
+KP1_RS08760		1795625	717	DNA-binding response regulator	493	KP1_RS08760.fasta
+KP1_RS08770		1797897	732	arginine ABC transporter substrate-binding protein	421	KP1_RS08770.fasta
+KP1_RS08775	artM	1798812	669	arginine transporter permease subunit ArtM	512	KP1_RS08775.fasta
+KP1_RS08780		1799480	717	arginine transporter permease subunit ArtQ	453	KP1_RS08780.fasta
+KP1_RS08785		1800203	732	arginine ABC transporter substrate-binding protein	451	KP1_RS08785.fasta
+KP1_RS08790		1800955	729	arginine ABC transporter ATP-binding protein ArtP	429	KP1_RS08790.fasta
+KP1_RS08795		1801910	516	lipoprotein	316	KP1_RS08795.fasta
+KP1_RS08810		1805302	1014	hypothetical protein	569	KP1_RS08810.fasta
+KP1_RS08815		1806403	1443	NAD(P)-dependent oxidoreductase	1121	KP1_RS08815.fasta
+KP1_RS08820		1807856	1002	low-specificity L-threonine aldolase	858	KP1_RS08820.fasta
+KP1_RS08825		1808896	1719	pyruvate dehydrogenase	1166	KP1_RS08825.fasta
+KP1_RS08840		1812391	1653	hydroxylamine reductase	1086	KP1_RS08840.fasta
+KP1_RS08845		1814187	900	membrane protein	586	KP1_RS08845.fasta
+KP1_RS08855		1816317	1659	hypothetical protein	1023	KP1_RS08855.fasta
+KP1_RS08860		1818122	1116	macrolide transporter subunit MacA	705	KP1_RS08860.fasta
+KP1_RS08870		1821251	222	cold-shock protein	93	KP1_RS08870.fasta
+KP1_RS08875		1821798	318	ATP-dependent Clp protease adaptor ClpS	117	KP1_RS08875.fasta
+KP1_RS08880		1822146	2280	ATP-dependent Clp protease ATP-binding subunit ClpA	1162	KP1_RS08880.fasta
+KP1_RS08885		1824546	219	translation initiation factor IF-1	72	KP1_RS08885.fasta
+KP1_RS08890		1825118	702	leucyl/phenylalanyl-tRNA--protein transferase	491	KP1_RS08890.fasta
+KP1_RS08895		1825864	1722	cysteine/glutathione ABC transporter ATP-binding protein/permease CydC	1244	KP1_RS08895.fasta
+KP1_RS08900		1827586	1767	thiol reductant ABC exporter subunit CydD	1234	KP1_RS08900.fasta
+KP1_RS08905		1829467	969	thioredoxin-disulfide reductase	563	KP1_RS08905.fasta
+KP1_RS08910		1830553	132	hypothetical protein	85	KP1_RS08910.fasta
+KP1_RS08915		1830968	495	leucine-responsive regulatory protein	266	KP1_RS08915.fasta
+KP1_RS08925	lolA	1835956	612	outer membrane lipoprotein carrier protein LolA	298	KP1_RS08925.fasta
+KP1_RS08930		1836576	1344	recombinase RarA	835	KP1_RS08930.fasta
+KP1_RS08935		1838010	1293	serine--tRNA ligase	782	KP1_RS08935.fasta
+KP1_RS08940		1839503	2439	dimethylsulfoxide reductase subunit A	1566	KP1_RS08940.fasta
+KP1_RS08960		1843709	1149	MFS transporter	749	KP1_RS08960.fasta
+KP1_RS08965		1845020	741	pyruvate formate lyase-activating protein	457	KP1_RS08965.fasta
+KP1_RS08970		1845952	2283	formate acetyltransferase	1266	KP1_RS08970.fasta
+KP1_RS08975		1848286	858	formate transporter FocA	311	KP1_RS08975.fasta
+KP1_RS08980		1849529	1761	hypothetical protein	1028	KP1_RS08980.fasta
+KP1_RS08985		1851405	693	DUF421 domain-containing protein	469	KP1_RS08985.fasta
+KP1_RS08990		1852286	1089	phosphoserine transaminase	630	KP1_RS08990.fasta
+KP1_RS08995		1853448	1284	3-phosphoshikimate 1-carboxyvinyltransferase	808	KP1_RS08995.fasta
+KP1_RS09000		1854906	684	cytidylate kinase	285	KP1_RS09000.fasta
+KP1_RS09005		1855723	1674	30S ribosomal protein S1	692	KP1_RS09005.fasta
+KP1_RS09010		1857548	288	integration host factor subunit beta	87	KP1_RS09010.fasta
+KP1_RS09025		1862087	981	tetraacyldisaccharide 4'-kinase	813	KP1_RS09025.fasta
+KP1_RS09030		1863122	1230	hypothetical protein	1000	KP1_RS09030.fasta
+KP1_RS09035		1864415	183	hypothetical protein	79	KP1_RS09035.fasta
+KP1_RS09040		1864594	747	3-deoxy-manno-octulosonate cytidylyltransferase	496	KP1_RS09040.fasta
+KP1_RS09045		1865477	894	hypothetical protein	585	KP1_RS09045.fasta
+KP1_RS09060		1868045	1323	chromosome partition protein MukF	691	KP1_RS09060.fasta
+KP1_RS09070	mukB	1870052	4449	cell division protein MukB	1899	KP1_RS09070.fasta
+KP1_RS09080		1876794	552	hypothetical protein	231	KP1_RS09080.fasta
+KP1_RS09085		1877359	648	hypothetical protein	380	KP1_RS09085.fasta
+KP1_RS09090		1878075	1191	aromatic amino acid aminotransferase	689	KP1_RS09090.fasta
+KP1_RS09095		1879453	1080	phosphoporin PhoE	776	KP1_RS09095.fasta
+KP1_RS09100		1881124	1401	asparagine--tRNA ligase	822	KP1_RS09100.fasta
+KP1_RS09130		1888587	1203	nicotinate phosphoribosyltransferase	776	KP1_RS09130.fasta
+KP1_RS09135		1889788	114	hypothetical protein	53	KP1_RS09135.fasta
+KP1_RS09140		1890116	2616	aminopeptidase N	1442	KP1_RS09140.fasta
+KP1_RS09150	ssuC	1893706	792	sulfonate ABC transporter	559	KP1_RS09150.fasta
+KP1_RS09155		1894508	1146	alkanesulfonate monooxygenase	840	KP1_RS09155.fasta
+KP1_RS09160		1895650	963	aliphatic sulfonate ABC transporter substrate-binding protein	800	KP1_RS09160.fasta
+KP1_RS09170		1897430	1011	dihydroorotate dehydrogenase 2	552	KP1_RS09170.fasta
+KP1_RS09175		1898610	543	cell division protein ZapC	358	KP1_RS09175.fasta
+KP1_RS09180		1899149	1110	hypothetical protein	818	KP1_RS09180.fasta
+KP1_RS09190		1902476	1908	ABC transporter ATPase	1163	KP1_RS09190.fasta
+KP1_RS09200		1905656	1638	paraquat-inducible protein B	864	KP1_RS09200.fasta
+KP1_RS09205		1907293	564	hypothetical protein	408	KP1_RS09205.fasta
+KP1_RS09210		1908110	168	ribosome modulation factor	65	KP1_RS09210.fasta
+KP1_RS09215		1908346	519	beta-hydroxydecanoyl-ACP dehydratase	255	KP1_RS09215.fasta
+KP1_RS09225		1910877	453	macrodomain Ter protein	213	KP1_RS09225.fasta
+KP1_RS09235		1912884	510	cell division inhibitor SulA	315	KP1_RS09235.fasta
+KP1_RS09265		1919142	459	methylglyoxal synthase	258	KP1_RS09265.fasta
+KP1_RS09270		1919755	414	hypothetical protein	282	KP1_RS09270.fasta
+KP1_RS09275		1920199	318	heat-shock protein HspQ	236	KP1_RS09275.fasta
+KP1_RS09280		1920576	1203	ribosomal RNA large subunit methyltransferase I	764	KP1_RS09280.fasta
+KP1_RS09285		1921969	555	kinase inhibitor	478	KP1_RS09285.fasta
+KP1_RS09290		1922541	789	AraC family transcriptional regulator	659	KP1_RS09290.fasta
+KP1_RS09295		1923378	282	acylphosphatase	229	KP1_RS09295.fasta
+KP1_RS09300		1923656	330	sulfurtransferase TusE	174	KP1_RS09300.fasta
+KP1_RS09305		1924074	660	BAX inhibitor protein	445	KP1_RS09305.fasta
+KP1_RS09435		1955591	1488	aldehyde dehydrogenase PuuC	1268	KP1_RS09435.fasta
+KP1_RS09440		1957399	558	XRE family transcriptional regulator	286	KP1_RS09440.fasta
+KP1_RS09445		1957982	765	gamma-glutamyl-gamma-aminobutyrate hydrolase	457	KP1_RS09445.fasta
+KP1_RS09510		1968455	1323	pyrimidine utilization transport protein G	1091	KP1_RS09510.fasta
+KP1_RS09515		1969799	495	FMN reductase	421	KP1_RS09515.fasta
+KP1_RS09520		1970304	591	nitroreductase family protein	555	KP1_RS09520.fasta
+KP1_RS09535		1972076	711	peroxyureidoacrylate/ureidoacrylate amidohydrolase RutB	560	KP1_RS09535.fasta
+KP1_RS09540		1972786	1092	pyrimidine monooxygenase RutA	765	KP1_RS09540.fasta
+KP1_RS09545		1974162	639	transcriptional regulator	393	KP1_RS09545.fasta
+KP1_RS09550		1974797	396	hypothetical protein	301	KP1_RS09550.fasta
+KP1_RS09560		1979762	1509	sodium:proline symporter	984	KP1_RS09560.fasta
+KP1_RS09565		1981405	435	choline dehydrogenase	365	KP1_RS09565.fasta
+KP1_RS09570		1981871	1185	nucleoside transporter	873	KP1_RS09570.fasta
+KP1_RS09580		1984208	1128	iron uptake system protein EfeO	791	KP1_RS09580.fasta
+KP1_RS09585		1985340	1284	peroxidase	989	KP1_RS09585.fasta
+KP1_RS09590		1987128	789	phosphate starvation protein PhoH	447	KP1_RS09590.fasta
+KP1_RS09625		1993087	939	glyoxylate/hydroxypyruvate reductase A	820	KP1_RS09625.fasta
+KP1_RS09630		1994114	738	phosphatase	533	KP1_RS09630.fasta
+KP1_RS09635		1994874	555	molecular chaperone	449	KP1_RS09635.fasta
+KP1_RS09640		1995532	483	hypothetical protein	381	KP1_RS09640.fasta
+KP1_RS09645		1996164	528	O-acetyl-ADP-ribose deacetylase	445	KP1_RS09645.fasta
+KP1_RS09655		1997386	1161	glucan biosynthesis protein	839	KP1_RS09655.fasta
+KP1_RS09670		2002939	228	lipoprotein	153	KP1_RS09670.fasta
+KP1_RS09675		2003167	387	SecY/SecA suppressor protein	215	KP1_RS09675.fasta
+KP1_RS09685		2005043	921	lipid A biosynthesis lauroyl acyltransferase	771	KP1_RS09685.fasta
+KP1_RS09695		2006169	1065	sulfurtransferase	716	KP1_RS09695.fasta
+KP1_RS09710	bssS	2008648	255	biofilm formation regulatory protein BssS	148	KP1_RS09710.fasta
+KP1_RS09715		2009205	252	DNA damage-inducible protein I	164	KP1_RS09715.fasta
+KP1_RS09720		2009529	1047	dihydroorotase	791	KP1_RS09720.fasta
+KP1_RS09725		2010701	561	lipoprotein	380	KP1_RS09725.fasta
+KP1_RS09730		2011375	1209	MFS transporter	848	KP1_RS09730.fasta
+KP1_RS09735		2012813	585	alanine acetyltransferase	255	KP1_RS09735.fasta
+KP1_RS09745		2014064	924	virulence factor MviM	718	KP1_RS09745.fasta
+KP1_RS09750		2015099	1536	lipid II flippase MurJ	922	KP1_RS09750.fasta
+KP1_RS09770		2022877	996	23S rRNA pseudouridine(955/2504/2580) synthase	588	KP1_RS09770.fasta
+KP1_RS09820		2031251	810	aminodeoxychorismate lyase	577	KP1_RS09820.fasta
+KP1_RS09825		2032062	1023	cell division protein YceG	710	KP1_RS09825.fasta
+KP1_RS09835		2033712	1005	DNA polymerase III subunit delta'	713	KP1_RS09835.fasta
+KP1_RS09840		2034727	795	metal-dependent hydrolase	635	KP1_RS09840.fasta
+KP1_RS09850		2037513	357	histidine triad nucleotide-binding protein	190	KP1_RS09850.fasta
+KP1_RS09870		2039728	1023	beta-N-acetylhexosaminidase	722	KP1_RS09870.fasta
+KP1_RS09875		2040786	543	hypothetical protein	317	KP1_RS09875.fasta
+KP1_RS09880		2041574	1305	NADH dehydrogenase	798	KP1_RS09880.fasta
+KP1_RS09885		2043073	540	hypothetical protein	347	KP1_RS09885.fasta
+KP1_RS09890		2043670	2190	ligand-gated channel protein	1490	KP1_RS09890.fasta
+KP1_RS09895		2045928	123	hypothetical protein	131	KP1_RS09895.fasta
+KP1_RS09900		2046103	636	TetR family transcriptional regulator	469	KP1_RS09900.fasta
+KP1_RS09905		2046735	156	hypothetical protein	177	KP1_RS09905.fasta
+KP1_RS09910		2046988	258	multiple stress resistance protein BhsA	241	KP1_RS09910.fasta
+KP1_RS09920		2048497	3447	transcription-repair coupling factor	1871	KP1_RS09920.fasta
+KP1_RS09930		2052248	1200	transporter	826	KP1_RS09930.fasta
+KP1_RS09940		2054141	1245	lipoprotein transporter subunit LolE	804	KP1_RS09940.fasta
+KP1_RS09950		2056360	831	NAD-dependent deacylase	578	KP1_RS09950.fasta
+KP1_RS10015		2071062	1047	spermidine/putrescine ABC transporter substrate-binding protein	733	KP1_RS10015.fasta
+KP1_RS10020		2072105	786	spermidine/putrescine ABC transporter permease PotC	479	KP1_RS10020.fasta
+KP1_RS10030		2073728	1137	putrescine/spermidine ABC transporter ATP-binding protein	692	KP1_RS10030.fasta
+KP1_RS10035		2075123	1233	peptidase T	880	KP1_RS10035.fasta
+KP1_RS10055		2078716	1122	50S ribosomal protein L16 arginine hydroxylase	913	KP1_RS10055.fasta
+KP1_RS10060		2079923	1467	sensor protein PhoQ	1164	KP1_RS10060.fasta
+KP1_RS10065		2081389	672	DNA-binding response regulator	486	KP1_RS10065.fasta
+KP1_RS10070		2082343	807	AraC family transcriptional regulator	900	KP1_RS10070.fasta
+KP1_RS10075		2083233	363	cupin	421	KP1_RS10075.fasta
+KP1_RS10080		2083650	1371	adenylosuccinate lyase	946	KP1_RS10080.fasta
+KP1_RS10085		2085024	642	lysogenization protein HflD	442	KP1_RS10085.fasta
+KP1_RS10090		2085720	1107	tRNA(5-methylaminomethyl-2-thiouridine)- methyltransferase	765	KP1_RS10090.fasta
+KP1_RS10095		2086883	459	NUDIX hydrolase	392	KP1_RS10095.fasta
+KP1_RS10100		2087358	651	23S rRNA pseudouridine synthase E	548	KP1_RS10100.fasta
+KP1_RS10105		2088249	1251	isocitrate dehydrogenase (NADP(+))	2341	KP1_RS10105.fasta
+KP1_RS10275		2115452	915	lipid A biosynthesis palmitoleoyl acyltransferase	593	KP1_RS10275.fasta
+KP1_RS10280		2116456	639	leucine efflux protein	470	KP1_RS10280.fasta
+KP1_RS10285		2117225	264	hypothetical protein	181	KP1_RS10285.fasta
+KP1_RS10290		2117547	126	hypothetical protein	97	KP1_RS10290.fasta
+KP1_RS10295		2117864	102	hypothetical protein	62	KP1_RS10295.fasta
+KP1_RS10330		2122574	792	AraC family transcriptional regulator	572	KP1_RS10330.fasta
+KP1_RS10365		2128174	906	LysR family transcriptional regulator	787	KP1_RS10365.fasta
+KP1_RS10370		2129246	750	oxidoreductase	710	KP1_RS10370.fasta
+KP1_RS10390		2132524	312	hypothetical protein	321	KP1_RS10390.fasta
+KP1_RS10410		2135576	1935	serine protein kinase PrkA	992	KP1_RS10410.fasta
+KP1_RS10415		2137927	747	MltA-interacting protein MipA	471	KP1_RS10415.fasta
+KP1_RS10420		2138765	855	aldehyde reductase	743	KP1_RS10420.fasta
+KP1_RS10425		2139676	885	D-hexose-6-phosphate mutarotase	611	KP1_RS10425.fasta
+KP1_RS10430		2140635	996	glyceraldehyde-3-phosphate dehydrogenase	495	KP1_RS10430.fasta
+KP1_RS10435		2141969	414	peptide-methionine (R)-S-oxide reductase	263	KP1_RS10435.fasta
+KP1_RS10440		2142426	279	hypothetical protein	209	KP1_RS10440.fasta
+KP1_RS10445		2142799	345	HNH endonuclease	229	KP1_RS10445.fasta
+KP1_RS10460		2145381	1020	L-asparaginase 1	779	KP1_RS10460.fasta
+KP1_RS10470		2148558	552	NAD(P)H nitroreductase	472	KP1_RS10470.fasta
+KP1_RS10475		2149845	747	acid phosphatase	601	KP1_RS10475.fasta
+KP1_RS10485		2151865	1947	DNA topoisomerase III	1153	KP1_RS10485.fasta
+KP1_RS10495		2155015	1344	glutamate dehydrogenase	790	KP1_RS10495.fasta
+KP1_RS10505		2156541	411	pyrimidine (deoxy)nucleoside triphosphate pyrophosphohydrolase	408	KP1_RS10505.fasta
+KP1_RS10535		2162435	561	hypothetical protein	579	KP1_RS10535.fasta
+KP1_RS10550		2164559	807	exodeoxyribonuclease III	438	KP1_RS10550.fasta
+KP1_RS10555		2165804	1221	acetylornithine aminotransferase	1027	KP1_RS10555.fasta
+KP1_RS10570		2169527	1326	succinylarginine dihydrolase	1257	KP1_RS10570.fasta
+KP1_RS10575		2170862	966	succinylglutamate desuccinylase	1009	KP1_RS10575.fasta
+KP1_RS10585		2172174	483	ATP-independent periplasmic protein-refolding chaperone	350	KP1_RS10585.fasta
+KP1_RS10595		2173708	828	NAD(+) synthetase	526	KP1_RS10595.fasta
+KP1_RS10600		2174818	339	transcriptional regulator	213	KP1_RS10600.fasta
+KP1_RS10605		2175435	321	PTS sugar transporter subunit IIB	225	KP1_RS10605.fasta
+KP1_RS10610		2175775	117	hypothetical protein	121	KP1_RS10610.fasta
+KP1_RS10615		2175903	1359	"PTS N,N'-diacetylchitobiose transporter subunit IIC"	957	KP1_RS10615.fasta
+KP1_RS10620		2177315	348	PTS N'-diacetylchitobiose transporter subunit IIA	255	KP1_RS10620.fasta
+KP1_RS10625		2177675	840	transcriptional regulator ChbR	652	KP1_RS10625.fasta
+KP1_RS10630		2178625	1347	6-phospho-beta-glucosidase	1094	KP1_RS10630.fasta
+KP1_RS10635		2179984	759	carbohydrate deacetylase	676	KP1_RS10635.fasta
+KP1_RS10645		2183263	240	cell division modulator	118	KP1_RS10645.fasta
+KP1_RS10650		2183561	1392	L-cystine transporter tcyP	974	KP1_RS10650.fasta
+KP1_RS10655		2185088	591	membrane protein	420	KP1_RS10655.fasta
+KP1_RS10665		2186681	669	2-deoxyglucose-6-phosphatase	568	KP1_RS10665.fasta
+KP1_RS10670		2187538	537	yfeABCD regulator yfeE	422	KP1_RS10670.fasta
+KP1_RS10675		2188104	399	acyl-CoA thioesterase	304	KP1_RS10675.fasta
+KP1_RS10685		2191057	540	intracellular septation protein A	326	KP1_RS10685.fasta
+KP1_RS10690		2191651	744	hypothetical protein	558	KP1_RS10690.fasta
+KP1_RS10695		2192420	414	hypothetical protein	292	KP1_RS10695.fasta
+KP1_RS10700		2193103	639	outer membrane protein OmpW	604	KP1_RS10700.fasta
+KP1_RS10710		2194552	2286	catecholate siderophore receptor Fiu	1603	KP1_RS10710.fasta
+KP1_RS10755		2204733	810	tryptophan synthase subunit alpha	694	KP1_RS10755.fasta
+KP1_RS10760		2205542	1194	tryptophan synthase subunit beta	842	KP1_RS10760.fasta
+KP1_RS10765		2206745	1359	bifunctional indole-3-glycerol phosphate synthase/phosphoribosylanthranilate isomerase	1124	KP1_RS10765.fasta
+KP1_RS10770		2208107	1596	bifunctional glutamine amidotransferase/anthranilate phosphoribosyltransferase	1058	KP1_RS10770.fasta
+KP1_RS10775		2209702	1563	anthranilate synthase component I	961	KP1_RS10775.fasta
+KP1_RS10785		2212433	621	hypothetical protein	466	KP1_RS10785.fasta
+KP1_RS10800		2215273	903	23S rRNA pseudouridylate synthase B	565	KP1_RS10800.fasta
+KP1_RS10805		2216236	591	cob(I)alamin adenolsyltransferase/cobinamide ATP-dependent adenolsyltransferase	400	KP1_RS10805.fasta
+KP1_RS10810		2216823	762	NAD(P)-dependent oxidoreductase	535	KP1_RS10810.fasta
+KP1_RS10820		2217839	1047	protease SohB	829	KP1_RS10820.fasta
+KP1_RS10825		2218933	252	hypothetical protein	125	KP1_RS10825.fasta
+KP1_RS10830		2219315	177	hypothetical protein	87	KP1_RS10830.fasta
+KP1_RS10835		2219591	2598	DNA topoisomerase I	1361	KP1_RS10835.fasta
+KP1_RS10840		2222534	975	LysR family transcriptional regulator CysB	664	KP1_RS10840.fasta
+KP1_RS10845		2223754	168	hypothetical protein	101	KP1_RS10845.fasta
+KP1_RS10850		2223918	117	hypothetical protein	93	KP1_RS10850.fasta
+KP1_RS10855		2224310	2673	aconitate hydratase 1	1708	KP1_RS10855.fasta
+KP1_RS10860		2227029	603	GTP cyclohydrolase II	360	KP1_RS10860.fasta
+KP1_RS10870		2228698	309	membrane protein	193	KP1_RS10870.fasta
+KP1_RS10875		2229013	1170	lipopolysaccharide assembly protein LapB	817	KP1_RS10875.fasta
+KP1_RS10880		2230374	738	orotidine 5'-phosphate decarboxylase	589	KP1_RS10880.fasta
+KP1_RS10890		2231569	219	lipoprotein	145	KP1_RS10890.fasta
+KP1_RS10895		2231872	120	hypothetical protein	94	KP1_RS10895.fasta
+KP1_RS10905		2232884	180	hypothetical protein	100	KP1_RS10905.fasta
+KP1_RS10910		2233222	1935	exoribonuclease 2	1197	KP1_RS10910.fasta
+KP1_RS10920		2236394	114	hypothetical protein	54	KP1_RS10920.fasta
+KP1_RS10925		2236586	789	enoyl-[acyl-carrier-protein] reductase	343	KP1_RS10925.fasta
+KP1_RS10940		2239787	810	ABC transporter ATP-binding protein	587	KP1_RS10940.fasta
+KP1_RS10945		2240598	993	ABC transporter ATP-binding protein	688	KP1_RS10945.fasta
+KP1_RS11455	zntB	2351031	984	zinc transporter ZntB	652	KP1_RS11455.fasta
+KP1_RS11460		2352540	1374	ATP-dependent RNA helicase	1112	KP1_RS11460.fasta
+KP1_RS11465		2353959	936	tRNA 2-thiocytidine(32) synthetase TtcA	908	KP1_RS11465.fasta
+KP1_RS11485		2357481	3528	pyruvate:ferredoxin (flavodoxin) oxidoreductase	2049	KP1_RS11485.fasta
+KP1_RS11490		2361371	264	hypothetical protein	176	KP1_RS11490.fasta
+KP1_RS11495		2361680	441	heat-inducible protein	395	KP1_RS11495.fasta
+KP1_RS11500		2362243	990	lactate dehydrogenase	688	KP1_RS11500.fasta
+KP1_RS11515		2366723	186	YnbE family lipoprotein	122	KP1_RS11515.fasta
+KP1_RS11520		2366916	324	hypothetical protein	248	KP1_RS11520.fasta
+KP1_RS11545	tynA	2371922	2268	tyramine oxidase	1842	KP1_RS11545.fasta
+KP1_RS11555		2376998	930	phenylacetate-CoA oxygenase subunit PaaA	885	KP1_RS11555.fasta
+KP1_RS11560		2377939	288	phenylacetate-CoA oxygenase subunit PaaB	256	KP1_RS11560.fasta
+KP1_RS11565		2378234	756	phenylacetate-CoA oxygenase subunit PaaI	881	KP1_RS11565.fasta
+KP1_RS11570		2379001	498	phenylacetate-CoA oxygenase subunit PaaJ	648	KP1_RS11570.fasta
+KP1_RS11575		2379506	1071	phenylacetic acid degradation protein	1139	KP1_RS11575.fasta
+KP1_RS11580		2380573	768	"2,3-dehydroadipyl-CoA hydratase"	950	KP1_RS11580.fasta
+KP1_RS11600		2383968	1206	acetyl-CoA acetyltransferase	1247	KP1_RS11600.fasta
+KP1_RS11605		2385200	1317	phenylacetate-CoA ligase	1171	KP1_RS11605.fasta
+KP1_RS11610		2386627	936	phenylacetic acid degradation operon negative regulatory protein PaaX	858	KP1_RS11610.fasta
+KP1_RS11615		2387572	597	phenylacetic acid degradation protein PaaY	525	KP1_RS11615.fasta
+KP1_RS11625		2388624	606	azoreductase	431	KP1_RS11625.fasta
+KP1_RS11650		2396549	1653	MFS transporter	1267	KP1_RS11650.fasta
+KP1_RS11670		2400942	1275	glutamate dehydrogenase	924	KP1_RS11670.fasta
+KP1_RS11675		2402429	147	hypothetical protein	391	KP1_RS11675.fasta
+KP1_RS11680		2402745	1206	acetylornithine aminotransferase	1012	KP1_RS11680.fasta
+KP1_RS11695		2406470	1341	succinylarginine dihydrolase	1200	KP1_RS11695.fasta
+KP1_RS11705		2408826	1431	alanine glycine permease	1248	KP1_RS11705.fasta
+KP1_RS11730		2414657	999	type I glyceraldehyde-3-phosphate dehydrogenase	825	KP1_RS11730.fasta
+KP1_RS11735		2415938	159	proteolipid membrane potential modulator	130	KP1_RS11735.fasta
+KP1_RS11745		2416774	234	SirA-like protein	236	KP1_RS11745.fasta
+KP1_RS11750		2417004	1209	hypothetical protein	1012	KP1_RS11750.fasta
+KP1_RS11760		2418867	519	hypothetical protein	482	KP1_RS11760.fasta
+KP1_RS11795		2426715	1179	mannose-6-phosphate isomerase	971	KP1_RS11795.fasta
+KP1_RS11805		2430081	1401	class II fumarate hydratase	1075	KP1_RS11805.fasta
+KP1_RS11815		2432479	1302	two-component sensor histidine kinase	937	KP1_RS11815.fasta
+KP1_RS11825		2434642	720	DNA-binding response regulator	483	KP1_RS11825.fasta
+KP1_RS11840		2436581	1383	arginine:ornithine antiporter	1079	KP1_RS11840.fasta
+KP1_RS11850		2439088	183	hypothetical protein	115	KP1_RS11850.fasta
+KP1_RS11865		2439613	1530	NAD(P) transhydrogenase subunit alpha	1034	KP1_RS11865.fasta
+KP1_RS11870		2441153	1389	NAD(P) transhydrogenase subunit beta	961	KP1_RS11870.fasta
+KP1_RS11875		2442690	189	hypothetical protein	126	KP1_RS11875.fasta
+KP1_RS11880		2442988	951	universal stress protein E	710	KP1_RS11880.fasta
+KP1_RS11885		2444077	753	fumarate/nitrate reduction transcriptional regulator	494	KP1_RS11885.fasta
+KP1_RS11915		2450591	909	LysR family transcriptional regulator	804	KP1_RS11915.fasta
+KP1_RS11920		2451601	564	DNA endonuclease SmrA	465	KP1_RS11920.fasta
+KP1_RS11955		2457812	390	4-carboxymuconolactone decarboxylase	378	KP1_RS11955.fasta
+KP1_RS12100		2487077	1488	carboxypeptidase M32	1250	KP1_RS12100.fasta
+KP1_RS12105		2488904	1251	MFS transporter	1068	KP1_RS12105.fasta
+KP1_RS12115		2491311	1221	transcriptional regulator	1003	KP1_RS12115.fasta
+KP1_RS12155		2499830	711	lipoprotein	684	KP1_RS12155.fasta
+KP1_RS12165		2501173	342	hypothetical protein	249	KP1_RS12165.fasta
+KP1_RS12195		2506645	750	NAD(P)-dependent oxidoreductase	557	KP1_RS12195.fasta
+KP1_RS12350		2535574	1104	5-methyltetrahydropteroyltriglutamate-- homocysteine S-methyltransferase	1002	KP1_RS12350.fasta
+KP1_RS12355		2536849	1272	urea ABC transporter substrate-binding protein	1153	KP1_RS12355.fasta
+KP1_RS12365		2539756	1074	urea ABC transporter permease subunit UrtC	1142	KP1_RS12365.fasta
+KP1_RS12370		2540829	798	ABC transporter ATP-binding protein	821	KP1_RS12370.fasta
+KP1_RS12380		2542370	483	DNA-binding protein	537	KP1_RS12380.fasta
+KP1_RS12385		2542982	1197	MFS transporter	1120	KP1_RS12385.fasta
+KP1_RS12390		2544374	900	O-acetylserine/cysteine export protein	813	KP1_RS12390.fasta
+KP1_RS12395		2545322	219	multiple antibiotic resistance regulatory periplasmic protein MarB	176	KP1_RS12395.fasta
+KP1_RS12400		2545581	375	MDR efflux pump AcrAB transcriptional activator MarA	165	KP1_RS12400.fasta
+KP1_RS12405		2545976	435	transcriptional regulator	266	KP1_RS12405.fasta
+KP1_RS12415		2546672	669	stress protection protein MarC	475	KP1_RS12415.fasta
+KP1_RS12420		2547409	1200	MFS transporter	935	KP1_RS12420.fasta
+KP1_RS12465		2557283	945	L-lactate dehydrogenase	934	KP1_RS12465.fasta
+KP1_RS12475		2558808	879	LysR family transcriptional regulator	793	KP1_RS12475.fasta
+KP1_RS12485		2561257	927	glutaminase	760	KP1_RS12485.fasta
+KP1_RS12495		2562666	1425	GGDEF domain-containing protein	1179	KP1_RS12495.fasta
+KP1_RS12545		2570820	291	hypothetical protein	188	KP1_RS12545.fasta
+KP1_RS12575		2576470	672	metal ABC transporter permease	693	KP1_RS12575.fasta
+KP1_RS12635		2588411	1380	xanthine permease	1253	KP1_RS12635.fasta
+KP1_RS12645		2590265	327	hydroxyisourate hydrolase	450	KP1_RS12645.fasta
+KP1_RS12650		2590829	267	transcriptional regulator	208	KP1_RS12650.fasta
+KP1_RS12655		2591095	1323	serine/threonine protein kinase	1155	KP1_RS12655.fasta
+KP1_RS12660		2592434	1293	hypothetical protein	1094	KP1_RS12660.fasta
+KP1_RS12740		2607732	1329	6-phospho-alpha-glucosidase	1129	KP1_RS12740.fasta
+KP1_RS12750		2610872	699	GntR family transcriptional regulator	685	KP1_RS12750.fasta
+KP1_RS13080		2676712	489	hypothetical protein	424	KP1_RS13080.fasta
+KP1_RS13100		2680641	1242	aminotransferase V	1180	KP1_RS13100.fasta
+KP1_RS13105		2681898	738	amino acid ABC transporter ATP-binding protein	682	KP1_RS13105.fasta
+KP1_RS13115		2683272	666	glutamine ABC transporter permease	733	KP1_RS13115.fasta
+KP1_RS13120		2683947	786	amino acid ABC transporter substrate-binding protein	753	KP1_RS13120.fasta
+KP1_RS13300		2716739	741	ABC transporter permease	751	KP1_RS13300.fasta
+KP1_RS13305		2717504	936	ABC transporter ATP-binding protein	1056	KP1_RS13305.fasta
+KP1_RS13310		2718749	1383	aspartate aminotransferase family protein	1103	KP1_RS13310.fasta
+KP1_RS13315		2720150	1473	"2,4-diaminobutyrate decarboxylase"	1172	KP1_RS13315.fasta
+KP1_RS13330		2724732	1344	two-component sensor histidine kinase	1312	KP1_RS13330.fasta
+KP1_RS13340		2726899	993	alpha/beta hydrolase	1128	KP1_RS13340.fasta
+KP1_RS13350		2729291	72	coenzyme PQQ synthesis protein A	35	KP1_RS13350.fasta
+KP1_RS13355		2729417	927	pyrroloquinoline quinone biosynthesis protein B	891	KP1_RS13355.fasta
+KP1_RS13370		2731360	1143	coenzyme PQQ synthesis protein E	1023	KP1_RS13370.fasta
+KP1_RS13420		2744603	1407	MFS transporter	1278	KP1_RS13420.fasta
+KP1_RS13465		2755545	882	LysR family transcriptional regulator	805	KP1_RS13465.fasta
+KP1_RS13475		2759192	918	hypothetical protein	740	KP1_RS13475.fasta
+KP1_RS13550		2769666	186	hypothetical protein	192	KP1_RS13550.fasta
+KP1_RS13555		2770507	915	NAD(P)-dependent oxidoreductase	815	KP1_RS13555.fasta
+KP1_RS13570		2772938	852	MBL fold metallo-hydrolase	818	KP1_RS13570.fasta
+KP1_RS13575		2773967	141	30S ribosomal protein S22	83	KP1_RS13575.fasta
+KP1_RS13880		2839993	300	hypothetical protein	305	KP1_RS13880.fasta
+KP1_RS13895		2841573	1038	NADP-dependent oxidoreductase	1075	KP1_RS13895.fasta
+KP1_RS13905		2843420	519	N-acetyltransferase	421	KP1_RS13905.fasta
+KP1_RS13910		2843935	450	membrane protein	522	KP1_RS13910.fasta
+KP1_RS13915		2844393	234	hypothetical protein	220	KP1_RS13915.fasta
+KP1_RS13920		2844643	1599	ABC transporter substrate-binding protein	1274	KP1_RS13920.fasta
+KP1_RS27085		2849165	93	hypothetical protein	47	KP1_RS27085.fasta
+KP1_RS13970		2852753	930	spermidine/putrescine ABC transporter permease	864	KP1_RS13970.fasta
+KP1_RS13975		2853684	1014	polyamine ABC transporter ATP-binding protein	969	KP1_RS13975.fasta
+KP1_RS13980		2854714	1146	spermidine/putrescine ABC transporter substrate-binding protein	862	KP1_RS13980.fasta
+KP1_RS13985		2856164	1413	GntR family transcriptional regulator	1247	KP1_RS13985.fasta
+KP1_RS13995		2859661	1011	"ubiquinol oxidase subunit II, cyanide insensitive"	1033	KP1_RS13995.fasta
+KP1_RS14050		2868561	597	tellurite resistance methyltransferase TehB	573	KP1_RS14050.fasta
+KP1_RS14055		2869154	1005	dicarboxylate transporter/tellurite-resistance protein TehA	939	KP1_RS14055.fasta
+KP1_RS14070	mdoD	2871868	1656	glucan biosynthesis protein D	1081	KP1_RS14070.fasta
+KP1_RS14090		2878226	741	"protocatechuate 3,4-dioxygenase subunit beta"	586	KP1_RS14090.fasta
+KP1_RS14095		2878963	621	"protocatechuate 3,4-dioxygenase subunit alpha"	603	KP1_RS14095.fasta
+KP1_RS14105		2880985	2373	quinate dehydrogenase	1670	KP1_RS14105.fasta
+KP1_RS14110		2883427	1119	S-(hydroxymethyl)glutathione dehydrogenase/class III alcohol dehydrogenase	874	KP1_RS14110.fasta
+KP1_RS14115		2884570	276	hypothetical protein	175	KP1_RS14115.fasta
+KP1_RS14160		2892616	216	nucleoid-associated protein	102	KP1_RS14160.fasta
+KP1_RS14175		2894491	582	electron transport complex subunit A	364	KP1_RS14175.fasta
+KP1_RS14190		2897905	1053	electron transport complex subunit D	788	KP1_RS14190.fasta
+KP1_RS14195		2898968	621	electron transport complex subunit G	479	KP1_RS14195.fasta
+KP1_RS14200		2899591	699	electron transport complex subunit E	494	KP1_RS14200.fasta
+KP1_RS14215		2901534	1506	dipeptide/tripeptide permease A	944	KP1_RS14215.fasta
+KP1_RS14230		2904720	1275	tyrosine--tRNA ligase	851	KP1_RS14230.fasta
+KP1_RS14235		2906119	657	pyridoxine/pyridoxamine 5'-phosphate oxidase	450	KP1_RS14235.fasta
+KP1_RS14240		2906833	324	lysozyme inhibitor	214	KP1_RS14240.fasta
+KP1_RS14250		2908641	468	hypothetical protein	264	KP1_RS14250.fasta
+KP1_RS14265		2911339	237	DUF1656 domain-containing protein	190	KP1_RS14265.fasta
+KP1_RS14290		2916035	240	DUF1289 domain-containing protein	157	KP1_RS14290.fasta
+KP1_RS14295		2916417	600	transcriptional regulator	480	KP1_RS14295.fasta
+KP1_RS14300		2917070	1098	alkene reductase	859	KP1_RS14300.fasta
+KP1_RS14305		2918246	408	lactoylglutathione lyase	230	KP1_RS14305.fasta
+KP1_RS14315		2919485	348	glutaredoxin	228	KP1_RS14315.fasta
+KP1_RS14330		2921955	582	superoxide dismutase	580	KP1_RS14330.fasta
+KP1_RS14335		2922598	1167	MFS transporter	960	KP1_RS14335.fasta
+KP1_RS14345		2924317	1026	PurR family transcriptional regulator	585	KP1_RS14345.fasta
+KP1_RS14365		2929045	636	riboflavin synthase subunit alpha	471	KP1_RS14365.fasta
+KP1_RS14370		2929910	1374	MATE family efflux transporter	994	KP1_RS14370.fasta
+KP1_RS14380		2932006	579	"Rossman fold protein, TIGR00730 family"	545	KP1_RS14380.fasta
+KP1_RS14830		3015833	237	hypothetical protein	159	KP1_RS14830.fasta
+KP1_RS14840		3017444	2151	formate dehydrogenase subunit alpha	1641	KP1_RS14840.fasta
+KP1_RS14865		3024675	393	glyoxalase	493	KP1_RS14865.fasta
+KP1_RS14895		3028478	903	RpiR family transcriptional regulator	822	KP1_RS14895.fasta
+KP1_RS14900		3029377	954	protein translocase component YidC	1070	KP1_RS14900.fasta
+KP1_RS14915		3032415	822	ABC transporter	803	KP1_RS14915.fasta
+KP1_RS14925		3036041	774	ABC transporter	600	KP1_RS14925.fasta
+KP1_RS14935		3037777	1038	ABC transporter substrate-binding protein	1067	KP1_RS14935.fasta
+KP1_RS14950		3040927	1086	alkanesulfonate monooxygenase	1129	KP1_RS14950.fasta
+KP1_RS14955		3042157	894	LysR family transcriptional regulator	1064	KP1_RS14955.fasta
+KP1_RS14960		3043157	603	cysteine dioxygenase	676	KP1_RS14960.fasta
+KP1_RS14980		3047458	1017	4-hydroxy-2-oxovalerate aldolase	1126	KP1_RS14980.fasta
+KP1_RS14995		3050231	867	"2-hydroxy-6-oxo-6-phenylhexa-2,4-dienoate hydrolase"	962	KP1_RS14995.fasta
+KP1_RS15005	mhpA	3052061	1665	3-(3-hydroxyphenyl)propionate hydroxylase	1568	KP1_RS15005.fasta
+KP1_RS15010		3053903	813	transcriptional regulator	991	KP1_RS15010.fasta
+KP1_RS15050		3062618	639	TetR family transcriptional regulator	474	KP1_RS15050.fasta
+KP1_RS15055		3063274	213	hypothetical protein	194	KP1_RS15055.fasta
+KP1_RS15065		3063723	132	hypothetical protein	82	KP1_RS15065.fasta
+KP1_RS15070		3063992	1413	pyruvate kinase	1000	KP1_RS15070.fasta
+KP1_RS15075		3065717	237	murein lipoprotein	96	KP1_RS15075.fasta
+KP1_RS15090		3067529	1221	cysteine desulfurase	1259	KP1_RS15090.fasta
+KP1_RS15095		3068746	1275	FeS cluster assembly protein SufD	1437	KP1_RS15095.fasta
+KP1_RS15105		3070758	1488	Fe-S cluster assembly protein SufB	2075	KP1_RS15105.fasta
+KP1_RS15110		3072248	378	Fe-S cluster assembly scaffold SufA	312	KP1_RS15110.fasta
+KP1_RS15115		3073108	198	hypothetical protein	135	KP1_RS15115.fasta
+KP1_RS15150		3080334	615	AcrR family transcriptional regulator	563	KP1_RS15150.fasta
+KP1_RS15185		3087321	1032	5-methyltetrahydropteroyltriglutamate-- homocysteine methyltransferase	757	KP1_RS15185.fasta
+KP1_RS15190		3088376	981	hypothetical protein	629	KP1_RS15190.fasta
+KP1_RS15205		3090351	249	membrane protein	118	KP1_RS15205.fasta
+KP1_RS15210		3090804	411	acyl-CoA esterase	271	KP1_RS15210.fasta
+KP1_RS15215		3091211	3057	membrane protein	1733	KP1_RS15215.fasta
+KP1_RS15225		3095981	2379	phosphoenolpyruvate synthase	1509	KP1_RS15225.fasta
+KP1_RS15230		3098435	120	hypothetical protein	161	KP1_RS15230.fasta
+KP1_RS15235		3098699	834	phosphoenolpyruvate synthase regulatory protein	699	KP1_RS15235.fasta
+KP1_RS15240		3099687	1047	3-deoxy-7-phosphoheptulonate synthase	865	KP1_RS15240.fasta
+KP1_RS15245		3100841	228	hypothetical protein	201	KP1_RS15245.fasta
+KP1_RS15255		3102654	465	endopeptidase	327	KP1_RS15255.fasta
+KP1_RS15260		3103200	750	vitamin B12 ABC transporter ATP-binding protein BtuD	654	KP1_RS15260.fasta
+KP1_RS15270	metQ	3104737	801	hypothetical protein	553	KP1_RS15270.fasta
+KP1_RS15275		3105574	987	vitamin B12 ABC transporter permease BtuC	793	KP1_RS15275.fasta
+KP1_RS15280		3106682	1434	gluconate:proton symporter	1184	KP1_RS15280.fasta
+KP1_RS15285		3108396	915	LysR family transcriptional regulator	794	KP1_RS15285.fasta
+KP1_RS15295		3110610	354	hypothetical protein	306	KP1_RS15295.fasta
+KP1_RS15300		3111016	300	integration host factor subunit alpha	100	KP1_RS15300.fasta
+KP1_RS15310		3113723	984	phenylalanine--tRNA ligase subunit alpha	579	KP1_RS15310.fasta
+KP1_RS15315		3115013	357	50S ribosomal protein L20	147	KP1_RS15315.fasta
+KP1_RS15320		3115420	198	50S ribosomal protein L35	95	KP1_RS15320.fasta
+KP1_RS15325		3115710	543	translation initiation factor IF-3	209	KP1_RS15325.fasta
+KP1_RS15330		3116256	1929	threonine--tRNA ligase	1070	KP1_RS15330.fasta
+KP1_RS15340		3119121	759	membrane protein	503	KP1_RS15340.fasta
+KP1_RS15345		3120236	933	6-phosphofructokinase II	770	KP1_RS15345.fasta
+KP1_RS15355		3121653	873	hypothetical protein	527	KP1_RS15355.fasta
+KP1_RS15360		3122569	747	TonB system transport protein TonB	709	KP1_RS15360.fasta
+KP1_RS15365		3123526	297	hypothetical protein	205	KP1_RS15365.fasta
+KP1_RS15380		3125634	285	hypothetical protein	159	KP1_RS15380.fasta
+KP1_RS15385		3125951	1461	cardiolipin synthase A	906	KP1_RS15385.fasta
+KP1_RS15390		3127446	330	dsDNA-mimic protein	150	KP1_RS15390.fasta
+KP1_RS15400		3128722	1005	peptide ABC transporter ATP-binding protein	626	KP1_RS15400.fasta
+KP1_RS15405		3129723	1014	oligopeptide ABC transporter ATP-binding protein OppD	685	KP1_RS15405.fasta
+KP1_RS15410		3130748	909	peptide ABC transporter permease	671	KP1_RS15410.fasta
+KP1_RS15415	oppB	3131671	921	peptide ABC transporter permease	535	KP1_RS15415.fasta
+KP1_RS15420		3132677	1635	peptide ABC transporter substrate-binding protein	982	KP1_RS15420.fasta
+KP1_RS15435		3135880	216	hypothetical protein	180	KP1_RS15435.fasta
+KP1_RS15440		3136173	2676	bifunctional acetaldehyde-CoA/alcohol dehydrogenase	1360	KP1_RS15440.fasta
+KP1_RS15455		3140175	408	DNA-binding protein	169	KP1_RS15455.fasta
+KP1_RS15460		3140704	903	UTP--glucose-1-phosphate uridylyltransferase	523	KP1_RS15460.fasta
+KP1_RS15475		3143922	459	hypothetical protein	273	KP1_RS15475.fasta
+KP1_RS15480		3144423	843	formyltetrahydrofolate deformylase	442	KP1_RS15480.fasta
+KP1_RS15505		3147895	678	respiratory nitrate reductase subunit gamma	555	KP1_RS15505.fasta
+KP1_RS15510		3148572	711	nitrate reductase molybdenum cofactor assembly chaperone	594	KP1_RS15510.fasta
+KP1_RS15515		3149279	1536	nitrate reductase subunit beta	1217	KP1_RS15515.fasta
+KP1_RS15520		3150811	3744	nitrate reductase subunit alpha	1909	KP1_RS15520.fasta
+KP1_RS15530		3154960	1389	MFS transporter	1042	KP1_RS15530.fasta
+KP1_RS15535		3156660	1779	nitrate/nitrite two-component system sensor histidine kinase	1526	KP1_RS15535.fasta
+KP1_RS15540		3158449	651	DNA-binding response regulator	645	KP1_RS15540.fasta
+KP1_RS15545		3159096	1383	YchO family inverse autotransporter domain-containing protein	1112	KP1_RS15545.fasta
+KP1_RS15560		3167308	789	nitrate ABC transporter ATP-binding protein	679	KP1_RS15560.fasta
+KP1_RS15565		3168106	885	"nitrate ABC transporter, permease protein"	681	KP1_RS15565.fasta
+KP1_RS15590		3172331	243	hypothetical protein	137	KP1_RS15590.fasta
+KP1_RS15595		3172791	681	cation transport regulator	537	KP1_RS15595.fasta
+KP1_RS15600	chaB	3173608	231	cation transport regulator	191	KP1_RS15600.fasta
+KP1_RS15610		3175289	855	2-dehydro-3-deoxyphosphooctonate aldolase	459	KP1_RS15610.fasta
+KP1_RS15615		3176183	813	hypothetical protein	698	KP1_RS15615.fasta
+KP1_RS15620		3176999	393	hypothetical protein	253	KP1_RS15620.fasta
+KP1_RS15625		3177391	849	N5-glutamine S-adenosyl-L-methionine-dependent methyltransferase	743	KP1_RS15625.fasta
+KP1_RS15630		3178239	1083	peptide chain release factor 1	675	KP1_RS15630.fasta
+KP1_RS15635		3179364	1257	glutamyl-tRNA reductase	765	KP1_RS15635.fasta
+KP1_RS15640	lolB	3180891	612	outer membrane lipoprotein LolB	403	KP1_RS15640.fasta
+KP1_RS15650		3182534	948	ribose-phosphate pyrophosphokinase	428	KP1_RS15650.fasta
+KP1_RS15665		3186554	276	membrane protein	155	KP1_RS15665.fasta
+KP1_RS15670		3187102	585	peptidyl-tRNA hydrolase	438	KP1_RS15670.fasta
+KP1_RS15680		3188977	330	DUF1869 domain-containing protein	363	KP1_RS15680.fasta
+KP1_RS15840		3222251	477	GNAT family acetyltransferase	417	KP1_RS15840.fasta
+KP1_RS15850		3224704	894	cell density-dependent motility repressor	788	KP1_RS15850.fasta
+KP1_RS15860		3226319	876	ABC transporter ATP-binding protein	893	KP1_RS15860.fasta
+KP1_RS15865		3227191	1287	branched-chain amino acid ABC transporter permease	1211	KP1_RS15865.fasta
+KP1_RS15870		3228487	915	branched-chain amino acid ABC transporter permease	733	KP1_RS15870.fasta
+KP1_RS15880		3230859	147	hypothetical protein	107	KP1_RS15880.fasta
+KP1_RS15885		3231057	2295	formate acetyltransferase	1689	KP1_RS15885.fasta
+KP1_RS15895		3234616	1332	threonine/serine transporter TdcC	1096	KP1_RS15895.fasta
+KP1_RS15900		3235973	990	serine/threonine dehydratase	942	KP1_RS15900.fasta
+KP1_RS15935		3242001	747	peptidase	538	KP1_RS15935.fasta
+KP1_RS15940		3242764	816	transglutaminase	538	KP1_RS15940.fasta
+KP1_RS15950		3244499	1440	hypothetical protein	1080	KP1_RS15950.fasta
+KP1_RS15955		3246323	1746	"alpha,alpha-trehalase"	1062	KP1_RS15955.fasta
+KP1_RS15960		3248320	2121	ferrioxamine B receptor	1146	KP1_RS15960.fasta
+KP1_RS15965	emtA	3250482	612	murein transglycosylase	462	KP1_RS15965.fasta
+KP1_RS15970		3251269	915	muramoyltetrapeptide carboxypeptidase	795	KP1_RS15970.fasta
+KP1_RS15980		3254026	1071	alanine racemase	921	KP1_RS15980.fasta
+KP1_RS15985		3255106	1299	D-amino acid dehydrogenase small subunit	913	KP1_RS15985.fasta
+KP1_RS15995		3256726	1533	SpoVR family protein	944	KP1_RS15995.fasta
+KP1_RS16000		3258333	720	fatty acid metabolism regulator protein	470	KP1_RS16000.fasta
+KP1_RS16005		3259301	1551	Na+/H+ antiporter NhaB	1259	KP1_RS16005.fasta
+KP1_RS16010		3260980	531	disulfide bond formation protein B	310	KP1_RS16010.fasta
+KP1_RS16020		3262012	447	hypothetical protein	320	KP1_RS16020.fasta
+KP1_RS16030		3263229	282	hypothetical protein	136	KP1_RS16030.fasta
+KP1_RS16040		3263637	699	septum site-determining protein MinC	347	KP1_RS16040.fasta
+KP1_RS16045		3264359	813	septum site-determining protein MinD	409	KP1_RS16045.fasta
+KP1_RS16050		3265175	270	cell division topological specificity factor	127	KP1_RS16050.fasta
+KP1_RS16060		3266719	1686	long-chain-fatty-acid--CoA ligase	1133	KP1_RS16060.fasta
+KP1_RS16065		3268610	582	membrane protein	591	KP1_RS16065.fasta
+KP1_RS16070		3269230	696	tRNA (adenosine(37)-N6)-threonylcarbamoyltransferase complex dimerization subunit type 1 TsaB	567	KP1_RS16070.fasta
+KP1_RS16075		3270071	1911	ATP-dependent helicase	1399	KP1_RS16075.fasta
+KP1_RS16080		3272113	345	hypothetical protein	229	KP1_RS16080.fasta
+KP1_RS16085		3272458	186	hypothetical protein	128	KP1_RS16085.fasta
+KP1_RS16090	pabB	3272732	1356	aminodeoxychorismate synthase subunit I	1073	KP1_RS16090.fasta
+KP1_RS16100		3274832	1365	L-serine ammonia-lyase	862	KP1_RS16100.fasta
+KP1_RS16115		3277996	1560	hypothetical protein	1049	KP1_RS16115.fasta
+KP1_RS16130		3281843	852	PTS mannose transporter subunit IID	559	KP1_RS16130.fasta
+KP1_RS16135		3282757	459	hypothetical protein	506	KP1_RS16135.fasta
+KP1_RS16140		3283634	567	membrane protein	386	KP1_RS16140.fasta
+KP1_RS16155		3286996	210	cold-shock protein CspC	109	KP1_RS16155.fasta
+KP1_RS16165		3287953	291	hypothetical protein	218	KP1_RS16165.fasta
+KP1_RS16180		3288917	792	IclR family transcriptional regulator	534	KP1_RS16180.fasta
+KP1_RS16185		3289886	1371	MFS transporter	1110	KP1_RS16185.fasta
+KP1_RS16195		3292442	2049	tail-specific protease	1220	KP1_RS16195.fasta
+KP1_RS16200		3294510	678	RNA chaperone ProQ	312	KP1_RS16200.fasta
+KP1_RS16205		3295285	498	hypothetical protein	331	KP1_RS16205.fasta
+KP1_RS16225		3301473	240	hypothetical protein	125	KP1_RS16225.fasta
+KP1_RS16230		3301810	192	hypothetical protein	104	KP1_RS16230.fasta
+KP1_RS16250		3304660	339	hypothetical protein	243	KP1_RS16250.fasta
+KP1_RS16265		3306375	231	DNA polymerase III subunit theta	149	KP1_RS16265.fasta
+KP1_RS16270		3306684	660	DNA polymerase III subunit epsilon	492	KP1_RS16270.fasta
+KP1_RS16275		3307347	2061	oligopeptidase B	1135	KP1_RS16275.fasta
+KP1_RS16290		3310819	1179	phosphoribosylglycinamide formyltransferase 2	1013	KP1_RS16290.fasta
+KP1_RS16295		3312055	642	ketohydroxyglutarate aldolase	473	KP1_RS16295.fasta
+KP1_RS16305		3314769	1476	glucose-6-phosphate dehydrogenase	814	KP1_RS16305.fasta
+KP1_RS16310		3316255	150	hypothetical protein	86	KP1_RS16310.fasta
+KP1_RS16315		3316600	870	transcriptional regulator HexR	534	KP1_RS16315.fasta
+KP1_RS16320		3317595	1443	pyruvate kinase	951	KP1_RS16320.fasta
+KP1_RS16325		3319078	975	lipid A biosynthesis (KDO)2-(lauroyl)-lipid IVA acyltransferase	539	KP1_RS16325.fasta
+KP1_RS16330		3320170	1320	murein DD-endopeptidase MepM	939	KP1_RS16330.fasta
+KP1_RS16335		3321505	945	zinc ABC transporter substrate-binding protein	660	KP1_RS16335.fasta
+KP1_RS16350		3324129	1011	Holliday junction DNA helicase RuvB	612	KP1_RS16350.fasta
+KP1_RS16355		3325148	612	Holliday junction ATP-dependent DNA helicase RuvA	346	KP1_RS16355.fasta
+KP1_RS16360		3325839	522	crossover junction endodeoxyribonuclease RuvC	334	KP1_RS16360.fasta
+KP1_RS16365		3326395	741	transcriptional regulator	523	KP1_RS16365.fasta
+KP1_RS16370		3327163	444	NUDIX pyrophosphatase	178	KP1_RS16370.fasta
+KP1_RS16375		3327608	1788	aspartate--tRNA ligase	1050	KP1_RS16375.fasta
+KP1_RS16380		3329663	567	hydrolase	512	KP1_RS16380.fasta
+KP1_RS16385		3330226	819	hypothetical protein	851	KP1_RS16385.fasta
+KP1_RS16390		3331097	396	membrane protein	256	KP1_RS16390.fasta
+KP1_RS16395		3331532	744	carboxy-S-adenosyl-L-methionine synthase CmoA	462	KP1_RS16395.fasta
+KP1_RS16400		3332272	1005	tRNA 5-methoxyuridine(34)/uridine 5-oxyacetic acid(34) synthase CmoB	833	KP1_RS16400.fasta
+KP1_RS16405		3333358	744	copper homeostasis protein CutC	821	KP1_RS16405.fasta
+KP1_RS16410		3334178	570	VOC family protein	493	KP1_RS16410.fasta
+KP1_RS16415		3334983	1734	arginine--tRNA ligase	1114	KP1_RS16415.fasta
+KP1_RS16420		3336778	1140	glycosyl hydrolase family 88	1032	KP1_RS16420.fasta
+KP1_RS16425		3337922	1584	MFS transporter	1255	KP1_RS16425.fasta
+KP1_RS16435		3340310	1425	trehalose-6-phosphate synthase	1047	KP1_RS16435.fasta
+KP1_RS16445		3342659	981	L-arabinose ABC transporter permease AraH	787	KP1_RS16445.fasta
+KP1_RS16450	araG	3343654	1515	L-arabinose ABC transporter ATP-binding protein AraG	1178	KP1_RS16450.fasta
+KP1_RS16455		3345231	981	arabinose ABC transporter substrate-binding protein	751	KP1_RS16455.fasta
+KP1_RS16470		3347856	1563	MFS transporter	1127	KP1_RS16470.fasta
+KP1_RS16485		3351329	639	hypothetical protein	395	KP1_RS16485.fasta
+KP1_RS16495		3352376	498	ferritin	358	KP1_RS16495.fasta
+KP1_RS16560		3361777	753	L-cystine ABC transporter ATP-binding protein YecC	594	KP1_RS16560.fasta
+KP1_RS16565		3362526	669	amino acid ABC transporter permease	401	KP1_RS16565.fasta
+KP1_RS16570		3363210	987	aminocyclopropane-1-carboxylate deaminase/D-cysteine desulfhydrase family protein	770	KP1_RS16570.fasta
+KP1_RS16575		3364292	801	cystine ABC transporter substrate-binding protein	571	KP1_RS16575.fasta
+KP1_RS16595		3368285	192	hypothetical protein	108	KP1_RS16595.fasta
+KP1_RS16680	cbl	3382699	951	CysB family transcriptional regulator	789	KP1_RS16680.fasta
+KP1_RS16685		3383756	918	nitrogen assimilation regulatory protein nac	782	KP1_RS16685.fasta
+KP1_RS16695		3385241	1455	AMP nucleosidase	1167	KP1_RS16695.fasta
+KP1_RS16715		3389929	978	quinone oxidoreductase	1033	KP1_RS16715.fasta
+KP1_RS16735		3394131	1437	MATE family multidrug exporter	1338	KP1_RS16735.fasta
+KP1_RS16740		3395602	153	hypothetical protein	75	KP1_RS16740.fasta
+KP1_RS17025		3473408	972	GGDEF domain-containing protein	883	KP1_RS17025.fasta
+KP1_RS17030		3474586	837	chloroperoxidase	753	KP1_RS17030.fasta
+KP1_RS17050		3477584	333	hypothetical protein	340	KP1_RS17050.fasta
+KP1_RS17065		3480059	498	oxidoreductase	443	KP1_RS17065.fasta
+KP1_RS17075		3480864	1320	MFS transporter	1214	KP1_RS17075.fasta
+KP1_RS17090		3484002	390	4-oxalocrotonate tautomerase	433	KP1_RS17090.fasta
+KP1_RS17095		3484413	732	membrane protein	686	KP1_RS17095.fasta
+KP1_RS17100		3485343	1110	adenosylhomocysteinase	1216	KP1_RS17100.fasta
+KP1_RS17105		3486495	1068	nicotinate-nucleotide--dimethylbenzimidazole phosphoribosyltransferase	1339	KP1_RS17105.fasta
+KP1_RS17115		3488645	324	hypothetical protein	163	KP1_RS17115.fasta
+KP1_RS17120		3489136	1059	FUSC family protein	933	KP1_RS17120.fasta
+KP1_RS17125		3490293	474	DNA gyrase inhibitor	642	KP1_RS17125.fasta
+KP1_RS17130		3490943	1164	D-alanyl-D-alanine carboxypeptidase	1090	KP1_RS17130.fasta
+KP1_RS17135		3492287	1425	exodeoxyribonuclease I	1453	KP1_RS17135.fasta
+KP1_RS17140		3493935	2103	elongation factor G	1819	KP1_RS17140.fasta
+KP1_RS17145		3496277	312	transcriptional regulator	274	KP1_RS17145.fasta
+KP1_RS17150		3496771	1359	putrescine/spermidine ABC transporter	1359	KP1_RS17150.fasta
+KP1_RS17160		3499348	825	NAD(P)-dependent oxidoreductase	973	KP1_RS17160.fasta
+KP1_RS17165		3500545	900	ATP phosphoribosyltransferase	989	KP1_RS17165.fasta
+KP1_RS17175		3502785	1062	histidinol-phosphate aminotransferase	1293	KP1_RS17175.fasta
+KP1_RS17180		3503843	1068	bifunctional imidazole glycerol-phosphate dehydratase/histidinol phosphatase	1210	KP1_RS17180.fasta
+KP1_RS17185		3504910	591	imidazole glycerol phosphate synthase subunit HisH	780	KP1_RS17185.fasta
+KP1_RS17195		3506219	777	imidazole glycerol phosphate synthase cyclase subunit	988	KP1_RS17195.fasta
+KP1_RS17255		3519637	1005	NAD-dependent epimerase	1330	KP1_RS17255.fasta
+KP1_RS17405		3558297	141	hypothetical protein	127	KP1_RS17405.fasta
+KP1_RS17415		3559438	1275	C4-dicarboxylate ABC transporter	1412	KP1_RS17415.fasta
+KP1_RS17430		3565374	3078	multidrug resistance protein MdtC	2363	KP1_RS17430.fasta
+KP1_RS17435		3568453	1416	multidrug transporter subunit MdtD	1649	KP1_RS17435.fasta
+KP1_RS17445		3571340	723	DNA-binding response regulator	818	KP1_RS17445.fasta
+KP1_RS17450		3572381	1362	U32 family peptidase	1371	KP1_RS17450.fasta
+KP1_RS17455		3573988	894	lipid kinase YegS	1040	KP1_RS17455.fasta
+KP1_RS17495		3582582	1278	D-arabinitol transporter	1422	KP1_RS17495.fasta
+KP1_RS17505		3585403	1368	D-arabinitol 4-dehydrogenase	1447	KP1_RS17505.fasta
+KP1_RS17510		3586977	942	cytochrome c biogenesis protein CcdA	965	KP1_RS17510.fasta
+KP1_RS17535		3593004	1053	fructose-bisphosphate aldolase	825	KP1_RS17535.fasta
+KP1_RS17590		3606645	1344	permease	1383	KP1_RS17590.fasta
+KP1_RS17605		3609353	462	N-acetyltransferase GCN5	582	KP1_RS17605.fasta
+KP1_RS17610		3609811	1110	Fe-S-binding ATPase	956	KP1_RS17610.fasta
+KP1_RS17615	metG	3611074	2034	methionine--tRNA ligase	1764	KP1_RS17615.fasta
+KP1_RS17620		3613222	471	hypothetical protein	354	KP1_RS17620.fasta
+KP1_RS17655		3619285	918	ABC transporter substrate-binding protein	818	KP1_RS17655.fasta
+KP1_RS17660		3620339	2298	beta-glucosidase	1688	KP1_RS17660.fasta
+KP1_RS17670		3624662	555	acetyltransferase	491	KP1_RS17670.fasta
+KP1_RS17675		3625558	948	D-alanyl-D-alanine endopeptidase	727	KP1_RS17675.fasta
+KP1_RS17680		3626697	588	membrane protein	461	KP1_RS17680.fasta
+KP1_RS17685		3627439	570	membrane protein	521	KP1_RS17685.fasta
+KP1_RS17690		3628042	1437	multidrug transporter	1278	KP1_RS17690.fasta
+KP1_RS17700		3629747	1395	6-phospho-beta-glucosidase	1176	KP1_RS17700.fasta
+KP1_RS17710		3633162	834	"beta-1,4-xylanase"	595	KP1_RS17710.fasta
+KP1_RS17715		3634151	1365	carbohydrate porin	1271	KP1_RS17715.fasta
+KP1_RS17725		3637163	399	hypothetical protein	140	KP1_RS17725.fasta
+KP1_RS17730		3637558	696	CidB/LrgB family autolysis modulator	516	KP1_RS17730.fasta
+KP1_RS17735		3638381	885	cytidine deaminase	799	KP1_RS17735.fasta
+KP1_RS17740		3639541	717	vancomycin high temperature exclusion protein	524	KP1_RS17740.fasta
+KP1_RS17745		3640328	1011	galactoside ABC transporter permease MglC	828	KP1_RS17745.fasta
+KP1_RS17755		3642993	999	galactose ABC transporter substrate-binding protein	694	KP1_RS17755.fasta
+KP1_RS17760		3644288	1023	DNA-binding transcriptional regulator GalS	753	KP1_RS17760.fasta
+KP1_RS17765		3645466	1158	hypothetical protein	989	KP1_RS17765.fasta
+KP1_RS17770		3646639	669	GTP cyclohydrolase I FolE	301	KP1_RS17770.fasta
+KP1_RS17775		3647668	834	S-formylglutathione hydrolase	705	KP1_RS17775.fasta
+KP1_RS17780		3648572	1974	catecholate siderophore receptor CirA	1493	KP1_RS17780.fasta
+KP1_RS17785		3651044	1470	lysine transporter	1024	KP1_RS17785.fasta
+KP1_RS17790		3652692	867	LysR family transcriptional regulator	628	KP1_RS17790.fasta
+KP1_RS17800		3653824	1050	membrane protein	843	KP1_RS17800.fasta
+KP1_RS17805		3654945	855	endonuclease	620	KP1_RS17805.fasta
+KP1_RS17815		3657561	939	1-phosphofructokinase	716	KP1_RS17815.fasta
+KP1_RS17820		3658500	1131	bifunctional PTS fructose transporter subunit IIA/HPr protein	839	KP1_RS17820.fasta
+KP1_RS17825		3659967	1182	sugar efflux transporter SetB	1076	KP1_RS17825.fasta
+KP1_RS17835		3661590	573	elongation factor P-like protein YeiP	400	KP1_RS17835.fasta
+KP1_RS17840		3662233	1191	mannonate dehydratase	961	KP1_RS17840.fasta
+KP1_RS17855		3666239	708	membrane protein	543	KP1_RS17855.fasta
+KP1_RS17860	spr	3667373	570	membrane protein	242	KP1_RS17860.fasta
+KP1_RS17870		3669762	1806	ABC transporter substrate-binding protein	1347	KP1_RS17870.fasta
+KP1_RS17880		3672671	1026	microcin C ABC transporter permease	936	KP1_RS17880.fasta
+KP1_RS17885		3673698	1590	microcin C ABC transporter ATP-binding protein YejF	1454	KP1_RS17885.fasta
+KP1_RS17890		3675291	345	hypothetical protein	221	KP1_RS17890.fasta
+KP1_RS17895		3675967	1197	Bcr/CflA family drug resistance efflux transporter	1024	KP1_RS17895.fasta
+KP1_RS17900		3677160	720	16S rRNA pseudouridine(516) synthase	439	KP1_RS17900.fasta
+KP1_RS17905		3678027	1758	ATP-dependent helicase	1285	KP1_RS17905.fasta
+KP1_RS17910		3679921	285	50S ribosomal protein L25	136	KP1_RS17910.fasta
+KP1_RS17925		3682561	597	hypothetical protein	571	KP1_RS17925.fasta
+KP1_RS17930		3683240	762	DeoR family transcriptional regulator	721	KP1_RS17930.fasta
+KP1_RS17935		3684021	1008	nucleoid-associated protein	644	KP1_RS17935.fasta
+KP1_RS17940		3685215	228	hypothetical protein	120	KP1_RS17940.fasta
+KP1_RS17945		3685461	1761	membrane protein	1146	KP1_RS17945.fasta
+KP1_RS17960		3688843	492	ecotin	391	KP1_RS17960.fasta
+KP1_RS17975		3692518	1437	magnesium transporter	1051	KP1_RS17975.fasta
+KP1_RS17980		3694103	1644	multidrug ABC transporter permease/ATP-binding protein	1327	KP1_RS17980.fasta
+KP1_RS17995		3697612	1053	FAD:protein FMN transferase ApbE	949	KP1_RS17995.fasta
+KP1_RS18005		3700637	2658	phosphotransferase RcsD	1698	KP1_RS18005.fasta
+KP1_RS18010		3703310	651	DNA-binding response regulator	455	KP1_RS18010.fasta
+KP1_RS18020		3706978	2634	DNA gyrase subunit A	1682	KP1_RS18020.fasta
+KP1_RS18025		3709758	729	bifunctional 3-demethylubiquinone 3-O-methyltransferase/2-octaprenyl-6-hydroxy phenol methylase	551	KP1_RS18025.fasta
+KP1_RS18030		3710831	2286	ribonucleotide-diphosphate reductase subunit alpha	1352	KP1_RS18030.fasta
+KP1_RS18035		3713218	1131	ribonucleotide-diphosphate reductase subunit beta	800	KP1_RS18035.fasta
+KP1_RS18040		3714348	255	(2Fe-2S) ferredoxin	225	KP1_RS18040.fasta
+KP1_RS18065		3720633	1179	sn-glycerol-3-phosphate dehydrogenase subunit C	952	KP1_RS18065.fasta
+KP1_RS18070		3721833	804	2-keto-3-deoxy-L-rhamnonate aldolase	677	KP1_RS18070.fasta
+KP1_RS18075		3722651	1290	MFS transporter	1030	KP1_RS18075.fasta
+KP1_RS18080		3723983	1206	L-rhamnonate dehydratase	1020	KP1_RS18080.fasta
+KP1_RS18085		3725199	786	IclR family transcriptional regulator	621	KP1_RS18085.fasta
+KP1_RS18095		3727488	543	membrane protein	382	KP1_RS18095.fasta
+KP1_RS18145		3737032	462	GNAT family N-acetyltransferase	438	KP1_RS18145.fasta
+KP1_RS18150		3737551	921	ribonuclease Z	839	KP1_RS18150.fasta
+KP1_RS18155		3738526	1458	NADH-quinone oxidoreductase subunit N	1173	KP1_RS18155.fasta
+KP1_RS18160		3739990	1530	NADH-quinone oxidoreductase subunit M	1045	KP1_RS18160.fasta
+KP1_RS18165		3741689	1842	NADH-quinone oxidoreductase subunit L	1174	KP1_RS18165.fasta
+KP1_RS18170		3743527	303	NADH-quinone oxidoreductase subunit K	175	KP1_RS18170.fasta
+KP1_RS18175		3743826	555	NADH:ubiquinone oxidoreductase subunit J	436	KP1_RS18175.fasta
+KP1_RS18180		3744392	543	NADH-quinone oxidoreductase subunit I	350	KP1_RS18180.fasta
+KP1_RS18185		3744949	978	NADH-quinone oxidoreductase subunit H	611	KP1_RS18185.fasta
+KP1_RS18190		3745923	2727	NADH-quinone oxidoreductase subunit G	1519	KP1_RS18190.fasta
+KP1_RS18195		3748682	1338	NADH-quinone oxidoreductase subunit F	877	KP1_RS18195.fasta
+KP1_RS18200		3750016	501	NADH-quinone oxidoreductase subunit E	327	KP1_RS18200.fasta
+KP1_RS18205		3750519	1797	NADH-quinone oxidoreductase subunit C/D	1189	KP1_RS18205.fasta
+KP1_RS18210		3752414	675	NADH-quinone oxidoreductase subunit B	294	KP1_RS18210.fasta
+KP1_RS18215		3753104	447	NADH-quinone oxidoreductase subunit A	222	KP1_RS18215.fasta
+KP1_RS18230		3756001	1218	aminotransferase AlaT	742	KP1_RS18230.fasta
+KP1_RS18235		3757300	600	5'-deoxynucleotidase	416	KP1_RS18235.fasta
+KP1_RS18240		3757944	1833	citrate transporter	1223	KP1_RS18240.fasta
+KP1_RS18255		3761106	456	hypothetical protein	291	KP1_RS18255.fasta
+KP1_RS18260		3761899	1203	acetate kinase	720	KP1_RS18260.fasta
+KP1_RS18265		3763302	2148	phosphate acetyltransferase	1169	KP1_RS18265.fasta
+KP1_RS18270		3765542	552	NUDIX hydrolase	260	KP1_RS18270.fasta
+KP1_RS18290	folX	3768279	363	dihydroneopterin aldolase	178	KP1_RS18290.fasta
+KP1_RS18295		3768660	894	epimerase	705	KP1_RS18295.fasta
+KP1_RS18310		3770302	774	histidine/lysine/arginine/ornithine ABC transporter ATP-binding protein HisP	478	KP1_RS18310.fasta
+KP1_RS18315		3771083	717	histidine/lysine/arginine/ornithine ABC transporter permease HisM	508	KP1_RS18315.fasta
+KP1_RS18320		3771796	687	histidine/lysine/arginine/ornithine ABC transporter permease HisQ	444	KP1_RS18320.fasta
+KP1_RS18325		3772547	783	histidine ABC transporter substrate-binding protein	549	KP1_RS18325.fasta
+KP1_RS18330		3773597	783	amino acid ABC transporter substrate-binding protein	604	KP1_RS18330.fasta
+KP1_RS18335		3774420	162	hypothetical protein	143	KP1_RS18335.fasta
+KP1_RS18345		3775367	1518	amidophosphoribosyltransferase	796	KP1_RS18345.fasta
+KP1_RS18350		3776918	489	colicin V production protein	203	KP1_RS18350.fasta
+KP1_RS18360		3778302	1269	bifunctional tetrahydrofolate synthase/dihydrofolate synthase	998	KP1_RS18360.fasta
+KP1_RS18365		3779646	984	acetyl-CoA carboxylase subunit beta	450	KP1_RS18365.fasta
+KP1_RS18370		3780752	660	membrane protein	442	KP1_RS18370.fasta
+KP1_RS18375		3781438	813	tRNA pseudouridine(38-40) synthase TruA	431	KP1_RS18375.fasta
+KP1_RS18380		3782250	1014	aspartate-semialdehyde dehydrogenase	706	KP1_RS18380.fasta
+KP1_RS18385		3783327	1137	erythronate-4-phosphate dehydrogenase	822	KP1_RS18385.fasta
+KP1_RS18395		3785638	1176	arabinose transporter	955	KP1_RS18395.fasta
+KP1_RS18400		3787023	1221	beta-ketoacyl-[acyl-carrier-protein] synthase I	667	KP1_RS18400.fasta
+KP1_RS18410		3790452	282	hypothetical protein	161	KP1_RS18410.fasta
+KP1_RS18415		3790765	549	elongation factor P hydroxylase	376	KP1_RS18415.fasta
+KP1_RS18420		3791313	810	membrane protein	549	KP1_RS18420.fasta
+KP1_RS18425		3792122	825	penicillin-insensitive murein endopeptidase	589	KP1_RS18425.fasta
+KP1_RS18430		3792949	1086	chorismate synthase	757	KP1_RS18430.fasta
+KP1_RS18435		3794076	933	ribosomal protein L3 N(5)-glutamine methyltransferase	602	KP1_RS18435.fasta
+KP1_RS18440		3795176	552	hypothetical protein	356	KP1_RS18440.fasta
+KP1_RS18445		3795748	486	phosphohistidine phosphatase	225	KP1_RS18445.fasta
+KP1_RS18450		3796443	2145	multifunctional fatty acid oxidation complex subunit alpha	1464	KP1_RS18450.fasta
+KP1_RS18455	fadI	3798587	1311	acetyl-CoA acetyltransferase	971	KP1_RS18455.fasta
+KP1_RS18465		3800715	1323	long-chain fatty acid transporter	739	KP1_RS18465.fasta
+KP1_RS18470		3802099	762	lipoprotein	381	KP1_RS18470.fasta
+KP1_RS18475		3803150	930	formate transporter	733	KP1_RS18475.fasta
+KP1_RS18525		3811002	1698	membrane protein	1051	KP1_RS18525.fasta
+KP1_RS18530		3812711	738	DNA-binding response regulator	421	KP1_RS18530.fasta
+KP1_RS18535		3813502	966	glucokinase	643	KP1_RS18535.fasta
+KP1_RS18555		3818928	360	hypothetical protein	249	KP1_RS18555.fasta
+KP1_RS18560		3819345	1242	divalent metal cation transporter	827	KP1_RS18560.fasta
+KP1_RS18565		3820933	1203	nucleoside permease	629	KP1_RS18565.fasta
+KP1_RS18585		3824977	354	hypothetical protein	238	KP1_RS18585.fasta
+KP1_RS18595		3825778	1419	glutamate--tRNA ligase	806	KP1_RS18595.fasta
+KP1_RS18630		3830107	219	hypothetical protein	158	KP1_RS18630.fasta
+KP1_RS18635	ligA	3830327	2016	DNA ligase (NAD(+)) LigA	1214	KP1_RS18635.fasta
+KP1_RS18645		3833524	144	hypothetical protein	60	KP1_RS18645.fasta
+KP1_RS18650		3833704	762	sulfate transporter CysZ	596	KP1_RS18650.fasta
+KP1_RS18655		3834643	972	cysteine synthase A	635	KP1_RS18655.fasta
+KP1_RS18660		3835793	159	hypothetical protein	74	KP1_RS18660.fasta
+KP1_RS18665		3835995	258	phosphocarrier protein HPr	114	KP1_RS18665.fasta
+KP1_RS18670		3836297	1728	phosphoenolpyruvate--protein phosphotransferase	877	KP1_RS18670.fasta
+KP1_RS18675		3838067	510	glucose-specific phosphotransferase enzyme IIA component	287	KP1_RS18675.fasta
+KP1_RS18695		3841241	396	hypothetical protein	387	KP1_RS18695.fasta
+KP1_RS18705		3842663	1095	sulfate ABC transporter ATP-binding protein	825	KP1_RS18705.fasta
+KP1_RS18715		3844622	834	sulfate/thiosulfate transporter subunit	594	KP1_RS18715.fasta
+KP1_RS18720		3845455	1017	thiosulfate transporter subunit	679	KP1_RS18720.fasta
+KP1_RS18725		3846471	138	hypothetical protein	73	KP1_RS18725.fasta
+KP1_RS18735		3847111	900	deferrochelatase/peroxidase YfeX	635	KP1_RS18735.fasta
+KP1_RS18740		3848105	576	DUF1131 domain-containing protein	367	KP1_RS18740.fasta
+KP1_RS18745		3848742	450	membrane protein	336	KP1_RS18745.fasta
+KP1_RS18755		3849815	873	N-acetylmuramoyl-L-alanine amidase	481	KP1_RS18755.fasta
+KP1_RS18760		3850687	900	coproporphyrinogen III oxidase	617	KP1_RS18760.fasta
+KP1_RS18850		3866727	2280	bifunctional malic enzyme oxidoreductase/phosphotransacetylase	1386	KP1_RS18850.fasta
+KP1_RS18855		3869301	957	transaldolase	639	KP1_RS18855.fasta
+KP1_RS18860		3870274	1995	transketolase	1410	KP1_RS18860.fasta
+KP1_RS18870		3873368	597	GDP-mannose pyrophosphatase NudK	389	KP1_RS18870.fasta
+KP1_RS18880		3876378	3114	multidrug efflux RND transporter permease subunit	1707	KP1_RS18880.fasta
+KP1_RS18885		3880044	354	arsenate reductase	221	KP1_RS18885.fasta
+KP1_RS18890		3880401	1128	succinyl-diaminopimelate desuccinylase	611	KP1_RS18890.fasta
+KP1_RS18895		3881555	204	membrane protein	122	KP1_RS18895.fasta
+KP1_RS18900		3881807	696	esterase	650	KP1_RS18900.fasta
+KP1_RS18910		3884592	876	hypothetical protein	642	KP1_RS18910.fasta
+KP1_RS18915		3885587	714	phosphoribosylaminoimidazolesuccinocarboxamide synthase	313	KP1_RS18915.fasta
+KP1_RS18920		3886517	1035	outer membrane protein assembly factor BamC	713	KP1_RS18920.fasta
+KP1_RS18925		3887568	879	4-hydroxy-tetrahydrodipicolinate synthase	421	KP1_RS18925.fasta
+KP1_RS18930		3888600	567	glycine cleavage system transcriptional repressor	215	KP1_RS18930.fasta
+KP1_RS18935		3889170	471	peroxiredoxin	276	KP1_RS18935.fasta
+KP1_RS18940		3889701	1062	AI-2E family transporter	740	KP1_RS18940.fasta
+KP1_RS18945		3890817	117	hypothetical protein	69	KP1_RS18945.fasta
+KP1_RS18950		3890985	1464	hypothetical protein	975	KP1_RS18950.fasta
+KP1_RS18955		3892458	360	arsenate reductase (glutaredoxin)	278	KP1_RS18955.fasta
+KP1_RS18960		3892946	924	hypothetical protein	283	KP1_RS18960.fasta
+KP1_RS18965		3893866	678	DnaA regulatory inactivator Hda	321	KP1_RS18965.fasta
+KP1_RS18970		3894666	1287	uracil/xanthine transporter	719	KP1_RS18970.fasta
+KP1_RS18975		3896048	627	uracil phosphoribosyltransferase	294	KP1_RS18975.fasta
+KP1_RS18980		3896892	1434	6-phospho-beta-glucosidase	963	KP1_RS18980.fasta
+KP1_RS18990		3899492	1038	phosphoribosylformylglycinamidine cyclo-ligase	555	KP1_RS18990.fasta
+KP1_RS18995		3900526	642	phosphoribosylglycinamide formyltransferase	451	KP1_RS18995.fasta
+KP1_RS19000		3901348	2061	RNA degradosome polyphosphate kinase	954	KP1_RS19000.fasta
+KP1_RS19005		3903412	1533	exopolyphosphatase	912	KP1_RS19005.fasta
+KP1_RS19015		3907597	174	membrane protein	118	KP1_RS19015.fasta
+KP1_RS19040		3913486	1578	GMP synthetase	1299	KP1_RS19040.fasta
+KP1_RS19045		3915131	1467	IMP dehydrogenase	878	KP1_RS19045.fasta
+KP1_RS19050		3916756	1392	exodeoxyribonuclease VII large subunit	1008	KP1_RS19050.fasta
+KP1_RS19065		3919596	1479	ribosome biogenesis GTPase Der	950	KP1_RS19065.fasta
+KP1_RS19070		3921188	1179	outer membrane protein assembly factor BamB	755	KP1_RS19070.fasta
+KP1_RS19075		3922377	621	membrane protein	306	KP1_RS19075.fasta
+KP1_RS19080		3923032	1275	histidine--tRNA ligase	817	KP1_RS19080.fasta
+KP1_RS19085		3924398	1122	4-hydroxy-3-methylbut-2-en-1-yl diphosphate synthase (flavodoxin)	590	KP1_RS19085.fasta
+KP1_RS19090		3925546	996	cytoskeleton protein RodZ	639	KP1_RS19090.fasta
+KP1_RS19095		3926818	1167	bifunctional tRNA (adenosine(37)-C2)-methyltransferase TrmG/ribosomal RNA large subunit methyltransferase RlmN	725	KP1_RS19095.fasta
+KP1_RS19100		3928467	432	nucleoside-diphosphate kinase	336	KP1_RS19100.fasta
+KP1_RS19115		3936539	858	3-mercaptopyruvate sulfurtransferase	635	KP1_RS19115.fasta
+KP1_RS19125		3938536	777	enhanced serine sensitivity protein SseB	693	KP1_RS19125.fasta
+KP1_RS19130		3939411	1287	peptidase B	896	KP1_RS19130.fasta
+KP1_RS19135		3940768	201	Fe-S assembly protein IscX	118	KP1_RS19135.fasta
+KP1_RS19140		3940970	336	"ferredoxin, 2Fe-2S type, ISC system"	192	KP1_RS19140.fasta
+KP1_RS19145		3941307	1851	molecular chaperone HscA	1098	KP1_RS19145.fasta
+KP1_RS19150		3943173	516	co-chaperone protein HscB	290	KP1_RS19150.fasta
+KP1_RS19155		3943763	324	iron-binding protein	150	KP1_RS19155.fasta
+KP1_RS19160		3944104	387	iron-sulfur cluster scaffold-like protein	263	KP1_RS19160.fasta
+KP1_RS19165		3944517	1215	IscS subfamily cysteine desulfurase	779	KP1_RS19165.fasta
+KP1_RS19170		3945910	492	Fe-S cluster assembly transcriptional regulator IscR	260	KP1_RS19170.fasta
+KP1_RS19175		3946636	735	tRNA (cytosine(32)/uridine(32)-2'-O)-methyltransferase TrmJ	459	KP1_RS19175.fasta
+KP1_RS19180		3947491	804	inositol monophosphatase	489	KP1_RS19180.fasta
+KP1_RS19205		3952285	1137	3-phenylpropionic acid transporter	893	KP1_RS19205.fasta
+KP1_RS19235		3960978	1254	serine hydroxymethyltransferase	960	KP1_RS19235.fasta
+KP1_RS19240		3962557	1191	flavohemoprotein	857	KP1_RS19240.fasta
+KP1_RS19245		3963822	339	nitrogen regulatory protein P-II	177	KP1_RS19245.fasta
+KP1_RS19250		3964226	1338	two-component system response regulator GlrR	862	KP1_RS19250.fasta
+KP1_RS19260		3966266	1440	two-component sensor histidine kinase	1013	KP1_RS19260.fasta
+KP1_RS19265		3968278	3888	phosphoribosylformylglycinamidine synthase	1857	KP1_RS19265.fasta
+KP1_RS19275		3972341	1617	lytic transglycosylase F	1060	KP1_RS19275.fasta
+KP1_RS19280		3973954	510	tRNA adenosine(34) deaminase TadA	347	KP1_RS19280.fasta
+KP1_RS19285		3974526	636	phosphatidylglycerophosphatase C	383	KP1_RS19285.fasta
+KP1_RS19290		3975375	849	transcriptional regulator	598	KP1_RS19290.fasta
+KP1_RS19295		3976280	261	ferredoxin	220	KP1_RS19295.fasta
+KP1_RS19305		3976933	732	pyridoxine 5'-phosphate synthase	553	KP1_RS19305.fasta
+KP1_RS19310		3977676	738	DNA repair protein RecO	542	KP1_RS19310.fasta
+KP1_RS19315		3978425	906	GTPase Era	540	KP1_RS19315.fasta
+KP1_RS19320		3979327	681	ribonuclease 3	339	KP1_RS19320.fasta
+KP1_RS19330		3980257	975	S26 family signal peptidase	505	KP1_RS19330.fasta
+KP1_RS19335		3981247	1800	elongation factor 4	1017	KP1_RS19335.fasta
+KP1_RS19340		3983232	480	SoxR reducing system protein RseC	308	KP1_RS19340.fasta
+KP1_RS19345		3983708	957	sigma-E factor regulatory protein RseB	661	KP1_RS19345.fasta
+KP1_RS19350		3984664	651	anti-RNA polymerase sigma factor SigE	305	KP1_RS19350.fasta
+KP1_RS19355		3985347	576	RNA polymerase sigma factor RpoE	229	KP1_RS19355.fasta
+KP1_RS19360		3986343	1620	L-aspartate oxidase	1073	KP1_RS19360.fasta
+KP1_RS19375		3990193	384	autonomous glycyl radical cofactor GrcA	263	KP1_RS19375.fasta
+KP1_RS19380		3990889	690	uracil-DNA glycosylase	520	KP1_RS19380.fasta
+KP1_RS19390		3992925	426	thiol reductase thioredoxin	225	KP1_RS19390.fasta
+KP1_RS19405	pssA	3996925	1356	phosphatidylserine synthase	631	KP1_RS19405.fasta
+KP1_RS19410		3998322	324	lipoprotein	197	KP1_RS19410.fasta
+KP1_RS19415		3998649	1299	MFS transporter	772	KP1_RS19415.fasta
+KP1_RS19445		4005960	2574	chaperone protein ClpB	1260	KP1_RS19445.fasta
+KP1_RS19450		4008663	732	hypothetical protein	523	KP1_RS19450.fasta
+KP1_RS19455		4009391	981	23S rRNA pseudouridine(1911/1915/1917) synthase	575	KP1_RS19455.fasta
+KP1_RS19460		4010503	738	outer membrane biogenesis protein BamD	353	KP1_RS19460.fasta
+KP1_RS19465		4011511	336	translation inhibitor protein RaiA	155	KP1_RS19465.fasta
+KP1_RS19470		4012101	1161	bifunctional chorismate mutase/prephenate dehydratase	650	KP1_RS19470.fasta
+KP1_RS19475		4013258	873	gluconolactonase	604	KP1_RS19475.fasta
+KP1_RS19480	tyrA	4014194	1122	bifunctional chorismate mutase/prephenate dehydrogenase	726	KP1_RS19480.fasta
+KP1_RS19485		4015325	1071	phospho-2-dehydro-3-deoxyheptonate aldolase	659	KP1_RS19485.fasta
+KP1_RS19505		4018968	1371	membrane protein	916	KP1_RS19505.fasta
+KP1_RS19520		4020974	348	50S ribosomal protein L19	112	KP1_RS19520.fasta
+KP1_RS19525		4021361	768	tRNA (guanosine(37)-N1)-methyltransferase TrmD	415	KP1_RS19525.fasta
+KP1_RS19530	rimM	4022160	549	ribosome maturation factor RimM	233	KP1_RS19530.fasta
+KP1_RS19535		4022727	249	30S ribosomal protein S16	98	KP1_RS19535.fasta
+KP1_RS19540		4023235	1365	signal recognition particle protein	983	KP1_RS19540.fasta
+KP1_RS19545		4024763	792	inner membrane protein YpjD	489	KP1_RS19545.fasta
+KP1_RS19555		4026980	591	nucleotide exchange factor GrpE	390	KP1_RS19555.fasta
+KP1_RS19560		4027695	879	NAD(+) kinase	537	KP1_RS19560.fasta
+KP1_RS19565		4028660	1662	DNA repair protein RecN	1184	KP1_RS19565.fasta
+KP1_RS19575		4030469	342	outer membrane biogenesis protein BamE	183	KP1_RS19575.fasta
+KP1_RS19585		4031157	438	ubiquinone-binding protein	259	KP1_RS19585.fasta
+KP1_RS19590		4031744	483	SsrA-binding protein	362	KP1_RS19590.fasta
+KP1_RS19845		4091096	606	FMN-dependent NADH-azoreductase	607	KP1_RS19845.fasta
+KP1_RS19850		4091777	300	transcriptional regulator	228	KP1_RS19850.fasta
+KP1_RS19860		4092610	903	aspartyl/asparaginyl beta-hydroxylase	502	KP1_RS19860.fasta
+KP1_RS19870		4093970	402	DNA-binding protein	257	KP1_RS19870.fasta
+KP1_RS19880		4095100	450	membrane protein	326	KP1_RS19880.fasta
+KP1_RS19885		4095635	363	hypothetical protein	141	KP1_RS19885.fasta
+KP1_RS19890		4096147	348	membrane protein	227	KP1_RS19890.fasta
+KP1_RS19900		4098079	432	alkylhydroperoxidase	358	KP1_RS19900.fasta
+KP1_RS19905		4098694	246	NrdH-redoxin	214	KP1_RS19905.fasta
+KP1_RS19915		4099319	2142	ribonucleoside-diphosphate reductase subunit alpha	1412	KP1_RS19915.fasta
+KP1_RS19920		4101471	963	ribonucleotide-diphosphate reductase subunit beta	606	KP1_RS19920.fasta
+KP1_RS19925		4102790	1203	glycine betaine/L-proline ABC transporter ATP-binding protein	704	KP1_RS19925.fasta
+KP1_RS19935		4105116	999	glycine betaine ABC transporter substrate-binding protein	741	KP1_RS19935.fasta
+KP1_RS19940		4106294	747	branched-chain amino acid transporter AzlC	660	KP1_RS19940.fasta
+KP1_RS19955		4107456	531	transcriptional regulator	242	KP1_RS19955.fasta
+KP1_RS19975		4110972	1677	2-isopropylmalate synthase	1148	KP1_RS19975.fasta
+KP1_RS19985		4113447	516	S-ribosylhomocysteine lyase	276	KP1_RS19985.fasta
+KP1_RS19990		4114119	1557	glutamate--cysteine ligase	933	KP1_RS19990.fasta
+KP1_RS19995		4115742	429	membrane protein	275	KP1_RS19995.fasta
+KP1_RS20000		4116167	567	fructose-1-P/6-phosphogluconate phosphatase	404	KP1_RS20000.fasta
+KP1_RS20040		4118695	186	carbon storage regulator	111	KP1_RS20040.fasta
+KP1_RS20045		4119244	2628	alanine--tRNA ligase	1368	KP1_RS20045.fasta
+KP1_RS20050		4122122	501	regulatory protein RecX	351	KP1_RS20050.fasta
+KP1_RS20055		4122690	1059	DNA recombination/repair protein RecA	671	KP1_RS20055.fasta
+KP1_RS20060		4123839	498	hypothetical protein	260	KP1_RS20060.fasta
+KP1_RS20065		4124476	879	metal ABC transporter substrate-binding protein	662	KP1_RS20065.fasta
+KP1_RS20070		4125362	864	iron ABC transporter	613	KP1_RS20070.fasta
+KP1_RS20085	srlA	4128628	564	PTS sorbitol transporter subunit IIC	368	KP1_RS20085.fasta
+KP1_RS20100		4130557	780	sorbitol 6-phosphate dehydrogenase	474	KP1_RS20100.fasta
+KP1_RS20130		4135352	1449	anaerobic nitric oxide reductase flavorubredoxin	1187	KP1_RS20130.fasta
+KP1_RS20140		4138027	1014	nickel transporter	961	KP1_RS20140.fasta
+KP1_RS20150		4141280	528	formate dehydrogenase-H ferredoxin subunit	386	KP1_RS20150.fasta
+KP1_RS20155		4141944	1014	transcriptional regulator	786	KP1_RS20155.fasta
+KP1_RS20165		4143225	1443	PTS cellobiose/arbutin/salicin transporter subunit IIBC	1197	KP1_RS20165.fasta
+KP1_RS20170		4144694	1425	6-phospho-beta-glucosidase	1109	KP1_RS20170.fasta
+KP1_RS20175		4146300	309	hypothetical protein	238	KP1_RS20175.fasta
+KP1_RS20180		4146605	471	hydrogenase 3 maturation endopeptidase HyCI	416	KP1_RS20180.fasta
+KP1_RS20190		4147475	768	formate hydrogenlyase subunit 7	578	KP1_RS20190.fasta
+KP1_RS20195		4148242	543	formate hydrogenlyase complex iron-sulfur subunit	451	KP1_RS20195.fasta
+KP1_RS20200	hycE	4148794	1710	hydrogenase 3 large subunit	1292	KP1_RS20200.fasta
+KP1_RS20205	hycD	4150520	924	hydrogenase 3 membrane subunit	697	KP1_RS20205.fasta
+KP1_RS20220		4153960	450	formate hydrogenlyase regulatory protein HycA	270	KP1_RS20220.fasta
+KP1_RS20225		4154619	345	hydrogenase nickel incorporation protein HypA	276	KP1_RS20225.fasta
+KP1_RS20230		4154967	873	hydrogenase nickel incorporation protein HypB	679	KP1_RS20230.fasta
+KP1_RS20300		4171445	918	metal ABC transporter substrate-binding protein	788	KP1_RS20300.fasta
+KP1_RS20305		4172359	822	manganese transporter	879	KP1_RS20305.fasta
+KP1_RS20315		4174019	855	membrane protein	732	KP1_RS20315.fasta
+KP1_RS20350		4182090	1032	hemin-degrading factor	894	KP1_RS20350.fasta
+KP1_RS20355		4183118	819	hemin ABC transporter substrate-binding protein	769	KP1_RS20355.fasta
+KP1_RS20380		4189028	237	hypothetical protein	213	KP1_RS20380.fasta
+KP1_RS20390		4190702	594	phenolic acid decarboxylase subunit B	438	KP1_RS20390.fasta
+KP1_RS20395		4191469	408	transcriptional regulator	231	KP1_RS20395.fasta
+KP1_RS20405		4192881	1203	MFS transporter	1065	KP1_RS20405.fasta
+KP1_RS20415		4194510	993	RNA polymerase sigma factor	569	KP1_RS20415.fasta
+KP1_RS20420	nlpD	4195660	1131	lipoprotein NlpD	614	KP1_RS20420.fasta
+KP1_RS20435		4198278	1050	tRNA pseudouridine(13) synthase TruD	751	KP1_RS20435.fasta
+KP1_RS20440		4199324	480	"2-C-methyl-D-erythritol 2,4-cyclodiphosphate synthase"	273	KP1_RS20440.fasta
+KP1_RS20445		4199803	711	2-C-methyl-D-erythritol 4-phosphate cytidylyltransferase	478	KP1_RS20445.fasta
+KP1_RS20450		4200533	318	cell division protein FtsB	123	KP1_RS20450.fasta
+KP1_RS20455		4200991	327	membrane protein	196	KP1_RS20455.fasta
+KP1_RS20460		4201368	606	adenylyl-sulfate kinase	373	KP1_RS20460.fasta
+KP1_RS20465		4201973	1428	sulfate adenylyltransferase	1073	KP1_RS20465.fasta
+KP1_RS20470		4203410	909	sulfate adenylyltransferase subunit 2	633	KP1_RS20470.fasta
+KP1_RS20475		4204328	1416	siroheme synthase	1124	KP1_RS20475.fasta
+KP1_RS20485		4207101	735	phosphoadenosine phosphosulfate reductase	575	KP1_RS20485.fasta
+KP1_RS20490		4207934	1713	sulfite reductase subunit beta	1064	KP1_RS20490.fasta
+KP1_RS20505		4211765	363	6-carboxytetrahydropterin synthase QueD	272	KP1_RS20505.fasta
+KP1_RS20510		4212168	672	7-carboxy-7-deazaguanine synthase QueE	473	KP1_RS20510.fasta
+KP1_RS20525		4214489	1299	enolase	769	KP1_RS20525.fasta
+KP1_RS20530		4215869	1638	CTP synthetase	845	KP1_RS20530.fasta
+KP1_RS20540		4218690	2238	GTP diphosphokinase	1185	KP1_RS20540.fasta
+KP1_RS20545	rumA	4221049	1305	23S rRNA (uracil(1939)-C(5))-methyltransferase RlmD	1018	KP1_RS20545.fasta
+KP1_RS20550		4222467	2751	hybrid sensor histidine kinase/response regulator	1995	KP1_RS20550.fasta
+KP1_RS20555		4225375	1140	glycerate kinase	802	KP1_RS20555.fasta
+KP1_RS20560		4226587	1341	glucarate dehydratase	897	KP1_RS20560.fasta
+KP1_RS20565		4227945	1341	glucarate dehydratase	1040	KP1_RS20565.fasta
+KP1_RS20580		4231560	795	tRNA pseudouridine(65) synthase TruC	541	KP1_RS20580.fasta
+KP1_RS20585		4232354	330	hypothetical protein	211	KP1_RS20585.fasta
+KP1_RS20590		4233315	546	protein Syd	365	KP1_RS20590.fasta
+KP1_RS20595		4233929	846	NADPH-dependent 7-cyano-7-deazaguanine reductase QueF	610	KP1_RS20595.fasta
+KP1_RS20600		4234886	1368	LOG family protein	661	KP1_RS20600.fasta
+KP1_RS20605		4236763	1290	serine transporter	985	KP1_RS20605.fasta
+KP1_RS20610		4238118	1368	L-serine ammonia-lyase	835	KP1_RS20610.fasta
+KP1_RS20675		4253271	1149	lactaldehyde reductase	1087	KP1_RS20675.fasta
+KP1_RS20680		4254447	648	fuculose phosphate aldolase	474	KP1_RS20680.fasta
+KP1_RS20690		4255661	1311	MFS transporter	1072	KP1_RS20690.fasta
+KP1_RS20695		4257004	1776	L-fucose isomerase	1296	KP1_RS20695.fasta
+KP1_RS20705		4260307	423	L-fucose mutarotase	339	KP1_RS20705.fasta
+KP1_RS20710		4260788	711	transcriptional regulator	437	KP1_RS20710.fasta
+KP1_RS20715		4261547	1101	23S rRNA (cytidine(2498)-2'-O)-methyltransferase RlmM	766	KP1_RS20715.fasta
+KP1_RS20725		4263055	918	transcriptional regulator GcvA	432	KP1_RS20725.fasta
+KP1_RS20730		4264324	225	hypothetical protein	100	KP1_RS20730.fasta
+KP1_RS20740		4265951	432	"cysteine desulfurase, sulfur acceptor subunit CsdE"	240	KP1_RS20740.fasta
+KP1_RS20750		4267334	1098	murein transglycosylase A	732	KP1_RS20750.fasta
+KP1_RS20975		4303669	903	GHMP kinase	677	KP1_RS20975.fasta
+KP1_RS20980		4304575	1077	threonine-phosphate decarboxylase	928	KP1_RS20980.fasta
+KP1_RS20985	amiC	4305669	1254	N-acetylmuramoyl-L-alanine amidase	895	KP1_RS20985.fasta
+KP1_RS20990		4307150	1332	amino-acid N-acetyltransferase	731	KP1_RS20990.fasta
+KP1_RS21010		4314463	2886	pitrilysin	1575	KP1_RS21010.fasta
+KP1_RS21025		4321167	408	hypothetical protein	339	KP1_RS21025.fasta
+KP1_RS21035		4322125	552	hypothetical protein	582	KP1_RS21035.fasta
+KP1_RS21040		4322863	795	thymidylate synthase	629	KP1_RS21040.fasta
+KP1_RS21045		4323664	876	prolipoprotein diacylglyceryl transferase	557	KP1_RS21045.fasta
+KP1_RS21050		4324785	2247	phosphoenolpyruvate--protein phosphotransferase PtsP	1196	KP1_RS21050.fasta
+KP1_RS21055		4327044	531	RNA pyrophosphohydrolase	177	KP1_RS21055.fasta
+KP1_RS21065		4328257	696	DNA mismatch repair protein MutH	558	KP1_RS21065.fasta
+KP1_RS21090		4332621	2160	bifunctional 2-acylglycerophosphoethanolamine acyltransferase/acyl-ACP synthetase	1435	KP1_RS21090.fasta
+KP1_RS21100		4335402	1017	transcriptional regulator GalR	770	KP1_RS21100.fasta
+KP1_RS21110		4336855	774	transcriptional regulator	509	KP1_RS21110.fasta
+KP1_RS21115		4337696	1428	beta-glucosidase	1069	KP1_RS21115.fasta
+KP1_RS21120		4339131	1338	PTS lactose transporter subunit IIC	960	KP1_RS21120.fasta
+KP1_RS21130		4341762	1263	diaminopimelate decarboxylase	1019	KP1_RS21130.fasta
+KP1_RS21135		4343161	927	LysR family transcriptional regulator	718	KP1_RS21135.fasta
+KP1_RS21145		4344906	327	cupin	273	KP1_RS21145.fasta
+KP1_RS21155		4346567	903	sugar ABC transporter permease	552	KP1_RS21155.fasta
+KP1_RS21165		4348626	1287	sugar ABC transporter substrate-binding protein	823	KP1_RS21165.fasta
+KP1_RS21325	fimA	4380607	549	type-1 fimbrial protein subunit A	373	KP1_RS21325.fasta
+KP1_RS21330		4381226	537	fimbrin fimI	427	KP1_RS21330.fasta
+KP1_RS21340		4382598	2613	outer membrane usher protein	1662	KP1_RS21340.fasta
+KP1_RS21350		4385761	501	fimbrial protein FimG	352	KP1_RS21350.fasta
+KP1_RS21355		4386279	906	fimbrial protein	1255	KP1_RS21355.fasta
+KP1_RS21365		4388636	273	hypothetical protein	145	KP1_RS21365.fasta
+KP1_RS21370		4388920	231	hypothetical protein	133	KP1_RS21370.fasta
+KP1_RS21375		4389356	273	hypothetical protein	158	KP1_RS21375.fasta
+KP1_RS21380		4389635	1026	multidrug transporter subunit MdtN	678	KP1_RS21380.fasta
+KP1_RS21390		4392607	1449	multidrug resistance transporter	1196	KP1_RS21390.fasta
+KP1_RS21405		4396830	423	arsenate reductase (glutaredoxin)	422	KP1_RS21405.fasta
+KP1_RS21415		4398606	330	transcriptional regulator	316	KP1_RS21415.fasta
+KP1_RS21485		4408451	555	isopentenyl-diphosphate Delta-isomerase	395	KP1_RS21485.fasta
+KP1_RS21495		4410767	882	peptide chain release factor 2	622	KP1_RS21495.fasta
+KP1_RS21505		4413690	714	thiol:disulfide interchange protein DsbC	588	KP1_RS21505.fasta
+KP1_RS21510		4414426	897	site-specific tyrosine recombinase XerD	486	KP1_RS21510.fasta
+KP1_RS21515		4415423	522	flavodoxin FldB	316	KP1_RS21515.fasta
+KP1_RS21520		4415951	411	membrane protein	254	KP1_RS21520.fasta
+KP1_RS21535		4417936	660	hemolysin III family protein	531	KP1_RS21535.fasta
+KP1_RS21545		4419120	729	transcriptional regulator	493	KP1_RS21545.fasta
+KP1_RS21550		4419967	1434	6-phospho-beta-glucosidase	1130	KP1_RS21550.fasta
+KP1_RS21555		4421525	360	copper resistance protein	319	KP1_RS21555.fasta
+KP1_RS21565		4423945	612	DSBA oxidoreductase	695	KP1_RS21565.fasta
+KP1_RS21575		4425170	744	NAD(P)-dependent oxidoreductase	805	KP1_RS21575.fasta
+KP1_RS21580		4425976	2874	glycine dehydrogenase (aminomethyl-transferring)	1658	KP1_RS21580.fasta
+KP1_RS21585		4429056	390	glycine cleavage system protein H	351	KP1_RS21585.fasta
+KP1_RS21590	gcvT	4429470	1095	glycine cleavage system protein T	863	KP1_RS21590.fasta
+KP1_RS21605		4433375	1317	Xaa-Pro aminopeptidase	830	KP1_RS21605.fasta
+KP1_RS21615		4435460	330	cell division protein ZapA	129	KP1_RS21615.fasta
+KP1_RS21665		4442761	1080	class II fructose-bisphosphate aldolase	723	KP1_RS21665.fasta
+KP1_RS21670		4443938	1164	phosphoglycerate kinase	650	KP1_RS21670.fasta
+KP1_RS21685		4448823	759	metalloprotease	504	KP1_RS21685.fasta
+KP1_RS21695		4450042	921	agmatinase	669	KP1_RS21695.fasta
+KP1_RS21700		4451196	1977	arginine decarboxylase	1056	KP1_RS21700.fasta
+KP1_RS21705		4453696	171	hypothetical protein	91	KP1_RS21705.fasta
+KP1_RS21710		4454014	1155	S-adenosylmethionine synthase	742	KP1_RS21710.fasta
+KP1_RS21715		4455553	1395	MFS transporter	853	KP1_RS21715.fasta
+KP1_RS21720		4457025	501	SprT family protein	317	KP1_RS21720.fasta
+KP1_RS21725		4457620	708	deoxyribonuclease I	403	KP1_RS21725.fasta
+KP1_RS21730		4458419	732	16S rRNA (uracil(1498)-N(3))-methyltransferase	400	KP1_RS21730.fasta
+KP1_RS21740		4460296	564	hypothetical protein	297	KP1_RS21740.fasta
+KP1_RS21745		4460859	417	crossover junction endodeoxyribonuclease RuvA	234	KP1_RS21745.fasta
+KP1_RS21750		4461328	654	transcriptional regulator CsgD	545	KP1_RS21750.fasta
+KP1_RS21765		4463327	702	YggS family pyridoxal phosphate enzyme	394	KP1_RS21765.fasta
+KP1_RS21770		4464049	567	hypothetical protein	361	KP1_RS21770.fasta
+KP1_RS21775		4464612	291	YggU family protein	208	KP1_RS21775.fasta
+KP1_RS21785		4465501	1140	YggW family oxidoreductase	858	KP1_RS21785.fasta
+KP1_RS21805		4470147	720	hypothetical protein	713	KP1_RS21805.fasta
+KP1_RS21810		4470917	327	hypothetical protein	171	KP1_RS21810.fasta
+KP1_RS21815		4471243	720	tRNA (guanosine(46)-N7)-methyltransferase TrmB	451	KP1_RS21815.fasta
+KP1_RS21820		4472099	1059	A/G-specific adenine glycosylase	827	KP1_RS21820.fasta
+KP1_RS21825		4473186	276	Fe(2+)-trafficking protein	176	KP1_RS21825.fasta
+KP1_RS21830		4473508	1086	lytic murein transglycosylase	657	KP1_RS21830.fasta
+KP1_RS21840		4476082	2139	ornithine decarboxylase	1253	KP1_RS21840.fasta
+KP1_RS21845		4478640	714	membrane protein	468	KP1_RS21845.fasta
+KP1_RS21915		4491472	123	hypothetical protein	48	KP1_RS21915.fasta
+KP1_RS21920		4491615	561	hypothetical protein	374	KP1_RS21920.fasta
+KP1_RS21935		4493528	888	dienelactone hydrolase	866	KP1_RS21935.fasta
+KP1_RS21955		4498298	426	biopolymer transport protein ExbD	256	KP1_RS21955.fasta
+KP1_RS21960		4498730	732	biopolymer transporter ExbB	458	KP1_RS21960.fasta
+KP1_RS21975		4501031	660	membrane protein	283	KP1_RS21975.fasta
+KP1_RS21985		4502836	1164	NADH-dependent alcohol dehydrogenase	813	KP1_RS21985.fasta
+KP1_RS21990		4504145	828	"2,5-diketo-D-gluconate reductase A"	484	KP1_RS21990.fasta
+KP1_RS22005		4507900	1413	cell division protein FtsP	830	KP1_RS22005.fasta
+KP1_RS22010		4509396	738	1-acyl-sn-glycerol-3-phosphate acyltransferase	362	KP1_RS22010.fasta
+KP1_RS22015		4510325	2259	DNA topoisomerase IV subunit A	1165	KP1_RS22015.fasta
+KP1_RS22020		4512705	870	AraC family transcriptional regulator	613	KP1_RS22020.fasta
+KP1_RS22030		4514198	660	two-component system response regulator QseB	470	KP1_RS22030.fasta
+KP1_RS22045		4516972	315	quinol monooxygenase	250	KP1_RS22045.fasta
+KP1_RS22050		4517360	1896	DNA topoisomerase IV subunit B	1125	KP1_RS22050.fasta
+KP1_RS22055		4519286	576	esterase YqiA	394	KP1_RS22055.fasta
+KP1_RS22060		4519861	828	phosphodiesterase	401	KP1_RS22060.fasta
+KP1_RS22065		4520713	423	hypothetical protein	151	KP1_RS22065.fasta
+KP1_RS22070		4521132	633	ADP-ribose diphosphatase	287	KP1_RS22070.fasta
+KP1_RS22080		4523598	672	membrane protein	401	KP1_RS22080.fasta
+KP1_RS22085		4524275	1161	hypothetical protein	773	KP1_RS22085.fasta
+KP1_RS22090		4525480	792	dioxygenase	617	KP1_RS22090.fasta
+KP1_RS22095		4526458	771	zinc transporter ZupT	612	KP1_RS22095.fasta
+KP1_RS22100		4527290	654	"3,4-dihydroxy-2-butanone-4-phosphate synthase"	465	KP1_RS22100.fasta
+KP1_RS22105		4528321	273	hypothetical protein	156	KP1_RS22105.fasta
+KP1_RS22110		4528629	198	glycogen synthase	119	KP1_RS22110.fasta
+KP1_RS22120		4529045	1434	bifunctional heptose 7-phosphate kinase/heptose 1-phosphate adenyltransferase	912	KP1_RS22120.fasta
+KP1_RS22125		4530537	2838	glutamine-synthetase adenylyltransferase	1526	KP1_RS22125.fasta
+KP1_RS22135		4534908	621	hypothetical protein	307	KP1_RS22135.fasta
+KP1_RS22140		4535590	1242	multifunctional CCA tRNA nucleotidyl transferase/2'3'-cyclic phosphodiesterase/2'nucleotidase/phosphatase	867	KP1_RS22140.fasta
+KP1_RS22145		4536843	822	undecaprenyl-diphosphatase	342	KP1_RS22145.fasta
+KP1_RS22150		4537863	384	dihydroneopterin aldolase	167	KP1_RS22150.fasta
+KP1_RS22155		4538354	618	glycerol-3-phosphate acyltransferase	347	KP1_RS22155.fasta
+KP1_RS22175		4540203	303	urease subunit gamma	186	KP1_RS22175.fasta
+KP1_RS22190		4542541	477	urease accessory protein	321	KP1_RS22190.fasta
+KP1_RS22200		4543702	618	urease accessory protein UreG	348	KP1_RS22200.fasta
+KP1_RS22205		4544473	1608	allantoin permease	1122	KP1_RS22205.fasta
+KP1_RS22210		4546125	1014	tRNA (adenosine(37)-N6)-threonylcarbamoyltransferase complex transferase subunit TsaD	590	KP1_RS22210.fasta
+KP1_RS22215		4547376	216	30S ribosomal protein S21	69	KP1_RS22215.fasta
+KP1_RS22220		4547703	1746	DNA primase	756	KP1_RS22220.fasta
+KP1_RS22225		4549667	1842	RNA polymerase sigma factor RpoD	1067	KP1_RS22225.fasta
+KP1_RS22230		4551608	507	mismatch-specific DNA-glycosylase	425	KP1_RS22230.fasta
+KP1_RS22355		4576728	774	siderophore-interacting protein	587	KP1_RS22355.fasta
+KP1_RS22365		4577741	555	PadR family transcriptional regulator	430	KP1_RS22365.fasta
+KP1_RS22370		4578553	1380	putrescine aminotransferase	1067	KP1_RS22370.fasta
+KP1_RS22375		4579979	297	autoinducer 2-degrading protein LsrG	267	KP1_RS22375.fasta
+KP1_RS22380		4580272	888	aldolase	796	KP1_RS22380.fasta
+KP1_RS22390		4582174	999	histidine kinase	825	KP1_RS22390.fasta
+KP1_RS22395		4583173	1035	autoinducer 2 ABC transporter permease LsrC	1103	KP1_RS22395.fasta
+KP1_RS22400		4584204	1488	autoinducer 2 ABC transporter ATP-binding protein LsrA	1322	KP1_RS22400.fasta
+KP1_RS22405		4585910	972	transcriptional regulator	960	KP1_RS22405.fasta
+KP1_RS22440		4593994	990	oxidoreductase	745	KP1_RS22440.fasta
+KP1_RS22445		4595255	972	membrane protein	641	KP1_RS22445.fasta
+KP1_RS22450		4596493	1248	serine/threonine transporter SstT	758	KP1_RS22450.fasta
+KP1_RS22455		4597756	555	membrane protein	421	KP1_RS22455.fasta
+KP1_RS22460		4598440	1488	altronate hydrolase	895	KP1_RS22460.fasta
+KP1_RS22465		4599946	1413	uronate isomerase	915	KP1_RS22465.fasta
+KP1_RS22470		4601839	1302	MFS transporter	951	KP1_RS22470.fasta
+KP1_RS22475		4603268	777	GntR family transcriptional regulator	535	KP1_RS22475.fasta
+KP1_RS22480		4604385	663	membrane protein	345	KP1_RS22480.fasta
+KP1_RS22485		4605050	384	membrane protein	259	KP1_RS22485.fasta
+KP1_RS22490		4605583	369	hypothetical protein	194	KP1_RS22490.fasta
+KP1_RS22495		4605997	306	membrane protein	145	KP1_RS22495.fasta
+KP1_RS22500		4606305	399	membrane protein	247	KP1_RS22500.fasta
+KP1_RS22510		4607342	393	membrane protein	238	KP1_RS22510.fasta
+KP1_RS22520		4608928	369	DUF805 domain-containing protein	163	KP1_RS22520.fasta
+KP1_RS22525		4609338	897	LysR family transcriptional regulator	586	KP1_RS22525.fasta
+KP1_RS22530		4610339	702	hypothetical protein	416	KP1_RS22530.fasta
+KP1_RS22560		4614573	891	2-hydroxy-3-oxopropionate reductase	560	KP1_RS22560.fasta
+KP1_RS22565		4615490	771	5-keto-4-deoxy-D-glucarate aldolase	555	KP1_RS22565.fasta
+KP1_RS22655		4632429	864	rRNA (cytidine-2'-O-)-methyltransferase	669	KP1_RS22655.fasta
+KP1_RS22660		4633356	2109	penicillin-binding protein activator	1318	KP1_RS22660.fasta
+KP1_RS22670		4635834	591	DnaA initiator-associating protein DiaA	220	KP1_RS22670.fasta
+KP1_RS22675		4636434	576	osmotically-inducible protein OsmY	323	KP1_RS22675.fasta
+KP1_RS22680		4637131	1041	membrane protein	829	KP1_RS22680.fasta
+KP1_RS22690		4639023	537	glutamine amidotransferase	328	KP1_RS22690.fasta
+KP1_RS22710		4640788	525	SCP2 domain-containing protein	277	KP1_RS22710.fasta
+KP1_RS22715		4641534	996	protease	629	KP1_RS22715.fasta
+KP1_RS22720		4642535	879	U32 family peptidase	631	KP1_RS22720.fasta
+KP1_RS22725		4643557	1008	hypothetical protein	807	KP1_RS22725.fasta
+KP1_RS22730		4644609	1245	tryptophan permease	999	KP1_RS22730.fasta
+KP1_RS22740		4648107	885	lipoprotein NlpI	419	KP1_RS22740.fasta
+KP1_RS22745		4649101	2136	polyribonucleotide nucleotidyltransferase	1199	KP1_RS22745.fasta
+KP1_RS22755		4651479	270	30S ribosomal protein S15	122	KP1_RS22755.fasta
+KP1_RS22760		4651897	945	tRNA pseudouridine(55) synthase TruB	632	KP1_RS22760.fasta
+KP1_RS22765		4652841	402	ribosome-binding factor A	210	KP1_RS22765.fasta
+KP1_RS22775	nusA	4656060	1488	transcription termination protein NusA	539	KP1_RS22775.fasta
+KP1_RS22780		4657575	453	ribosome maturation factor	127	KP1_RS22780.fasta
+KP1_RS22795		4658620	1344	argininosuccinate synthase	642	KP1_RS22795.fasta
+KP1_RS22825		4662897	1338	phosphoglucosamine mutase	784	KP1_RS22825.fasta
+KP1_RS22835	hflB	4665169	1935	ATP-dependent metalloprotease	1032	KP1_RS22835.fasta
+KP1_RS22840		4667203	630	ribosomal RNA large subunit methyltransferase E	253	KP1_RS22840.fasta
+KP1_RS22845		4667956	294	RNA-binding protein	125	KP1_RS22845.fasta
+KP1_RS22850		4668402	477	transcription elongation factor GreA	177	KP1_RS22850.fasta
+KP1_RS22855		4669114	1434	serine-type D-Ala-D-Ala carboxypeptidase	923	KP1_RS22855.fasta
+KP1_RS22865		4671793	966	membrane protein	552	KP1_RS22865.fasta
+KP1_RS22870		4672852	258	50S ribosomal protein L27	86	KP1_RS22870.fasta
+KP1_RS22875		4673130	312	50S ribosomal protein L21	98	KP1_RS22875.fasta
+KP1_RS22880		4673702	972	octaprenyl diphosphate synthase	455	KP1_RS22880.fasta
+KP1_RS22885		4674871	273	transcriptional regulator	143	KP1_RS22885.fasta
+KP1_RS22890		4675199	1260	UDP-N-acetylglucosamine 1-carboxyvinyltransferase	621	KP1_RS22890.fasta
+KP1_RS22895		4676512	255	hypothetical protein	125	KP1_RS22895.fasta
+KP1_RS22905		4677193	636	phospholipid-binding protein MlaC	299	KP1_RS22905.fasta
+KP1_RS22910		4677847	552	outer membrane lipid asymmetry maintenance protein MlaD	236	KP1_RS22910.fasta
+KP1_RS22915		4678403	783	ABC transporter permease	328	KP1_RS22915.fasta
+KP1_RS22920		4679193	813	organic solvent ABC transporter ATP-binding protein	348	KP1_RS22920.fasta
+KP1_RS22925		4680215	978	calcium/sodium antiporter	516	KP1_RS22925.fasta
+KP1_RS22930		4681207	987	D-arabinose 5-phosphate isomerase	494	KP1_RS22930.fasta
+KP1_RS22935		4682208	567	3-deoxy-D-manno-octulosonate 8-phosphate phosphatase	294	KP1_RS22935.fasta
+KP1_RS22940		4682771	576	LPS export ABC transporter periplasmic protein LptC	196	KP1_RS22940.fasta
+KP1_RS22950		4683867	726	ABC transporter ATP-binding protein	314	KP1_RS22950.fasta
+KP1_RS22955		4684640	1434	RNA polymerase sigma-54 factor	631	KP1_RS22955.fasta
+KP1_RS22960		4686096	288	ribosome hibernation promoting factor HPF	95	KP1_RS22960.fasta
+KP1_RS22965		4686454	489	PTS sugar transporter subunit IIA	212	KP1_RS22965.fasta
+KP1_RS22970		4686988	855	RNase adaptor protein RapZ	421	KP1_RS22970.fasta
+KP1_RS22975		4687839	273	phosphohistidinoprotein-hexose phosphotransferase	119	KP1_RS22975.fasta
+KP1_RS22980		4688175	726	monofunctional biosynthetic peptidoglycan transglycosylase	622	KP1_RS22980.fasta
+KP1_RS22985		4688897	654	glutamine amidotransferase	491	KP1_RS22985.fasta
+KP1_RS22990		4689784	2340	hybrid sensor histidine kinase/response regulator	1287	KP1_RS22990.fasta
+KP1_RS23020		4697674	4461	glutamate synthase large subunit	1788	KP1_RS23020.fasta
+KP1_RS23025		4702144	1419	glutamate synthase subunit beta	858	KP1_RS23025.fasta
+KP1_RS23035		4704446	495	stringent starvation protein B	320	KP1_RS23035.fasta
+KP1_RS23040	sspA	4704944	639	stringent starvation protein A	240	KP1_RS23040.fasta
+KP1_RS23045		4705894	393	30S ribosomal protein S9	169	KP1_RS23045.fasta
+KP1_RS23050		4706302	429	50S ribosomal protein L13	147	KP1_RS23050.fasta
+KP1_RS23055		4706996	1128	AFG1 family ATPase	734	KP1_RS23055.fasta
+KP1_RS23060		4708314	399	hypothetical protein	137	KP1_RS23060.fasta
+KP1_RS23065		4708886	1368	serine endoprotease DegQ	858	KP1_RS23065.fasta
+KP1_RS23070		4710341	1059	outer membrane-stress sensor serine endopeptidase DegS	769	KP1_RS23070.fasta
+KP1_RS23120		4720133	939	malate dehydrogenase	466	KP1_RS23120.fasta
+KP1_RS23125		4721486	471	arginine repressor	239	KP1_RS23125.fasta
+KP1_RS23130		4722332	264	membrane protein	134	KP1_RS23130.fasta
+KP1_RS23135		4722694	267	membrane protein	176	KP1_RS23135.fasta
+KP1_RS23150		4725339	933	hydroxybenzoic acid transporter	480	KP1_RS23150.fasta
+KP1_RS23155		4726279	204	protein AaeX	94	KP1_RS23155.fasta
+KP1_RS23160		4726614	930	transcriptional regulator	554	KP1_RS23160.fasta
+KP1_RS23170		4729113	3798	DUF3971 domain-containing protein	1834	KP1_RS23170.fasta
+KP1_RS23175		4732948	1470	ribonuclease G	637	KP1_RS23175.fasta
+KP1_RS23180		4734420	582	septum formation protein Maf	315	KP1_RS23180.fasta
+KP1_RS23185		4735009	489	rod shape-determining protein MreD	186	KP1_RS23185.fasta
+KP1_RS23190		4735497	993	rod shape-determining protein MreC	425	KP1_RS23190.fasta
+KP1_RS23195		4736560	1044	rod shape-determining protein	304	KP1_RS23195.fasta
+KP1_RS23200		4737909	1941	RNase E specificity factor CsrD	1046	KP1_RS23200.fasta
+KP1_RS23205		4739929	192	hypothetical protein	118	KP1_RS23205.fasta
+KP1_RS23215		4741350	609	sulfoxide reductase heme-binding subunit YedZ	454	KP1_RS23215.fasta
+KP1_RS23220		4742182	453	3-dehydroquinate dehydratase	253	KP1_RS23220.fasta
+KP1_RS23225		4742657	468	acetyl-CoA carboxylase biotin carboxyl carrier protein subunit	146	KP1_RS23225.fasta
+KP1_RS23230		4743135	1350	acetyl-CoA carboxylase biotin carboxylase subunit	783	KP1_RS23230.fasta
+KP1_RS23250		4747529	966	tRNA dihydrouridine synthase DusB	386	KP1_RS23250.fasta
+KP1_RS23255	fis	4748519	297	Fis family transcriptional regulator	112	KP1_RS23255.fasta
+KP1_RS23265		4749932	1140	MexX family efflux pump subunit	818	KP1_RS23265.fasta
+KP1_RS23305		4760688	555	gamma carbonic anhydrase family protein	320	KP1_RS23305.fasta
+KP1_RS23320		4762294	573	L-threonylcarbamoyladenylate synthase type 1 TsaC	299	KP1_RS23320.fasta
+KP1_RS23325		4762871	543	hypothetical protein	298	KP1_RS23325.fasta
+KP1_RS23335		4763885	1125	DNA-processing protein DprA	766	KP1_RS23335.fasta
+KP1_RS23340		4765138	510	peptide deformylase	249	KP1_RS23340.fasta
+KP1_RS23350		4766662	1296	16S rRNA m5C967 methyltransferase	827	KP1_RS23350.fasta
+KP1_RS23355		4767971	1377	Trk system potassium transport protein TrkA	664	KP1_RS23355.fasta
+KP1_RS23360		4769488	414	large-conductance mechanosensitive channel	197	KP1_RS23360.fasta
+KP1_RS23375		4771078	387	50S ribosomal protein L17	163	KP1_RS23375.fasta
+KP1_RS23380		4771505	990	DNA-directed RNA polymerase subunit alpha	328	KP1_RS23380.fasta
+KP1_RS23385		4772520	621	30S ribosomal protein S4	188	KP1_RS23385.fasta
+KP1_RS23390		4773174	390	30S ribosomal protein S11	142	KP1_RS23390.fasta
+KP1_RS23395		4773580	357	30S ribosomal protein S13	77	KP1_RS23395.fasta
+KP1_RS23400		4774233	1332	preprotein translocase subunit SecY	536	KP1_RS23400.fasta
+KP1_RS23405		4775572	435	50S ribosomal protein L15	226	KP1_RS23405.fasta
+KP1_RS23410		4776010	180	50S ribosomal protein L30	58	KP1_RS23410.fasta
+KP1_RS23415		4776193	504	30S ribosomal protein S5	178	KP1_RS23415.fasta
+KP1_RS23420		4776711	354	50S ribosomal protein L18	107	KP1_RS23420.fasta
+KP1_RS23425		4777074	534	50S ribosomal protein L6	192	KP1_RS23425.fasta
+KP1_RS23430		4777620	393	30S ribosomal protein S8	128	KP1_RS23430.fasta
+KP1_RS23435	rpsN	4778046	306	30S ribosomal protein S14	78	KP1_RS23435.fasta
+KP1_RS23440		4778366	540	50S ribosomal protein L5	159	KP1_RS23440.fasta
+KP1_RS23445		4778920	315	50S ribosomal protein L24	145	KP1_RS23445.fasta
+KP1_RS23450		4779245	372	50S ribosomal protein L14	73	KP1_RS23450.fasta
+KP1_RS23455		4779782	255	30S ribosomal protein S17	90	KP1_RS23455.fasta
+KP1_RS23460		4780036	192	50S ribosomal protein L29	65	KP1_RS23460.fasta
+KP1_RS23465		4780227	411	50S ribosomal protein L16	93	KP1_RS23465.fasta
+KP1_RS23470		4780650	699	30S ribosomal protein S3	238	KP1_RS23470.fasta
+KP1_RS23475		4781366	333	50S ribosomal protein L22	92	KP1_RS23475.fasta
+KP1_RS23480		4781713	279	30S ribosomal protein S19	56	KP1_RS23480.fasta
+KP1_RS23485		4782008	822	50S ribosomal protein L2	279	KP1_RS23485.fasta
+KP1_RS23490		4782847	303	50S ribosomal protein L23	103	KP1_RS23490.fasta
+KP1_RS23495		4783146	606	50S ribosomal protein L4	211	KP1_RS23495.fasta
+KP1_RS23500		4783762	630	50S ribosomal protein L3	232	KP1_RS23500.fasta
+KP1_RS23505		4784424	312	30S ribosomal protein S10	99	KP1_RS23505.fasta
+KP1_RS23520		4786138	195	bacterioferritin-associated ferredoxin	97	KP1_RS23520.fasta
+KP1_RS23530		4787767	2115	translation elongation factor G	779	KP1_RS23530.fasta
+KP1_RS23535		4789978	471	30S ribosomal protein S7	117	KP1_RS23535.fasta
+KP1_RS23545		4791044	288	sulfurtransferase TusB	165	KP1_RS23545.fasta
+KP1_RS23560		4792084	723	hypothetical protein	280	KP1_RS23560.fasta
+KP1_RS23565		4792975	831	peptidyl-prolyl cis-trans isomerase	483	KP1_RS23565.fasta
+KP1_RS23570		4794028	219	protein SlyX	131	KP1_RS23570.fasta
+KP1_RS23575		4794305	588	peptidyl-prolyl cis-trans isomerase	303	KP1_RS23575.fasta
+KP1_RS23580		4794986	201	hypothetical protein	111	KP1_RS23580.fasta
+KP1_RS23585		4795198	1806	glutathione-regulated potassium-efflux system protein KefB	1079	KP1_RS23585.fasta
+KP1_RS23595		4797727	1905	ABC transporter ATP-binding protein	1224	KP1_RS23595.fasta
+KP1_RS23605		4799835	1023	hydrolase	593	KP1_RS23605.fasta
+KP1_RS23610		4800854	219	hypothetical protein	99	KP1_RS23610.fasta
+KP1_RS23615		4801109	870	phosphoribulokinase	432	KP1_RS23615.fasta
+KP1_RS23620		4802033	405	hypothetical protein	178	KP1_RS23620.fasta
+KP1_RS23625		4802744	633	cAMP-activated global transcriptional regulator CRP	286	KP1_RS23625.fasta
+KP1_RS23640		4806807	564	glutamine amidotransferase	399	KP1_RS23640.fasta
+KP1_RS23645		4807403	603	cell filamentation protein Fic	436	KP1_RS23645.fasta
+KP1_RS23655		4808269	570	peptidyl-prolyl cis-trans isomerase	312	KP1_RS23655.fasta
+KP1_RS23660		4809115	1188	MFS transporter TsgA	662	KP1_RS23660.fasta
+KP1_RS23665		4810299	1323	cytosine deaminase	840	KP1_RS23665.fasta
+KP1_RS23675		4811860	2544	nitrite reductase large subunit	1388	KP1_RS23675.fasta
+KP1_RS23680	nirD	4814400	327	nitrite reductase small subunit	208	KP1_RS23680.fasta
+KP1_RS23685		4814880	1374	siroheme synthase	889	KP1_RS23685.fasta
+KP1_RS23690		4816326	1005	tryptophan--tRNA ligase	534	KP1_RS23690.fasta
+KP1_RS23700		4818077	678	ribulose-phosphate 3-epimerase	357	KP1_RS23700.fasta
+KP1_RS23705		4818772	828	DNA adenine methylase	349	KP1_RS23705.fasta
+KP1_RS23715		4821049	1095	3-dehydroquinate synthase	472	KP1_RS23715.fasta
+KP1_RS23720		4822199	522	shikimate kinase	154	KP1_RS23720.fasta
+KP1_RS23745		4826395	2565	carboxypeptidase/penicillin-binding protein 1A	1336	KP1_RS23745.fasta
+KP1_RS23750		4829013	561	ADP compounds hydrolase NudE	244	KP1_RS23750.fasta
+KP1_RS23755		4829894	2130	intracellular growth attenuator protein IgaA	1191	KP1_RS23755.fasta
+KP1_RS23760		4832084	684	GMP/IMP nucleotidase	376	KP1_RS23760.fasta
+KP1_RS23765		4832764	402	heat-shock protein Hsp15	227	KP1_RS23765.fasta
+KP1_RS23770		4833190	879	molecular chaperone Hsp33	510	KP1_RS23770.fasta
+KP1_RS23775		4834220	162	hypothetical protein	134	KP1_RS23775.fasta
+KP1_RS23780		4834429	1623	phosphoenolpyruvate carboxykinase (ATP)	943	KP1_RS23780.fasta
+KP1_RS23785		4836129	1356	two-component sensor histidine kinase	1071	KP1_RS23785.fasta
+KP1_RS23790		4837481	720	DNA-binding response regulator	457	KP1_RS23790.fasta
+KP1_RS23795		4838428	474	transcription elongation factor GreB	223	KP1_RS23795.fasta
+KP1_RS23810		4842000	2319	ferrous iron transporter B	1414	KP1_RS23810.fasta
+KP1_RS23815		4844328	240	ferrous iron transporter C	180	KP1_RS23815.fasta
+KP1_RS23820		4844656	270	hypothetical protein	154	KP1_RS23820.fasta
+KP1_RS23825		4845046	774	pimeloyl-[acyl-carrier protein] methyl ester esterase	611	KP1_RS23825.fasta
+KP1_RS23830		4845858	675	DNA utilization protein GntX	505	KP1_RS23830.fasta
+KP1_RS23835		4846591	576	Fe-S biogenesis protein NfuA	303	KP1_RS23835.fasta
+KP1_RS23840		4847503	1317	idonate transporter	800	KP1_RS23840.fasta
+KP1_RS23845		4848922	2094	4-alpha-glucanotransferase	1174	KP1_RS23845.fasta
+KP1_RS23850		4851026	2391	maltodextrin phosphorylase	1208	KP1_RS23850.fasta
+KP1_RS23855		4854041	2706	transcriptional regulator	1713	KP1_RS23855.fasta
+KP1_RS23860		4856762	759	transcriptional regulator	424	KP1_RS23860.fasta
+KP1_RS23865		4857570	831	rhomboid family intramembrane serine protease GlpG	497	KP1_RS23865.fasta
+KP1_RS23870		4858451	330	thiosulfate sulfurtransferase	167	KP1_RS23870.fasta
+KP1_RS23875		4858985	1509	glycerol-3-phosphate dehydrogenase	951	KP1_RS23875.fasta
+KP1_RS23880		4860583	2448	glycogen phosphorylase	1294	KP1_RS23880.fasta
+KP1_RS23885		4863048	1434	glycogen synthase	727	KP1_RS23885.fasta
+KP1_RS23890		4864481	1296	glucose-1-phosphate adenylyltransferase	714	KP1_RS23890.fasta
+KP1_RS23895		4865857	1977	glycogen debranching enzyme	1327	KP1_RS23895.fasta
+KP1_RS23900		4867830	2187	glycogen-branching enzyme	1281	KP1_RS23900.fasta
+KP1_RS23905		4870255	1107	aspartate-semialdehyde dehydrogenase	728	KP1_RS23905.fasta
+KP1_RS23915		4871824	1341	gluconate transporter	842	KP1_RS23915.fasta
+KP1_RS23920	gntK	4873164	531	gluconate kinase	207	KP1_RS23920.fasta
+KP1_RS23925		4873875	996	transcriptional regulator	619	KP1_RS23925.fasta
+KP1_RS23930		4874984	696	"quercetin 2,3-dioxygenase"	405	KP1_RS23930.fasta
+KP1_RS23935		4875801	1038	oxidoreductase	844	KP1_RS23935.fasta
+KP1_RS23950		4878562	1746	gamma-glutamyltransferase	1322	KP1_RS23950.fasta
+KP1_RS23960		4880775	741	glycerophosphoryl diester phosphodiesterase	675	KP1_RS23960.fasta
+KP1_RS23965	ugpC	4881512	1071	glycerol-3-phosphate ABC transporter ATP-binding protein	875	KP1_RS23965.fasta
+KP1_RS23970		4882584	846	glycerol-3-phosphate transporter membrane protein	685	KP1_RS23970.fasta
+KP1_RS23975		4883426	888	glycerol-3-phosphate transporter permease	740	KP1_RS23975.fasta
+KP1_RS23980		4884420	1317	sn-glycerol-3-phosphate ABC transporter substrate-binding protein	857	KP1_RS23980.fasta
+KP1_RS23995	livF	4886759	702	ABC transporter ATP-binding protein	553	KP1_RS23995.fasta
+KP1_RS24000		4887474	768	ABC transporter ATP-binding protein	551	KP1_RS24000.fasta
+KP1_RS24010		4889512	927	branched-chain amino acid ABC transporter permease LivH	658	KP1_RS24010.fasta
+KP1_RS24015		4890500	1110	branched chain amino acid ABC transporter substrate-binding protein	778	KP1_RS24015.fasta
+KP1_RS24020		4891641	144	hypothetical protein	117	KP1_RS24020.fasta
+KP1_RS24030		4892033	384	hypothetical protein	386	KP1_RS24030.fasta
+KP1_RS24035		4892685	1119	branched chain amino acid ABC transporter substrate-binding protein	821	KP1_RS24035.fasta
+KP1_RS24040		4894046	1245	amino acid permease	931	KP1_RS24040.fasta
+KP1_RS24045		4895438	1266	aspartate aminotransferase family protein	966	KP1_RS24045.fasta
+KP1_RS24050		4896822	1524	decarboxylase	1160	KP1_RS24050.fasta
+KP1_RS24055		4898398	855	RNA polymerase factor sigma-32	462	KP1_RS24055.fasta
+KP1_RS24075	rsmD	4902947	597	16S rRNA (guanine(966)-N(2))-methyltransferase	317	KP1_RS24075.fasta
+KP1_RS24085		4903822	360	hypothetical protein	280	KP1_RS24085.fasta
+KP1_RS24090		4904323	627	lysoplasmalogenase	416	KP1_RS24090.fasta
+KP1_RS24100		4907342	246	sulfurtransferase TusA	149	KP1_RS24100.fasta
+KP1_RS24105		4907794	666	hypothetical protein	370	KP1_RS24105.fasta
+KP1_RS24110		4908533	558	hypothetical protein	348	KP1_RS24110.fasta
+KP1_RS24115		4909091	1221	MFS transporter	1001	KP1_RS24115.fasta
+KP1_RS24120		4910445	1050	permease	740	KP1_RS24120.fasta
+KP1_RS24125		4911491	381	4-amino-4-deoxy-L-arabinose-phosphoundecaprenol flippase subunit ArnF	291	KP1_RS24125.fasta
+KP1_RS24130		4911871	339	4-amino-4-deoxy-L-arabinose-phosphoundecaprenol flippase subunit ArnE	184	KP1_RS24130.fasta
+KP1_RS24135		4912206	1656	4-amino-4-deoxy-L-arabinose lipid A transferase	1128	KP1_RS24135.fasta
+KP1_RS24140		4913861	903	4-deoxy-4-formamido-L-arabinose- phosphoundecaprenol deformylase ArnD	643	KP1_RS24140.fasta
+KP1_RS24145		4914760	1986	bifunctional UDP-glucuronic acid oxidase/UDP-4-amino-4-deoxy-L-arabinose formyltransferase	1244	KP1_RS24145.fasta
+KP1_RS24150		4916742	984	undecaprenyl-phosphate 4-deoxy-4-formamido-L-arabinose transferase	604	KP1_RS24150.fasta
+KP1_RS24155		4917727	1140	UDP-4-amino-4-deoxy-L-arabinose--oxoglutarate aminotransferase	797	KP1_RS24155.fasta
+KP1_RS24160		4919263	504	phenolic acid decarboxylase	290	KP1_RS24160.fasta
+KP1_RS24170		4920866	1569	"nickel ABC transporter, nickel/metallophore periplasmic binding protein"	1179	KP1_RS24170.fasta
+KP1_RS24175		4922434	945	nickel ABC transporter permease subunit NikB	779	KP1_RS24175.fasta
+KP1_RS24210		4927996	1194	membrane protein	862	KP1_RS24210.fasta
+KP1_RS24215		4929419	1497	anion permease	672	KP1_RS24215.fasta
+KP1_RS24220		4930971	336	universal stress protein B	109	KP1_RS24220.fasta
+KP1_RS24225		4931689	438	universal stress protein A	199	KP1_RS24225.fasta
+KP1_RS24230	tppB	4932383	1473	MFS transporter	1008	KP1_RS24230.fasta
+KP1_RS24235		4933983	753	16S rRNA (guanine(1516)-N(2))-methyltransferase	678	KP1_RS24235.fasta
+KP1_RS24240		4934743	2043	oligopeptidase A	1290	KP1_RS24240.fasta
+KP1_RS24245		4936968	1272	phosphoesterase PA-phosphatase	1087	KP1_RS24245.fasta
+KP1_RS24250		4938433	843	hypothetical protein	589	KP1_RS24250.fasta
+KP1_RS24255		4939348	1353	glutathione-disulfide reductase	896	KP1_RS24255.fasta
+KP1_RS24260		4940754	624	glutathione S-transferase	449	KP1_RS24260.fasta
+KP1_RS24275		4944611	534	N-acetyltransferase GCN5	549	KP1_RS24275.fasta
+KP1_RS24280		4945179	759	short-chain dehydrogenase	759	KP1_RS24280.fasta
+KP1_RS24285		4946057	900	LysR family transcriptional regulator	650	KP1_RS24285.fasta
+KP1_RS24290		4947063	1032	inner membrane protein YhjD	725	KP1_RS24290.fasta
+KP1_RS24295		4948366	1323	MFS transporter	785	KP1_RS24295.fasta
+KP1_RS24310		4951972	930	ketodeoxygluconokinase	609	KP1_RS24310.fasta
+KP1_RS24325		4956121	2007	phosphodiesterase	1320	KP1_RS24325.fasta
+KP1_RS24330		4958164	117	hypothetical protein	56	KP1_RS24330.fasta
+KP1_RS24335		4958370	3480	cellulose biosynthesis protein BcsC	1946	KP1_RS24335.fasta
+KP1_RS24425		4985495	984	dipeptide ABC transporter ATP-binding protein	637	KP1_RS24425.fasta
+KP1_RS24430		4986489	903	dipeptide ABC transporter permease DppC	665	KP1_RS24430.fasta
+KP1_RS24435		4987401	1020	dipeptide ABC transporter permease DppB	688	KP1_RS24435.fasta
+KP1_RS24440		4988555	1608	ABC transporter substrate-binding protein	881	KP1_RS24440.fasta
+KP1_RS24445		4990263	303	hypothetical protein	171	KP1_RS24445.fasta
+KP1_RS24470		4994109	1674	phosphoethanolamine transferase	835	KP1_RS24470.fasta
+KP1_RS24475		4996025	1206	MFS transporter	682	KP1_RS24475.fasta
+KP1_RS24485		4998259	582	DNA-3-methyladenine glycosylase I	393	KP1_RS24485.fasta
+KP1_RS24495		4999227	2331	biotin sulfoxide reductase	1446	KP1_RS24495.fasta
+KP1_RS24500		5001725	663	OmpA family lipoprotein	512	KP1_RS24500.fasta
+KP1_RS24510		5002491	1017	LacI family transcriptional regulator	600	KP1_RS24510.fasta
+KP1_RS24515		5003619	750	hypothetical protein	529	KP1_RS24515.fasta
+KP1_RS24520		5004372	936	2-dehydro-3-deoxygluconokinase	605	KP1_RS24520.fasta
+KP1_RS24525		5005412	1281	MFS transporter	726	KP1_RS24525.fasta
+KP1_RS24530		5006717	972	bifunctional glyoxylate/hydroxypyruvate reductase B	608	KP1_RS24530.fasta
+KP1_RS24535		5007797	711	hypothetical protein	310	KP1_RS24535.fasta
+KP1_RS24545		5010549	291	transcriptional regulator	187	KP1_RS24545.fasta
+KP1_RS24550		5011092	213	cold-shock protein	105	KP1_RS24550.fasta
+KP1_RS24560		5013322	153	protein pndA	178	KP1_RS24560.fasta
+KP1_RS24565		5013801	2070	glycine--tRNA ligase subunit beta	1160	KP1_RS24565.fasta
+KP1_RS24570		5015880	912	glycine--tRNA ligase subunit alpha	542	KP1_RS24570.fasta
+KP1_RS24575		5016919	279	membrane protein	167	KP1_RS24575.fasta
+KP1_RS24580		5017398	996	O-acetyltransferase	666	KP1_RS24580.fasta
+KP1_RS24600		5020985	1323	xylose isomerase	787	KP1_RS24600.fasta
+KP1_RS24610		5023873	1542	xylose ABC transporter ATP-binding protein	1006	KP1_RS24610.fasta
+KP1_RS24620		5026806	1179	XylR family transcriptional regulator	881	KP1_RS24620.fasta
+KP1_RS24625		5028023	819	hypothetical protein	414	KP1_RS24625.fasta
+KP1_RS24630		5029156	2034	alpha-amylase	1291	KP1_RS24630.fasta
+KP1_RS24635		5031360	1257	valine--pyruvate transaminase	722	KP1_RS24635.fasta
+KP1_RS24640		5032659	486	electron transporter	407	KP1_RS24640.fasta
+KP1_RS24645		5033389	1842	selenocysteine-specific translation factor	1437	KP1_RS24645.fasta
+KP1_RS24655		5036721	609	glutathione S-transferase	593	KP1_RS24655.fasta
+KP1_RS24660		5038297	1908	PTS mannitol transporter subunit IICBA	1123	KP1_RS24660.fasta
+KP1_RS24665		5040305	1149	mannitol-1-phosphate 5-dehydrogenase	759	KP1_RS24665.fasta
+KP1_RS24670	mtlR	5041450	600	mannitol operon repressor	270	KP1_RS24670.fasta
+KP1_RS24685		5043183	1656	L-lactate permease	1025	KP1_RS24685.fasta
+KP1_RS24690		5044835	774	transcriptional regulator LldR	431	KP1_RS24690.fasta
+KP1_RS24695	lldD	5045608	1185	alpha-hydroxy-acid oxidizing enzyme	843	KP1_RS24695.fasta
+KP1_RS24700		5046885	474	tRNA (uridine(34)/cytosine(34)/5- carboxymethylaminomethyluridine(34)-2'-O)- methyltransferase TrmL	374	KP1_RS24700.fasta
+KP1_RS24705		5047440	822	serine O-acetyltransferase	589	KP1_RS24705.fasta
+KP1_RS24710		5048335	1020	glycerol-3-phosphate dehydrogenase (NAD(P)(+))	614	KP1_RS24710.fasta
+KP1_RS24715		5049354	468	protein-export protein SecB	223	KP1_RS24715.fasta
+KP1_RS24720		5049882	252	glutaredoxin 3	119	KP1_RS24720.fasta
+KP1_RS24725		5050238	432	rhodanese-like domain-containing protein	191	KP1_RS24725.fasta
+KP1_RS24730		5050915	1545	"2,3-bisphosphoglycerate-independent phosphoglycerate mutase"	929	KP1_RS24730.fasta
+KP1_RS24735		5052469	1272	murein hydrolase activator EnvC	644	KP1_RS24735.fasta
+KP1_RS24740		5053744	948	hypothetical protein	647	KP1_RS24740.fasta
+KP1_RS24745		5054697	789	family 2 glycosyl transferase	590	KP1_RS24745.fasta
+KP1_RS24750		5055654	1026	L-threonine 3-dehydrogenase	691	KP1_RS24750.fasta
+KP1_RS24755		5056692	1194	glycine C-acetyltransferase	703	KP1_RS24755.fasta
+KP1_RS24760		5058099	933	ADP-L-glycero-D-mannoheptose-6-epimerase	504	KP1_RS24760.fasta
+KP1_RS24765		5059041	1059	ADP-heptose--LPS heptosyltransferase	773	KP1_RS24765.fasta
+KP1_RS24795		5065345	1077	putative lipopolysaccharide heptosyltransferase III	707	KP1_RS24795.fasta
+KP1_RS24805		5067548	1095	glycosyl transferase	823	KP1_RS24805.fasta
+KP1_RS24810		5068672	990	glycosyltransferase	616	KP1_RS24810.fasta
+KP1_RS24815		5069753	1275	3-deoxy-D-manno-octulosonic acid transferase	707	KP1_RS24815.fasta
+KP1_RS24820		5071027	777	LPS biosynthesis protein	405	KP1_RS24820.fasta
+KP1_RS24825		5071800	480	phosphopantetheine adenylyltransferase	252	KP1_RS24825.fasta
+KP1_RS24830		5072468	810	DNA-formamidopyrimidine glycosylase	607	KP1_RS24830.fasta
+KP1_RS24835		5073413	168	50S ribosomal protein L33	72	KP1_RS24835.fasta
+KP1_RS24840		5073601	237	50S ribosomal protein L28	74	KP1_RS24840.fasta
+KP1_RS24845		5074054	666	DNA repair protein RadC	490	KP1_RS24845.fasta
+KP1_RS24860		5076667	597	nucleoid occlusion factor SlmA	262	KP1_RS24860.fasta
+KP1_RS24870		5078491	642	orotate phosphoribosyltransferase	369	KP1_RS24870.fasta
+KP1_RS24875		5079243	717	ribonuclease PH	287	KP1_RS24875.fasta
+KP1_RS24905		5085348	864	hypothetical protein	479	KP1_RS24905.fasta
+KP1_RS24925		5088257	1251	chloride channel protein	993	KP1_RS24925.fasta
+KP1_RS24930		5089783	618	membrane protein	374	KP1_RS24930.fasta
+KP1_RS24940		5092341	624	guanylate kinase	238	KP1_RS24940.fasta
+KP1_RS24945		5093019	276	DNA-directed RNA polymerase subunit omega	124	KP1_RS24945.fasta
+KP1_RS24950		5093313	2121	"bifunctional GTP diphosphokinase/guanosine-3',5'-bis(diphosphate) 3'-diphosphatase"	1266	KP1_RS24950.fasta
+KP1_RS24955		5095438	690	tRNA (guanosine(18)-2'-O)-methyltransferase TrmH	440	KP1_RS24955.fasta
+KP1_RS24960		5096133	2082	ATP-dependent DNA helicase RecG	1322	KP1_RS24960.fasta
+KP1_RS24965		5098263	1011	"fructose-1,6-bisphosphatase, class II"	660	KP1_RS24965.fasta
+KP1_RS24970		5099424	747	ferredoxin--NADP(+) reductase	522	KP1_RS24970.fasta
+KP1_RS24975		5100171	429	DUF805 domain-containing protein	312	KP1_RS24975.fasta
+KP1_RS24980		5100712	603	hypothetical protein	394	KP1_RS24980.fasta
+KP1_RS24985		5101424	768	triose-phosphate isomerase	478	KP1_RS24985.fasta
+KP1_RS24995		5103653	765	CDP-diacylglycerol pyrophosphatase	601	KP1_RS24995.fasta
+KP1_RS25000		5104586	990	sulfate transporter subunit	723	KP1_RS25000.fasta
+KP1_RS25005		5105727	240	septal ring assembly protein ZapB	146	KP1_RS25005.fasta
+KP1_RS25010		5106415	852	aquaporin	355	KP1_RS25010.fasta
+KP1_RS25015		5107288	1512	glycerol kinase	876	KP1_RS25015.fasta
+KP1_RS25020		5108914	1203	sodium/glutamate symporter	740	KP1_RS25020.fasta
+KP1_RS25025		5110194	114	hypothetical protein	145	KP1_RS25025.fasta
+KP1_RS25040		5113894	1560	PTS glucose transporter subunit IIBC	1097	KP1_RS25040.fasta
+KP1_RS25090		5125297	468	hypothetical protein	454	KP1_RS25090.fasta
+KP1_RS25110		5128299	1050	zinc-binding dehydrogenase	993	KP1_RS25110.fasta
+KP1_RS25115		5129345	954	AraC family transcriptional regulator	771	KP1_RS25115.fasta
+KP1_RS25120		5130320	780	hypothetical protein	832	KP1_RS25120.fasta
+KP1_RS25130		5131815	855	membrane protein	625	KP1_RS25130.fasta
+KP1_RS25135		5132694	810	lipoprotein NlpA	667	KP1_RS25135.fasta
+KP1_RS25145		5134654	537	alkylhydroperoxidase	491	KP1_RS25145.fasta
+KP1_RS25150		5135211	471	hypothetical protein	441	KP1_RS25150.fasta
+KP1_RS25155		5135684	627	phosphatase	556	KP1_RS25155.fasta
+KP1_RS25160		5136406	915	LysR family transcriptional regulator	960	KP1_RS25160.fasta
+KP1_RS25170		5138891	648	TetR family transcriptional regulator	665	KP1_RS25170.fasta
+KP1_RS25175		5139917	417	blasticidin S-acetyltransferase	468	KP1_RS25175.fasta
+KP1_RS25185		5140384	123	hypothetical protein	122	KP1_RS25185.fasta
+KP1_RS25195		5140713	1125	MexE family multidrug efflux RND transporter periplasmic adaptor subunit	967	KP1_RS25195.fasta
+KP1_RS25205		5144948	1365	multidrug transporter	1108	KP1_RS25205.fasta
+KP1_RS25215		5147684	903	N-acetylmuramic acid 6-phosphate etherase	737	KP1_RS25215.fasta
+KP1_RS25225		5150196	903	membrane protein	669	KP1_RS25225.fasta
+KP1_RS25230		5151205	291	hypothetical protein	188	KP1_RS25230.fasta
+KP1_RS25275		5160344	315	PTS sugar transporter subunit IIB	188	KP1_RS25275.fasta
+KP1_RS25280		5160670	1323	PTS cellobiose transporter subunit IIC	843	KP1_RS25280.fasta
+KP1_RS25285		5162090	303	molecular chaperone TorD	225	KP1_RS25285.fasta
+KP1_RS25345		5173187	453	hypothetical protein	435	KP1_RS25345.fasta
+KP1_RS25350		5173776	1392	hexose phosphate transporter	1020	KP1_RS25350.fasta
+KP1_RS25355		5175313	1329	regulatory protein UhpC	1053	KP1_RS25355.fasta
+KP1_RS25365		5178152	594	DNA-binding response regulator	516	KP1_RS25365.fasta
+KP1_RS25370		5178896	288	acetolactate synthase isozyme 1 small subunit	236	KP1_RS25370.fasta
+KP1_RS25380		5181738	90	type I toxin-antitoxin system toxin TisB	35	KP1_RS25380.fasta
+KP1_RS25385		5181918	447	N-acetyltransferase GCN5	324	KP1_RS25385.fasta
+KP1_RS25390		5182433	834	membrane protein	716	KP1_RS25390.fasta
+KP1_RS25395	emrD	5183442	1185	MFS transporter	947	KP1_RS25395.fasta
+KP1_RS25400		5184786	924	DNA-binding transcriptional regulator DsdC	852	KP1_RS25400.fasta
+KP1_RS25410		5185935	1338	D-serine transporter DsdX	1052	KP1_RS25410.fasta
+KP1_RS25415		5187289	1329	D-serine dehydratase	1022	KP1_RS25415.fasta
+KP1_RS25425		5189118	363	membrane protein	317	KP1_RS25425.fasta
+KP1_RS25435		5189919	1323	6-phospho-alpha-glucosidase	909	KP1_RS25435.fasta
+KP1_RS25440		5191238	1623	PTS alpha-glucoside EIICB component	1124	KP1_RS25440.fasta
+KP1_RS25450		5193873	1662	transporter	1166	KP1_RS25450.fasta
+KP1_RS25460		5196597	429	heat-shock protein IbpB	261	KP1_RS25460.fasta
+KP1_RS25465		5197142	414	heat-shock protein IbpA	194	KP1_RS25465.fasta
+KP1_RS25470		5197870	333	hypothetical protein	144	KP1_RS25470.fasta
+KP1_RS25510		5205667	1062	hypothetical protein	868	KP1_RS25510.fasta
+KP1_RS25515		5206899	813	sugar-phosphatase	493	KP1_RS25515.fasta
+KP1_RS25520		5207913	2415	DNA gyrase subunit B	1231	KP1_RS25520.fasta
+KP1_RS25525		5210356	1074	DNA replication/repair protein RecF	747	KP1_RS25525.fasta
+KP1_RS25530		5211637	1101	DNA polymerase III subunit beta	661	KP1_RS25530.fasta
+KP1_RS25540		5214767	141	50S ribosomal protein L34	27	KP1_RS25540.fasta
+KP1_RS25545		5214959	198	hypothetical protein	76	KP1_RS25545.fasta
+KP1_RS25550		5215246	258	membrane protein insertion efficiency factor YidD	112	KP1_RS25550.fasta
+KP1_RS25555		5215506	1647	protein translocase component YidC	777	KP1_RS25555.fasta
+KP1_RS25560		5217275	1365	tRNA uridine-5-carboxymethylaminomethyl(34) synthesis GTPase MnmE	941	KP1_RS25560.fasta
+KP1_RS25565		5218759	420	N-acetyltransferase GCN5	353	KP1_RS25565.fasta
+KP1_RS25570		5219278	1179	multidrug transporter subunit MdtL	838	KP1_RS25570.fasta
+KP1_RS25585		5222312	567	hypothetical protein	373	KP1_RS25585.fasta
+KP1_RS25590		5222924	1338	adenine permease	782	KP1_RS25590.fasta
+KP1_RS25600		5224431	666	6-phosphogluconate phosphatase	442	KP1_RS25600.fasta
+KP1_RS25610		5225946	1167	hypothetical protein	856	KP1_RS25610.fasta
+KP1_RS25625		5229263	726	phosphate transport system regulator PhoU	429	KP1_RS25625.fasta
+KP1_RS25630		5230039	774	phosphate ABC transporter ATP-binding protein	422	KP1_RS25630.fasta
+KP1_RS25635		5230860	891	phosphate transporter permease subunit PtsA	504	KP1_RS25635.fasta
+KP1_RS25640		5231750	960	phosphate transporter permease subunit PstC	507	KP1_RS25640.fasta
+KP1_RS25645		5232838	1041	phosphate ABC transporter substrate-binding protein	626	KP1_RS25645.fasta
+KP1_RS25650		5234215	1830	glutamine--fructose-6-phosphate aminotransferase	1047	KP1_RS25650.fasta
+KP1_RS25655		5236228	1371	bifunctional N-acetylglucosamine-1-phosphate uridyltransferase/glucosamine-1-phosphate acetyltransferase	951	KP1_RS25655.fasta
+KP1_RS25675	atpC	5238295	420	ATP synthase epsilon chain	218	KP1_RS25675.fasta
+KP1_RS25680		5238735	1383	ATP synthase subunit beta	708	KP1_RS25680.fasta
+KP1_RS25685		5240144	864	ATP synthase subunit gamma	364	KP1_RS25685.fasta
+KP1_RS25690		5241058	1542	ATP synthase subunit alpha	771	KP1_RS25690.fasta
+KP1_RS25695		5242612	534	ATP synthase subunit delta	154	KP1_RS25695.fasta
+KP1_RS25700		5243160	471	ATP synthase subunit B	163	KP1_RS25700.fasta
+KP1_RS25705		5243681	240	ATP synthase subunit C	61	KP1_RS25705.fasta
+KP1_RS25710		5243970	816	ATP synthase subunit A	314	KP1_RS25710.fasta
+KP1_RS25715		5244793	381	F0F1 ATP synthase subunit I	197	KP1_RS25715.fasta
+KP1_RS25720	gidB	5245790	624	ribosomal RNA small subunit methyltransferase G	355	KP1_RS25720.fasta
+KP1_RS25725		5246529	1890	tRNA uridine-5-carboxymethylaminomethyl(34) synthesis enzyme MnmG	1124	KP1_RS25725.fasta
